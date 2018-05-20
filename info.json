@@ -1,0 +1,14 @@
+{
+    "arguments": [],
+    "clean_list_file": "clean.list",
+    "clean_original": "1",
+    "commit_autosave_message": "Test of yoyo.org hosts",
+    "currently_under_test": "0",
+    "days_until_next_test": "1",
+    "last_test": "0",
+    "list_name": "hosts.list",
+    "name": "yoyo.org hosts",
+    "ping": [],
+    "raw_link": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0",
+    "stable": "0"
+}
