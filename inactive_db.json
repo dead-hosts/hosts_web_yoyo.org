@@ -26,11 +26,11 @@
             "ivwbox.de",
             "mtrcs.samba.tv",
             "oewabox.at",
-            "quarterserver.de"
+            "quarterserver.de",
+            "touchclarity.natwest.com",
+            "track.dating-4-you.com"
         ],
         "to_test": [
-            "touchclarity.natwest.com",
-            "track.dating-4-you.com",
             "ad.pandora.tv"
         ]
     }
