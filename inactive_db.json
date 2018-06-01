@@ -5,12 +5,12 @@
             "ivwbox.de",
             "mtrcs.samba.tv",
             "oewabox.at",
-            "quarterserver.de"
-        ],
-        "to_test": [
+            "quarterserver.de",
             "siteverification.online",
             "touchclarity.natwest.com",
-            "track.dating-4-you.com",
+            "track.dating-4-you.com"
+        ],
+        "to_test": [
             "ad.pandora.tv",
             "adformdsp.net",
             "adimages.omroepzeeland.nl",
