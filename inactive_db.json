@@ -1,6 +1,17 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
-        "1527646402": [
+        "1527818774": [
+            "ioam.de",
+            "ivwbox.de",
+            "mtrcs.samba.tv",
+            "oewabox.at",
+            "quarterserver.de"
+        ],
+        "to_test": [
+            "siteverification.online",
+            "touchclarity.natwest.com",
+            "track.dating-4-you.com",
+            "ad.pandora.tv",
             "adformdsp.net",
             "adimages.omroepzeeland.nl",
             "ads.adultswim.com",
@@ -21,19 +32,8 @@
             "arc1.msn.com",
             "clients.tbo.com",
             "dmtracking.alibaba.com",
-            "dmtracking2.alibaba.com"
-        ],
-        "to_test": [
-            "go-clicks.de",
-            "ioam.de",
-            "ivwbox.de",
-            "mtrcs.samba.tv",
-            "oewabox.at",
-            "quarterserver.de",
-            "siteverification.online",
-            "touchclarity.natwest.com",
-            "track.dating-4-you.com",
-            "ad.pandora.tv"
+            "dmtracking2.alibaba.com",
+            "go-clicks.de"
         ]
     }
 }
