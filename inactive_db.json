@@ -1,10 +1,12 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
-        "1528337481": [
+        "1528510386": [
             "adimages.omroepzeeland.nl",
             "ads.adultswim.com",
             "ads.aol.com",
-            "ads.batpmturner.com",
+            "ads.batpmturner.com"
+        ],
+        "to_test": [
             "ads.larryaffiliates.com",
             "ads.newsquest.co.uk",
             "ads.saymedia.com",
@@ -29,9 +31,7 @@
             "quarterserver.de",
             "siteverification.online",
             "touchclarity.natwest.com",
-            "track.dating-4-you.com"
-        ],
-        "to_test": [
+            "track.dating-4-you.com",
             "ad.pandora.tv"
         ]
     }
