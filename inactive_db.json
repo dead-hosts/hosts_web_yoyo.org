@@ -22,15 +22,16 @@
             "dakic-ia-300.com",
             "dmtracking.alibaba.com",
             "dmtracking2.alibaba.com",
-            "go-clicks.de"
-        ],
-        "to_test": [
+            "go-clicks.de",
+            "indexww.com",
             "ioam.de",
             "ivwbox.de",
             "mtrcs.samba.tv",
             "oewabox.at",
             "quarterserver.de",
-            "siteverification.online",
+            "siteverification.online"
+        ],
+        "to_test": [
             "touchclarity.natwest.com",
             "track.dating-4-you.com",
             "ad.pandora.tv"
