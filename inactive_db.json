@@ -6,9 +6,7 @@
             "ads.adultswim.com",
             "ads.allvatar.com",
             "ads.aol.com",
-            "ads.batpmturner.com"
-        ],
-        "to_test": [
+            "ads.batpmturner.com",
             "ads.larryaffiliates.com",
             "ads.newsquest.co.uk",
             "ads.saymedia.com",
@@ -22,6 +20,10 @@
             "adworx.at",
             "aidu-ads.de",
             "arc1.msn.com",
+            "b.aol.com",
+            "b.engadget.com"
+        ],
+        "to_test": [
             "clients.tbo.com",
             "deloo.de",
             "dmtracking.alibaba.com",
