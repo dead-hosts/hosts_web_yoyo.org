@@ -28,14 +28,14 @@
             "dmtracking2.alibaba.com",
             "go-clicks.de",
             "ioam.de",
-            "ivwbox.de"
-        ],
-        "to_test": [
+            "ivwbox.de",
             "mtrcs.samba.tv",
             "oewabox.at",
             "openad.tf1.fr",
             "quarterserver.de",
-            "siteverification.online",
+            "siteverification.online"
+        ],
+        "to_test": [
             "touchclarity.natwest.com",
             "track.dating-4-you.com",
             "ad.eurosport.com"
