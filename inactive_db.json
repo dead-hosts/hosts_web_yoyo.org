@@ -33,11 +33,11 @@
             "openad.tf1.fr",
             "quarterserver.de",
             "ranking-charts.de",
-            "siteverification.online"
+            "siteverification.online",
+            "touchclarity.natwest.com",
+            "track.dating-4-you.com"
         ],
         "to_test": [
-            "touchclarity.natwest.com",
-            "track.dating-4-you.com",
             "ad.eurosport.com"
         ]
     }
