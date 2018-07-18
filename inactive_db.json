@@ -6,14 +6,14 @@
             "ads.adultswim.com",
             "ads.aol.com",
             "ads.batpmturner.com",
-            "ads.gamecity.net"
-        ],
-        "to_test": [
+            "ads.gamecity.net",
             "ads.larryaffiliates.com",
             "ads.newsquest.co.uk",
             "ads.saymedia.com",
             "ads.sift.co.uk",
             "ads.trinitymirror.co.uk",
+            "ads2.gamecity.net",
+            "ads3.gamecity.net",
             "Adsatt.ABCNews.starwave.com",
             "Adsatt.go.starwave.com",
             "adserver.omroepzeeland.nl",
@@ -23,7 +23,9 @@
             "aidu-ads.de",
             "arc1.msn.com",
             "b.aol.com",
-            "b.engadget.com",
+            "b.engadget.com"
+        ],
+        "to_test": [
             "clients.tbo.com",
             "dmtracking.alibaba.com",
             "dmtracking2.alibaba.com",
