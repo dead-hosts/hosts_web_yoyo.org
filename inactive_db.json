@@ -27,9 +27,7 @@
             "dmtracking2.alibaba.com",
             "go-clicks.de",
             "ioam.de",
-            "ivwbox.de"
-        ],
-        "to_test": [
+            "ivwbox.de",
             "lacerta.space",
             "mtrcs.samba.tv",
             "oewabox.at",
@@ -37,7 +35,9 @@
             "quarterserver.de",
             "ranking-charts.de",
             "record.affiliates.karjalakasino.com",
-            "siteverification.online",
+            "siteverification.online"
+        ],
+        "to_test": [
             "touchclarity.natwest.com",
             "track.dating-4-you.com",
             "ad.eurosport.com"
