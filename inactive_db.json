@@ -36,11 +36,11 @@
             "quarterserver.de",
             "ranking-charts.de",
             "record.affiliates.karjalakasino.com",
-            "siteverification.online"
+            "siteverification.online",
+            "touchclarity.natwest.com",
+            "track.dating-4-you.com"
         ],
         "to_test": [
-            "touchclarity.natwest.com",
-            "track.dating-4-you.com",
             "ad.eurosport.com"
         ]
     }
