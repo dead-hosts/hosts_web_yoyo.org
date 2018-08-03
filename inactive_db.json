@@ -43,8 +43,6 @@
             "touchclarity.natwest.com",
             "track.dating-4-you.com"
         ],
-        "to_test": [
-            "absoluteclickscom.com"
-        ]
+        "to_test": []
     }
 }
