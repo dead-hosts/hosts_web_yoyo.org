@@ -1,14 +1,15 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
-        "1533263867": [
-            "ad.choiceradio.com",
+        "1533436690": [
             "ad.eurosport.com",
             "ad.f1cd.ru",
             "ad.pandora.tv",
             "adimages.omroepzeeland.nl",
             "ads.adultswim.com",
             "ads.aol.com",
-            "ads.batpmturner.com",
+            "ads.batpmturner.com"
+        ],
+        "to_test": [
             "ads.larryaffiliates.com",
             "ads.newsquest.co.uk",
             "ads.saymedia.com",
@@ -42,8 +43,8 @@
             "siteverification.online",
             "touchclarity.natwest.com",
             "track.dating-4-you.com",
-            "webtrends.telegraph.co.uk"
-        ],
-        "to_test": []
+            "webtrends.telegraph.co.uk",
+            "ad.choiceradio.com"
+        ]
     }
 }
