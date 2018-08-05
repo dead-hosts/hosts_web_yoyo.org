@@ -30,9 +30,7 @@
             "go-clicks.de",
             "ioam.de",
             "ivwbox.de",
-            "lacerta.space"
-        ],
-        "to_test": [
+            "lacerta.space",
             "m4n.nl",
             "mtrcs.samba.tv",
             "oewabox.at",
@@ -40,7 +38,9 @@
             "quarterserver.de",
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
-            "siteverification.online",
+            "siteverification.online"
+        ],
+        "to_test": [
             "touchclarity.natwest.com",
             "track.dating-4-you.com",
             "webtrends.telegraph.co.uk",
