@@ -39,12 +39,12 @@
             "quarterserver.de",
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
-            "siteverification.online"
-        ],
-        "to_test": [
+            "siteverification.online",
             "touchclarity.natwest.com",
             "track.dating-4-you.com",
-            "webtrends.telegraph.co.uk",
+            "webtrends.telegraph.co.uk"
+        ],
+        "to_test": [
             "ad.choiceradio.com"
         ]
     }
