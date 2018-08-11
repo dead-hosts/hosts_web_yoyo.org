@@ -17,9 +17,7 @@
             "ads.trinitymirror.co.uk",
             "Adsatt.ABCNews.starwave.com",
             "Adsatt.go.starwave.com",
-            "adserver.omroepzeeland.nl"
-        ],
-        "to_test": [
+            "adserver.omroepzeeland.nl",
             "adsrv.eacdn.com",
             "adtrading.de",
             "adworx.at",
@@ -29,7 +27,9 @@
             "b.engadget.com",
             "clients.tbo.com",
             "dmtracking.alibaba.com",
-            "dmtracking2.alibaba.com",
+            "dmtracking2.alibaba.com"
+        ],
+        "to_test": [
             "go-clicks.de",
             "ioam.de",
             "ivwbox.de",
