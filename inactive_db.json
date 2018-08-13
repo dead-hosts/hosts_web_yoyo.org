@@ -46,13 +46,13 @@
             "record.bonniergaming.com",
             "redirectvoluum.com",
             "rockabox.co",
-            "ru4.com"
-        ],
-        "to_test": [
+            "ru4.com",
             "siteverification.online",
             "touchclarity.natwest.com",
             "track.dating-4-you.com",
-            "webtrends.telegraph.co.uk",
+            "webtrends.telegraph.co.uk"
+        ],
+        "to_test": [
             "ad.choiceradio.com"
         ]
     }
