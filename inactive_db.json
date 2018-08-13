@@ -27,9 +27,7 @@
             "b.engadget.com",
             "cjbmanagement.com",
             "clients.tbo.com",
-            "confirmed-profits.com"
-        ],
-        "to_test": [
+            "confirmed-profits.com",
             "dmtracking.alibaba.com",
             "dmtracking2.alibaba.com",
             "go-clicks.de",
@@ -39,7 +37,9 @@
             "m4n.nl",
             "mtrcs.samba.tv",
             "oewabox.at",
-            "openad.tf1.fr",
+            "openad.tf1.fr"
+        ],
+        "to_test": [
             "quarterserver.de",
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
