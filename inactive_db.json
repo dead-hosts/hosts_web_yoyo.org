@@ -24,9 +24,7 @@
             "aidu-ads.de",
             "arc1.msn.com",
             "b.aol.com",
-            "b.engadget.com"
-        ],
-        "to_test": [
+            "b.engadget.com",
             "clients.tbo.com",
             "dmtracking.alibaba.com",
             "dmtracking2.alibaba.com",
@@ -34,7 +32,9 @@
             "ioam.de",
             "ivwbox.de",
             "lacerta.space",
-            "logs.logrocket.com",
+            "logs.logrocket.com"
+        ],
+        "to_test": [
             "m4n.nl",
             "mtrcs.samba.tv",
             "oewabox.at",
