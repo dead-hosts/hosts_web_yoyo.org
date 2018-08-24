@@ -7,10 +7,7 @@
             "adimages.omroepzeeland.nl",
             "ads.adultswim.com",
             "ads.aol.com",
-            "ads.batpmturner.com"
-        ],
-        "to_test": [
-            "ads.larryaffiliates.com",
+            "ads.batpmturner.com",
             "ads.newsquest.co.uk",
             "ads.penny-arcade.com",
             "ads.saymedia.com",
@@ -26,7 +23,10 @@
             "aidu-ads.de",
             "arc1.msn.com",
             "b.aol.com",
-            "b.engadget.com",
+            "b.engadget.com"
+        ],
+        "to_test": [
+            "ads.larryaffiliates.com",
             "clients.tbo.com",
             "dmtracking.alibaba.com",
             "dmtracking2.alibaba.com",
