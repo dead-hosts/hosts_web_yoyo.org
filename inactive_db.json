@@ -32,10 +32,7 @@
             "dmtracking2.alibaba.com",
             "go-clicks.de",
             "ioam.de",
-            "ivwbox.de"
-        ],
-        "to_test": [
-            "lacerta.space",
+            "ivwbox.de",
             "logs.logrocket.com",
             "m4n.nl",
             "mtrcs.samba.tv",
@@ -45,7 +42,10 @@
             "ranking-street.de",
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
-            "siteverification.online",
+            "siteverification.online"
+        ],
+        "to_test": [
+            "lacerta.space",
             "sx.trhnt.com",
             "touchclarity.natwest.com",
             "track.dating-4-you.com",
