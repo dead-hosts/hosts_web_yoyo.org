@@ -34,20 +34,21 @@
             "go-clicks.de",
             "ioam.de",
             "ivwbox.de",
-            "lacerta.space"
-        ],
-        "to_test": [
+            "lacerta.space",
             "logs.logrocket.com",
             "m4n.nl",
             "mtrcs.samba.tv",
             "oewabox.at",
             "openad.tf1.fr",
+            "pgl.example",
             "quarterserver.de",
             "ranking-street.de",
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
             "siteverification.online",
-            "sx.trhnt.com",
+            "sx.trhnt.com"
+        ],
+        "to_test": [
             "touchclarity.natwest.com",
             "track.dating-4-you.com",
             "vutzmxahqio.co",
