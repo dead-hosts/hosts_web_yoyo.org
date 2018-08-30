@@ -46,13 +46,12 @@
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
             "siteverification.online",
-            "sx.trhnt.com"
-        ],
-        "to_test": [
+            "sx.trhnt.com",
             "touchclarity.natwest.com",
             "track.dating-4-you.com",
             "vutzmxahqio.co",
             "webtrends.telegraph.co.uk"
-        ]
+        ],
+        "to_test": []
     }
 }
