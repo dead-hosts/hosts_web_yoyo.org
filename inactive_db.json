@@ -34,10 +34,7 @@
             "dmtracking.alibaba.com",
             "dmtracking2.alibaba.com",
             "go-clicks.de",
-            "ioam.de"
-        ],
-        "to_test": [
-            "ivwbox.de",
+            "ioam.de",
             "lacerta.space",
             "logs.logrocket.com",
             "m4n.nl",
@@ -45,11 +42,15 @@
             "oewabox.at",
             "openad.tf1.fr",
             "pgl.example",
+            "pgl.example0101",
             "quarterserver.de",
             "ranking-street.de",
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
-            "siteverification.online",
+            "siteverification.online"
+        ],
+        "to_test": [
+            "ivwbox.de",
             "sx.trhnt.com",
             "touchclarity.natwest.com",
             "track.dating-4-you.com",
