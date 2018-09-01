@@ -9,15 +9,14 @@
             "ads.adultswim.com",
             "ads.allvatar.com",
             "ads.aol.com",
-            "ads.batpmturner.com"
-        ],
-        "to_test": [
+            "ads.batpmturner.com",
             "ads.larryaffiliates.com",
             "ads.newsquest.co.uk",
             "ads.penny-arcade.com",
             "ads.saymedia.com",
             "ads.sift.co.uk",
             "ads.telegraph.co.uk",
+            "ads.toplayaffiliates.com",
             "ads.trinitymirror.co.uk",
             "Adsatt.ABCNews.starwave.com",
             "Adsatt.go.starwave.com",
@@ -29,7 +28,9 @@
             "aidu-ads.de",
             "arc1.msn.com",
             "b.aol.com",
-            "b.engadget.com",
+            "b.engadget.com"
+        ],
+        "to_test": [
             "clients.tbo.com",
             "dmtracking.alibaba.com",
             "dmtracking2.alibaba.com",
