@@ -28,16 +28,16 @@
             "aidu-ads.de",
             "arc1.msn.com",
             "b.aol.com",
-            "b.engadget.com"
-        ],
-        "to_test": [
-            "bannercommunity.de",
+            "b.engadget.com",
             "clients.tbo.com",
             "dmtracking.alibaba.com",
             "dmtracking2.alibaba.com",
             "go-clicks.de",
             "ioam.de",
-            "ivwbox.de",
+            "ivwbox.de"
+        ],
+        "to_test": [
+            "bannercommunity.de",
             "lacerta.space",
             "logs.logrocket.com",
             "m4n.nl",
