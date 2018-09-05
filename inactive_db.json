@@ -33,11 +33,7 @@
             "clients.tbo.com",
             "dmtracking.alibaba.com",
             "dmtracking2.alibaba.com",
-            "ioam.de"
-        ],
-        "to_test": [
-            "bannercommunity.de",
-            "ivwbox.de",
+            "ioam.de",
             "lacerta.space",
             "logs.logrocket.com",
             "m4n.nl",
@@ -50,7 +46,11 @@
             "ranking-street.de",
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
-            "siteverification.online",
+            "siteverification.online"
+        ],
+        "to_test": [
+            "bannercommunity.de",
+            "ivwbox.de",
             "sx.trhnt.com",
             "touchclarity.natwest.com",
             "track.dating-4-you.com",
