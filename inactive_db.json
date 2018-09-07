@@ -30,16 +30,11 @@
             "click.absoluteagency.com",
             "clients.tbo.com",
             "dmtracking.alibaba.com",
-            "dmtracking2.alibaba.com"
-        ],
-        "to_test": [
-            "b.aol.com",
-            "b.engadget.com",
+            "dmtracking2.alibaba.com",
             "ioam.de",
             "ivwbox.de",
             "lacerta.space",
             "logs.logrocket.com",
-            "m4n.nl",
             "mtrcs.samba.tv",
             "oewabox.at",
             "openad.tf1.fr",
@@ -48,7 +43,11 @@
             "quarterserver.de",
             "ranking-street.de",
             "record.affiliates.karjalakasino.com",
-            "record.bonniergaming.com",
+            "record.bonniergaming.com"
+        ],
+        "to_test": [
+            "b.aol.com",
+            "b.engadget.com",
             "siteverification.online",
             "sx.trhnt.com",
             "touchclarity.natwest.com",
