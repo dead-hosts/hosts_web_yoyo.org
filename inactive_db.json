@@ -44,14 +44,15 @@
             "ranking-street.de",
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
-            "siteverification.online"
-        ],
-        "to_test": [
-            "sx.trhnt.com",
+            "siteverification.online",
             "touchclarity.natwest.com",
             "track.dating-4-you.com",
             "vutzmxahqio.co",
-            "webtrends.telegraph.co.uk"
+            "webtrends.telegraph.co.uk",
+            "www-banner.chat.ru"
+        ],
+        "to_test": [
+            "sx.trhnt.com"
         ]
     }
 }
