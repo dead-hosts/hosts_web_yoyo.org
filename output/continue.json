@@ -1,8 +1,8 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
-        "down": 9,
-        "invalid": 0,
-        "tested": 494,
-        "up": 485
+        "down": 26,
+        "invalid": 2,
+        "tested": 992,
+        "up": 964
     }
 }
