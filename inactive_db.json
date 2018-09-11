@@ -33,10 +33,7 @@
             "Adsatt.go.starwave.com",
             "ioam.de",
             "ivwbox.de",
-            "lacerta.space"
-        ],
-        "to_test": [
-            "logs.logrocket.com",
+            "lacerta.space",
             "mtrcs.samba.tv",
             "oewabox.at",
             "openad.tf1.fr",
@@ -47,7 +44,10 @@
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
             "siteverification.online",
-            "sx.trhnt.com",
+            "sx.trhnt.com"
+        ],
+        "to_test": [
+            "logs.logrocket.com",
             "touchclarity.natwest.com",
             "track.dating-4-you.com",
             "vutzmxahqio.co",
