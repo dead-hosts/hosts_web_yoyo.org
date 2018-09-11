@@ -1,14 +1,17 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
-        "1536461671": [
+        "1536702350": [
             "ad.choiceradio.com",
             "ad.eurosport.com",
             "ad.f1cd.ru",
-            "ad.pandora.tv",
             "adimages.omroepzeeland.nl",
+            "ad.pandora.tv",
             "ads.adultswim.com",
             "ads.aol.com",
             "ads.batpmturner.com",
+            "adserver.omroepzeeland.nl"
+        ],
+        "to_test": [
             "ads.larryaffiliates.com",
             "ads.newsquest.co.uk",
             "ads.penny-arcade.com",
@@ -19,7 +22,6 @@
             "ads.trinitymirror.co.uk",
             "Adsatt.ABCNews.starwave.com",
             "Adsatt.go.starwave.com",
-            "adserver.omroepzeeland.nl",
             "adsremote.scrippsnetworks.com",
             "adsrv.eacdn.com",
             "adtrading.de",
@@ -45,14 +47,12 @@
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
             "siteverification.online",
+            "sx.trhnt.com",
             "touchclarity.natwest.com",
             "track.dating-4-you.com",
             "vutzmxahqio.co",
             "webtrends.telegraph.co.uk",
             "www-banner.chat.ru"
-        ],
-        "to_test": [
-            "sx.trhnt.com"
         ]
     }
 }
