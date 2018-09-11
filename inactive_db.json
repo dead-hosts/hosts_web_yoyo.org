@@ -44,15 +44,14 @@
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
             "siteverification.online",
-            "sx.trhnt.com"
-        ],
-        "to_test": [
-            "logs.logrocket.com",
+            "sx.trhnt.com",
             "touchclarity.natwest.com",
             "track.dating-4-you.com",
             "vutzmxahqio.co",
-            "webtrends.telegraph.co.uk",
-            "www-banner.chat.ru"
+            "webtrends.telegraph.co.uk"
+        ],
+        "to_test": [
+            "logs.logrocket.com"
         ]
     }
 }
