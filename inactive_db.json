@@ -30,14 +30,12 @@
             "dmtracking.alibaba.com",
             "Adsatt.ABCNews.starwave.com",
             "Adsatt.go.starwave.com",
-            "dyntrk.com"
-        ],
-        "to_test": [
-            "adserver.omroepzeeland.nl",
+            "dyntrk.com",
             "ioam.de",
             "ivwbox.de",
             "lacerta.space",
             "logs.logrocket.com",
+            "mediadvertising.ro",
             "mtrcs.samba.tv",
             "oewabox.at",
             "openad.tf1.fr",
@@ -47,7 +45,10 @@
             "ranking-street.de",
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
-            "siteverification.online",
+            "siteverification.online"
+        ],
+        "to_test": [
+            "adserver.omroepzeeland.nl",
             "sx.trhnt.com",
             "touchclarity.natwest.com",
             "track.dating-4-you.com",
