@@ -30,10 +30,7 @@
             "dmtracking2.alibaba.com",
             "dmtracking.alibaba.com",
             "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com"
-        ],
-        "to_test": [
-            "adserver.omroepzeeland.nl",
+            "Adsatt.go.starwave.com",
             "ioam.de",
             "ivwbox.de",
             "lacerta.space",
@@ -48,7 +45,10 @@
             "ranking-street.de",
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
-            "siteverification.online",
+            "siteverification.online"
+        ],
+        "to_test": [
+            "adserver.omroepzeeland.nl",
             "sx.trhnt.com",
             "touchclarity.natwest.com",
             "track.dating-4-you.com",
