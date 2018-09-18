@@ -31,13 +31,9 @@
             "dmtracking.alibaba.com",
             "Adsatt.ABCNews.starwave.com",
             "Adsatt.go.starwave.com",
-            "ioam.de"
-        ],
-        "to_test": [
-            "ivwbox.de",
+            "ioam.de",
             "lacerta.space",
             "logs.logrocket.com",
-            "mediadvertising.ro",
             "mtrcs.samba.tv",
             "oewabox.at",
             "openad.tf1.fr",
@@ -47,7 +43,10 @@
             "ranking-street.de",
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
-            "siteverification.online",
+            "siteverification.online"
+        ],
+        "to_test": [
+            "ivwbox.de",
             "sx.trhnt.com",
             "touchclarity.natwest.com",
             "track.dating-4-you.com",
