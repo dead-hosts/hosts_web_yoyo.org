@@ -45,15 +45,15 @@
             "quarterserver.de",
             "ranking-street.de",
             "record.affiliates.karjalakasino.com",
-            "record.bonniergaming.com"
-        ],
-        "to_test": [
+            "record.bonniergaming.com",
             "siteverification.online",
             "sx.trhnt.com",
-            "t.pusk.ru",
+            "top123.ro",
             "touchclarity.natwest.com",
+            "t.pusk.ru",
             "vutzmxahqio.co",
             "webtrends.telegraph.co.uk"
-        ]
+        ],
+        "to_test": []
     }
 }
