@@ -32,13 +32,12 @@
             "dmtracking2.alibaba.com",
             "dmtracking.alibaba.com",
             "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com"
-        ],
-        "to_test": [
+            "Adsatt.go.starwave.com",
             "ioam.de",
             "ivwbox.de",
             "lacerta.space",
             "logs.logrocket.com",
+            "media.ftv-publicite.fr",
             "mtrcs.samba.tv",
             "oewabox.at",
             "openad.tf1.fr",
@@ -47,7 +46,9 @@
             "quarterserver.de",
             "ranking-street.de",
             "record.affiliates.karjalakasino.com",
-            "record.bonniergaming.com",
+            "record.bonniergaming.com"
+        ],
+        "to_test": [
             "siteverification.online",
             "sx.trhnt.com",
             "t.pusk.ru",
