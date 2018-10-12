@@ -43,15 +43,14 @@
             "quarterserver.de",
             "ranking-street.de",
             "record.affiliates.karjalakasino.com",
-            "record.bonniergaming.com"
-        ],
-        "to_test": [
-            "spywarenuker.com",
+            "record.bonniergaming.com",
             "sx.trhnt.com",
-            "t.pusk.ru",
             "touchclarity.natwest.com",
+            "t.pusk.ru",
             "vutzmxahqio.co",
+            "webcounter.goweb.de",
             "webtrends.telegraph.co.uk"
-        ]
+        ],
+        "to_test": []
     }
 }
