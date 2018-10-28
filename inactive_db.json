@@ -53,11 +53,11 @@
             "sx.trhnt.com",
             "touchclarity.natwest.com",
             "t.pusk.ru",
-            "vutzmxahqio.co"
+            "vutzmxahqio.co",
+            "webtrends.telegraph.co.uk"
         ],
         "to_test": [
-            "click.absoluteagency.com",
-            "webtrends.telegraph.co.uk"
+            "click.absoluteagency.com"
         ]
     }
 }
