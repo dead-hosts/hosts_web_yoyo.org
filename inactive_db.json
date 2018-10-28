@@ -40,10 +40,7 @@
             "lacerta.space",
             "logs.logrocket.com",
             "media.ftv-publicite.fr",
-            "mtrcs.samba.tv"
-        ],
-        "to_test": [
-            "click.absoluteagency.com",
+            "mtrcs.samba.tv",
             "oewabox.at",
             "openad.tf1.fr",
             "pgl.example",
@@ -52,10 +49,14 @@
             "ranking-street.de",
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
+            "reklamer.com.ua",
             "sx.trhnt.com",
-            "t.pusk.ru",
             "touchclarity.natwest.com",
-            "vutzmxahqio.co",
+            "t.pusk.ru",
+            "vutzmxahqio.co"
+        ],
+        "to_test": [
+            "click.absoluteagency.com",
             "webtrends.telegraph.co.uk"
         ]
     }
