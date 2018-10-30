@@ -47,17 +47,18 @@
             "pgl.example",
             "pgl.example0101",
             "quarterserver.de",
-            "ranking-street.de"
+            "ranking-street.de",
+            "sx.trhnt.com",
+            "topping.com.ua",
+            "touchclarity.natwest.com",
+            "t.pusk.ru",
+            "vutzmxahqio.co",
+            "webtrends.telegraph.co.uk"
         ],
         "to_test": [
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
-            "reklamer.com.ua",
-            "sx.trhnt.com",
-            "t.pusk.ru",
-            "touchclarity.natwest.com",
-            "vutzmxahqio.co",
-            "webtrends.telegraph.co.uk"
+            "reklamer.com.ua"
         ]
     }
 }

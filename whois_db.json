@@ -5793,7 +5793,7 @@
         "socialspark.com": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "sonobi.com": {
             "epoch": "1606608000",
@@ -6160,6 +6160,11 @@
             "expiration_date": "16-apr-2019",
             "state": "future"
         },
+        "thebugs.ws": {
+            "epoch": "1551657600",
+            "expiration_date": "04-mar-2019",
+            "state": "future"
+        },
         "therapistla.com": {
             "epoch": "1544918400",
             "expiration_date": "16-dec-2018",
@@ -6225,15 +6230,20 @@
             "expiration_date": "07-jul-2019",
             "state": "future"
         },
+        "top123.ro": {
+            "epoch": "1569196800",
+            "expiration_date": "23-sep-2019",
+            "state": "future"
+        },
         "top20free.com": {
             "epoch": "1560816000",
             "expiration_date": "18-jun-2019",
             "state": "future"
         },
         "topbucks.com": {
-            "epoch": "1540598400",
-            "expiration_date": "27-oct-2018",
-            "state": "past"
+            "epoch": "1572134400",
+            "expiration_date": "27-oct-2019",
+            "state": "future"
         },
         "topforall.com": {
             "epoch": "1576886400",
@@ -6725,14 +6735,44 @@
             "expiration_date": "06-feb-2019",
             "state": "future"
         },
+        "warlog.ru": {
+            "epoch": "1577232000",
+            "expiration_date": "25-dec-2019",
+            "state": "future"
+        },
+        "watchingthat.com": {
+            "epoch": "1584835200",
+            "expiration_date": "22-mar-2020",
+            "state": "future"
+        },
         "web-stat.com": {
             "epoch": "1612742400",
             "expiration_date": "08-feb-2021",
             "state": "future"
         },
+        "webangel.ru": {
+            "epoch": "1548115200",
+            "expiration_date": "22-jan-2019",
+            "state": "future"
+        },
+        "webgains.com": {
+            "epoch": "1559952000",
+            "expiration_date": "08-jun-2019",
+            "state": "future"
+        },
+        "webmasterplan.com": {
+            "epoch": "1568592000",
+            "expiration_date": "16-sep-2019",
+            "state": "future"
+        },
         "weborama.fr": {
             "epoch": "1572393600",
             "expiration_date": "30-oct-2019",
+            "state": "future"
+        },
+        "webpower.com": {
+            "epoch": "1659052800",
+            "expiration_date": "29-jul-2022",
             "state": "future"
         },
         "webreseau.com": {
@@ -6758,6 +6798,11 @@
         "webstat.net": {
             "epoch": "1571356800",
             "expiration_date": "18-oct-2019",
+            "state": "future"
+        },
+        "webstats4u.com": {
+            "epoch": "1558569600",
+            "expiration_date": "23-may-2019",
             "state": "future"
         },
         "webtrackerplus.com": {
