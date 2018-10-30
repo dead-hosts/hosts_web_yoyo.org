@@ -3381,9 +3381,9 @@
             "state": "future"
         },
         "hitlounge.com": {
-            "epoch": "1540598400",
-            "expiration_date": "27-oct-2018",
-            "state": "past"
+            "epoch": "1572134400",
+            "expiration_date": "27-oct-2019",
+            "state": "future"
         },
         "hitometer.com": {
             "epoch": "1549065600",
@@ -3758,7 +3758,7 @@
         "justrelevant.com": {
             "epoch": "1540771200",
             "expiration_date": "29-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "kanoodle.com": {
             "epoch": "1557100800",
@@ -4460,6 +4460,11 @@
             "expiration_date": "31-dec-2019",
             "state": "future"
         },
+        "net-filter.com": {
+            "epoch": "1567036800",
+            "expiration_date": "29-aug-2019",
+            "state": "future"
+        },
         "netaffiliation.com": {
             "epoch": "1622246400",
             "expiration_date": "29-may-2021",
@@ -4478,6 +4483,31 @@
         "netcommunities.com": {
             "epoch": "1551052800",
             "expiration_date": "25-feb-2019",
+            "state": "future"
+        },
+        "netincap.com": {
+            "epoch": "1562544000",
+            "expiration_date": "08-jul-2019",
+            "state": "future"
+        },
+        "netshelter.net": {
+            "epoch": "1546041600",
+            "expiration_date": "29-dec-2018",
+            "state": "future"
+        },
+        "neudesicmediagroup.com": {
+            "epoch": "1557878400",
+            "expiration_date": "15-may-2019",
+            "state": "future"
+        },
+        "newbie.com": {
+            "epoch": "1571702400",
+            "expiration_date": "22-oct-2019",
+            "state": "future"
+        },
+        "newnudecash.com": {
+            "epoch": "1555891200",
+            "expiration_date": "22-apr-2019",
             "state": "future"
         },
         "newstarads.com": {
