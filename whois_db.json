@@ -2250,6 +2250,11 @@
             "expiration_date": "14-apr-2019",
             "state": "future"
         },
+        "counter.cz": {
+            "epoch": "1570838400",
+            "expiration_date": "12-oct-2019",
+            "state": "future"
+        },
         "cowledges.com": {
             "epoch": "1547510400",
             "expiration_date": "15-jan-2019",
@@ -3756,9 +3761,9 @@
             "state": "future"
         },
         "justrelevant.com": {
-            "epoch": "1540771200",
-            "expiration_date": "29-oct-2018",
-            "state": "past"
+            "epoch": "1572307200",
+            "expiration_date": "29-oct-2019",
+            "state": "future"
         },
         "kanoodle.com": {
             "epoch": "1557100800",
@@ -3828,7 +3833,7 @@
         "leadboltads.net": {
             "epoch": "1541030400",
             "expiration_date": "01-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "leadclick.com": {
             "epoch": "1564012800",
