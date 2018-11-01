@@ -46,19 +46,19 @@
             "openad.tf1.fr",
             "pgl.example",
             "pgl.example0101",
-            "quarterserver.de"
-        ],
-        "to_test": [
-            "ranking-street.de",
+            "quarterserver.de",
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
             "reklamer.com.ua",
             "sx.trhnt.com",
-            "t.pusk.ru",
             "topping.com.ua",
             "touchclarity.natwest.com",
+            "t.pusk.ru",
             "vutzmxahqio.co",
             "webtrends.telegraph.co.uk"
+        ],
+        "to_test": [
+            "ranking-street.de"
         ]
     }
 }
