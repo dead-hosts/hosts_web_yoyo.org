@@ -2515,6 +2515,11 @@
             "expiration_date": "03-apr-2019",
             "state": "future"
         },
+        "consciouschairs.com": {
+            "epoch": "1571961600",
+            "expiration_date": "25-oct-2019",
+            "state": "future"
+        },
         "contextweb.com": {
             "epoch": "1584316800",
             "expiration_date": "16-mar-2020",
