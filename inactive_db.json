@@ -30,13 +30,11 @@
             "an.tacoda.net",
             "arc1.msn.com",
             "b.aol.com",
-            "b.engadget.com"
-        ],
-        "to_test": [
+            "b.engadget.com",
+            "dmtracking2.alibaba.com",
+            "dmtracking.alibaba.com",
             "Adsatt.ABCNews.starwave.com",
             "Adsatt.go.starwave.com",
-            "dmtracking.alibaba.com",
-            "dmtracking2.alibaba.com",
             "impressionz.co.uk",
             "ioam.de",
             "ivwbox.de",
@@ -44,7 +42,9 @@
             "media.ftv-publicite.fr",
             "mtrcs.samba.tv",
             "oewabox.at",
-            "openad.tf1.fr",
+            "openad.tf1.fr"
+        ],
+        "to_test": [
             "pgl.example",
             "pgl.example0101",
             "quarterserver.de",
