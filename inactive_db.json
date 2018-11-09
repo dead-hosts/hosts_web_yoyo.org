@@ -33,13 +33,12 @@
             "arc1.msn.com",
             "b.aol.com",
             "b.engadget.com",
-            "click.absoluteagency.com"
-        ],
-        "to_test": [
+            "click.absoluteagency.com",
+            "dmtracking2.alibaba.com",
+            "dmtracking.alibaba.com",
             "Adsatt.ABCNews.starwave.com",
             "Adsatt.go.starwave.com",
-            "dmtracking.alibaba.com",
-            "dmtracking2.alibaba.com",
+            "images.v3.com",
             "impressionz.co.uk",
             "ioam.de",
             "ivwbox.de",
@@ -51,7 +50,9 @@
             "pgl.example",
             "pgl.example0101",
             "quarterserver.de",
-            "ranking-street.de",
+            "ranking-street.de"
+        ],
+        "to_test": [
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
             "reklamer.com.ua",
