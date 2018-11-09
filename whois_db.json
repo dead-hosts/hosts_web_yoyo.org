@@ -1848,7 +1848,7 @@
         "blogrush.com": {
             "epoch": "1541635200",
             "expiration_date": "08-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "blogtoplist.se": {
             "epoch": "1584748800",
