@@ -268,7 +268,7 @@
         "ad-miner.com": {
             "epoch": "1541635200",
             "expiration_date": "08-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "ad-rotator.com": {
             "epoch": "1814054400",
