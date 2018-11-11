@@ -10,6 +10,11 @@
             "expiration_date": "14-aug-2019",
             "state": "future"
         },
+        "123found.com": {
+            "epoch": "1572998400",
+            "expiration_date": "06-nov-2019",
+            "state": "future"
+        },
         "123freeavatars.com": {
             "epoch": "1560556800",
             "expiration_date": "15-jun-2019",
@@ -266,9 +271,9 @@
             "state": "future"
         },
         "ad-miner.com": {
-            "epoch": "1541635200",
-            "expiration_date": "08-nov-2018",
-            "state": "past"
+            "epoch": "1573171200",
+            "expiration_date": "08-nov-2019",
+            "state": "future"
         },
         "ad-rotator.com": {
             "epoch": "1814054400",
