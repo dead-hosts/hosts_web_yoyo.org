@@ -13,12 +13,12 @@
             "adserver.omroepzeeland.nl",
             "ads.expedia.com",
             "ads.heias.com",
-            "ads.iafrica.com"
-        ],
-        "to_test": [
+            "ads.iafrica.com",
             "ads.larryaffiliates.com",
             "ads.newsquest.co.uk",
             "ads.penny-arcade.com",
+            "adsremote.scrippsnetworks.com",
+            "adsrv.eacdn.com",
             "ads.saymedia.com",
             "ads.sift.co.uk",
             "ads.slim.com",
@@ -27,10 +27,6 @@
             "ads.trinitymirror.co.uk",
             "ads.tripod.spray.se",
             "ads.v3.com",
-            "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com",
-            "adsremote.scrippsnetworks.com",
-            "adsrv.eacdn.com",
             "adtrading.de",
             "adworx.at",
             "aidu-ads.de",
@@ -38,6 +34,11 @@
             "arc1.msn.com",
             "b.aol.com",
             "b.engadget.com",
+            "click.absoluteagency.com"
+        ],
+        "to_test": [
+            "Adsatt.ABCNews.starwave.com",
+            "Adsatt.go.starwave.com",
             "dmtracking.alibaba.com",
             "dmtracking2.alibaba.com",
             "images.v3.com",
