@@ -4591,9 +4591,9 @@
             "state": "future"
         },
         "kindads.com": {
-            "epoch": "1542412800",
-            "expiration_date": "17-nov-2018",
-            "state": "past"
+            "epoch": "1573948800",
+            "expiration_date": "17-nov-2019",
+            "state": "future"
         },
         "kissmetrics.com": {
             "epoch": "1822089600",
@@ -5873,7 +5873,7 @@
         "pheedo.com": {
             "epoch": "1542585600",
             "expiration_date": "19-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "photographpan.com": {
             "epoch": "1548115200",
@@ -6313,7 +6313,7 @@
         "rampidads.com": {
             "epoch": "1542499200",
             "expiration_date": "18-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "rank-master.com": {
             "epoch": "1566604800",
