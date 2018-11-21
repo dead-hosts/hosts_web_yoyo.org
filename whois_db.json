@@ -138,7 +138,7 @@
         "7mu36somt5.com": {
             "epoch": "1542672000",
             "expiration_date": "20-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "7search.com": {
             "epoch": "1558742400",
@@ -568,7 +568,7 @@
         "adjuggler.com": {
             "epoch": "1542672000",
             "expiration_date": "20-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "adjustnetwork.com": {
             "epoch": "1555545600",
