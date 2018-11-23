@@ -36,14 +36,11 @@
             "arc1.msn.com",
             "b.aol.com",
             "b.engadget.com",
-            "click.absoluteagency.com"
-        ],
-        "to_test": [
-            "ads.newsquest.co.uk",
+            "click.absoluteagency.com",
+            "dmtracking2.alibaba.com",
+            "dmtracking.alibaba.com",
             "Adsatt.ABCNews.starwave.com",
             "Adsatt.go.starwave.com",
-            "dmtracking.alibaba.com",
-            "dmtracking2.alibaba.com",
             "images.v3.com",
             "impressionz.co.uk",
             "ioam.de",
@@ -58,7 +55,10 @@
             "quarterserver.de",
             "ranking-street.de",
             "record.affiliates.karjalakasino.com",
-            "record.bonniergaming.com",
+            "record.bonniergaming.com"
+        ],
+        "to_test": [
+            "ads.newsquest.co.uk",
             "reklamer.com.ua",
             "sx.trhnt.com",
             "t.pusk.ru",
