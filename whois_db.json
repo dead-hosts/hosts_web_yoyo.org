@@ -1375,6 +1375,11 @@
             "expiration_date": "02-oct-2019",
             "state": "future"
         },
+        "amazingcounters.com": {
+            "epoch": "1557792000",
+            "expiration_date": "14-may-2019",
+            "state": "future"
+        },
         "amazon-adsystem.com": {
             "epoch": "1568592000",
             "expiration_date": "16-sep-2019",
