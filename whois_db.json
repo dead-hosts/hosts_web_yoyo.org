@@ -441,8 +441,8 @@
             "state": "future"
         },
         "adecn.com": {
-            "epoch": "1543449600",
-            "expiration_date": "29-nov-2018",
+            "epoch": "1574985600",
+            "expiration_date": "29-nov-2019",
             "state": "future"
         },
         "ademails.com": {
@@ -673,7 +673,7 @@
         "admized.com": {
             "epoch": "1543363200",
             "expiration_date": "28-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "admob.com": {
             "epoch": "1544140800",
