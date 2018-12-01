@@ -1253,7 +1253,7 @@
         "affec.tv": {
             "epoch": "1543622400",
             "expiration_date": "01-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "affili.net": {
             "epoch": "1570320000",
@@ -1386,8 +1386,8 @@
             "state": "future"
         },
         "ambiguousquilt.com": {
-            "epoch": "1543536000",
-            "expiration_date": "30-nov-2018",
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
             "state": "future"
         },
         "ambitiousagreement.com": {
@@ -2056,8 +2056,8 @@
             "state": "future"
         },
         "caniamedia.com": {
-            "epoch": "1543536000",
-            "expiration_date": "30-nov-2018",
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
             "state": "future"
         },
         "capablecows.com": {
@@ -2206,8 +2206,8 @@
             "state": "future"
         },
         "cheerfulrange.com": {
-            "epoch": "1543536000",
-            "expiration_date": "30-nov-2018",
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
             "state": "future"
         },
         "cherrythread.com": {
@@ -2421,8 +2421,8 @@
             "state": "future"
         },
         "cloisteredhydrant.com": {
-            "epoch": "1543536000",
-            "expiration_date": "30-nov-2018",
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
             "state": "future"
         },
         "cloudcoins.biz": {
@@ -2458,7 +2458,7 @@
         "coinhive.com": {
             "epoch": "1543622400",
             "expiration_date": "01-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "cointraffic.io": {
             "epoch": "1700265600",
