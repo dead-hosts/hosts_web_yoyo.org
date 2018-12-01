@@ -231,8 +231,8 @@
             "state": "future"
         },
         "acridtwist.com": {
-            "epoch": "1543536000",
-            "expiration_date": "30-nov-2018",
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
             "state": "future"
         },
         "actionsplash.com": {
@@ -251,8 +251,8 @@
             "state": "future"
         },
         "actuallysnake.com": {
-            "epoch": "1543536000",
-            "expiration_date": "30-nov-2018",
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
             "state": "future"
         },
         "acuityads.com": {
@@ -671,9 +671,9 @@
             "state": "future"
         },
         "admized.com": {
-            "epoch": "1543363200",
-            "expiration_date": "28-nov-2018",
-            "state": "past"
+            "epoch": "1574899200",
+            "expiration_date": "28-nov-2019",
+            "state": "future"
         },
         "admob.com": {
             "epoch": "1544140800",
