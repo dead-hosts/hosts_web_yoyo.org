@@ -6488,7 +6488,7 @@
         "remox.com": {
             "epoch": "1543622400",
             "expiration_date": "01-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "resolutekey.com": {
             "epoch": "1548115200",
@@ -6593,7 +6593,7 @@
         "roia.biz": {
             "epoch": "1543622400",
             "expiration_date": "01-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "rotabanner.com": {
             "epoch": "1573257600",
@@ -6736,8 +6736,8 @@
             "state": "future"
         },
         "screechingfurniture.com": {
-            "epoch": "1543536000",
-            "expiration_date": "30-nov-2018",
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
             "state": "future"
         },
         "scrubsky.com": {
@@ -6761,8 +6761,8 @@
             "state": "future"
         },
         "secretivecub.com": {
-            "epoch": "1543536000",
-            "expiration_date": "30-nov-2018",
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
             "state": "future"
         },
         "secretspiders.com": {
@@ -7036,14 +7036,14 @@
             "state": "future"
         },
         "slipperysack.com": {
-            "epoch": "1543536000",
-            "expiration_date": "30-nov-2018",
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
             "state": "future"
         },
         "slopeaota.com": {
             "epoch": "1543622400",
             "expiration_date": "01-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "smart4ads.com": {
             "epoch": "1583193600",
@@ -7056,8 +7056,8 @@
             "state": "future"
         },
         "smartlook.com": {
-            "epoch": "1543536000",
-            "expiration_date": "30-nov-2018",
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
             "state": "future"
         },
         "smashsurprise.com": {
@@ -7236,13 +7236,13 @@
             "state": "future"
         },
         "stakingscrew.com": {
-            "epoch": "1543536000",
-            "expiration_date": "30-nov-2018",
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
             "state": "future"
         },
         "stakingslope.com": {
-            "epoch": "1543536000",
-            "expiration_date": "30-nov-2018",
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
             "state": "future"
         },
         "standingnest.com": {
@@ -7546,8 +7546,8 @@
             "state": "future"
         },
         "tawdryson.com": {
-            "epoch": "1543536000",
-            "expiration_date": "30-nov-2018",
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
             "state": "future"
         },
         "tcads.net": {
@@ -7693,7 +7693,7 @@
         "thruport.com": {
             "epoch": "1543622400",
             "expiration_date": "01-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "ticklesign.com": {
             "epoch": "1551139200",
@@ -7956,8 +7956,8 @@
             "state": "future"
         },
         "tranquilside.com": {
-            "epoch": "1543536000",
-            "expiration_date": "30-nov-2018",
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
             "state": "future"
         },
         "trekblue.com": {
@@ -7971,8 +7971,8 @@
             "state": "future"
         },
         "tremendoustime.com": {
-            "epoch": "1543536000",
-            "expiration_date": "30-nov-2018",
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
             "state": "future"
         },
         "trendcounter.com": {
@@ -8121,8 +8121,8 @@
             "state": "future"
         },
         "untidyquestion.com": {
-            "epoch": "1543536000",
-            "expiration_date": "30-nov-2018",
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
             "state": "future"
         },
         "unusualtitle.com": {
@@ -8131,8 +8131,8 @@
             "state": "future"
         },
         "unwrittenspot.com": {
-            "epoch": "1543536000",
-            "expiration_date": "30-nov-2018",
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
             "state": "future"
         },
         "urlcash.net": {
@@ -8426,8 +8426,8 @@
             "state": "future"
         },
         "wellmadefrog.com": {
-            "epoch": "1543536000",
-            "expiration_date": "30-nov-2018",
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
             "state": "future"
         },
         "wetrack.it": {
@@ -8678,7 +8678,7 @@
         "yldbt.com": {
             "epoch": "1543536000",
             "expiration_date": "30-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "ymetrica1.com": {
             "epoch": "1545782400",
