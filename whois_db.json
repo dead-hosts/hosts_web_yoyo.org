@@ -1251,9 +1251,9 @@
             "state": "future"
         },
         "affec.tv": {
-            "epoch": "1543622400",
-            "expiration_date": "01-dec-2018",
-            "state": "past"
+            "epoch": "1575158400",
+            "expiration_date": "01-dec-2019",
+            "state": "future"
         },
         "affili.net": {
             "epoch": "1570320000",
@@ -2378,7 +2378,7 @@
         "clicktracks.com": {
             "epoch": "1543795200",
             "expiration_date": "03-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "clicktrade.com": {
             "epoch": "1556668800",
@@ -2456,9 +2456,9 @@
             "state": "future"
         },
         "coinhive.com": {
-            "epoch": "1543622400",
-            "expiration_date": "01-dec-2018",
-            "state": "past"
+            "epoch": "1575158400",
+            "expiration_date": "01-dec-2019",
+            "state": "future"
         },
         "cointraffic.io": {
             "epoch": "1700265600",
