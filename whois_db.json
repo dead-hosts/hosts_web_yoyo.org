@@ -2951,8 +2951,8 @@
             "state": "future"
         },
         "directleads.com": {
-            "epoch": "1543708800",
-            "expiration_date": "02-dec-2018",
+            "epoch": "1575244800",
+            "expiration_date": "02-dec-2019",
             "state": "future"
         },
         "directorym.com": {
@@ -4756,9 +4756,9 @@
             "state": "future"
         },
         "linkrain.com": {
-            "epoch": "1543536000",
-            "expiration_date": "30-nov-2018",
-            "state": "past"
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
+            "state": "future"
         },
         "linkreferral.com": {
             "epoch": "1548201600",
@@ -5056,8 +5056,8 @@
             "state": "future"
         },
         "metanetwork.com": {
-            "epoch": "1543795200",
-            "expiration_date": "03-dec-2018",
+            "epoch": "1575331200",
+            "expiration_date": "03-dec-2019",
             "state": "future"
         },
         "methodcash.com": {
