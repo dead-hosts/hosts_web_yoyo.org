@@ -6416,8 +6416,8 @@
             "state": "future"
         },
         "realtechnetwork.com": {
-            "epoch": "1543708800",
-            "expiration_date": "02-dec-2018",
+            "epoch": "1575244800",
+            "expiration_date": "02-dec-2019",
             "state": "future"
         },
         "realtracker.com": {
@@ -6486,9 +6486,9 @@
             "state": "future"
         },
         "remox.com": {
-            "epoch": "1543622400",
-            "expiration_date": "01-dec-2018",
-            "state": "past"
+            "epoch": "1575158400",
+            "expiration_date": "01-dec-2019",
+            "state": "future"
         },
         "resolutekey.com": {
             "epoch": "1548115200",
@@ -7041,9 +7041,9 @@
             "state": "future"
         },
         "slopeaota.com": {
-            "epoch": "1543622400",
-            "expiration_date": "01-dec-2018",
-            "state": "past"
+            "epoch": "1575158400",
+            "expiration_date": "01-dec-2019",
+            "state": "future"
         },
         "smart4ads.com": {
             "epoch": "1583193600",
@@ -7691,9 +7691,9 @@
             "state": "future"
         },
         "thruport.com": {
-            "epoch": "1543622400",
-            "expiration_date": "01-dec-2018",
-            "state": "past"
+            "epoch": "1575158400",
+            "expiration_date": "01-dec-2019",
+            "state": "future"
         },
         "ticklesign.com": {
             "epoch": "1551139200",
@@ -8676,9 +8676,9 @@
             "state": "future"
         },
         "yldbt.com": {
-            "epoch": "1543536000",
-            "expiration_date": "30-nov-2018",
-            "state": "past"
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
+            "state": "future"
         },
         "ymetrica1.com": {
             "epoch": "1545782400",
