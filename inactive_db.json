@@ -37,15 +37,11 @@
             "banner.getgo.de",
             "b.aol.com",
             "b.engadget.com",
-            "click.absoluteagency.com"
-        ],
-        "to_test": [
-            "ads.newdream.net",
-            "ads.newsquest.co.uk",
+            "click.absoluteagency.com",
+            "dmtracking2.alibaba.com",
+            "dmtracking.alibaba.com",
             "Adsatt.ABCNews.starwave.com",
             "Adsatt.go.starwave.com",
-            "dmtracking.alibaba.com",
-            "dmtracking2.alibaba.com",
             "eur.a1.yimg.com",
             "images.v3.com",
             "impressionz.co.uk",
@@ -61,7 +57,11 @@
             "quarterserver.de",
             "ranking-street.de",
             "record.affiliates.karjalakasino.com",
-            "record.bonniergaming.com",
+            "record.bonniergaming.com"
+        ],
+        "to_test": [
+            "ads.newdream.net",
+            "ads.newsquest.co.uk",
             "reklamer.com.ua",
             "sx.trhnt.com",
             "t.pusk.ru",

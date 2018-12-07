@@ -5618,7 +5618,7 @@
         "onlinecashmethod.com": {
             "epoch": "1544140800",
             "expiration_date": "07-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "onlinerewardcenter.com": {
             "epoch": "1552262400",
@@ -5828,7 +5828,7 @@
         "percentmobile.com": {
             "epoch": "1544054400",
             "expiration_date": "06-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "perfectaudience.com": {
             "epoch": "1545609600",
