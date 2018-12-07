@@ -57,19 +57,19 @@
             "quarterserver.de",
             "ranking-street.de",
             "record.affiliates.karjalakasino.com",
-            "record.bonniergaming.com"
-        ],
-        "to_test": [
-            "ads.newdream.net",
-            "ads.newsquest.co.uk",
-            "reklamer.com.ua",
+            "record.bonniergaming.com",
             "sx.trhnt.com",
-            "t.pusk.ru",
             "touchclarity.natwest.com",
+            "t.pusk.ru",
             "track.dating-4-you.com",
             "vutzmxahqio.co",
             "webtrends.telegraph.co.uk",
             "www.banner-link.com.br"
+        ],
+        "to_test": [
+            "ads.newdream.net",
+            "ads.newsquest.co.uk",
+            "reklamer.com.ua"
         ]
     }
 }
