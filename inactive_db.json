@@ -39,13 +39,11 @@
             "banner.getgo.de",
             "b.aol.com",
             "b.engadget.com",
-            "click.absoluteagency.com"
-        ],
-        "to_test": [
+            "click.absoluteagency.com",
+            "dmtracking2.alibaba.com",
+            "dmtracking.alibaba.com",
             "Adsatt.ABCNews.starwave.com",
             "Adsatt.go.starwave.com",
-            "dmtracking.alibaba.com",
-            "dmtracking2.alibaba.com",
             "eur.a1.yimg.com",
             "images.v3.com",
             "impressionz.co.uk",
@@ -62,7 +60,9 @@
             "ranking-street.de",
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
-            "reklamer.com.ua",
+            "reklamer.com.ua"
+        ],
+        "to_test": [
             "sx.trhnt.com",
             "t.pusk.ru",
             "touchclarity.natwest.com",

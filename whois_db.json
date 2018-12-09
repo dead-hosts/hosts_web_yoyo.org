@@ -3698,7 +3698,7 @@
         "freewebcounter.com": {
             "epoch": "1544227200",
             "expiration_date": "08-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "freshmarketer.com": {
             "epoch": "1566345600",
@@ -4013,7 +4013,7 @@
         "hentaicounter.com": {
             "epoch": "1544313600",
             "expiration_date": "09-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "herbalaffiliateprogram.com": {
             "epoch": "1551225600",
@@ -5616,9 +5616,9 @@
             "state": "future"
         },
         "onlinecashmethod.com": {
-            "epoch": "1544140800",
-            "expiration_date": "07-dec-2018",
-            "state": "past"
+            "epoch": "1575676800",
+            "expiration_date": "07-dec-2019",
+            "state": "future"
         },
         "onlinerewardcenter.com": {
             "epoch": "1552262400",
@@ -5826,9 +5826,9 @@
             "state": "future"
         },
         "percentmobile.com": {
-            "epoch": "1544054400",
-            "expiration_date": "06-dec-2018",
-            "state": "past"
+            "epoch": "1607212800",
+            "expiration_date": "06-dec-2020",
+            "state": "future"
         },
         "perfectaudience.com": {
             "epoch": "1545609600",
