@@ -3716,9 +3716,9 @@
             "state": "future"
         },
         "freewebcounter.com": {
-            "epoch": "1544227200",
-            "expiration_date": "08-dec-2018",
-            "state": "past"
+            "epoch": "1575763200",
+            "expiration_date": "08-dec-2019",
+            "state": "future"
         },
         "freshmarketer.com": {
             "epoch": "1566345600",
@@ -4003,7 +4003,7 @@
         "harrenmedianetwork.com": {
             "epoch": "1544486400",
             "expiration_date": "11-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "havamedia.net": {
             "epoch": "1559606400",
@@ -4031,9 +4031,9 @@
             "state": "future"
         },
         "hentaicounter.com": {
-            "epoch": "1544313600",
-            "expiration_date": "09-dec-2018",
-            "state": "past"
+            "epoch": "1575849600",
+            "expiration_date": "09-dec-2019",
+            "state": "future"
         },
         "herbalaffiliateprogram.com": {
             "epoch": "1551225600",
@@ -4618,6 +4618,11 @@
         "karonty.com": {
             "epoch": "1557273600",
             "expiration_date": "08-may-2019",
+            "state": "future"
+        },
+        "keywee.co": {
+            "epoch": "1603411200",
+            "expiration_date": "23-oct-2020",
             "state": "future"
         },
         "kindads.com": {
@@ -5595,6 +5600,11 @@
             "expiration_date": "29-mar-2019",
             "state": "future"
         },
+        "omtrdc.net": {
+            "epoch": "1563753600",
+            "expiration_date": "22-jul-2019",
+            "state": "future"
+        },
         "onclasrv.com": {
             "epoch": "1569888000",
             "expiration_date": "01-oct-2019",
@@ -5648,6 +5658,11 @@
         "onscroll.com": {
             "epoch": "1561766400",
             "expiration_date": "29-jun-2019",
+            "state": "future"
+        },
+        "onthe.io": {
+            "epoch": "1548720000",
+            "expiration_date": "29-jan-2019",
             "state": "future"
         },
         "openads.org": {
