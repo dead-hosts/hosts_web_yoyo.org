@@ -1435,6 +1435,11 @@
             "expiration_date": "17-aug-2021",
             "state": "future"
         },
+        "apolloprogram.io": {
+            "epoch": "1562889600",
+            "expiration_date": "12-jul-2019",
+            "state": "future"
+        },
         "appsflyer.com": {
             "epoch": "1557360000",
             "expiration_date": "09-may-2019",
@@ -1541,8 +1546,8 @@
             "state": "future"
         },
         "automaticflock.com": {
-            "epoch": "1544659200",
-            "expiration_date": "13-dec-2018",
+            "epoch": "1576195200",
+            "expiration_date": "13-dec-2019",
             "state": "future"
         },
         "avenuea.com": {
@@ -1681,8 +1686,8 @@
             "state": "future"
         },
         "barbarousnerve.com": {
-            "epoch": "1544659200",
-            "expiration_date": "13-dec-2018",
+            "epoch": "1576195200",
+            "expiration_date": "13-dec-2019",
             "state": "future"
         },
         "basebanner.com": {
@@ -2475,6 +2480,11 @@
             "expiration_date": "09-sep-2019",
             "state": "future"
         },
+        "cognitiv.ai": {
+            "epoch": "1575417600",
+            "expiration_date": "04-dec-2019",
+            "state": "future"
+        },
         "coin-hive.com": {
             "epoch": "1566604800",
             "expiration_date": "24-aug-2019",
@@ -2585,9 +2595,19 @@
             "expiration_date": "16-mar-2020",
             "state": "future"
         },
+        "converge-digital.com": {
+            "epoch": "1570406400",
+            "expiration_date": "07-oct-2019",
+            "state": "future"
+        },
         "conversantmedia.com": {
             "epoch": "1560816000",
             "expiration_date": "18-jun-2019",
+            "state": "future"
+        },
+        "conversionbet.com": {
+            "epoch": "1555545600",
+            "expiration_date": "18-apr-2019",
             "state": "future"
         },
         "conversionruler.com": {
@@ -2603,6 +2623,11 @@
         "coordinatedcub.com": {
             "epoch": "1570233600",
             "expiration_date": "05-oct-2019",
+            "state": "future"
+        },
+        "cooster.ru": {
+            "epoch": "1563667200",
+            "expiration_date": "21-jul-2019",
             "state": "future"
         },
         "copperchickens.com": {
