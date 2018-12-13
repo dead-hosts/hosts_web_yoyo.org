@@ -41,13 +41,11 @@
             "arc1.msn.com",
             "banner.getgo.de",
             "b.aol.com",
-            "b.engadget.com"
-        ],
-        "to_test": [
+            "b.engadget.com",
+            "dmtracking2.alibaba.com",
+            "dmtracking.alibaba.com",
             "Adsatt.ABCNews.starwave.com",
             "Adsatt.go.starwave.com",
-            "dmtracking.alibaba.com",
-            "dmtracking2.alibaba.com",
             "eur.a1.yimg.com",
             "images.v3.com",
             "impressionz.co.uk",
@@ -60,7 +58,11 @@
             "openad.tf1.fr",
             "pgl.example",
             "pgl.example0101",
-            "quarterserver.de",
+            "pixel.redditmedia.com",
+            "pr-star.de",
+            "quarterserver.de"
+        ],
+        "to_test": [
             "ranking-street.de",
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
