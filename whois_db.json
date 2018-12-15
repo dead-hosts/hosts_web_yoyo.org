@@ -198,7 +198,7 @@
         "abc-ads.com": {
             "epoch": "1544832000",
             "expiration_date": "15-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "aboardlevel.com": {
             "epoch": "1570233600",
@@ -806,9 +806,9 @@
             "state": "future"
         },
         "adrecreate.com": {
-            "epoch": "1544572800",
-            "expiration_date": "12-dec-2018",
-            "state": "past"
+            "epoch": "1576108800",
+            "expiration_date": "12-dec-2019",
+            "state": "future"
         },
         "adremedy.com": {
             "epoch": "1570406400",
