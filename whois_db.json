@@ -6961,9 +6961,9 @@
             "state": "future"
         },
         "shallowschool.com": {
-            "epoch": "1544659200",
-            "expiration_date": "13-dec-2018",
-            "state": "past"
+            "epoch": "1576195200",
+            "expiration_date": "13-dec-2019",
+            "state": "future"
         },
         "shallowsmile.com": {
             "epoch": "1629158400",
@@ -7113,6 +7113,11 @@
         "sizesidewalk.com": {
             "epoch": "1570233600",
             "expiration_date": "05-oct-2019",
+            "state": "future"
+        },
+        "sizmek.com": {
+            "epoch": "1573776000",
+            "expiration_date": "15-nov-2019",
             "state": "future"
         },
         "skimresources.com": {
