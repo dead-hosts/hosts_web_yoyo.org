@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
-        "1544845482": [
+        "1545018309": [
             "a.0day.kiev.ua",
             "ad.choiceradio.com",
             "ad.eurosport.com",
@@ -18,11 +18,12 @@
             "ads.heias.com",
             "ads.hideyourarms.com",
             "ads.iafrica.com",
+            "ads.larryaffiliates.com"
+        ],
+        "to_test": [
             "ads.newdream.net",
             "ads.newsquest.co.uk",
             "ads.penny-arcade.com",
-            "adsremote.scrippsnetworks.com",
-            "adsrv.eacdn.com",
             "ads.saymedia.com",
             "ads.sift.co.uk",
             "ads.slim.com",
@@ -31,18 +32,20 @@
             "ads.trinitymirror.co.uk",
             "ads.tripod.spray.se",
             "ads.v3.com",
+            "Adsatt.ABCNews.starwave.com",
+            "Adsatt.go.starwave.com",
+            "adsremote.scrippsnetworks.com",
+            "adsrv.eacdn.com",
             "adtrading.de",
             "adworx.at",
             "aidu-ads.de",
             "an.tacoda.net",
             "arc1.msn.com",
-            "banner.getgo.de",
             "b.aol.com",
             "b.engadget.com",
-            "dmtracking2.alibaba.com",
+            "banner.getgo.de",
             "dmtracking.alibaba.com",
-            "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com",
+            "dmtracking2.alibaba.com",
             "eur.a1.yimg.com",
             "images.v3.com",
             "impressionz.co.uk",
@@ -59,18 +62,15 @@
             "pixel.redditmedia.com",
             "quarterserver.de",
             "ranking-street.de",
+            "record.affiliates.karjalakasino.com",
+            "record.bonniergaming.com",
             "reklamer.com.ua",
-            "touchclarity.natwest.com",
             "t.pusk.ru",
+            "touchclarity.natwest.com",
             "track.dating-4-you.com",
             "vutzmxahqio.co",
             "webtrends.telegraph.co.uk",
             "www.banner-link.com.br"
-        ],
-        "to_test": [
-            "ads.larryaffiliates.com",
-            "record.affiliates.karjalakasino.com",
-            "record.bonniergaming.com"
         ]
     }
 }
