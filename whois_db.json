@@ -1380,6 +1380,11 @@
             "expiration_date": "18-may-2020",
             "state": "future"
         },
+        "alexametrics.com": {
+            "epoch": "1560902400",
+            "expiration_date": "19-jun-2019",
+            "state": "future"
+        },
         "alipromo.com": {
             "epoch": "1567641600",
             "expiration_date": "05-sep-2019",
@@ -2633,6 +2638,11 @@
         "consciouschairs.com": {
             "epoch": "1571961600",
             "expiration_date": "25-oct-2019",
+            "state": "future"
+        },
+        "consensad.com": {
+            "epoch": "1569888000",
+            "expiration_date": "01-oct-2019",
             "state": "future"
         },
         "consensu.org": {
