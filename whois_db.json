@@ -313,7 +313,7 @@
         "ad2flash.com": {
             "epoch": "1545350400",
             "expiration_date": "21-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "ad4game.com": {
             "epoch": "1589241600",
@@ -513,7 +513,7 @@
         "adgardener.com": {
             "epoch": "1545436800",
             "expiration_date": "22-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "adgoto.com": {
             "epoch": "1555372800",
@@ -851,9 +851,9 @@
             "state": "future"
         },
         "ads-click.com": {
-            "epoch": "1545177600",
-            "expiration_date": "19-dec-2018",
-            "state": "past"
+            "epoch": "1576713600",
+            "expiration_date": "19-dec-2019",
+            "state": "future"
         },
         "ads.cc": {
             "epoch": "1560384000",
