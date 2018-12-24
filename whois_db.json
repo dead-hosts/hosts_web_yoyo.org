@@ -311,9 +311,9 @@
             "state": "future"
         },
         "ad2flash.com": {
-            "epoch": "1545350400",
-            "expiration_date": "21-dec-2018",
-            "state": "past"
+            "epoch": "1576886400",
+            "expiration_date": "21-dec-2019",
+            "state": "future"
         },
         "ad4game.com": {
             "epoch": "1589241600",
@@ -511,9 +511,9 @@
             "state": "future"
         },
         "adgardener.com": {
-            "epoch": "1545436800",
-            "expiration_date": "22-dec-2018",
-            "state": "past"
+            "epoch": "1608595200",
+            "expiration_date": "22-dec-2020",
+            "state": "future"
         },
         "adgoto.com": {
             "epoch": "1555372800",
