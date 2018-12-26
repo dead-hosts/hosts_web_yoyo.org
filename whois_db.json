@@ -5435,6 +5435,11 @@
             "expiration_date": "20-sep-2021",
             "state": "future"
         },
+        "mylink-today.com": {
+            "epoch": "1553731200",
+            "expiration_date": "28-mar-2019",
+            "state": "future"
+        },
         "mymoneymakingapp.com": {
             "epoch": "1550448000",
             "expiration_date": "18-feb-2019",
@@ -5488,6 +5493,11 @@
         "n69.com": {
             "epoch": "1614643200",
             "expiration_date": "02-mar-2021",
+            "state": "future"
+        },
+        "naganoadigei.com": {
+            "epoch": "1557446400",
+            "expiration_date": "10-may-2019",
             "state": "future"
         },
         "namimedia.com": {
@@ -6016,9 +6026,9 @@
             "state": "future"
         },
         "perfectaudience.com": {
-            "epoch": "1545609600",
-            "expiration_date": "24-dec-2018",
-            "state": "past"
+            "epoch": "1577145600",
+            "expiration_date": "24-dec-2019",
+            "state": "future"
         },
         "perfiliate.com": {
             "epoch": "1553299200",
