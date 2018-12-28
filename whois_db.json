@@ -1340,6 +1340,11 @@
             "expiration_date": "09-feb-2019",
             "state": "future"
         },
+        "agkn.com": {
+            "epoch": "1567382400",
+            "expiration_date": "02-sep-2019",
+            "state": "future"
+        },
         "agreeableprice.com": {
             "epoch": "1553126400",
             "expiration_date": "21-mar-2019",
@@ -2020,6 +2025,11 @@
             "expiration_date": "10-nov-2021",
             "state": "future"
         },
+        "brand-display.com": {
+            "epoch": "1569542400",
+            "expiration_date": "27-sep-2019",
+            "state": "future"
+        },
         "brandreachsys.com": {
             "epoch": "1633132800",
             "expiration_date": "02-oct-2021",
@@ -2230,6 +2240,11 @@
             "expiration_date": "16-jan-2019",
             "state": "future"
         },
+        "cbsi.com": {
+            "epoch": "1563494400",
+            "expiration_date": "19-jul-2019",
+            "state": "future"
+        },
         "cecash.com": {
             "epoch": "1568073600",
             "expiration_date": "10-sep-2019",
@@ -2353,6 +2368,11 @@
         "clearcomb.com": {
             "epoch": "1548115200",
             "expiration_date": "22-jan-2019",
+            "state": "future"
+        },
+        "clevernt.com": {
+            "epoch": "1561161600",
+            "expiration_date": "22-jun-2019",
             "state": "future"
         },
         "click2freemoney.com": {
