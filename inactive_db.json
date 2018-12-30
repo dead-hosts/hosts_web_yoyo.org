@@ -54,12 +54,7 @@
             "mtrcs.samba.tv",
             "oas.salon.com",
             "oewabox.at",
-            "openad.tf1.fr"
-        ],
-        "to_test": [
-            "ads.heias.com",
-            "ads.hideyourarms.com",
-            "ads.iafrica.com",
+            "openad.tf1.fr",
             "pgl.example",
             "pgl.example0101",
             "pixel.redditmedia.com",
@@ -68,12 +63,17 @@
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
             "reklamer.com.ua",
-            "t.pusk.ru",
             "touchclarity.natwest.com",
+            "t.pusk.ru",
             "track.dating-4-you.com",
             "vutzmxahqio.co",
             "webtrends.telegraph.co.uk",
             "www.banner-link.com.br"
+        ],
+        "to_test": [
+            "ads.heias.com",
+            "ads.hideyourarms.com",
+            "ads.iafrica.com"
         ]
     }
 }
