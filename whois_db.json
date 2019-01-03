@@ -3076,8 +3076,8 @@
             "state": "future"
         },
         "dialerporn.com": {
-            "epoch": "1546473600",
-            "expiration_date": "03-jan-2019",
+            "epoch": "1578009600",
+            "expiration_date": "03-jan-2020",
             "state": "future"
         },
         "dianomi.com": {
@@ -3524,6 +3524,11 @@
             "epoch": "1542240000",
             "expiration_date": "15-nov-2018",
             "state": "past"
+        },
+        "evyy.net": {
+            "epoch": "1580169600",
+            "expiration_date": "28-jan-2020",
+            "state": "future"
         },
         "ewebcounter.com": {
             "epoch": "1569369600",
@@ -4216,8 +4221,8 @@
             "state": "future"
         },
         "heyos.com": {
-            "epoch": "1546473600",
-            "expiration_date": "03-jan-2019",
+            "epoch": "1578009600",
+            "expiration_date": "03-jan-2020",
             "state": "future"
         },
         "hfc195b.com": {
@@ -5303,7 +5308,7 @@
         "methodcash.com": {
             "epoch": "1546473600",
             "expiration_date": "03-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "metrilo.com": {
             "epoch": "1617667200",
@@ -6031,8 +6036,8 @@
             "state": "future"
         },
         "pageranktop.com": {
-            "epoch": "1546300800",
-            "expiration_date": "01-jan-2019",
+            "epoch": "1577836800",
+            "expiration_date": "01-jan-2020",
             "state": "future"
         },
         "paleleaf.com": {
