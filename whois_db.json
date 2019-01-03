@@ -1956,9 +1956,9 @@
             "state": "future"
         },
         "bluewhaleweb.com": {
-            "epoch": "1546300800",
-            "expiration_date": "01-jan-2019",
-            "state": "past"
+            "epoch": "1577836800",
+            "expiration_date": "01-jan-2020",
+            "state": "future"
         },
         "blushingbeast.com": {
             "epoch": "1570233600",
@@ -2076,9 +2076,9 @@
             "state": "future"
         },
         "bttrack.com": {
-            "epoch": "1546300800",
-            "expiration_date": "01-jan-2019",
-            "state": "past"
+            "epoch": "1577836800",
+            "expiration_date": "01-jan-2020",
+            "state": "future"
         },
         "bucketbean.com": {
             "epoch": "1570233600",
