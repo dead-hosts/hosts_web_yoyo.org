@@ -63,21 +63,21 @@
             "pgl.example",
             "pgl.example0101",
             "pixel.redditmedia.com",
-            "quarterserver.de"
-        ],
-        "to_test": [
-            "ads.larryaffiliates.com",
-            "ranking-street.de",
+            "quarterserver.de",
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
             "reklamer.com.ua",
-            "t.pusk.ru",
             "touchclarity.natwest.com",
+            "t.pusk.ru",
             "track.dating-4-you.com",
             "vutzmxahqio.co",
             "webtrends.telegraph.co.uk",
             "www.banner-link.com.br",
             "www.money4exit.de"
+        ],
+        "to_test": [
+            "ads.larryaffiliates.com",
+            "ranking-street.de"
         ]
     }
 }

@@ -7596,8 +7596,8 @@
             "state": "future"
         },
         "statcounter.com": {
-            "epoch": "1546646400",
-            "expiration_date": "05-jan-2019",
+            "epoch": "1578182400",
+            "expiration_date": "05-jan-2020",
             "state": "future"
         },
         "statistik-gallup.net": {
@@ -7691,9 +7691,9 @@
             "state": "future"
         },
         "stream4fun.com": {
-            "epoch": "1546473600",
-            "expiration_date": "03-jan-2019",
-            "state": "past"
+            "epoch": "1578009600",
+            "expiration_date": "03-jan-2020",
+            "state": "future"
         },
         "stripedburst.com": {
             "epoch": "1566604800",
@@ -8938,7 +8938,7 @@
         "xclicks.net": {
             "epoch": "1546560000",
             "expiration_date": "04-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "xertive.com": {
             "epoch": "1555459200",
