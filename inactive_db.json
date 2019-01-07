@@ -43,12 +43,9 @@
             "banner.getgo.de",
             "b.aol.com",
             "b.engadget.com",
-            "click.absoluteagency.com"
-        ],
-        "to_test": [
-            "ads.larryaffiliates.com",
-            "dmtracking.alibaba.com",
+            "click.absoluteagency.com",
             "dmtracking2.alibaba.com",
+            "dmtracking.alibaba.com",
             "eur.a1.yimg.com",
             "exchange.bg",
             "images.v3.com",
@@ -66,7 +63,10 @@
             "pgl.example0101",
             "pixel.redditmedia.com",
             "quarterserver.de",
-            "ranking-street.de",
+            "ranking-street.de"
+        ],
+        "to_test": [
+            "ads.larryaffiliates.com",
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
             "reklamer.com.ua",
