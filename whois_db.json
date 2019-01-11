@@ -3981,8 +3981,8 @@
             "state": "future"
         },
         "galaxien.com": {
-            "epoch": "1547078400",
-            "expiration_date": "10-jan-2019",
+            "epoch": "1578614400",
+            "expiration_date": "10-jan-2020",
             "state": "future"
         },
         "game-advertising-online.com": {
@@ -4611,8 +4611,8 @@
             "state": "future"
         },
         "insightexpressai.com": {
-            "epoch": "1547078400",
-            "expiration_date": "10-jan-2019",
+            "epoch": "1578614400",
+            "expiration_date": "10-jan-2020",
             "state": "future"
         },
         "inspectlet.com": {
@@ -4943,7 +4943,7 @@
         "ligatus.com": {
             "epoch": "1547078400",
             "expiration_date": "10-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "lightcushion.com": {
             "epoch": "1597622400",

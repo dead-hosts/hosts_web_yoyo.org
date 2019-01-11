@@ -44,11 +44,9 @@
             "arc1.msn.com",
             "banner.getgo.de",
             "b.aol.com",
-            "b.engadget.com"
-        ],
-        "to_test": [
-            "dmtracking.alibaba.com",
+            "b.engadget.com",
             "dmtracking2.alibaba.com",
+            "dmtracking.alibaba.com",
             "eur.a1.yimg.com",
             "images.v3.com",
             "impressionz.co.uk",
@@ -64,7 +62,9 @@
             "pgl.example",
             "pgl.example0101",
             "pixel.redditmedia.com",
-            "quarterserver.de",
+            "quarterserver.de"
+        ],
+        "to_test": [
             "ranking-street.de",
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
