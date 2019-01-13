@@ -363,7 +363,7 @@
         "adbard.net": {
             "epoch": "1547337600",
             "expiration_date": "13-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "adblade.com": {
             "epoch": "1572393600",
@@ -611,9 +611,9 @@
             "state": "future"
         },
         "adk2.com": {
-            "epoch": "1547078400",
-            "expiration_date": "10-jan-2019",
-            "state": "past"
+            "epoch": "1578614400",
+            "expiration_date": "10-jan-2020",
+            "state": "future"
         },
         "adland.ru": {
             "epoch": "1558396800",
@@ -936,9 +936,9 @@
             "state": "future"
         },
         "adserversolutions.com": {
-            "epoch": "1547164800",
-            "expiration_date": "11-jan-2019",
-            "state": "past"
+            "epoch": "1578700800",
+            "expiration_date": "11-jan-2020",
+            "state": "future"
         },
         "adservinginternational.com": {
             "epoch": "1597363200",
