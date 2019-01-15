@@ -7603,7 +7603,7 @@
         "statistik-gallup.net": {
             "epoch": "1547424000",
             "expiration_date": "14-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "stats4all.com": {
             "epoch": "1564358400",
