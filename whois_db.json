@@ -2238,7 +2238,7 @@
         "casterist.info": {
             "epoch": "1547596800",
             "expiration_date": "16-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "cbsi.com": {
             "epoch": "1563494400",
