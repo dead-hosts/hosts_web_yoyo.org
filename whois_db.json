@@ -8056,9 +8056,9 @@
             "state": "future"
         },
         "tizers.net": {
-            "epoch": "1547683200",
-            "expiration_date": "17-jan-2019",
-            "state": "past"
+            "epoch": "1579219200",
+            "expiration_date": "17-jan-2020",
+            "state": "future"
         },
         "tlvmedia.com": {
             "epoch": "1555027200",
@@ -8223,7 +8223,7 @@
         "trafficadept.com": {
             "epoch": "1547856000",
             "expiration_date": "19-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "trafficfactory.biz": {
             "epoch": "1685404800",
