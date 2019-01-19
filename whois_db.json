@@ -5081,9 +5081,9 @@
             "state": "future"
         },
         "lucidmedia.com": {
-            "epoch": "1547596800",
-            "expiration_date": "16-jan-2019",
-            "state": "past"
+            "epoch": "1579132800",
+            "expiration_date": "16-jan-2020",
+            "state": "future"
         },
         "lucklayed.info": {
             "epoch": "1567900800",
@@ -6481,9 +6481,9 @@
             "state": "future"
         },
         "provalist.info": {
-            "epoch": "1547596800",
-            "expiration_date": "16-jan-2019",
-            "state": "past"
+            "epoch": "1579132800",
+            "expiration_date": "16-jan-2020",
+            "state": "future"
         },
         "provexia.com": {
             "epoch": "1573430400",
