@@ -123,7 +123,7 @@
         "777partner.com": {
             "epoch": "1547942400",
             "expiration_date": "20-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "77tracking.com": {
             "epoch": "1554595200",
@@ -218,7 +218,7 @@
         "absoluteclickscom.com": {
             "epoch": "1548028800",
             "expiration_date": "21-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "absorbingband.com": {
             "epoch": "1633392000",
