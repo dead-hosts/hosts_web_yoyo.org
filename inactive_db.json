@@ -47,11 +47,9 @@
             "arc1.msn.com",
             "banner.getgo.de",
             "b.aol.com",
-            "b.engadget.com"
-        ],
-        "to_test": [
-            "dmtracking.alibaba.com",
+            "b.engadget.com",
             "dmtracking2.alibaba.com",
+            "dmtracking.alibaba.com",
             "eur.a1.yimg.com",
             "images.v3.com",
             "impressionz.co.uk",
@@ -70,7 +68,9 @@
             "quarterserver.de",
             "ranking-street.de",
             "record.affiliates.karjalakasino.com",
-            "record.bonniergaming.com",
+            "record.bonniergaming.com"
+        ],
+        "to_test": [
             "reklama.reflektor.cz",
             "reklamer.com.ua",
             "t.pusk.ru",
