@@ -46,12 +46,9 @@
             "arc1.msn.com",
             "banner.getgo.de",
             "b.aol.com",
-            "b.engadget.com"
-        ],
-        "to_test": [
-            "ads.larryaffiliates.com",
-            "dmtracking.alibaba.com",
+            "b.engadget.com",
             "dmtracking2.alibaba.com",
+            "dmtracking.alibaba.com",
             "eur.a1.yimg.com",
             "images.v3.com",
             "impressionz.co.uk",
@@ -71,8 +68,10 @@
             "ranking-street.de",
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
-            "reklama.reflektor.cz",
-            "reklamer.com.ua",
+            "reklamer.com.ua"
+        ],
+        "to_test": [
+            "ads.larryaffiliates.com",
             "t.pusk.ru",
             "touchclarity.natwest.com",
             "track.dating-4-you.com",
