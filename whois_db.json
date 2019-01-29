@@ -138,7 +138,7 @@
         "7f1au20glg.com": {
             "epoch": "1548720000",
             "expiration_date": "29-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "7mu36somt5.com": {
             "epoch": "1574208000",
@@ -911,8 +911,8 @@
             "state": "future"
         },
         "adsensecustomsearchads.com": {
-            "epoch": "1548633600",
-            "expiration_date": "28-jan-2019",
+            "epoch": "1580169600",
+            "expiration_date": "28-jan-2020",
             "state": "future"
         },
         "adserver.com": {
