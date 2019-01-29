@@ -1613,7 +1613,7 @@
         "avsads.com": {
             "epoch": "1548720000",
             "expiration_date": "29-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "awempire.com": {
             "epoch": "1575158400",
@@ -1813,7 +1813,7 @@
         "best-pr.info": {
             "epoch": "1548720000",
             "expiration_date": "29-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "best-top.ro": {
             "epoch": "1569801600",
