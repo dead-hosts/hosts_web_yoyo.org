@@ -6806,8 +6806,8 @@
             "state": "future"
         },
         "resolutekey.com": {
-            "epoch": "1548115200",
-            "expiration_date": "22-jan-2019",
+            "epoch": "1579651200",
+            "expiration_date": "22-jan-2020",
             "state": "future"
         },
         "resonantbrush.com": {
@@ -6876,8 +6876,8 @@
             "state": "future"
         },
         "ritzykey.com": {
-            "epoch": "1548115200",
-            "expiration_date": "22-jan-2019",
+            "epoch": "1579651200",
+            "expiration_date": "22-jan-2020",
             "state": "future"
         },
         "ritzysponge.com": {
@@ -7158,7 +7158,7 @@
         "sexcounter.com": {
             "epoch": "1548720000",
             "expiration_date": "29-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "sexinyourcity.com": {
             "epoch": "1561680000",
