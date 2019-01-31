@@ -1591,8 +1591,8 @@
             "state": "future"
         },
         "autohits.dk": {
-            "epoch": "1548892800",
-            "expiration_date": "31-jan-2019",
+            "epoch": "1580428800",
+            "expiration_date": "31-jan-2020",
             "state": "future"
         },
         "automaticflock.com": {
@@ -1611,9 +1611,9 @@
             "state": "future"
         },
         "avsads.com": {
-            "epoch": "1548720000",
-            "expiration_date": "29-jan-2019",
-            "state": "past"
+            "epoch": "1580256000",
+            "expiration_date": "29-jan-2020",
+            "state": "future"
         },
         "awempire.com": {
             "epoch": "1575158400",
@@ -1811,9 +1811,9 @@
             "state": "future"
         },
         "best-pr.info": {
-            "epoch": "1548720000",
-            "expiration_date": "29-jan-2019",
-            "state": "past"
+            "epoch": "1580256000",
+            "expiration_date": "29-jan-2020",
+            "state": "future"
         },
         "best-top.ro": {
             "epoch": "1569801600",
@@ -2091,8 +2091,8 @@
             "state": "future"
         },
         "bumpberam.pro": {
-            "epoch": "1548806400",
-            "expiration_date": "30-jan-2019",
+            "epoch": "1580342400",
+            "expiration_date": "30-jan-2020",
             "state": "future"
         },
         "businessbells.com": {
@@ -2488,7 +2488,7 @@
         "clickwith.bid": {
             "epoch": "1548806400",
             "expiration_date": "30-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "clickxchange.com": {
             "epoch": "1562976000",
