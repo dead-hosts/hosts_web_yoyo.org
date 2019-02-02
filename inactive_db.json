@@ -45,12 +45,9 @@
             "arc1.msn.com",
             "banner.getgo.de",
             "b.aol.com",
-            "b.engadget.com"
-        ],
-        "to_test": [
-            "ads.larryaffiliates.com",
-            "dmtracking.alibaba.com",
+            "b.engadget.com",
             "dmtracking2.alibaba.com",
+            "dmtracking.alibaba.com",
             "eur.a1.yimg.com",
             "images.v3.com",
             "impressionz.co.uk",
@@ -65,8 +62,12 @@
             "openad.tf1.fr",
             "pgl.example",
             "pgl.example0101",
+            "phoenix-adrunner.mycomputer.com",
             "pixel.redditmedia.com",
-            "quarterserver.de",
+            "quarterserver.de"
+        ],
+        "to_test": [
+            "ads.larryaffiliates.com",
             "ranking-street.de",
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
