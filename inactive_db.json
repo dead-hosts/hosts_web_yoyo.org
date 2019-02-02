@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
-        "1548907661": [
+        "1549080496": [
             "Adsatt.ABCNews.starwave.com",
             "Adsatt.go.starwave.com",
             "a.0day.kiev.ua",
@@ -20,13 +20,14 @@
             "ads.getlucky.com",
             "ads.heias.com",
             "ads.hideyourarms.com",
-            "ads.iafrica.com",
+            "ads.iafrica.com"
+        ],
+        "to_test": [
+            "ads.larryaffiliates.com",
             "ads.newdream.net",
             "ads.newsquest.co.uk",
             "ads.penny-arcade.com",
-            "adsremote.scrippsnetworks.com",
             "ads.returnpath.net",
-            "adsrv.eacdn.com",
             "ads.s3.sitepoint.com",
             "ads.saymedia.com",
             "ads.sift.co.uk",
@@ -37,17 +38,19 @@
             "ads.tripod.spray.se",
             "ads.v3.com",
             "ads.virtualcountries.com",
+            "adsremote.scrippsnetworks.com",
+            "adsrv.eacdn.com",
             "adtrading.de",
             "adverts.carltononline.com",
             "adworx.at",
             "aidu-ads.de",
             "an.tacoda.net",
             "arc1.msn.com",
-            "banner.getgo.de",
             "b.aol.com",
             "b.engadget.com",
-            "dmtracking2.alibaba.com",
+            "banner.getgo.de",
             "dmtracking.alibaba.com",
+            "dmtracking2.alibaba.com",
             "eur.a1.yimg.com",
             "images.v3.com",
             "impressionz.co.uk",
@@ -67,17 +70,14 @@
             "ranking-street.de",
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
-            "touchclarity.natwest.com",
+            "reklamer.com.ua",
             "t.pusk.ru",
+            "touchclarity.natwest.com",
             "track.dating-4-you.com",
             "vutzmxahqio.co",
             "webtrends.telegraph.co.uk",
             "www.banner-link.com.br",
             "www.money4exit.de"
-        ],
-        "to_test": [
-            "ads.larryaffiliates.com",
-            "reklamer.com.ua"
         ]
     }
 }
