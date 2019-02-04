@@ -2446,9 +2446,9 @@
             "state": "future"
         },
         "clickhype.com": {
-            "epoch": "1548979200",
-            "expiration_date": "01-feb-2019",
-            "state": "past"
+            "epoch": "1580515200",
+            "expiration_date": "01-feb-2020",
+            "state": "future"
         },
         "clickonometrics.pl": {
             "epoch": "1591228800",
@@ -2741,8 +2741,8 @@
             "state": "future"
         },
         "copyrightaccesscontrols.com": {
-            "epoch": "1548288000",
-            "expiration_date": "24-jan-2019",
+            "epoch": "1579824000",
+            "expiration_date": "24-jan-2020",
             "state": "future"
         },
         "coremetrics.com": {
