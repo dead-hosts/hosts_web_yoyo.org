@@ -346,9 +346,9 @@
             "state": "future"
         },
         "adalliance.io": {
-            "epoch": "1549065600",
-            "expiration_date": "02-feb-2019",
-            "state": "past"
+            "epoch": "1580601600",
+            "expiration_date": "02-feb-2020",
+            "state": "future"
         },
         "adap.tv": {
             "epoch": "1613865600",
@@ -741,9 +741,9 @@
             "state": "future"
         },
         "adnetwork.net": {
-            "epoch": "1549065600",
-            "expiration_date": "02-feb-2019",
-            "state": "past"
+            "epoch": "1580601600",
+            "expiration_date": "02-feb-2020",
+            "state": "future"
         },
         "adnetworkperformance.com": {
             "epoch": "1556323200",
@@ -781,8 +781,8 @@
             "state": "future"
         },
         "adotmob.com": {
-            "epoch": "1549238400",
-            "expiration_date": "04-feb-2019",
+            "epoch": "1580774400",
+            "expiration_date": "04-feb-2020",
             "state": "future"
         },
         "adpenguin.biz": {
