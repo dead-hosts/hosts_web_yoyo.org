@@ -4166,8 +4166,8 @@
             "state": "future"
         },
         "handyfield.com": {
-            "epoch": "1549411200",
-            "expiration_date": "06-feb-2019",
+            "epoch": "1580947200",
+            "expiration_date": "06-feb-2020",
             "state": "future"
         },
         "hardtofindmilk.com": {
@@ -5131,8 +5131,8 @@
             "state": "future"
         },
         "markedcrayon.com": {
-            "epoch": "1549411200",
-            "expiration_date": "06-feb-2019",
+            "epoch": "1580947200",
+            "expiration_date": "06-feb-2020",
             "state": "future"
         },
         "markedpail.com": {
@@ -5803,7 +5803,7 @@
         "nuggad.net": {
             "epoch": "1549324800",
             "expiration_date": "05-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "nuseek.com": {
             "epoch": "1566777600",
@@ -6416,8 +6416,8 @@
             "state": "future"
         },
         "proext.com": {
-            "epoch": "1549411200",
-            "expiration_date": "06-feb-2019",
+            "epoch": "1612569600",
+            "expiration_date": "06-feb-2021",
             "state": "future"
         },
         "profero.com": {
