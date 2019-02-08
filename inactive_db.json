@@ -68,20 +68,20 @@
             "pgl.example0101",
             "pixel.redditmedia.com",
             "quarterserver.de",
-            "ranking-street.de"
+            "ranking-street.de",
+            "reklamer.com.ua",
+            "touchclarity.natwest.com",
+            "t.pusk.ru",
+            "track.dating-4-you.com",
+            "vutzmxahqio.co",
+            "webtrends.telegraph.co.uk",
+            "www.banner-link.com.br"
         ],
         "to_test": [
             "ads.newdream.net",
             "ads.newsquest.co.uk",
             "record.affiliates.karjalakasino.com",
-            "record.bonniergaming.com",
-            "reklamer.com.ua",
-            "t.pusk.ru",
-            "touchclarity.natwest.com",
-            "track.dating-4-you.com",
-            "vutzmxahqio.co",
-            "webtrends.telegraph.co.uk",
-            "www.banner-link.com.br"
+            "record.bonniergaming.com"
         ]
     }
 }
