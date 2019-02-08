@@ -48,13 +48,9 @@
             "banner.getgo.de",
             "banners.easydns.com",
             "b.aol.com",
-            "b.engadget.com"
-        ],
-        "to_test": [
-            "ads.newdream.net",
-            "ads.newsquest.co.uk",
-            "dmtracking.alibaba.com",
+            "b.engadget.com",
             "dmtracking2.alibaba.com",
+            "dmtracking.alibaba.com",
             "eur.a1.yimg.com",
             "images.v3.com",
             "impressionz.co.uk",
@@ -72,7 +68,11 @@
             "pgl.example0101",
             "pixel.redditmedia.com",
             "quarterserver.de",
-            "ranking-street.de",
+            "ranking-street.de"
+        ],
+        "to_test": [
+            "ads.newdream.net",
+            "ads.newsquest.co.uk",
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
             "reklamer.com.ua",
