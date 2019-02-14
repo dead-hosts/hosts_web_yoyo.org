@@ -1006,9 +1006,9 @@
             "state": "future"
         },
         "adsrevenue.net": {
-            "epoch": "1549843200",
-            "expiration_date": "11-feb-2019",
-            "state": "past"
+            "epoch": "1581379200",
+            "expiration_date": "11-feb-2020",
+            "state": "future"
         },
         "adsrvr.org": {
             "epoch": "1616976000",
@@ -1226,8 +1226,8 @@
             "state": "future"
         },
         "adwitserver.com": {
-            "epoch": "1550102400",
-            "expiration_date": "14-feb-2019",
+            "epoch": "1581638400",
+            "expiration_date": "14-feb-2020",
             "state": "future"
         },
         "adworldnetwork.com": {
