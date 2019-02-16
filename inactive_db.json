@@ -49,13 +49,9 @@
             "banner.getgo.de",
             "banners.easydns.com",
             "b.aol.com",
-            "b.engadget.com"
-        ],
-        "to_test": [
-            "ads.linuxsecurity.com",
-            "dist.belnk.com",
-            "dmtracking.alibaba.com",
+            "b.engadget.com",
             "dmtracking2.alibaba.com",
+            "dmtracking.alibaba.com",
             "eur.a1.yimg.com",
             "images.v3.com",
             "impressionz.co.uk",
@@ -75,7 +71,10 @@
             "quarterserver.de",
             "ranking-street.de",
             "record.affiliates.karjalakasino.com",
-            "record.bonniergaming.com",
+            "record.bonniergaming.com"
+        ],
+        "to_test": [
+            "ads.linuxsecurity.com",
             "reklamer.com.ua",
             "t.pusk.ru",
             "touchclarity.natwest.com",
