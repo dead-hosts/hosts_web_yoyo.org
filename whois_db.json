@@ -165,6 +165,11 @@
             "expiration_date": "07-jul-2019",
             "state": "future"
         },
+        "a-counter.kiev.ua": {
+            "epoch": "1564617600",
+            "expiration_date": "01-aug-2019",
+            "state": "future"
+        },
         "aaddzz.com": {
             "epoch": "1551225600",
             "expiration_date": "27-feb-2019",
@@ -188,7 +193,7 @@
         "abandonedclover.com": {
             "epoch": "1551139200",
             "expiration_date": "26-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "abashedangle.com": {
             "epoch": "1597622400",
@@ -720,6 +725,11 @@
             "expiration_date": "09-sep-2019",
             "state": "future"
         },
+        "admotion.com.ar": {
+            "epoch": "1565136000",
+            "expiration_date": "07-aug-2019",
+            "state": "future"
+        },
         "adnet-media.net": {
             "epoch": "1568592000",
             "expiration_date": "16-sep-2019",
@@ -798,6 +808,11 @@
         "adperium.com": {
             "epoch": "1581897600",
             "expiration_date": "17-feb-2020",
+            "state": "future"
+        },
+        "adplus.co.id": {
+            "epoch": "1556150400",
+            "expiration_date": "25-apr-2019",
             "state": "future"
         },
         "adplxmd.com": {
@@ -963,6 +978,11 @@
         "adsk2.co": {
             "epoch": "1558656000",
             "expiration_date": "24-may-2019",
+            "state": "future"
+        },
+        "adskeeper.co.uk": {
+            "epoch": "1589587200",
+            "expiration_date": "16-may-2020",
             "state": "future"
         },
         "adsmarket.com": {
