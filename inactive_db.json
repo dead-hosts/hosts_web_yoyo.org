@@ -52,14 +52,11 @@
             "banners.easydns.com",
             "b.aol.com",
             "b.engadget.com",
-            "click.absoluteagency.com"
-        ],
-        "to_test": [
-            "dmtracking.alibaba.com",
+            "click.absoluteagency.com",
             "dmtracking2.alibaba.com",
+            "dmtracking.alibaba.com",
             "eur.a1.yimg.com",
             "images.v3.com",
-            "impressionz.co.uk",
             "ioam.de",
             "ivwbox.de",
             "logs.logrocket.com",
@@ -76,8 +73,9 @@
             "quarterserver.de",
             "ranking-street.de",
             "record.affiliates.karjalakasino.com",
-            "record.bonniergaming.com",
-            "reklamer.com.ua",
+            "record.bonniergaming.com"
+        ],
+        "to_test": [
             "t.pusk.ru",
             "touchclarity.natwest.com",
             "track.dating-4-you.com",
