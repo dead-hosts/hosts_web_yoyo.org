@@ -1441,9 +1441,9 @@
             "state": "future"
         },
         "alladvantage.com": {
-            "epoch": "1551139200",
-            "expiration_date": "26-feb-2019",
-            "state": "past"
+            "epoch": "1582675200",
+            "expiration_date": "26-feb-2020",
+            "state": "future"
         },
         "allosponsor.com": {
             "epoch": "1578960000",
@@ -2341,9 +2341,9 @@
             "state": "future"
         },
         "cherrythread.com": {
-            "epoch": "1551139200",
-            "expiration_date": "26-feb-2019",
-            "state": "past"
+            "epoch": "1582675200",
+            "expiration_date": "26-feb-2020",
+            "state": "future"
         },
         "chewcoat.com": {
             "epoch": "1570492800",
