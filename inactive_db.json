@@ -80,10 +80,10 @@
             "webtrends.telegraph.co.uk",
             "www.banner-link.com.br",
             "ads.larryaffiliates.com",
-            "ads.linuxsecurity.com"
-        ],
-        "to_test": [
+            "ads.linuxsecurity.com",
+            "rankchamp.de",
             "ranking-street.de"
-        ]
+        ],
+        "to_test": []
     }
 }

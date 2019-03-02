@@ -6093,7 +6093,7 @@
         "pagerank4you.com": {
             "epoch": "1551484800",
             "expiration_date": "02-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "pageranktop.com": {
             "epoch": "1577836800",
@@ -6896,9 +6896,9 @@
             "state": "future"
         },
         "revenuedirect.com": {
-            "epoch": "1551312000",
-            "expiration_date": "28-feb-2019",
-            "state": "past"
+            "epoch": "1582848000",
+            "expiration_date": "28-feb-2020",
+            "state": "future"
         },
         "revenuehits.com": {
             "epoch": "1562716800",
