@@ -51,13 +51,9 @@
             "banner.getgo.de",
             "banners.easydns.com",
             "b.aol.com",
-            "b.engadget.com"
-        ],
-        "to_test": [
-            "ads.larryaffiliates.com",
-            "ads.linuxsecurity.com",
-            "dmtracking.alibaba.com",
+            "b.engadget.com",
             "dmtracking2.alibaba.com",
+            "dmtracking.alibaba.com",
             "eur.a1.yimg.com",
             "ioam.de",
             "ivwbox.de",
@@ -73,9 +69,14 @@
             "pgl.example0101",
             "pixel.redditmedia.com",
             "quarterserver.de",
+            "rankchamp.de",
             "ranking-street.de",
             "record.affiliates.karjalakasino.com",
-            "record.bonniergaming.com",
+            "record.bonniergaming.com"
+        ],
+        "to_test": [
+            "ads.larryaffiliates.com",
+            "ads.linuxsecurity.com",
             "t.pusk.ru",
             "touchclarity.natwest.com",
             "track.dating-4-you.com",
