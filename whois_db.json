@@ -336,9 +336,9 @@
             "state": "future"
         },
         "ad4mat.com": {
-            "epoch": "1551571200",
-            "expiration_date": "03-mar-2019",
-            "state": "past"
+            "epoch": "1583193600",
+            "expiration_date": "03-mar-2020",
+            "state": "future"
         },
         "ad4mat.net": {
             "epoch": "1583020800",
@@ -408,7 +408,7 @@
         "adbunker.com": {
             "epoch": "1551830400",
             "expiration_date": "06-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "adbutler.com": {
             "epoch": "1678924800",
