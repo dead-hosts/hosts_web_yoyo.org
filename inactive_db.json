@@ -52,13 +52,7 @@
             "banner.getgo.de",
             "banner.img.co.za",
             "banners.easydns.com",
-            "click.absoluteagency.com"
-        ],
-        "to_test": [
-            "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com",
-            "adserv.iafrica.com",
-            "adserver.omroepzeeland.nl",
+            "click.absoluteagency.com",
             "dmtracking.alibaba.com",
             "dmtracking2.alibaba.com",
             "eur.a1.yimg.com",
@@ -74,7 +68,13 @@
             "openad.tf1.fr",
             "pgl.example",
             "pgl.example0101",
-            "pixel.redditmedia.com",
+            "pixel.redditmedia.com"
+        ],
+        "to_test": [
+            "Adsatt.ABCNews.starwave.com",
+            "Adsatt.go.starwave.com",
+            "adserv.iafrica.com",
+            "adserver.omroepzeeland.nl",
             "quarterserver.de",
             "ranking-street.de",
             "record.affiliates.karjalakasino.com",
