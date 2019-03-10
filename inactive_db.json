@@ -70,14 +70,7 @@
             "pgl.example0101",
             "pixel.redditmedia.com",
             "quarterserver.de",
-            "ranking-street.de"
-        ],
-        "to_test": [
-            "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com",
-            "adserv.iafrica.com",
-            "adserver.omroepzeeland.nl",
-            "record.affiliates.karjalakasino.com",
+            "ranking-street.de",
             "record.bonniergaming.com",
             "t.pusk.ru",
             "touchclarity.natwest.com",
@@ -85,6 +78,13 @@
             "vutzmxahqio.co",
             "webtrends.telegraph.co.uk",
             "www.banner-link.com.br"
+        ],
+        "to_test": [
+            "Adsatt.ABCNews.starwave.com",
+            "Adsatt.go.starwave.com",
+            "adserv.iafrica.com",
+            "adserver.omroepzeeland.nl",
+            "record.affiliates.karjalakasino.com"
         ]
     }
 }
