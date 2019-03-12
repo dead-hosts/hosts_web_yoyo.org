@@ -49,13 +49,7 @@
             "b.aol.com",
             "b.engadget.com",
             "banner.getgo.de",
-            "banners.easydns.com"
-        ],
-        "to_test": [
-            "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com",
-            "adserv.iafrica.com",
-            "adserver.omroepzeeland.nl",
+            "banners.easydns.com",
             "dmtracking.alibaba.com",
             "dmtracking2.alibaba.com",
             "eur.a1.yimg.com",
@@ -72,7 +66,13 @@
             "pgl.example",
             "pgl.example0101",
             "pixel.redditmedia.com",
-            "quarterserver.de",
+            "quarterserver.de"
+        ],
+        "to_test": [
+            "Adsatt.ABCNews.starwave.com",
+            "Adsatt.go.starwave.com",
+            "adserv.iafrica.com",
+            "adserver.omroepzeeland.nl",
             "ranking-street.de",
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
