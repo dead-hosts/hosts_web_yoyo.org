@@ -1713,7 +1713,7 @@
         "bannerconnect.net": {
             "epoch": "1552348800",
             "expiration_date": "12-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "bannerflow.com": {
             "epoch": "1559520000",
@@ -2488,7 +2488,7 @@
         "clickhouse.com": {
             "epoch": "1552348800",
             "expiration_date": "12-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "clickhype.com": {
             "epoch": "1580515200",
