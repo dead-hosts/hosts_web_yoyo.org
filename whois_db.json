@@ -23,7 +23,7 @@
         "180searchassistant.com": {
             "epoch": "1552262400",
             "expiration_date": "11-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "207.net": {
             "epoch": "1562716800",

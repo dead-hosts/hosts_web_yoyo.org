@@ -1,12 +1,10 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
-        "1552192133": [
+        "1552365016": [
             "a.0day.kiev.ua",
             "ad.choiceradio.com",
             "ad.eurosport.com",
             "ad.f1cd.ru",
-            "ad.hbv.de",
-            "ad.mediastorm.hu",
             "ad.pandora.tv",
             "ad2.linxcz.cz",
             "adboost.de.vu",
@@ -27,7 +25,9 @@
             "ads.linuxsecurity.com",
             "ads.newdream.net",
             "ads.newsquest.co.uk",
-            "ads.penny-arcade.com",
+            "ads.penny-arcade.com"
+        ],
+        "to_test": [
             "ads.returnpath.net",
             "ads.s3.sitepoint.com",
             "ads.saymedia.com",
@@ -40,6 +40,10 @@
             "ads.virtualcountries.com",
             "ads.web.aol.com",
             "ads.web.cs.com",
+            "Adsatt.ABCNews.starwave.com",
+            "Adsatt.go.starwave.com",
+            "adserv.iafrica.com",
+            "adserver.omroepzeeland.nl",
             "adsremote.scrippsnetworks.com",
             "adsrv.eacdn.com",
             "adtrading.de",
@@ -71,6 +75,7 @@
             "pixel.redditmedia.com",
             "quarterserver.de",
             "ranking-street.de",
+            "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
             "t.pusk.ru",
             "touchclarity.natwest.com",
@@ -78,13 +83,6 @@
             "vutzmxahqio.co",
             "webtrends.telegraph.co.uk",
             "www.banner-link.com.br"
-        ],
-        "to_test": [
-            "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com",
-            "adserv.iafrica.com",
-            "adserver.omroepzeeland.nl",
-            "record.affiliates.karjalakasino.com"
         ]
     }
 }
