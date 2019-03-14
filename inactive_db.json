@@ -52,13 +52,7 @@
             "b.engadget.com",
             "banner.getgo.de",
             "banners.easydns.com",
-            "click.absoluteagency.com"
-        ],
-        "to_test": [
-            "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com",
-            "adserv.iafrica.com",
-            "adserver.omroepzeeland.nl",
+            "click.absoluteagency.com",
             "dmtracking.alibaba.com",
             "dmtracking2.alibaba.com",
             "eur.a1.yimg.com",
@@ -68,6 +62,8 @@
             "m1.webstats4u.com",
             "m6r.eu",
             "media.ftv-publicite.fr",
+            "mediax.angloinfo.com",
+            "mediaz.angloinfo.com",
             "mtrcs.samba.tv",
             "oas.salon.com",
             "oewabox.at",
@@ -75,7 +71,13 @@
             "pgl.example",
             "pgl.example0101",
             "pixel.redditmedia.com",
-            "quarterserver.de",
+            "quarterserver.de"
+        ],
+        "to_test": [
+            "Adsatt.ABCNews.starwave.com",
+            "Adsatt.go.starwave.com",
+            "adserv.iafrica.com",
+            "adserver.omroepzeeland.nl",
             "ranking-street.de",
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",

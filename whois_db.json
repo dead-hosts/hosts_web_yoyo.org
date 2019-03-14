@@ -4786,8 +4786,8 @@
             "state": "future"
         },
         "itop.cz": {
-            "epoch": "1552176000",
-            "expiration_date": "10-mar-2019",
+            "epoch": "1583798400",
+            "expiration_date": "10-mar-2020",
             "state": "future"
         },
         "its-that-easy.com": {
@@ -5678,6 +5678,11 @@
         "nativeroll.tv": {
             "epoch": "1568160000",
             "expiration_date": "11-sep-2019",
+            "state": "future"
+        },
+        "navegg.com": {
+            "epoch": "1573603200",
+            "expiration_date": "13-nov-2019",
             "state": "future"
         },
         "navigator.io": {
