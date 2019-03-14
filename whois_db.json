@@ -6890,6 +6890,11 @@
             "expiration_date": "24-aug-2019",
             "state": "future"
         },
+        "resonate.com": {
+            "epoch": "1799712000",
+            "expiration_date": "12-jan-2027",
+            "state": "future"
+        },
         "retargeter.com": {
             "epoch": "1576454400",
             "expiration_date": "16-dec-2019",
@@ -7145,6 +7150,11 @@
             "expiration_date": "25-oct-2019",
             "state": "future"
         },
+        "seadform.net": {
+            "epoch": "1555200000",
+            "expiration_date": "14-apr-2019",
+            "state": "future"
+        },
         "searchmarketing.com": {
             "epoch": "1561420800",
             "expiration_date": "25-jun-2019",
@@ -7226,8 +7236,8 @@
             "state": "future"
         },
         "sessioncam.com": {
-            "epoch": "1552435200",
-            "expiration_date": "13-mar-2019",
+            "epoch": "1584057600",
+            "expiration_date": "13-mar-2020",
             "state": "future"
         },
         "sexcounter.com": {
@@ -8236,9 +8246,9 @@
             "state": "future"
         },
         "topsafelist.net": {
-            "epoch": "1552262400",
-            "expiration_date": "11-mar-2019",
-            "state": "past"
+            "epoch": "1583884800",
+            "expiration_date": "11-mar-2020",
+            "state": "future"
         },
         "topsir.com": {
             "epoch": "1557792000",
@@ -8681,8 +8691,8 @@
             "state": "future"
         },
         "verticalmass.com": {
-            "epoch": "1552521600",
-            "expiration_date": "14-mar-2019",
+            "epoch": "1584144000",
+            "expiration_date": "14-mar-2020",
             "state": "future"
         },
         "veruta.com": {
@@ -8846,9 +8856,9 @@
             "state": "future"
         },
         "webreseau.com": {
-            "epoch": "1552348800",
-            "expiration_date": "12-mar-2019",
-            "state": "past"
+            "epoch": "1583971200",
+            "expiration_date": "12-mar-2020",
+            "state": "future"
         },
         "webseoanalytics.com": {
             "epoch": "1559692800",
