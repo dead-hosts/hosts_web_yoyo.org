@@ -1,10 +1,11 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
-        "1552365016": [
+        "1552537838": [
             "a.0day.kiev.ua",
             "ad.choiceradio.com",
             "ad.eurosport.com",
             "ad.f1cd.ru",
+            "ad.globe7.com",
             "ad.pandora.tv",
             "ad2.linxcz.cz",
             "adboost.de.vu",
@@ -14,6 +15,7 @@
             "ads.aol.com",
             "ads.canalblog.com",
             "ads.cgnetworks.com",
+            "ads.datinggold.com",
             "ads.eatinparis.com",
             "ads.expedia.com",
             "ads.foxnews.com",
@@ -32,12 +34,18 @@
             "ads.sift.co.uk",
             "ads.slim.com",
             "ads.telegraph.co.uk",
-            "ads.toplayaffiliates.com",
+            "ads.toplayaffiliates.com"
+        ],
+        "to_test": [
             "ads.trinitymirror.co.uk",
             "ads.tripod.spray.se",
             "ads.virtualcountries.com",
             "ads.web.aol.com",
             "ads.web.cs.com",
+            "Adsatt.ABCNews.starwave.com",
+            "Adsatt.go.starwave.com",
+            "adserv.iafrica.com",
+            "adserver.omroepzeeland.nl",
             "adsremote.scrippsnetworks.com",
             "adsrv.eacdn.com",
             "adtrading.de",
@@ -76,12 +84,6 @@
             "vutzmxahqio.co",
             "webtrends.telegraph.co.uk",
             "www.banner-link.com.br"
-        ],
-        "to_test": [
-            "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com",
-            "adserv.iafrica.com",
-            "adserver.omroepzeeland.nl"
         ]
     }
 }
