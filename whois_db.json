@@ -2811,8 +2811,8 @@
             "state": "future"
         },
         "cpalead.com": {
-            "epoch": "1552780800",
-            "expiration_date": "17-mar-2019",
+            "epoch": "1615939200",
+            "expiration_date": "17-mar-2021",
             "state": "future"
         },
         "cpays.com": {
@@ -3191,9 +3191,9 @@
             "state": "future"
         },
         "displayadsmedia.com": {
-            "epoch": "1552608000",
-            "expiration_date": "15-mar-2019",
-            "state": "past"
+            "epoch": "1584230400",
+            "expiration_date": "15-mar-2020",
+            "state": "future"
         },
         "disqusads.com": {
             "epoch": "1576454400",
@@ -3756,8 +3756,8 @@
             "state": "future"
         },
         "fastclick.net": {
-            "epoch": "1552867200",
-            "expiration_date": "18-mar-2019",
+            "epoch": "1584489600",
+            "expiration_date": "18-mar-2020",
             "state": "future"
         },
         "faultycanvas.com": {
@@ -6056,9 +6056,9 @@
             "state": "future"
         },
         "ordingly.com": {
-            "epoch": "1552694400",
-            "expiration_date": "16-mar-2019",
-            "state": "past"
+            "epoch": "1584316800",
+            "expiration_date": "16-mar-2020",
+            "state": "future"
         },
         "outbrain.com": {
             "epoch": "1691539200",
@@ -6401,9 +6401,9 @@
             "state": "future"
         },
         "porntrack.com": {
-            "epoch": "1552608000",
-            "expiration_date": "15-mar-2019",
-            "state": "past"
+            "epoch": "1584230400",
+            "expiration_date": "15-mar-2020",
+            "state": "future"
         },
         "possessivebucket.com": {
             "epoch": "1575072000",
@@ -6796,8 +6796,8 @@
             "state": "future"
         },
         "realclever.com": {
-            "epoch": "1552780800",
-            "expiration_date": "17-mar-2019",
+            "epoch": "1615939200",
+            "expiration_date": "17-mar-2021",
             "state": "future"
         },
         "realclix.com": {
