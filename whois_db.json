@@ -6645,6 +6645,11 @@
             "expiration_date": "03-apr-2019",
             "state": "future"
         },
+        "qualtrics.com": {
+            "epoch": "1569974400",
+            "expiration_date": "02-oct-2019",
+            "state": "future"
+        },
         "quantcast.com": {
             "epoch": "1592438400",
             "expiration_date": "18-jun-2020",
