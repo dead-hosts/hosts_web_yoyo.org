@@ -9238,7 +9238,7 @@
         "zenkreka.com": {
             "epoch": "1553299200",
             "expiration_date": "23-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "zenzuu.com": {
             "epoch": "1575936000",
