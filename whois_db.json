@@ -1123,7 +1123,7 @@
         "adtrak.net": {
             "epoch": "1553904000",
             "expiration_date": "30-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "adtriplex.com": {
             "epoch": "1578441600",
@@ -1166,8 +1166,8 @@
             "state": "future"
         },
         "advertiseireland.com": {
-            "epoch": "1553990400",
-            "expiration_date": "31-mar-2019",
+            "epoch": "1585612800",
+            "expiration_date": "31-mar-2020",
             "state": "future"
         },
         "advertisementafterthought.com": {
@@ -1706,8 +1706,8 @@
             "state": "future"
         },
         "bannerboxes.com": {
-            "epoch": "1553904000",
-            "expiration_date": "30-mar-2019",
+            "epoch": "1585526400",
+            "expiration_date": "30-mar-2020",
             "state": "future"
         },
         "bannerconnect.com": {
@@ -2326,8 +2326,8 @@
             "state": "future"
         },
         "chart.dk": {
-            "epoch": "1553990400",
-            "expiration_date": "31-mar-2019",
+            "epoch": "1585612800",
+            "expiration_date": "31-mar-2020",
             "state": "future"
         },
         "chartbeat.com": {
@@ -2798,6 +2798,11 @@
         "coremetrics.com": {
             "epoch": "1581552000",
             "expiration_date": "13-feb-2020",
+            "state": "future"
+        },
+        "cost2buy.net": {
+            "epoch": "1577318400",
+            "expiration_date": "26-dec-2019",
             "state": "future"
         },
         "counted.com": {
