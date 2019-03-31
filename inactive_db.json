@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
-        "1553834407": [
+        "1554007229": [
             "a.0day.kiev.ua",
             "ad.choiceradio.com",
             "ad.eurosport.com",
@@ -34,12 +34,18 @@
             "ads.sift.co.uk",
             "ads.slim.com",
             "ads.telegraph.co.uk",
-            "ads.toplayaffiliates.com",
+            "ads.toplayaffiliates.com"
+        ],
+        "to_test": [
             "ads.trinitymirror.co.uk",
             "ads.tripod.spray.se",
             "ads.virtualcountries.com",
             "ads.web.aol.com",
             "ads.web.cs.com",
+            "Adsatt.ABCNews.starwave.com",
+            "Adsatt.go.starwave.com",
+            "adserv.iafrica.com",
+            "adserver.omroepzeeland.nl",
             "adsremote.scrippsnetworks.com",
             "adsrv.eacdn.com",
             "adtrading.de",
@@ -80,12 +86,6 @@
             "vutzmxahqio.co",
             "webtrends.telegraph.co.uk",
             "www.banner-link.com.br"
-        ],
-        "to_test": [
-            "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com",
-            "adserv.iafrica.com",
-            "adserver.omroepzeeland.nl"
         ]
     }
 }
