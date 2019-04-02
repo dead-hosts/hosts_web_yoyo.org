@@ -3275,6 +3275,11 @@
             "expiration_date": "03-apr-2019",
             "state": "future"
         },
+        "downloadr.xyz": {
+            "epoch": "1569456000",
+            "expiration_date": "26-sep-2019",
+            "state": "future"
+        },
         "dq95d35.com": {
             "epoch": "1582502400",
             "expiration_date": "24-feb-2020",
@@ -3366,9 +3371,9 @@
             "state": "future"
         },
         "ebocornac.com": {
-            "epoch": "1553904000",
-            "expiration_date": "30-mar-2019",
-            "state": "past"
+            "epoch": "1585526400",
+            "expiration_date": "30-mar-2020",
+            "state": "future"
         },
         "ebuzzing.com": {
             "epoch": "1558483200",
@@ -3788,6 +3793,11 @@
         "fastclick.net": {
             "epoch": "1584489600",
             "expiration_date": "18-mar-2020",
+            "state": "future"
+        },
+        "fastly-insights.com": {
+            "epoch": "1668556800",
+            "expiration_date": "16-nov-2022",
             "state": "future"
         },
         "faultycanvas.com": {
@@ -4245,6 +4255,11 @@
             "expiration_date": "20-apr-2021",
             "state": "future"
         },
+        "h78xb.pw": {
+            "epoch": "1586822400",
+            "expiration_date": "14-apr-2020",
+            "state": "future"
+        },
         "hammerhearing.com": {
             "epoch": "1554249600",
             "expiration_date": "03-apr-2019",
@@ -4273,6 +4288,11 @@
         "havamedia.net": {
             "epoch": "1559606400",
             "expiration_date": "04-jun-2019",
+            "state": "future"
+        },
+        "hdscout.com": {
+            "epoch": "1579737600",
+            "expiration_date": "23-jan-2020",
             "state": "future"
         },
         "heap.com": {
@@ -4450,6 +4470,11 @@
             "expiration_date": "18-sep-2020",
             "state": "future"
         },
+        "htmlhubing.xyz": {
+            "epoch": "1579046400",
+            "expiration_date": "15-jan-2020",
+            "state": "future"
+        },
         "httpool.com": {
             "epoch": "1711670400",
             "expiration_date": "29-mar-2024",
@@ -4596,8 +4621,8 @@
             "state": "future"
         },
         "imrworldwide.com": {
-            "epoch": "1554076800",
-            "expiration_date": "01-apr-2019",
+            "epoch": "1585699200",
+            "expiration_date": "01-apr-2020",
             "state": "future"
         },
         "inaccused.com": {
@@ -4833,7 +4858,7 @@
         "its-that-easy.com": {
             "epoch": "1554163200",
             "expiration_date": "02-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "itsptp.com": {
             "epoch": "1574726400",
@@ -6986,8 +7011,8 @@
             "state": "future"
         },
         "richmails.com": {
-            "epoch": "1554163200",
-            "expiration_date": "02-apr-2019",
+            "epoch": "1585785600",
+            "expiration_date": "02-apr-2020",
             "state": "future"
         },
         "richstring.com": {
