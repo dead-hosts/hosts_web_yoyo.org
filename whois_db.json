@@ -110,6 +110,11 @@
             "expiration_date": "24-nov-2021",
             "state": "future"
         },
+        "5mcwl.pw": {
+            "epoch": "1586822400",
+            "expiration_date": "14-apr-2020",
+            "state": "future"
+        },
         "600z.com": {
             "epoch": "1571097600",
             "expiration_date": "15-oct-2019",
