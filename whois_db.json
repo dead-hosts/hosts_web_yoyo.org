@@ -1406,8 +1406,8 @@
             "state": "future"
         },
         "aheadday.com": {
-            "epoch": "1554249600",
-            "expiration_date": "03-apr-2019",
+            "epoch": "1585872000",
+            "expiration_date": "03-apr-2020",
             "state": "future"
         },
         "aim4media.com": {
@@ -1481,8 +1481,8 @@
             "state": "future"
         },
         "ambitiousagreement.com": {
-            "epoch": "1554249600",
-            "expiration_date": "03-apr-2019",
+            "epoch": "1585872000",
+            "expiration_date": "03-apr-2020",
             "state": "future"
         },
         "americash.com": {
@@ -1828,7 +1828,7 @@
         "beamkite.com": {
             "epoch": "1554336000",
             "expiration_date": "04-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "bebi.com": {
             "epoch": "1557705600",
@@ -2198,7 +2198,7 @@
         "calmfoot.com": {
             "epoch": "1554249600",
             "expiration_date": "03-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "caniamedia.com": {
             "epoch": "1575072000",
@@ -2371,8 +2371,8 @@
             "state": "future"
         },
         "chickensstation.com": {
-            "epoch": "1554249600",
-            "expiration_date": "03-apr-2019",
+            "epoch": "1585872000",
+            "expiration_date": "03-apr-2020",
             "state": "future"
         },
         "chiefcurrent.com": {
@@ -2678,7 +2678,7 @@
         "commandwalk.com": {
             "epoch": "1554336000",
             "expiration_date": "04-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "commissionmonster.com": {
             "epoch": "1572912000",
@@ -2738,7 +2738,7 @@
         "consciouscabbage.com": {
             "epoch": "1554249600",
             "expiration_date": "03-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "consciouschairs.com": {
             "epoch": "1571961600",
