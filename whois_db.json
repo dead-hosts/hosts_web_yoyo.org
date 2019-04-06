@@ -7136,9 +7136,9 @@
             "state": "future"
         },
         "rulerabbit.com": {
-            "epoch": "1554249600",
-            "expiration_date": "03-apr-2019",
-            "state": "past"
+            "epoch": "1585872000",
+            "expiration_date": "03-apr-2020",
+            "state": "future"
         },
         "runads.com": {
             "epoch": "1701820800",
@@ -7196,9 +7196,9 @@
             "state": "future"
         },
         "scarcestream.com": {
-            "epoch": "1554249600",
-            "expiration_date": "03-apr-2019",
-            "state": "past"
+            "epoch": "1585872000",
+            "expiration_date": "03-apr-2020",
+            "state": "future"
         },
         "scatteredheat.com": {
             "epoch": "1570233600",
@@ -7406,9 +7406,9 @@
             "state": "future"
         },
         "shelterstraw.com": {
-            "epoch": "1554249600",
-            "expiration_date": "03-apr-2019",
-            "state": "past"
+            "epoch": "1585872000",
+            "expiration_date": "03-apr-2020",
+            "state": "future"
         },
         "shermore.info": {
             "epoch": "1582070400",
@@ -7426,9 +7426,9 @@
             "state": "future"
         },
         "shiveringsail.com": {
-            "epoch": "1554249600",
-            "expiration_date": "03-apr-2019",
-            "state": "past"
+            "epoch": "1585872000",
+            "expiration_date": "03-apr-2020",
+            "state": "future"
         },
         "shockingswing.com": {
             "epoch": "1579651200",
@@ -7466,9 +7466,9 @@
             "state": "future"
         },
         "simplisticnose.com": {
-            "epoch": "1554249600",
-            "expiration_date": "03-apr-2019",
-            "state": "past"
+            "epoch": "1585872000",
+            "expiration_date": "03-apr-2020",
+            "state": "future"
         },
         "sincerebuffalo.com": {
             "epoch": "1570233600",
@@ -7576,9 +7576,9 @@
             "state": "future"
         },
         "snakesort.com": {
-            "epoch": "1554249600",
-            "expiration_date": "03-apr-2019",
-            "state": "past"
+            "epoch": "1585872000",
+            "expiration_date": "03-apr-2020",
+            "state": "future"
         },
         "snapads.com": {
             "epoch": "1765411200",
@@ -7661,9 +7661,9 @@
             "state": "future"
         },
         "spectacularsnail.com": {
-            "epoch": "1554249600",
-            "expiration_date": "03-apr-2019",
-            "state": "past"
+            "epoch": "1585872000",
+            "expiration_date": "03-apr-2020",
+            "state": "future"
         },
         "speedomizer.com": {
             "epoch": "1568851200",
@@ -7736,9 +7736,9 @@
             "state": "future"
         },
         "squeamishscarecrow.com": {
-            "epoch": "1554249600",
-            "expiration_date": "03-apr-2019",
-            "state": "past"
+            "epoch": "1585872000",
+            "expiration_date": "03-apr-2020",
+            "state": "future"
         },
         "squirrelhands.com": {
             "epoch": "1566604800",
@@ -7951,9 +7951,9 @@
             "state": "future"
         },
         "superficialsink.com": {
-            "epoch": "1554249600",
-            "expiration_date": "03-apr-2019",
-            "state": "past"
+            "epoch": "1585872000",
+            "expiration_date": "03-apr-2020",
+            "state": "future"
         },
         "superstats.com": {
             "epoch": "1570233600",
@@ -8028,6 +8028,11 @@
         "talentedsteel.com": {
             "epoch": "1576195200",
             "expiration_date": "13-dec-2019",
+            "state": "future"
+        },
+        "tamgrt.com": {
+            "epoch": "1578355200",
+            "expiration_date": "07-jan-2020",
             "state": "future"
         },
         "tangerinenet.biz": {
@@ -8506,9 +8511,9 @@
             "state": "future"
         },
         "traktrafficflow.com": {
-            "epoch": "1554336000",
-            "expiration_date": "04-apr-2019",
-            "state": "past"
+            "epoch": "1585958400",
+            "expiration_date": "04-apr-2020",
+            "state": "future"
         },
         "tranquilside.com": {
             "epoch": "1575072000",
@@ -8551,9 +8556,9 @@
             "state": "future"
         },
         "tritetongue.com": {
-            "epoch": "1554249600",
-            "expiration_date": "03-apr-2019",
-            "state": "past"
+            "epoch": "1585872000",
+            "expiration_date": "03-apr-2020",
+            "state": "future"
         },
         "trix.net": {
             "epoch": "1625443200",
