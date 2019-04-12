@@ -2090,6 +2090,11 @@
             "expiration_date": "21-oct-2019",
             "state": "future"
         },
+        "brealtime.com": {
+            "epoch": "1587081600",
+            "expiration_date": "17-apr-2020",
+            "state": "future"
+        },
         "brid.tv": {
             "epoch": "1572393600",
             "expiration_date": "30-oct-2019",
