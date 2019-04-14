@@ -55,13 +55,7 @@
             "banner.getgo.de",
             "bannerexchange.cjb.net",
             "banners.easydns.com",
-            "clients.tbo.com"
-        ],
-        "to_test": [
-            "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com",
-            "adserv.iafrica.com",
-            "adserver.omroepzeeland.nl",
+            "clients.tbo.com",
             "dmtracking.alibaba.com",
             "dmtracking2.alibaba.com",
             "eur.a1.yimg.com",
@@ -81,7 +75,13 @@
             "quarterserver.de",
             "ranking-street.de",
             "record.affiliates.karjalakasino.com",
-            "record.bonniergaming.com",
+            "record.bonniergaming.com"
+        ],
+        "to_test": [
+            "Adsatt.ABCNews.starwave.com",
+            "Adsatt.go.starwave.com",
+            "adserv.iafrica.com",
+            "adserver.omroepzeeland.nl",
             "t.pusk.ru",
             "touchclarity.natwest.com",
             "track.dating-4-you.com",
