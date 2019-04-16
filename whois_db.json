@@ -4006,8 +4006,8 @@
             "state": "future"
         },
         "frtyj.com": {
-            "epoch": "1555372800",
-            "expiration_date": "16-apr-2019",
+            "epoch": "1586995200",
+            "expiration_date": "16-apr-2020",
             "state": "future"
         },
         "fullstory.com": {
@@ -4568,7 +4568,7 @@
         "iesnare.com": {
             "epoch": "1555372800",
             "expiration_date": "16-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "ilbanner.com": {
             "epoch": "1582416000",
