@@ -33,9 +33,7 @@
             "ads.s3.sitepoint.com",
             "ads.saymedia.com",
             "ads.sift.co.uk",
-            "ads.slim.com"
-        ],
-        "to_test": [
+            "ads.slim.com",
             "ads.telegraph.co.uk",
             "ads.toplayaffiliates.com",
             "ads.trinitymirror.co.uk",
@@ -43,10 +41,6 @@
             "ads.virtualcountries.com",
             "ads.web.aol.com",
             "ads.web.cs.com",
-            "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com",
-            "adserv.iafrica.com",
-            "adserver.omroepzeeland.nl",
             "adsremote.scrippsnetworks.com",
             "adsrv.eacdn.com",
             "adtrading.de",
@@ -61,7 +55,14 @@
             "banner.getgo.de",
             "bannerexchange.cjb.net",
             "banners.easydns.com",
-            "clients.tbo.com",
+            "click.absoluteagency.com",
+            "clients.tbo.com"
+        ],
+        "to_test": [
+            "Adsatt.ABCNews.starwave.com",
+            "Adsatt.go.starwave.com",
+            "adserv.iafrica.com",
+            "adserver.omroepzeeland.nl",
             "dmtracking.alibaba.com",
             "dmtracking2.alibaba.com",
             "eur.a1.yimg.com",
