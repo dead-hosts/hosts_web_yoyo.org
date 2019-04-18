@@ -3341,8 +3341,8 @@
             "state": "future"
         },
         "e-m.fr": {
-            "epoch": "1555545600",
-            "expiration_date": "18-apr-2019",
+            "epoch": "1587168000",
+            "expiration_date": "18-apr-2020",
             "state": "future"
         },
         "e-n-t-e-r-n-e-x.com": {
@@ -4485,6 +4485,11 @@
             "expiration_date": "18-sep-2020",
             "state": "future"
         },
+        "hsadspixel.net": {
+            "epoch": "1618963200",
+            "expiration_date": "21-apr-2021",
+            "state": "future"
+        },
         "htmlhubing.xyz": {
             "epoch": "1579046400",
             "expiration_date": "15-jan-2020",
@@ -4571,9 +4576,9 @@
             "state": "future"
         },
         "iesnare.com": {
-            "epoch": "1555372800",
-            "expiration_date": "16-apr-2019",
-            "state": "past"
+            "epoch": "1618531200",
+            "expiration_date": "16-apr-2021",
+            "state": "future"
         },
         "ilbanner.com": {
             "epoch": "1582416000",
@@ -4656,8 +4661,8 @@
             "state": "future"
         },
         "inclk.com": {
-            "epoch": "1555545600",
-            "expiration_date": "18-apr-2019",
+            "epoch": "1587168000",
+            "expiration_date": "18-apr-2020",
             "state": "future"
         },
         "incognitosearches.com": {
@@ -4938,6 +4943,11 @@
         "justrelevant.com": {
             "epoch": "1572307200",
             "expiration_date": "29-oct-2019",
+            "state": "future"
+        },
+        "justuno.com": {
+            "epoch": "1620691200",
+            "expiration_date": "11-may-2021",
             "state": "future"
         },
         "kanoodle.com": {
@@ -6256,8 +6266,8 @@
             "state": "future"
         },
         "paypopup.com": {
-            "epoch": "1555459200",
-            "expiration_date": "17-apr-2019",
+            "epoch": "1587081600",
+            "expiration_date": "17-apr-2020",
             "state": "future"
         },
         "payserve.com": {
