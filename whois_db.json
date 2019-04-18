@@ -1100,6 +1100,11 @@
             "expiration_date": "14-feb-2024",
             "state": "future"
         },
+        "adtng.com": {
+            "epoch": "1563580800",
+            "expiration_date": "20-jul-2019",
+            "state": "future"
+        },
         "adtoll.com": {
             "epoch": "1571788800",
             "expiration_date": "23-oct-2019",
@@ -2506,8 +2511,8 @@
             "state": "future"
         },
         "clickhereforcellphones.com": {
-            "epoch": "1555459200",
-            "expiration_date": "17-apr-2019",
+            "epoch": "1587081600",
+            "expiration_date": "17-apr-2020",
             "state": "future"
         },
         "clickhouse.com": {
@@ -2776,8 +2781,8 @@
             "state": "future"
         },
         "conversionbet.com": {
-            "epoch": "1555545600",
-            "expiration_date": "18-apr-2019",
+            "epoch": "1587168000",
+            "expiration_date": "18-apr-2020",
             "state": "future"
         },
         "conversionruler.com": {
