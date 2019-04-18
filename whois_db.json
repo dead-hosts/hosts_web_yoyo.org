@@ -8201,9 +8201,9 @@
             "state": "future"
         },
         "theads.me": {
-            "epoch": "1555372800",
-            "expiration_date": "16-apr-2019",
-            "state": "past"
+            "epoch": "1586995200",
+            "expiration_date": "16-apr-2020",
+            "state": "future"
         },
         "thebugs.ws": {
             "epoch": "1583280000",
@@ -8348,7 +8348,7 @@
         "topgamesites.net": {
             "epoch": "1555459200",
             "expiration_date": "17-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "toplist.cz": {
             "epoch": "1571616000",
@@ -8618,6 +8618,11 @@
         "turn.com": {
             "epoch": "1711929600",
             "expiration_date": "01-apr-2024",
+            "state": "future"
+        },
+        "tuyaus.com": {
+            "epoch": "1650672000",
+            "expiration_date": "23-apr-2022",
             "state": "future"
         },
         "tvmtracker.com": {
@@ -9188,7 +9193,7 @@
         "xertive.com": {
             "epoch": "1555459200",
             "expiration_date": "17-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "xg4ken.com": {
             "epoch": "1713916800",
