@@ -4220,6 +4220,11 @@
             "expiration_date": "01-dec-2020",
             "state": "future"
         },
+        "gotraffic.net": {
+            "epoch": "1583539200",
+            "expiration_date": "07-mar-2020",
+            "state": "future"
+        },
         "gracefulsock.com": {
             "epoch": "1570233600",
             "expiration_date": "05-oct-2019",
@@ -5325,6 +5330,11 @@
             "expiration_date": "13-dec-2019",
             "state": "future"
         },
+        "mautic.com": {
+            "epoch": "1565308800",
+            "expiration_date": "09-aug-2019",
+            "state": "future"
+        },
         "maximiser.net": {
             "epoch": "1559520000",
             "expiration_date": "03-jun-2019",
@@ -5508,6 +5518,11 @@
         "militaryverse.com": {
             "epoch": "1570492800",
             "expiration_date": "08-oct-2019",
+            "state": "future"
+        },
+        "minewhat.com": {
+            "epoch": "1615852800",
+            "expiration_date": "16-mar-2021",
             "state": "future"
         },
         "minormeeting.com": {
