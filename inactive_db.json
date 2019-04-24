@@ -58,13 +58,8 @@
             "bannerexchange.cjb.net",
             "banners.easydns.com",
             "clickwith.bid",
-            "clients.tbo.com"
-        ],
-        "to_test": [
-            "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com",
-            "adserv.iafrica.com",
-            "adserver.omroepzeeland.nl",
+            "clients.tbo.com",
+            "count.rbc.ru",
             "dmtracking.alibaba.com",
             "dmtracking2.alibaba.com",
             "eur.a1.yimg.com",
@@ -80,7 +75,13 @@
             "openad.tf1.fr",
             "pgl.example",
             "pgl.example0101",
-            "pixel.redditmedia.com",
+            "pixel.redditmedia.com"
+        ],
+        "to_test": [
+            "Adsatt.ABCNews.starwave.com",
+            "Adsatt.go.starwave.com",
+            "adserv.iafrica.com",
+            "adserver.omroepzeeland.nl",
             "quarterserver.de",
             "ranking-street.de",
             "record.affiliates.karjalakasino.com",
