@@ -8408,7 +8408,7 @@
         "topsites.com.br": {
             "epoch": "1556236800",
             "expiration_date": "26-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "topstats.com": {
             "epoch": "1579478400",
