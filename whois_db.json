@@ -1746,8 +1746,8 @@
             "state": "future"
         },
         "bannerlandia.com.ar": {
-            "epoch": "1556323200",
-            "expiration_date": "27-apr-2019",
+            "epoch": "1587945600",
+            "expiration_date": "27-apr-2020",
             "state": "future"
         },
         "bannermall.com": {
@@ -2178,7 +2178,7 @@
         "buzzonclick.com": {
             "epoch": "1556323200",
             "expiration_date": "27-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "c1exchange.com": {
             "epoch": "1578873600",
