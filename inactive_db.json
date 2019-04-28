@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
-        "1556254346": [
+        "1556427275": [
             "a.0day.kiev.ua",
             "ad.choiceradio.com",
             "ad.eurosport.com",
@@ -37,12 +37,18 @@
             "ads.slim.com",
             "ads.telegraph.co.uk",
             "ads.toplayaffiliates.com",
-            "ads.trinitymirror.co.uk",
+            "ads.trinitymirror.co.uk"
+        ],
+        "to_test": [
             "ads.tripod.spray.se",
             "ads.virtualcountries.com",
             "ads.web.aol.com",
             "ads.web.cs.com",
             "ads.yourfreedvds.com",
+            "Adsatt.ABCNews.starwave.com",
+            "Adsatt.go.starwave.com",
+            "adserv.iafrica.com",
+            "adserver.omroepzeeland.nl",
             "adsremote.scrippsnetworks.com",
             "adsrv.eacdn.com",
             "adtrading.de",
@@ -57,6 +63,7 @@
             "banner.getgo.de",
             "bannerexchange.cjb.net",
             "banners.easydns.com",
+            "click.absoluteagency.com",
             "clickwith.bid",
             "clients.tbo.com",
             "count.rbc.ru",
@@ -86,14 +93,7 @@
             "track.dating-4-you.com",
             "vutzmxahqio.co",
             "webtrends.telegraph.co.uk",
-            "www.banner-link.com.br",
-            "click.absoluteagency.com"
-        ],
-        "to_test": [
-            "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com",
-            "adserv.iafrica.com",
-            "adserver.omroepzeeland.nl"
+            "www.banner-link.com.br"
         ]
     }
 }
