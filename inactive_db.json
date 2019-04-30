@@ -59,17 +59,10 @@
             "clicktag.de",
             "clickwith.bid",
             "clients.tbo.com",
-            "count.rbc.ru"
-        ],
-        "to_test": [
-            "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com",
-            "adserv.iafrica.com",
-            "adserver.omroepzeeland.nl",
+            "count.rbc.ru",
             "dmtracking.alibaba.com",
             "dmtracking2.alibaba.com",
             "eur.a1.yimg.com",
-            "hollandbusinessadvertising.nl",
             "interstat.hu",
             "ioam.de",
             "ivwbox.de",
@@ -84,7 +77,13 @@
             "pgl.example0101",
             "pixel.redditmedia.com",
             "quarterserver.de",
-            "ranking-street.de",
+            "ranking-street.de"
+        ],
+        "to_test": [
+            "Adsatt.ABCNews.starwave.com",
+            "Adsatt.go.starwave.com",
+            "adserv.iafrica.com",
+            "adserver.omroepzeeland.nl",
             "record.affiliates.karjalakasino.com",
             "record.bonniergaming.com",
             "t.pusk.ru",

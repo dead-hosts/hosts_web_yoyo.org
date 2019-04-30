@@ -4096,8 +4096,8 @@
             "state": "future"
         },
         "game-advertising-online.com": {
-            "epoch": "1556582400",
-            "expiration_date": "30-apr-2019",
+            "epoch": "1588204800",
+            "expiration_date": "30-apr-2020",
             "state": "future"
         },
         "gamehouse.com": {
@@ -4786,8 +4786,8 @@
             "state": "future"
         },
         "instinctiveads.com": {
-            "epoch": "1556582400",
-            "expiration_date": "30-apr-2019",
+            "epoch": "1588204800",
+            "expiration_date": "30-apr-2020",
             "state": "future"
         },
         "instrumentsponge.com": {
@@ -5285,6 +5285,11 @@
             "expiration_date": "01-nov-2019",
             "state": "future"
         },
+        "magicadz.co": {
+            "epoch": "1618444800",
+            "expiration_date": "15-apr-2021",
+            "state": "future"
+        },
         "magnificentmist.com": {
             "epoch": "1597622400",
             "expiration_date": "17-aug-2020",
@@ -5351,9 +5356,9 @@
             "state": "future"
         },
         "maxonclick.com": {
-            "epoch": "1556323200",
-            "expiration_date": "27-apr-2019",
-            "state": "past"
+            "epoch": "1587945600",
+            "expiration_date": "27-apr-2020",
+            "state": "future"
         },
         "mdotm.com": {
             "epoch": "1599955200",
@@ -5533,6 +5538,11 @@
         "minormeeting.com": {
             "epoch": "1570233600",
             "expiration_date": "05-oct-2019",
+            "state": "future"
+        },
+        "mintegral.com": {
+            "epoch": "1610841600",
+            "expiration_date": "17-jan-2021",
             "state": "future"
         },
         "misstrends.com": {
