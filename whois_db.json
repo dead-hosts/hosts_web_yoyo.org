@@ -5051,8 +5051,8 @@
             "state": "future"
         },
         "lbn.ru": {
-            "epoch": "1556755200",
-            "expiration_date": "02-may-2019",
+            "epoch": "1588377600",
+            "expiration_date": "02-may-2020",
             "state": "future"
         },
         "leadboltads.net": {
@@ -5901,8 +5901,8 @@
             "state": "future"
         },
         "netclickstats.com": {
-            "epoch": "1556755200",
-            "expiration_date": "02-may-2019",
+            "epoch": "1588377600",
+            "expiration_date": "02-may-2020",
             "state": "future"
         },
         "netcommunities.com": {
@@ -6890,6 +6890,11 @@
             "expiration_date": "01-aug-2019",
             "state": "future"
         },
+        "rayjump.com": {
+            "epoch": "1567728000",
+            "expiration_date": "06-sep-2019",
+            "state": "future"
+        },
         "re-directme.com": {
             "epoch": "1566950400",
             "expiration_date": "28-aug-2019",
@@ -7188,7 +7193,7 @@
         "rubiconproject.com": {
             "epoch": "1556755200",
             "expiration_date": "02-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "rulerabbit.com": {
             "epoch": "1585872000",
