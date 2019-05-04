@@ -7191,9 +7191,9 @@
             "state": "future"
         },
         "rubiconproject.com": {
-            "epoch": "1556755200",
-            "expiration_date": "02-may-2019",
-            "state": "past"
+            "epoch": "1588377600",
+            "expiration_date": "02-may-2020",
+            "state": "future"
         },
         "rulerabbit.com": {
             "epoch": "1585872000",
@@ -8126,8 +8126,8 @@
             "state": "future"
         },
         "targetingnow.com": {
-            "epoch": "1556841600",
-            "expiration_date": "03-may-2019",
+            "epoch": "1588464000",
+            "expiration_date": "03-may-2020",
             "state": "future"
         },
         "targetnet.com": {
@@ -8426,9 +8426,9 @@
             "state": "future"
         },
         "topsites.com.br": {
-            "epoch": "1556236800",
-            "expiration_date": "26-apr-2019",
-            "state": "past"
+            "epoch": "1587859200",
+            "expiration_date": "26-apr-2020",
+            "state": "future"
         },
         "topstats.com": {
             "epoch": "1579478400",
@@ -8821,8 +8821,8 @@
             "state": "future"
         },
         "valuecommerce.com": {
-            "epoch": "1556841600",
-            "expiration_date": "03-may-2019",
+            "epoch": "1588464000",
+            "expiration_date": "03-may-2020",
             "state": "future"
         },
         "valuesponsor.com": {
