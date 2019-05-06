@@ -98,7 +98,7 @@
         "50websads.com": {
             "epoch": "1557014400",
             "expiration_date": "05-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "518ad.com": {
             "epoch": "1741132800",
@@ -848,7 +848,7 @@
         "adrecover.com": {
             "epoch": "1557100800",
             "expiration_date": "06-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "adrecreate.com": {
             "epoch": "1576108800",
