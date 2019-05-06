@@ -3561,8 +3561,8 @@
             "state": "future"
         },
         "erne.co": {
-            "epoch": "1557100800",
-            "expiration_date": "06-may-2019",
+            "epoch": "1588723200",
+            "expiration_date": "06-may-2020",
             "state": "future"
         },
         "ero-advertising.com": {
@@ -4421,9 +4421,9 @@
             "state": "future"
         },
         "hitiz.com": {
-            "epoch": "1556841600",
-            "expiration_date": "03-may-2019",
-            "state": "past"
+            "epoch": "1588464000",
+            "expiration_date": "03-may-2020",
+            "state": "future"
         },
         "hitlist.ru": {
             "epoch": "1562371200",
@@ -4576,9 +4576,9 @@
             "state": "future"
         },
         "identads.com": {
-            "epoch": "1556928000",
-            "expiration_date": "04-may-2019",
-            "state": "past"
+            "epoch": "1588550400",
+            "expiration_date": "04-may-2020",
+            "state": "future"
         },
         "idtargeting.com": {
             "epoch": "1572652800",
@@ -4611,8 +4611,8 @@
             "state": "future"
         },
         "imagecash.net": {
-            "epoch": "1557100800",
-            "expiration_date": "06-may-2019",
+            "epoch": "1588723200",
+            "expiration_date": "06-may-2020",
             "state": "future"
         },
         "imarketservices.com": {
@@ -4968,7 +4968,7 @@
         "kanoodle.com": {
             "epoch": "1557100800",
             "expiration_date": "06-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "kargo.com": {
             "epoch": "1608163200",
@@ -5166,8 +5166,8 @@
             "state": "future"
         },
         "linkstorms.com": {
-            "epoch": "1557014400",
-            "expiration_date": "05-may-2019",
+            "epoch": "1588636800",
+            "expiration_date": "05-may-2020",
             "state": "future"
         },
         "linkswaper.com": {
@@ -5481,8 +5481,8 @@
             "state": "future"
         },
         "metaffiliation.com": {
-            "epoch": "1557100800",
-            "expiration_date": "06-may-2019",
+            "epoch": "1588723200",
+            "expiration_date": "06-may-2020",
             "state": "future"
         },
         "metanetwork.com": {
@@ -6958,7 +6958,7 @@
         "realtracker.com": {
             "epoch": "1557100800",
             "expiration_date": "06-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "rebelsubway.com": {
             "epoch": "1585872000",
