@@ -6961,9 +6961,9 @@
             "state": "future"
         },
         "realtracker.com": {
-            "epoch": "1557100800",
-            "expiration_date": "06-may-2019",
-            "state": "past"
+            "epoch": "1588723200",
+            "expiration_date": "06-may-2020",
+            "state": "future"
         },
         "rebelsubway.com": {
             "epoch": "1585872000",
@@ -7358,6 +7358,11 @@
         "sendmepixel.com": {
             "epoch": "1597363200",
             "expiration_date": "14-aug-2020",
+            "state": "future"
+        },
+        "sendpulse.com": {
+            "epoch": "1579737600",
+            "expiration_date": "23-jan-2020",
             "state": "future"
         },
         "separatesilver.com": {
