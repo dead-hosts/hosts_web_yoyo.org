@@ -2263,7 +2263,7 @@
         "casalmedia.com": {
             "epoch": "1557273600",
             "expiration_date": "08-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "cash4members.com": {
             "epoch": "1565049600",
