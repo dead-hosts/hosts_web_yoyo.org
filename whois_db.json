@@ -96,9 +96,9 @@
             "state": "future"
         },
         "50websads.com": {
-            "epoch": "1557014400",
-            "expiration_date": "05-may-2019",
-            "state": "past"
+            "epoch": "1588636800",
+            "expiration_date": "05-may-2020",
+            "state": "future"
         },
         "518ad.com": {
             "epoch": "1741132800",
@@ -368,6 +368,11 @@
         "adapt.tv": {
             "epoch": "1576713600",
             "expiration_date": "19-dec-2019",
+            "state": "future"
+        },
+        "adback.co": {
+            "epoch": "1572825600",
+            "expiration_date": "04-nov-2019",
             "state": "future"
         },
         "adbard.net": {
@@ -846,9 +851,9 @@
             "state": "future"
         },
         "adrecover.com": {
-            "epoch": "1557100800",
-            "expiration_date": "06-may-2019",
-            "state": "past"
+            "epoch": "1746489600",
+            "expiration_date": "06-may-2025",
+            "state": "future"
         },
         "adrecreate.com": {
             "epoch": "1576108800",
