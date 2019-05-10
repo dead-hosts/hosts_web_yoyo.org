@@ -1796,8 +1796,8 @@
             "state": "future"
         },
         "bannery.cz": {
-            "epoch": "1557273600",
-            "expiration_date": "08-may-2019",
+            "epoch": "1620432000",
+            "expiration_date": "08-may-2021",
             "state": "future"
         },
         "barbarousnerve.com": {
@@ -2401,9 +2401,9 @@
             "state": "future"
         },
         "chiefcurrent.com": {
-            "epoch": "1557360000",
-            "expiration_date": "09-may-2019",
-            "state": "past"
+            "epoch": "1588982400",
+            "expiration_date": "09-may-2020",
+            "state": "future"
         },
         "chinsnakes.com": {
             "epoch": "1571961600",
