@@ -1541,8 +1541,8 @@
             "state": "future"
         },
         "appsflyer.com": {
-            "epoch": "1557360000",
-            "expiration_date": "09-may-2019",
+            "epoch": "1715212800",
+            "expiration_date": "09-may-2024",
             "state": "future"
         },
         "apture.com": {
@@ -2261,9 +2261,9 @@
             "state": "future"
         },
         "casalmedia.com": {
-            "epoch": "1557273600",
-            "expiration_date": "08-may-2019",
-            "state": "past"
+            "epoch": "1588896000",
+            "expiration_date": "08-may-2020",
+            "state": "future"
         },
         "cash4members.com": {
             "epoch": "1565049600",
@@ -2403,7 +2403,7 @@
         "chiefcurrent.com": {
             "epoch": "1557360000",
             "expiration_date": "09-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "chinsnakes.com": {
             "epoch": "1571961600",

@@ -29,9 +29,7 @@
             "ads.linuxsecurity.com",
             "ads.newdream.net",
             "ads.newsquest.co.uk",
-            "ads.penny-arcade.com"
-        ],
-        "to_test": [
+            "ads.penny-arcade.com",
             "ads.returnpath.net",
             "ads.s3.sitepoint.com",
             "ads.saymedia.com",
@@ -45,10 +43,6 @@
             "ads.web.aol.com",
             "ads.web.cs.com",
             "ads.yourfreedvds.com",
-            "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com",
-            "adserv.iafrica.com",
-            "adserver.omroepzeeland.nl",
             "adsremote.scrippsnetworks.com",
             "adsrv.eacdn.com",
             "adtrading.de",
@@ -65,7 +59,13 @@
             "banners.easydns.com",
             "clicktag.de",
             "clickwith.bid",
-            "clients.tbo.com",
+            "clients.tbo.com"
+        ],
+        "to_test": [
+            "Adsatt.ABCNews.starwave.com",
+            "Adsatt.go.starwave.com",
+            "adserv.iafrica.com",
+            "adserver.omroepzeeland.nl",
             "count.rbc.ru",
             "dmtracking.alibaba.com",
             "dmtracking2.alibaba.com",
