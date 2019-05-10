@@ -3193,7 +3193,7 @@
         "digitalmerkat.com": {
             "epoch": "1557360000",
             "expiration_date": "09-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "direct-xxx-access.com": {
             "epoch": "1576627200",
@@ -3703,7 +3703,7 @@
         "experteerads.com": {
             "epoch": "1557360000",
             "expiration_date": "09-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "exponea.com": {
             "epoch": "1573171200",
@@ -4091,9 +4091,9 @@
             "state": "future"
         },
         "ga87z2o.com": {
-            "epoch": "1557187200",
-            "expiration_date": "07-may-2019",
-            "state": "past"
+            "epoch": "1588809600",
+            "expiration_date": "07-may-2020",
+            "state": "future"
         },
         "galaxien.com": {
             "epoch": "1578614400",
@@ -4986,9 +4986,9 @@
             "state": "future"
         },
         "karonty.com": {
-            "epoch": "1557273600",
-            "expiration_date": "08-may-2019",
-            "state": "past"
+            "epoch": "1588896000",
+            "expiration_date": "08-may-2020",
+            "state": "future"
         },
         "keywee.co": {
             "epoch": "1603411200",
@@ -5391,8 +5391,8 @@
             "state": "future"
         },
         "mediabridge.cc": {
-            "epoch": "1557360000",
-            "expiration_date": "09-may-2019",
+            "epoch": "1588982400",
+            "expiration_date": "09-may-2020",
             "state": "future"
         },
         "mediacharger.com": {
@@ -5803,7 +5803,7 @@
         "naganoadigei.com": {
             "epoch": "1557446400",
             "expiration_date": "10-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "namimedia.com": {
             "epoch": "1588550400",
