@@ -70,15 +70,7 @@
             "mtrcs.samba.tv",
             "oas.salon.com",
             "oewabox.at",
-            "openad.tf1.fr"
-        ],
-        "to_test": [
-            "Adsatt.ABCNews.starwave.com",
-            "Adsatt.go.starwave.com",
-            "adserv.iafrica.com",
-            "adserver.omroepzeeland.nl",
-            "clicktag.de",
-            "clickwith.bid",
+            "openad.tf1.fr",
             "pgl.example",
             "pgl.example0101",
             "pixel.redditmedia.com",
@@ -92,6 +84,14 @@
             "vutzmxahqio.co",
             "webtrends.telegraph.co.uk",
             "www.banner-link.com.br"
+        ],
+        "to_test": [
+            "Adsatt.ABCNews.starwave.com",
+            "Adsatt.go.starwave.com",
+            "adserv.iafrica.com",
+            "adserver.omroepzeeland.nl",
+            "clicktag.de",
+            "clickwith.bid"
         ]
     }
 }
