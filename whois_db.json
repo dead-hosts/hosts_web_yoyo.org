@@ -2928,7 +2928,7 @@
         "creafi-online-media.com": {
             "epoch": "1557705600",
             "expiration_date": "13-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "credishe.com": {
             "epoch": "1571788800",
@@ -5761,8 +5761,8 @@
             "state": "future"
         },
         "mystat-in.net": {
-            "epoch": "1557792000",
-            "expiration_date": "14-may-2019",
+            "epoch": "1620950400",
+            "expiration_date": "14-may-2021",
             "state": "future"
         },
         "mystat.pl": {
