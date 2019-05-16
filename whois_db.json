@@ -3960,9 +3960,9 @@
         "state": "future"
     },
     "fqtag.com": {
-        "epoch": "1557964800",
+        "epoch": 1557964800,
         "expiration_date": "16-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "frailoffer.com": {
         "epoch": "1564790400",
