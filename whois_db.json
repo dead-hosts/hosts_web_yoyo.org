@@ -944,6 +944,11 @@
         "expiration_date": "28-jan-2020",
         "state": "future"
     },
+    "adserve.io": {
+        "epoch": 1591228800,
+        "expiration_date": "04-jun-2020",
+        "state": "future"
+    },
     "adserver.com": {
         "epoch": "1578441600",
         "expiration_date": "08-jan-2020",
