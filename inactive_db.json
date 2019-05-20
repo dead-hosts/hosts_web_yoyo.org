@@ -1,82 +1,73 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
-        "1558155893": [
-            "ads.canalblog.com"
+        "1558328724": [
+            "ads.canalblog.com",
+            "adsrv.eacdn.com"
         ],
-        "1558155944": [
-            "adsrv.eacdn.com",
-            "ads.sptimes.com"
-        ],
-        "1558156000": [
-            "banner.wirenode.com"
-        ],
-        "1558156028": [
+        "1558328863": [
             "clickwith.bid",
-            "mtrcs.samba.tv"
-        ],
-        "1558156166": [
+            "mtrcs.samba.tv",
             "pgl.example0101"
         ],
-        "1558156251": [
+        "1558329134": [
             "a.0day.kiev.ua",
             "ad.slutload.com",
-            "ads.adultswim.com",
-            "ads.aol.com",
-            "ads.datinggold.com",
-            "ads.foxnews.com",
             "ads.expedia.com",
+            "ads.aol.com"
+        ],
+        "1558329140": [
+            "ads.adultswim.com",
+            "ads.foxnews.com",
+            "ads.datinggold.com",
             "ads.returnpath.net",
             "ads.penny-arcade.com",
             "ads.s3.sitepoint.com",
+            "ads.sptimes.com",
+            "ads.tripod.spray.se",
             "ads.linuxsecurity.com",
-            "ads.canalblog.com",
-            "ads.ak.facebook.com.edgesuite.net",
-            "ads.newdream.net",
-            "ad2.linxcz.cz",
-            "ads.eatinparis.com",
-            "ad.globe7.com",
-            "ad.f1cd.ru",
             "ads.hideyourarms.com",
+            "adsrv.eacdn.com",
+            "ads.newdream.net",
+            "analytics.newsinc.com",
+            "ads.virtualcountries.com",
+            "ad.globe7.com",
+            "ads.telegraph.co.uk",
+            "ads.eatinparis.com",
+            "ads.slim.com",
+            "ad2.linxcz.cz",
+            "ads.ak.facebook.com.edgesuite.net",
+            "adverts.carltononline.com",
+            "ad.f1cd.ru",
             "ads.cgnetworks.com",
             "ads.iafrica.com",
-            "adboost.de.vu",
-            "ads.sptimes.com",
-            "adsrv.eacdn.com",
-            "b.aol.com",
-            "clickwith.bid",
-            "clients.tbo.com",
-            "banners.easydns.com",
-            "interstat.hu"
-        ],
-        "1558156268": [
-            "ads.tripod.spray.se",
-            "analytics.newsinc.com",
-            "bannerexchange.cjb.net",
-            "ads.telegraph.co.uk",
-            "ads.virtualcountries.com",
-            "pgl.example",
-            "ads.slim.com",
-            "pgl.example0101",
-            "b.engadget.com",
-            "oas.salon.com",
-            "pixel.redditmedia.com",
-            "adverts.carltononline.com",
-            "banner.getgo.de",
-            "clicktag.de",
-            "mtrcs.samba.tv",
-            "count.rbc.ru",
             "adserv.iafrica.com",
             "an.tacoda.net",
             "adtrading.de",
-            "adsremote.scrippsnetworks.com",
+            "adboost.de.vu",
+            "adsremote.scrippsnetworks.com"
+        ],
+        "1558329169": [
+            "bannerexchange.cjb.net",
+            "b.aol.com",
+            "clients.tbo.com"
+        ],
+        "1558329170": [
+            "banner.wirenode.com",
+            "pgl.example",
+            "pixel.redditmedia.com",
+            "b.engadget.com",
+            "oas.salon.com",
+            "interstat.hu",
             "vutzmxahqio.co",
+            "clicktag.de",
             "track.dating-4-you.com",
+            "banners.easydns.com",
+            "count.rbc.ru",
+            "banner.getgo.de",
             "ranking-street.de",
+            "eur.a1.yimg.com",
             "t.pusk.ru",
             "www.banner-link.com.br"
-        ],
-        "1558156269": [
-            "eur.a1.yimg.com"
         ],
         "to_test": [
             "a.0day.kiev.ua",
@@ -136,6 +127,7 @@
             "b.aol.com",
             "b.engadget.com",
             "banner.getgo.de",
+            "banner.wirenode.com",
             "bannerexchange.cjb.net",
             "banners.easydns.com",
             "clicktag.de",
