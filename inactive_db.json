@@ -1,14 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
-        "1558328724": [
-            "ads.canalblog.com",
-            "adsrv.eacdn.com"
-        ],
-        "1558328863": [
-            "clickwith.bid",
-            "mtrcs.samba.tv",
-            "pgl.example0101"
-        ],
         "1558329134": [
             "a.0day.kiev.ua",
             "ad.slutload.com",
@@ -67,7 +58,101 @@
             "ranking-street.de",
             "eur.a1.yimg.com",
             "t.pusk.ru",
-            "www.banner-link.com.br"
+            "www.banner-link.com.br",
+            "record.affiliates.karjalakasino.com",
+            "mtrcs.samba.tv",
+            "ads.larryaffiliates.com",
+            "clickwith.bid",
+            "ad.choiceradio.com",
+            "touchclarity.natwest.com",
+            "arc1.msn.com",
+            "ads.web.cs.com",
+            "ads.getlucky.com",
+            "ad.eurosport.com",
+            "media.ftv-publicite.fr",
+            "ads.web.aol.com",
+            "ads.heias.com",
+            "openad.tf1.fr",
+            "pgl.example0101",
+            "ads.toplayaffiliates.com",
+            "ads.newsquest.co.uk"
+        ],
+        "1558415579": [
+            "record.bonniergaming.com"
+        ],
+        "1558415580": [
+            "webtrends.telegraph.co.uk",
+            "dmtracking2.alibaba.com"
+        ],
+        "1558415603": [
+            "ads.canalblog.com",
+            "ads.sift.co.uk",
+            "adserver.omroepzeeland.nl"
+        ],
+        "1558415671": [
+            "adimages.omroepzeeland.nl",
+            "ads.trinitymirror.co.uk",
+            "ads.saymedia.com",
+            "dmtracking.alibaba.com",
+            "ad.eurosport.com",
+            "a.0day.kiev.ua",
+            "ad.slutload.com",
+            "ads.aol.com",
+            "ads.adultswim.com",
+            "ads.foxnews.com",
+            "ads.expedia.com",
+            "ads.datinggold.com",
+            "ads.ak.facebook.com.edgesuite.net",
+            "ads.s3.sitepoint.com",
+            "ad.globe7.com",
+            "ads.returnpath.net",
+            "ads.newdream.net",
+            "ads.linuxsecurity.com",
+            "ads.hideyourarms.com",
+            "ads.tripod.spray.se",
+            "ads.sptimes.com",
+            "ads.slim.com",
+            "ad2.linxcz.cz",
+            "ads.virtualcountries.com",
+            "analytics.newsinc.com",
+            "ads.eatinparis.com",
+            "adsrv.eacdn.com",
+            "ad.f1cd.ru",
+            "adverts.carltononline.com",
+            "ads.telegraph.co.uk",
+            "adserv.iafrica.com",
+            "ads.iafrica.com",
+            "ads.cgnetworks.com",
+            "an.tacoda.net",
+            "adtrading.de",
+            "adboost.de.vu",
+            "adsremote.scrippsnetworks.com"
+        ],
+        "1558415792": [
+            "ads.penny-arcade.com",
+            "b.aol.com",
+            "b.engadget.com",
+            "banners.easydns.com",
+            "banner.wirenode.com",
+            "pgl.example",
+            "oas.salon.com",
+            "pixel.redditmedia.com"
+        ],
+        "1558415818": [
+            "clients.tbo.com",
+            "bannerexchange.cjb.net",
+            "logs.logrocket.com",
+            "eur.a1.yimg.com",
+            "banner.getgo.de",
+            "track.dating-4-you.com",
+            "vutzmxahqio.co",
+            "count.rbc.ru",
+            "clicktag.de",
+            "ranking-street.de",
+            "webtrends.telegraph.co.uk",
+            "t.pusk.ru",
+            "www.banner-link.com.br",
+            "interstat.hu"
         ],
         "to_test": [
             "a.0day.kiev.ua",
