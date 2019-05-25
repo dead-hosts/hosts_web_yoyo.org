@@ -320,8 +320,8 @@
         "state": "future"
     },
     "ad-tech.com": {
-        "epoch": "1558310400",
-        "expiration_date": "20-may-2019",
+        "epoch": 1589932800,
+        "expiration_date": "20-may-2020",
         "state": "future"
     },
     "ad-up.com": {
@@ -995,9 +995,9 @@
         "state": "future"
     },
     "adsk2.co": {
-        "epoch": "1558656000",
+        "epoch": 1558656000,
         "expiration_date": "24-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "adskeeper.co.uk": {
         "epoch": "1589587200",
@@ -1125,13 +1125,13 @@
         "state": "future"
     },
     "adtology.com": {
-        "epoch": "1558483200",
-        "expiration_date": "22-may-2019",
+        "epoch": 1590105600,
+        "expiration_date": "22-may-2020",
         "state": "future"
     },
     "adtoma.com": {
-        "epoch": "1558224000",
-        "expiration_date": "19-may-2019",
+        "epoch": 1589846400,
+        "expiration_date": "19-may-2020",
         "state": "future"
     },
     "adtrace.org": {
@@ -1305,9 +1305,9 @@
         "state": "future"
     },
     "adyea.com": {
-        "epoch": "1558742400",
+        "epoch": 1558742400,
         "expiration_date": "25-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "adz2you.com": {
         "epoch": "1560124800",
@@ -1315,8 +1315,8 @@
         "state": "future"
     },
     "adzbazar.com": {
-        "epoch": "1558569600",
-        "expiration_date": "23-may-2019",
+        "epoch": 1590192000,
+        "expiration_date": "23-may-2020",
         "state": "future"
     },
     "adzerk.net": {
@@ -1810,8 +1810,8 @@
         "state": "future"
     },
     "basebanner.com": {
-        "epoch": "1558396800",
-        "expiration_date": "21-may-2019",
+        "epoch": 1621555200,
+        "expiration_date": "21-may-2021",
         "state": "future"
     },
     "baskettexture.com": {
@@ -2505,8 +2505,8 @@
         "state": "future"
     },
     "clickbrokers.com": {
-        "epoch": "1558396800",
-        "expiration_date": "21-may-2019",
+        "epoch": 1590019200,
+        "expiration_date": "21-may-2020",
         "state": "future"
     },
     "clickcompare.co.uk": {
