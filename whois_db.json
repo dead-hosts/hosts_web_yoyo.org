@@ -3285,8 +3285,8 @@
         "state": "future"
     },
     "doubleclick.com": {
-        "epoch": "1559001600",
-        "expiration_date": "28-may-2019",
+        "epoch": 1590624000,
+        "expiration_date": "28-may-2020",
         "state": "future"
     },
     "doubleclick.net": {
@@ -3365,8 +3365,8 @@
         "state": "future"
     },
     "e-n-t-e-r-n-e-x.com": {
-        "epoch": "1558828800",
-        "expiration_date": "26-may-2019",
+        "epoch": 1590451200,
+        "expiration_date": "26-may-2020",
         "state": "future"
     },
     "e-planning.net": {
@@ -4195,8 +4195,8 @@
         "state": "future"
     },
     "goldstats.com": {
-        "epoch": "1558915200",
-        "expiration_date": "27-may-2019",
+        "epoch": 1590537600,
+        "expiration_date": "27-may-2020",
         "state": "future"
     },
     "gondolagnome.com": {
