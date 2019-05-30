@@ -27,7 +27,9 @@
             "openad.tf1.fr",
             "pgl.example0101",
             "record.affiliates.karjalakasino.com",
-            "record.bonniergaming.com"
+            "record.bonniergaming.com",
+            "touchclarity.natwest.com",
+            "webtrends.telegraph.co.uk"
         ],
         "to_test": [
             "a.0day.kiev.ua",
@@ -92,10 +94,8 @@
             "quarterserver.de",
             "ranking-street.de",
             "t.pusk.ru",
-            "touchclarity.natwest.com",
             "track.dating-4-you.com",
             "vutzmxahqio.co",
-            "webtrends.telegraph.co.uk",
             "www.banner-link.com.br"
         ]
     }
