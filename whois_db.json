@@ -24,6 +24,11 @@
         "expiration_date": "11-mar-2020",
         "state": "future"
     },
+    "1rx.io": {
+        "epoch": 1590624000,
+        "expiration_date": "28-may-2020",
+        "state": "future"
+    },
     "207.net": {
         "epoch": "1562716800",
         "expiration_date": "10-jul-2019",
@@ -177,6 +182,11 @@
     "aaddzz.com": {
         "epoch": "1582761600",
         "expiration_date": "27-feb-2020",
+        "state": "future"
+    },
+    "aaxads.com": {
+        "epoch": 1571961600,
+        "expiration_date": "25-oct-2019",
         "state": "future"
     },
     "abacho.net": {
@@ -585,9 +595,9 @@
         "state": "future"
     },
     "adition.com": {
-        "epoch": "1559174400",
+        "epoch": 1559174400,
         "expiration_date": "30-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "adition.net": {
         "epoch": "1563408000",
