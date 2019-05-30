@@ -1455,9 +1455,9 @@
         "state": "future"
     },
     "alclick.com": {
-        "epoch": 1559001600,
-        "expiration_date": "28-may-2019",
-        "state": "past"
+        "epoch": 1590624000,
+        "expiration_date": "28-may-2020",
+        "state": "future"
     },
     "alenty.com": {
         "epoch": "1589760000",
@@ -1845,8 +1845,8 @@
         "state": "future"
     },
     "bbelements.com": {
-        "epoch": "1559088000",
-        "expiration_date": "29-may-2019",
+        "epoch": 1590710400,
+        "expiration_date": "29-may-2020",
         "state": "future"
     },
     "beamincrease.com": {
@@ -1967,6 +1967,11 @@
     "bitmedianetwork.com": {
         "epoch": "1594512000",
         "expiration_date": "12-jul-2020",
+        "state": "future"
+    },
+    "bizible.com": {
+        "epoch": 1659484800,
+        "expiration_date": "03-aug-2022",
         "state": "future"
     },
     "bizographics.com": {
@@ -2760,9 +2765,9 @@
         "state": "future"
     },
     "confirmed-profits.com": {
-        "epoch": "1559174400",
+        "epoch": 1559174400,
         "expiration_date": "30-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "connatix.com": {
         "epoch": "1572998400",
