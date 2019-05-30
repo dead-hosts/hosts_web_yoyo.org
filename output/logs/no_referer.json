@@ -170,5 +170,73 @@
     "1559225370.557309": {
         "domain": "counter.search.bg",
         "extension": "bg"
+    },
+    "1559227202.3339617": {
+        "domain": "emediate.dk",
+        "extension": "dk"
+    },
+    "1559227240.9397132": {
+        "domain": "exchange.bg",
+        "extension": "bg"
+    },
+    "1559227264.8074539": {
+        "domain": "freestats.tv",
+        "extension": "tv"
+    },
+    "1559227281.9567397": {
+        "domain": "grapeshot.co.uk",
+        "extension": "uk"
+    },
+    "1559227290.757636": {
+        "domain": "hexusads.fluent.ltd.uk",
+        "extension": "uk"
+    },
+    "1559227296.0135577": {
+        "domain": "hit.bg",
+        "extension": "bg"
+    },
+    "1559227314.370119": {
+        "domain": "hit.webcentre.lycos.co.uk",
+        "extension": "uk"
+    },
+    "1559227324.070277": {
+        "domain": "iad.anm.co.uk",
+        "extension": "uk"
+    },
+    "1559227339.8710437": {
+        "domain": "impressionz.co.uk",
+        "extension": "uk"
+    },
+    "1559227451.919292": {
+        "domain": "mediabridge.cc",
+        "extension": "cc"
+    },
+    "1559227475.5779233": {
+        "domain": "moneyexpert.co.uk",
+        "extension": "uk"
+    },
+    "1559227485.5371585": {
+        "domain": "mtrcs.samba.tv",
+        "extension": "tv"
+    },
+    "1559227499.0626853": {
+        "domain": "nativeroll.tv",
+        "extension": "tv"
+    },
+    "1559227568.2611413": {
+        "domain": "openx.angelsgroup.org.uk",
+        "extension": "uk"
+    },
+    "1559227600.8275762": {
+        "domain": "pix.spot.im",
+        "extension": "im"
+    },
+    "1559227695.4837234": {
+        "domain": "remistrainew.club",
+        "extension": "club"
+    },
+    "1559227710.4060092": {
+        "domain": "rta.dailymail.co.uk",
+        "extension": "uk"
     }
 }

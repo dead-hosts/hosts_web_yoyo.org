@@ -2995,8 +2995,8 @@
         "state": "future"
     },
     "culturedcrayon.com": {
-        "epoch": "1559174400",
-        "expiration_date": "30-may-2019",
+        "epoch": 1590796800,
+        "expiration_date": "30-may-2020",
         "state": "future"
     },
     "cumbersomecloud.com": {
@@ -3500,8 +3500,8 @@
         "state": "future"
     },
     "elitetoplist.com": {
-        "epoch": "1559088000",
-        "expiration_date": "29-may-2019",
+        "epoch": 1590710400,
+        "expiration_date": "29-may-2020",
         "state": "future"
     },
     "elthamely.com": {
@@ -4640,9 +4640,9 @@
         "state": "future"
     },
     "imarketservices.com": {
-        "epoch": "1559174400",
+        "epoch": 1559174400,
         "expiration_date": "30-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "immensehoney.com": {
         "epoch": "1597622400",
@@ -5309,6 +5309,11 @@
         "expiration_date": "15-may-2020",
         "state": "future"
     },
+    "m2.ai": {
+        "epoch": 1598918400,
+        "expiration_date": "01-sep-2020",
+        "state": "future"
+    },
     "m32.media": {
         "epoch": "1569888000",
         "expiration_date": "01-oct-2019",
@@ -5605,8 +5610,8 @@
         "state": "future"
     },
     "mmismm.com": {
-        "epoch": "1559174400",
-        "expiration_date": "30-may-2019",
+        "epoch": 1590796800,
+        "expiration_date": "30-may-2020",
         "state": "future"
     },
     "mmstat.com": {
@@ -6540,8 +6545,8 @@
         "state": "future"
     },
     "popub.com": {
-        "epoch": "1559088000",
-        "expiration_date": "29-may-2019",
+        "epoch": 1590710400,
+        "expiration_date": "29-may-2020",
         "state": "future"
     },
     "popunder.ru": {
@@ -6550,8 +6555,8 @@
         "state": "future"
     },
     "popupmoney.com": {
-        "epoch": "1559088000",
-        "expiration_date": "29-may-2019",
+        "epoch": 1590710400,
+        "expiration_date": "29-may-2020",
         "state": "future"
     },
     "popupnation.com": {
@@ -6747,6 +6752,11 @@
     "ps7894.com": {
         "epoch": "1563494400",
         "expiration_date": "19-jul-2019",
+        "state": "future"
+    },
+    "pstmrk.it": {
+        "epoch": 1587340800,
+        "expiration_date": "20-apr-2020",
         "state": "future"
     },
     "pubdirecte.com": {
