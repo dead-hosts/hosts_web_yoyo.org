@@ -5624,6 +5624,11 @@
         "expiration_date": "04-sep-2019",
         "state": "future"
     },
+    "moat.com": {
+        "epoch": 1621987200,
+        "expiration_date": "26-may-2021",
+        "state": "future"
+    },
     "moatads.com": {
         "epoch": "1649376000",
         "expiration_date": "08-apr-2022",
@@ -5690,8 +5695,8 @@
         "state": "future"
     },
     "mouseflow.com": {
-        "epoch": "1559779200",
-        "expiration_date": "06-jun-2019",
+        "epoch": 1717632000,
+        "expiration_date": "06-jun-2024",
         "state": "future"
     },
     "mousestats.com": {
