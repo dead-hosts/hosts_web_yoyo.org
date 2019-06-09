@@ -24,7 +24,13 @@
             "dmtracking.alibaba.com",
             "dmtracking2.alibaba.com",
             "media.ftv-publicite.fr",
-            "mtrcs.samba.tv"
+            "mtrcs.samba.tv",
+            "openad.tf1.fr",
+            "pgl.example0101",
+            "record.affiliates.karjalakasino.com",
+            "record.bonniergaming.com",
+            "touchclarity.natwest.com",
+            "webtrends.telegraph.co.uk"
         ],
         "to_test": [
             "a.0day.kiev.ua",
@@ -86,19 +92,13 @@
             "nedstat.nl",
             "oas.salon.com",
             "oewabox.at",
-            "openad.tf1.fr",
             "pgl.example",
-            "pgl.example0101",
             "pixel.redditmedia.com",
             "quarterserver.de",
             "ranking-street.de",
-            "record.affiliates.karjalakasino.com",
-            "record.bonniergaming.com",
             "t.pusk.ru",
-            "touchclarity.natwest.com",
             "track.dating-4-you.com",
             "vutzmxahqio.co",
-            "webtrends.telegraph.co.uk",
             "www.banner-link.com.br"
         ]
     }
