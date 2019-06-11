@@ -7680,8 +7680,8 @@
         "state": "future"
     },
     "smartadserver.com": {
-        "epoch": "1560124800",
-        "expiration_date": "10-jun-2019",
+        "epoch": 1591747200,
+        "expiration_date": "10-jun-2020",
         "state": "future"
     },
     "smartlook.com": {
@@ -7775,8 +7775,8 @@
         "state": "future"
     },
     "specificmedia.co.uk": {
-        "epoch": "1557878400",
-        "expiration_date": "15-may-2019",
+        "epoch": 1589500800,
+        "expiration_date": "15-may-2020",
         "state": "future"
     },
     "specificpop.com": {
