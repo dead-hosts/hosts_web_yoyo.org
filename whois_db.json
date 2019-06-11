@@ -1320,9 +1320,9 @@
         "state": "future"
     },
     "adz2you.com": {
-        "epoch": "1560124800",
+        "epoch": 1560124800,
         "expiration_date": "10-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "adzbazar.com": {
         "epoch": 1590192000,
