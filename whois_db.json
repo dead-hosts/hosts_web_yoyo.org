@@ -1170,9 +1170,9 @@
         "state": "future"
     },
     "adv-adserver.com": {
-        "epoch": "1560729600",
+        "epoch": 1560729600,
         "expiration_date": "17-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "advariant.com": {
         "epoch": "1564790400",
@@ -1340,8 +1340,8 @@
         "state": "future"
     },
     "af-ad.co.uk": {
-        "epoch": "1560729600",
-        "expiration_date": "17-jun-2019",
+        "epoch": 1655424000,
+        "expiration_date": "17-jun-2022",
         "state": "future"
     },
     "affbuzzads.com": {
@@ -2670,8 +2670,8 @@
         "state": "future"
     },
     "clustrmaps.com": {
-        "epoch": "1560729600",
-        "expiration_date": "17-jun-2019",
+        "epoch": 1655424000,
+        "expiration_date": "17-jun-2022",
         "state": "future"
     },
     "cnomy.com": {
