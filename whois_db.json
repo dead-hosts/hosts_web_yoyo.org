@@ -8440,8 +8440,8 @@
         "state": "future"
     },
     "top20free.com": {
-        "epoch": "1560816000",
-        "expiration_date": "18-jun-2019",
+        "epoch": 1592438400,
+        "expiration_date": "18-jun-2020",
         "state": "future"
     },
     "top90.ro": {
@@ -9275,8 +9275,8 @@
         "state": "future"
     },
     "worrybutter.com": {
-        "epoch": "1560902400",
-        "expiration_date": "19-jun-2019",
+        "epoch": 1592524800,
+        "expiration_date": "19-jun-2020",
         "state": "future"
     },
     "wpnrtnmrewunrtok.xyz": {
