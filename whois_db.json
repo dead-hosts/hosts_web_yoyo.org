@@ -1170,9 +1170,9 @@
         "state": "future"
     },
     "adv-adserver.com": {
-        "epoch": 1560729600,
-        "expiration_date": "17-jun-2019",
-        "state": "past"
+        "epoch": 1592352000,
+        "expiration_date": "17-jun-2020",
+        "state": "future"
     },
     "advariant.com": {
         "epoch": "1564790400",
@@ -1465,8 +1465,8 @@
         "state": "future"
     },
     "alexametrics.com": {
-        "epoch": "1560902400",
-        "expiration_date": "19-jun-2019",
+        "epoch": 1592524800,
+        "expiration_date": "19-jun-2020",
         "state": "future"
     },
     "alipromo.com": {
@@ -2365,8 +2365,8 @@
         "state": "future"
     },
     "channel1vids.com": {
-        "epoch": "1560902400",
-        "expiration_date": "19-jun-2019",
+        "epoch": 1592524800,
+        "expiration_date": "19-jun-2020",
         "state": "future"
     },
     "channelintelligence.com": {
@@ -2620,9 +2620,9 @@
         "state": "future"
     },
     "cliksolution.com": {
-        "epoch": "1560902400",
+        "epoch": 1560902400,
         "expiration_date": "19-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "clixgalore.com": {
         "epoch": "1584835200",
@@ -2810,8 +2810,8 @@
         "state": "future"
     },
     "conversantmedia.com": {
-        "epoch": "1560816000",
-        "expiration_date": "18-jun-2019",
+        "epoch": 1592438400,
+        "expiration_date": "18-jun-2020",
         "state": "future"
     },
     "conversionbet.com": {
