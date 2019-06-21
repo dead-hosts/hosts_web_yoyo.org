@@ -2,7 +2,8 @@
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
         "1560748767": {},
         "1560835452": {},
-        "1560926488": {
+        "1560926488": {},
+        "1561096906": {
             "a.0day.kiev.ua": "INACTIVE",
             "ad.choiceradio.com": "INACTIVE",
             "ad.eurosport.com": "INACTIVE",
@@ -74,6 +75,7 @@
             "media.ftv-publicite.fr": "INACTIVE",
             "mtrcs.samba.tv": "INACTIVE",
             "nedstat.nl": "INACTIVE",
+            "oas.benchmark.fr": "INACTIVE",
             "oas.salon.com": "INACTIVE",
             "openad.tf1.fr": "INACTIVE",
             "pgl.example": "INVALID",
@@ -88,9 +90,6 @@
             "vutzmxahqio.co": "INACTIVE",
             "webtrends.telegraph.co.uk": "INACTIVE",
             "www.banner-link.com.br": "INACTIVE"
-        },
-        "1561096906": {
-            "oas.benchmark.fr": "INACTIVE"
         }
     }
 }
