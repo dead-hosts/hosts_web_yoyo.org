@@ -1025,9 +1025,9 @@
         "state": "future"
     },
     "adsmart.net": {
-        "epoch": "1561334400",
+        "epoch": 1561334400,
         "expiration_date": "24-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "adsmogo.com": {
         "epoch": "1585785600",
@@ -2470,9 +2470,9 @@
         "state": "future"
     },
     "clevernt.com": {
-        "epoch": 1561161600,
-        "expiration_date": "22-jun-2019",
-        "state": "past"
+        "epoch": 1592784000,
+        "expiration_date": "22-jun-2020",
+        "state": "future"
     },
     "click2freemoney.com": {
         "epoch": "1563148800",
