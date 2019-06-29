@@ -6,7 +6,8 @@
         "1561096906": {},
         "1561273416": {},
         "1561445089": {},
-        "1561617844": {
+        "1561617844": {},
+        "1561787483": {
             "a.0day.kiev.ua": "INACTIVE",
             "ad.choiceradio.com": "INACTIVE",
             "ad.eurosport.com": "INACTIVE",
@@ -52,6 +53,7 @@
             "ads.web.cs.com": "INACTIVE",
             "adserv.iafrica.com": "INACTIVE",
             "adserver.omroepzeeland.nl": "INACTIVE",
+            "adsklick.de": "INACTIVE",
             "adsremote.scrippsnetworks.com": "INACTIVE",
             "adsrv.eacdn.com": "INACTIVE",
             "adtrading.de": "INACTIVE",
@@ -90,9 +92,6 @@
             "vutzmxahqio.co": "INACTIVE",
             "webtrends.telegraph.co.uk": "INACTIVE",
             "www.banner-link.com.br": "INACTIVE"
-        },
-        "1561787483": {
-            "adsklick.de": "INACTIVE"
         }
     }
 }

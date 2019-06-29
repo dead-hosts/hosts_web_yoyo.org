@@ -7465,8 +7465,8 @@
         "state": "future"
     },
     "sexinyourcity.com": {
-        "epoch": "1561680000",
-        "expiration_date": "28-jun-2019",
+        "epoch": 1593302400,
+        "expiration_date": "28-jun-2020",
         "state": "future"
     },
     "sexlist.com": {
@@ -8750,9 +8750,9 @@
         "state": "future"
     },
     "twittad.com": {
-        "epoch": 1561507200,
-        "expiration_date": "26-jun-2019",
-        "state": "past"
+        "epoch": 1593129600,
+        "expiration_date": "26-jun-2020",
+        "state": "future"
     },
     "twyn.com": {
         "epoch": "1588377600",
@@ -9215,9 +9215,9 @@
         "state": "future"
     },
     "wholesaletraffic.info": {
-        "epoch": "1561766400",
+        "epoch": 1561766400,
         "expiration_date": "29-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "widdit.com": {
         "epoch": "1583712000",
