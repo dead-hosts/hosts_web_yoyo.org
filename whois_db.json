@@ -3240,8 +3240,8 @@
         "state": "future"
     },
     "directtrack.com": {
-        "epoch": "1561766400",
-        "expiration_date": "29-jun-2019",
+        "epoch": 1593388800,
+        "expiration_date": "29-jun-2020",
         "state": "future"
     },
     "discountclick.com": {
@@ -5205,9 +5205,9 @@
         "state": "future"
     },
     "linktarget.com": {
-        "epoch": 1561593600,
-        "expiration_date": "27-jun-2019",
-        "state": "past"
+        "epoch": 1593216000,
+        "expiration_date": "27-jun-2020",
+        "state": "future"
     },
     "litix.io": {
         "epoch": 1579910400,
@@ -6175,9 +6175,9 @@
         "state": "future"
     },
     "onscroll.com": {
-        "epoch": "1561766400",
+        "epoch": 1561766400,
         "expiration_date": "29-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "onthe.io": {
         "epoch": "1580256000",
