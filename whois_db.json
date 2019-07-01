@@ -2460,9 +2460,9 @@
         "state": "future"
     },
     "class-act-clicks.com": {
-        "epoch": 1561680000,
-        "expiration_date": "28-jun-2019",
-        "state": "past"
+        "epoch": 1593302400,
+        "expiration_date": "28-jun-2020",
+        "state": "future"
     },
     "clearcomb.com": {
         "epoch": "1579651200",
@@ -2705,8 +2705,8 @@
         "state": "future"
     },
     "colonize.com": {
-        "epoch": "1561939200",
-        "expiration_date": "01-jul-2019",
+        "epoch": 1719792000,
+        "expiration_date": "01-jul-2024",
         "state": "future"
     },
     "comclick.com": {
