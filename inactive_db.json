@@ -7,7 +7,8 @@
         "1561273416": {},
         "1561445089": {},
         "1561617844": {},
-        "1561787483": {
+        "1561787483": {},
+        "1561961693": {
             "a.0day.kiev.ua": "INACTIVE",
             "ad.choiceradio.com": "INACTIVE",
             "ad.eurosport.com": "INACTIVE",
@@ -20,7 +21,6 @@
             "ads.adultswim.com": "INACTIVE",
             "ads.ak.facebook.com.edgesuite.net": "INACTIVE",
             "ads.aol.com": "INACTIVE",
-            "ads.canalblog.com": "INACTIVE",
             "ads.cgnetworks.com": "INACTIVE",
             "ads.crakmedia.com": "INACTIVE",
             "ads.datinggold.com": "INACTIVE",
@@ -53,7 +53,6 @@
             "ads.web.cs.com": "INACTIVE",
             "adserv.iafrica.com": "INACTIVE",
             "adserver.omroepzeeland.nl": "INACTIVE",
-            "adsklick.de": "INACTIVE",
             "adsremote.scrippsnetworks.com": "INACTIVE",
             "adsrv.eacdn.com": "INACTIVE",
             "adtrading.de": "INACTIVE",
@@ -65,6 +64,7 @@
             "b.engadget.com": "INACTIVE",
             "banner.getgo.de": "INACTIVE",
             "banner.wirenode.com": "INACTIVE",
+            "bannerads.de": "INACTIVE",
             "bannerexchange.cjb.net": "INACTIVE",
             "banners.easydns.com": "INACTIVE",
             "banners.sexsearch.com": "INACTIVE",
@@ -92,9 +92,6 @@
             "vutzmxahqio.co": "INACTIVE",
             "webtrends.telegraph.co.uk": "INACTIVE",
             "www.banner-link.com.br": "INACTIVE"
-        },
-        "1561961693": {
-            "bannerads.de": "INACTIVE"
         }
     }
 }

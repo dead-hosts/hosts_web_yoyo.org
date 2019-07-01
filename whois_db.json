@@ -6925,8 +6925,8 @@
         "state": "future"
     },
     "rankyou.com": {
-        "epoch": "1561852800",
-        "expiration_date": "30-jun-2019",
+        "epoch": 1593475200,
+        "expiration_date": "30-jun-2020",
         "state": "future"
     },
     "rapidcounter.com": {
@@ -7040,9 +7040,9 @@
         "state": "future"
     },
     "reduxmedia.com": {
-        "epoch": "1561939200",
+        "epoch": 1561939200,
         "expiration_date": "01-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "referralware.com": {
         "epoch": "1575936000",
@@ -7965,8 +7965,8 @@
         "state": "future"
     },
     "steelhouse.com": {
-        "epoch": "1561852800",
-        "expiration_date": "30-jun-2019",
+        "epoch": 1593475200,
+        "expiration_date": "30-jun-2020",
         "state": "future"
     },
     "steelhousemedia.com": {
@@ -9215,9 +9215,9 @@
         "state": "future"
     },
     "wholesaletraffic.info": {
-        "epoch": 1561766400,
-        "expiration_date": "29-jun-2019",
-        "state": "past"
+        "epoch": 1593388800,
+        "expiration_date": "29-jun-2020",
+        "state": "future"
     },
     "widdit.com": {
         "epoch": "1583712000",
