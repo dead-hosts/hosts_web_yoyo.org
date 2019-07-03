@@ -8,7 +8,8 @@
         "1561445089": {},
         "1561617844": {},
         "1561787483": {},
-        "1561961693": {
+        "1561961693": {},
+        "1562133217": {
             "a.0day.kiev.ua": "INACTIVE",
             "ad.choiceradio.com": "INACTIVE",
             "ad.eurosport.com": "INACTIVE",
@@ -21,6 +22,7 @@
             "ads.adultswim.com": "INACTIVE",
             "ads.ak.facebook.com.edgesuite.net": "INACTIVE",
             "ads.aol.com": "INACTIVE",
+            "ads.canalblog.com": "INACTIVE",
             "ads.cgnetworks.com": "INACTIVE",
             "ads.crakmedia.com": "INACTIVE",
             "ads.datinggold.com": "INACTIVE",
@@ -51,6 +53,7 @@
             "ads.virtualcountries.com": "INACTIVE",
             "ads.web.aol.com": "INACTIVE",
             "ads.web.cs.com": "INACTIVE",
+            "ads.yourfreedvds.com": "INACTIVE",
             "adserv.iafrica.com": "INACTIVE",
             "adserver.omroepzeeland.nl": "INACTIVE",
             "adsremote.scrippsnetworks.com": "INACTIVE",
@@ -64,13 +67,13 @@
             "b.engadget.com": "INACTIVE",
             "banner.getgo.de": "INACTIVE",
             "banner.wirenode.com": "INACTIVE",
-            "bannerads.de": "INACTIVE",
             "bannerexchange.cjb.net": "INACTIVE",
             "banners.easydns.com": "INACTIVE",
             "banners.sexsearch.com": "INACTIVE",
             "clickwith.bid": "INACTIVE",
             "clients.tbo.com": "INACTIVE",
             "count.rbc.ru": "INACTIVE",
+            "di1.shopping.com": "INACTIVE",
             "dmtracking.alibaba.com": "INACTIVE",
             "dmtracking2.alibaba.com": "INACTIVE",
             "eur.a1.yimg.com": "INACTIVE",
@@ -92,11 +95,6 @@
             "vutzmxahqio.co": "INACTIVE",
             "webtrends.telegraph.co.uk": "INACTIVE",
             "www.banner-link.com.br": "INACTIVE"
-        },
-        "1562133217": {
-            "ads.canalblog.com": "INACTIVE",
-            "ads.yourfreedvds.com": "INACTIVE",
-            "di1.shopping.com": "INACTIVE"
         }
     }
 }
