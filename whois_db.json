@@ -7274,6 +7274,11 @@
         "expiration_date": "29-aug-2019",
         "state": "future"
     },
+    "rs6.net": {
+        "epoch": 1608508800,
+        "expiration_date": "21-dec-2020",
+        "state": "future"
+    },
     "rtbpop.com": {
         "epoch": "1575590400",
         "expiration_date": "06-dec-2019",
@@ -7442,6 +7447,11 @@
     "secretspiders.com": {
         "epoch": "1597622400",
         "expiration_date": "17-aug-2020",
+        "state": "future"
+    },
+    "securedopen-bp.com": {
+        "epoch": 1572220800,
+        "expiration_date": "28-oct-2019",
         "state": "future"
     },
     "sedoparking.com": {
@@ -7637,6 +7647,11 @@
     "similarsabine.com": {
         "epoch": "1584748800",
         "expiration_date": "21-mar-2020",
+        "state": "future"
+    },
+    "simpleanalytics.io": {
+        "epoch": 1566086400,
+        "expiration_date": "18-aug-2019",
         "state": "future"
     },
     "simpli.fi": {
@@ -9080,8 +9095,8 @@
         "state": "future"
     },
     "volvelle.tech": {
-        "epoch": "1557705600",
-        "expiration_date": "13-may-2019",
+        "epoch": 1589328000,
+        "expiration_date": "13-may-2020",
         "state": "future"
     },
     "vpon.com": {
