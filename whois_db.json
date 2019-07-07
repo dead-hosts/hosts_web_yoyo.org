@@ -170,8 +170,8 @@
         "state": "future"
     },
     "a-ads.com": {
-        "epoch": "1562457600",
-        "expiration_date": "07-jul-2019",
+        "epoch": 1594080000,
+        "expiration_date": "07-jul-2020",
         "state": "future"
     },
     "a-counter.kiev.ua": {
@@ -917,6 +917,11 @@
     "ads180.com": {
         "epoch": "1575504000",
         "expiration_date": "05-dec-2019",
+        "state": "future"
+    },
+    "ads24h.net": {
+        "epoch": 1572480000,
+        "expiration_date": "31-oct-2019",
         "state": "future"
     },
     "ads4homes.com": {
