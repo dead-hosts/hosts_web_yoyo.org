@@ -8280,8 +8280,8 @@
         "state": "future"
     },
     "targetnet.com": {
-        "epoch": "1562544000",
-        "expiration_date": "08-jul-2019",
+        "epoch": 1594166400,
+        "expiration_date": "08-jul-2020",
         "state": "future"
     },
     "targetpoint.com": {
@@ -8505,9 +8505,9 @@
         "state": "future"
     },
     "top-site-list.com": {
-        "epoch": 1562457600,
-        "expiration_date": "07-jul-2019",
-        "state": "past"
+        "epoch": 1594080000,
+        "expiration_date": "07-jul-2020",
+        "state": "future"
     },
     "top123.ro": {
         "epoch": "1569196800",
@@ -8865,8 +8865,8 @@
         "state": "future"
     },
     "ultramercial.com": {
-        "epoch": "1562544000",
-        "expiration_date": "08-jul-2019",
+        "epoch": 1594166400,
+        "expiration_date": "08-jul-2020",
         "state": "future"
     },
     "ultraoranges.com": {
