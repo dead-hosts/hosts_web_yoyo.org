@@ -3305,9 +3305,9 @@
         "state": "future"
     },
     "domaining.in": {
-        "epoch": "1562544000",
+        "epoch": 1562544000,
         "expiration_date": "08-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "domainsponsor.com": {
         "epoch": "1564531200",
@@ -3570,9 +3570,9 @@
         "state": "future"
     },
     "enginenetwork.com": {
-        "epoch": "1562630400",
+        "epoch": 1562630400,
         "expiration_date": "09-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "enlarget.com": {
         "epoch": "1579046400",
@@ -3720,9 +3720,9 @@
         "state": "future"
     },
     "exitexchange.com": {
-        "epoch": "1562630400",
+        "epoch": 1562630400,
         "expiration_date": "09-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "exitfuel.com": {
         "epoch": "1587340800",
@@ -5085,9 +5085,9 @@
         "state": "future"
     },
     "kniverto.com": {
-        "epoch": "1562630400",
+        "epoch": 1562630400,
         "expiration_date": "09-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "knorex.com": {
         "epoch": "1587945600",
@@ -6015,8 +6015,8 @@
         "state": "future"
     },
     "netincap.com": {
-        "epoch": "1562544000",
-        "expiration_date": "08-jul-2019",
+        "epoch": 1594166400,
+        "expiration_date": "08-jul-2020",
         "state": "future"
     },
     "netmng.com": {
@@ -6560,9 +6560,9 @@
         "state": "future"
     },
     "play4traffic.com": {
-        "epoch": "1562544000",
+        "epoch": 1562544000,
         "expiration_date": "08-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "playhaven.com": {
         "epoch": "1606867200",
