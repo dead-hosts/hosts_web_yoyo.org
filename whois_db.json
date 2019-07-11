@@ -3375,8 +3375,8 @@
         "state": "future"
     },
     "dstillery.com": {
-        "epoch": "1562716800",
-        "expiration_date": "10-jul-2019",
+        "epoch": 1580169600,
+        "expiration_date": "28-jan-2020",
         "state": "future"
     },
     "dyntrk.com": {
@@ -3570,9 +3570,9 @@
         "state": "future"
     },
     "enginenetwork.com": {
-        "epoch": 1562630400,
-        "expiration_date": "09-jul-2019",
-        "state": "past"
+        "epoch": 1594252800,
+        "expiration_date": "09-jul-2020",
+        "state": "future"
     },
     "enlarget.com": {
         "epoch": "1579046400",
@@ -3720,9 +3720,9 @@
         "state": "future"
     },
     "exitexchange.com": {
-        "epoch": 1562630400,
-        "expiration_date": "09-jul-2019",
-        "state": "past"
+        "epoch": 1625788800,
+        "expiration_date": "09-jul-2021",
+        "state": "future"
     },
     "exitfuel.com": {
         "epoch": "1587340800",
@@ -3910,8 +3910,8 @@
         "state": "future"
     },
     "findcommerce.com": {
-        "epoch": "1562716800",
-        "expiration_date": "10-jul-2019",
+        "epoch": 1594339200,
+        "expiration_date": "10-jul-2020",
         "state": "future"
     },
     "findepended.com": {
@@ -4480,9 +4480,9 @@
         "state": "future"
     },
     "hitfarm.com": {
-        "epoch": "1562803200",
+        "epoch": 1562803200,
         "expiration_date": "11-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "hitiz.com": {
         "epoch": "1588464000",
@@ -5085,9 +5085,9 @@
         "state": "future"
     },
     "kniverto.com": {
-        "epoch": 1562630400,
-        "expiration_date": "09-jul-2019",
-        "state": "past"
+        "epoch": 1594252800,
+        "expiration_date": "09-jul-2020",
+        "state": "future"
     },
     "knorex.com": {
         "epoch": "1587945600",
@@ -6560,9 +6560,9 @@
         "state": "future"
     },
     "play4traffic.com": {
-        "epoch": 1562544000,
-        "expiration_date": "08-jul-2019",
-        "state": "past"
+        "epoch": 1594166400,
+        "expiration_date": "08-jul-2020",
+        "state": "future"
     },
     "playhaven.com": {
         "epoch": "1606867200",
