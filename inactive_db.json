@@ -12,7 +12,8 @@
         "1562133217": {},
         "1562307784": {},
         "1562484506": {},
-        "1562656178": {
+        "1562656178": {},
+        "1562825622": {
             "a.0day.kiev.ua": "INACTIVE",
             "ad.choiceradio.com": "INACTIVE",
             "ad.eurosport.com": "INACTIVE",
@@ -45,6 +46,7 @@
             "ads.quasaraffiliates.com": "INACTIVE",
             "ads.returnpath.net": "INACTIVE",
             "ads.s3.sitepoint.com": "INACTIVE",
+            "ads.satyamonline.com": "INACTIVE",
             "ads.saymedia.com": "INACTIVE",
             "ads.sift.co.uk": "INACTIVE",
             "ads.slim.com": "INACTIVE",
@@ -87,20 +89,18 @@
             "openad.tf1.fr": "INACTIVE",
             "pgl.example": "INVALID",
             "pgl.example0101": "INVALID",
+            "pgltestinghere": "INVALID",
             "pixel.redditmedia.com": "INACTIVE",
             "ranking-street.de": "INACTIVE",
             "record.affiliates.karjalakasino.com": "INACTIVE",
             "record.bonniergaming.com": "INACTIVE",
+            "stat.dealtime.com": "INACTIVE",
             "t.pusk.ru": "INACTIVE",
             "touchclarity.natwest.com": "INACTIVE",
             "track.dating-4-you.com": "INACTIVE",
             "vutzmxahqio.co": "INACTIVE",
             "webtrends.telegraph.co.uk": "INACTIVE",
             "www.banner-link.com.br": "INACTIVE"
-        },
-        "1562825622": {
-            "ads.satyamonline.com": "INACTIVE",
-            "pgltestinghere": "INVALID"
         }
     }
 }

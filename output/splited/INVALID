@@ -3,3 +3,5 @@
 
 Subject                                                                                              Status      HTTP Code 
 pgltestinghere                                                                                       INVALID     SYNTAX    
+pgl.example0101                                                                                      INVALID     SYNTAX    
+pgl.example                                                                                          INVALID     SYNTAX    
