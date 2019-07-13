@@ -335,9 +335,9 @@
         "state": "future"
     },
     "ad-up.com": {
-        "epoch": 1562803200,
-        "expiration_date": "11-jul-2019",
-        "state": "past"
+        "epoch": 1594425600,
+        "expiration_date": "11-jul-2020",
+        "state": "future"
     },
     "ad2flash.com": {
         "epoch": "1576886400",
@@ -1555,8 +1555,8 @@
         "state": "future"
     },
     "apolloprogram.io": {
-        "epoch": "1562889600",
-        "expiration_date": "12-jul-2019",
+        "epoch": 1594512000,
+        "expiration_date": "12-jul-2020",
         "state": "future"
     },
     "appsflyer.com": {
@@ -2615,9 +2615,9 @@
         "state": "past"
     },
     "clickxchange.com": {
-        "epoch": "1562976000",
+        "epoch": 1562976000,
         "expiration_date": "13-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "clickz.com": {
         "epoch": "1584835200",
