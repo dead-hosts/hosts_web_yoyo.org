@@ -8445,8 +8445,8 @@
         "state": "future"
     },
     "throtle.io": {
-        "epoch": "1562889600",
-        "expiration_date": "12-jul-2019",
+        "epoch": 1594512000,
+        "expiration_date": "12-jul-2020",
         "state": "future"
     },
     "thruport.com": {
@@ -9585,9 +9585,9 @@
         "state": "future"
     },
     "zm232.com": {
-        "epoch": "1562976000",
+        "epoch": 1562976000,
         "expiration_date": "13-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "zmedia.com": {
         "epoch": "1564185600",
