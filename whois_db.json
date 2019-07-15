@@ -3690,8 +3690,8 @@
         "state": "future"
     },
     "exchange-it.com": {
-        "epoch": "1563062400",
-        "expiration_date": "14-jul-2019",
+        "epoch": 1594684800,
+        "expiration_date": "14-jul-2020",
         "state": "future"
     },
     "exchangead.com": {
@@ -4235,9 +4235,9 @@
         "state": "future"
     },
     "go2affise.com": {
-        "epoch": "1563148800",
+        "epoch": 1563148800,
         "expiration_date": "15-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "goingplatinum.com": {
         "epoch": "1583452800",
