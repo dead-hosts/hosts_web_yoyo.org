@@ -7835,8 +7835,8 @@
         "state": "future"
     },
     "spacash.com": {
-        "epoch": "1563062400",
-        "expiration_date": "14-jul-2019",
+        "epoch": 1594684800,
+        "expiration_date": "14-jul-2020",
         "state": "future"
     },
     "sparkstudios.com": {
@@ -9085,8 +9085,8 @@
         "state": "future"
     },
     "voicefive.com": {
-        "epoch": "1563062400",
-        "expiration_date": "14-jul-2019",
+        "epoch": 1594684800,
+        "expiration_date": "14-jul-2020",
         "state": "future"
     },
     "voicevegetable.com": {
@@ -9480,9 +9480,9 @@
         "state": "future"
     },
     "yieldlab.net": {
-        "epoch": "1563148800",
+        "epoch": 1563148800,
         "expiration_date": "15-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "yieldmanager.com": {
         "epoch": "1565222400",
@@ -9585,9 +9585,9 @@
         "state": "future"
     },
     "zm232.com": {
-        "epoch": 1562976000,
-        "expiration_date": "13-jul-2019",
-        "state": "past"
+        "epoch": 1594598400,
+        "expiration_date": "13-jul-2020",
+        "state": "future"
     },
     "zmedia.com": {
         "epoch": "1564185600",
