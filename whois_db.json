@@ -3045,9 +3045,9 @@
         "state": "future"
     },
     "cyberbounty.com": {
-        "epoch": "1563321600",
+        "epoch": 1563321600,
         "expiration_date": "17-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "d2cmedia.ca": {
         "epoch": "1580947200",
@@ -4235,9 +4235,9 @@
         "state": "future"
     },
     "go2affise.com": {
-        "epoch": 1563148800,
-        "expiration_date": "15-jul-2019",
-        "state": "past"
+        "epoch": 1594771200,
+        "expiration_date": "15-jul-2020",
+        "state": "future"
     },
     "goingplatinum.com": {
         "epoch": "1583452800",
