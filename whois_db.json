@@ -600,9 +600,9 @@
         "state": "future"
     },
     "adition.net": {
-        "epoch": "1563408000",
+        "epoch": 1563408000,
         "expiration_date": "18-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "adizio.com": {
         "epoch": "1585180800",
