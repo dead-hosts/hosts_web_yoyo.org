@@ -17,7 +17,8 @@
         "1562996666": {},
         "1563173017": {},
         "1563345054": {},
-        "1563517303": {
+        "1563517303": {},
+        "1563688170": {
             "a.0day.kiev.ua": "INACTIVE",
             "ad.choiceradio.com": "INACTIVE",
             "ad.eurosport.com": "INACTIVE",
@@ -40,6 +41,7 @@
             "ads.getlucky.com": "INACTIVE",
             "ads.heias.com": "INACTIVE",
             "ads.hideyourarms.com": "INACTIVE",
+            "ads.horsehero.com": "INACTIVE",
             "ads.iafrica.com": "INACTIVE",
             "ads.larryaffiliates.com": "INACTIVE",
             "ads.linuxsecurity.com": "INACTIVE",
@@ -106,9 +108,6 @@
             "vutzmxahqio.co": "INACTIVE",
             "webtrends.telegraph.co.uk": "INACTIVE",
             "www.banner-link.com.br": "INACTIVE"
-        },
-        "1563688170": {
-            "ads.horsehero.com": "INACTIVE"
         }
     }
 }
