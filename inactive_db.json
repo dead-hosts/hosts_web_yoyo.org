@@ -18,7 +18,8 @@
         "1563173017": {},
         "1563345054": {},
         "1563517303": {},
-        "1563688170": {
+        "1563688170": {},
+        "1563860534": {
             "a.0day.kiev.ua": "INACTIVE",
             "ad.choiceradio.com": "INACTIVE",
             "ad.eurosport.com": "INACTIVE",
@@ -41,7 +42,6 @@
             "ads.getlucky.com": "INACTIVE",
             "ads.heias.com": "INACTIVE",
             "ads.hideyourarms.com": "INACTIVE",
-            "ads.horsehero.com": "INACTIVE",
             "ads.iafrica.com": "INACTIVE",
             "ads.larryaffiliates.com": "INACTIVE",
             "ads.linuxsecurity.com": "INACTIVE",
@@ -50,6 +50,7 @@
             "ads.newsquest.co.uk": "INACTIVE",
             "ads.penny-arcade.com": "INACTIVE",
             "ads.quasaraffiliates.com": "INACTIVE",
+            "ads.redtube.com": "INACTIVE",
             "ads.returnpath.net": "INACTIVE",
             "ads.s3.sitepoint.com": "INACTIVE",
             "ads.saymedia.com": "INACTIVE",
@@ -63,6 +64,7 @@
             "ads.virtualcountries.com": "INACTIVE",
             "ads.web.aol.com": "INACTIVE",
             "ads.web.cs.com": "INACTIVE",
+            "ads03.redtube.com": "INACTIVE",
             "adserv.iafrica.com": "INACTIVE",
             "adserver.omroepzeeland.nl": "INACTIVE",
             "adsremote.scrippsnetworks.com": "INACTIVE",
@@ -108,10 +110,6 @@
             "vutzmxahqio.co": "INACTIVE",
             "webtrends.telegraph.co.uk": "INACTIVE",
             "www.banner-link.com.br": "INACTIVE"
-        },
-        "1563860534": {
-            "ads.redtube.com": "INACTIVE",
-            "ads03.redtube.com": "INACTIVE"
         }
     }
 }
