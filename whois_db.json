@@ -7960,8 +7960,8 @@
         "state": "future"
     },
     "spywords.com": {
-        "epoch": "1564099200",
-        "expiration_date": "26-jul-2019",
+        "epoch": 1595721600,
+        "expiration_date": "26-jul-2020",
         "state": "future"
     },
     "squeamishscarecrow.com": {
@@ -9610,8 +9610,8 @@
         "state": "future"
     },
     "zmedia.com": {
-        "epoch": "1564185600",
-        "expiration_date": "27-jul-2019",
+        "epoch": 1595808000,
+        "expiration_date": "27-jul-2020",
         "state": "future"
     },
     "zqtk.net": {
