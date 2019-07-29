@@ -7135,9 +7135,9 @@
         "state": "future"
     },
     "reinvigorate.net": {
-        "epoch": "1564358400",
+        "epoch": 1564358400,
         "expiration_date": "29-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "reklamer.com.ua": {
         "epoch": "1580774400",
@@ -8035,9 +8035,9 @@
         "state": "future"
     },
     "stats4all.com": {
-        "epoch": "1564358400",
+        "epoch": 1564358400,
         "expiration_date": "29-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "statsie.com": {
         "epoch": "1568937600",
