@@ -22,12 +22,14 @@
         "1563860534": {},
         "1564034295": {},
         "1564208656": {},
-        "1564381416": {
+        "1564381416": {},
+        "1564552124": {
             "a.0day.kiev.ua": "INACTIVE",
             "ad.choiceradio.com": "INACTIVE",
             "ad.eurosport.com": "INACTIVE",
             "ad.f1cd.ru": "INACTIVE",
             "ad.globe7.com": "INACTIVE",
+            "ad.preferances.com": "INACTIVE",
             "ad.slutload.com": "INACTIVE",
             "ad2.linxcz.cz": "INACTIVE",
             "adboost.de.vu": "INACTIVE",
@@ -35,6 +37,7 @@
             "ads.adultswim.com": "INACTIVE",
             "ads.ak.facebook.com.edgesuite.net": "INACTIVE",
             "ads.aol.com": "INACTIVE",
+            "ads.canalblog.com": "INACTIVE",
             "ads.cgnetworks.com": "INACTIVE",
             "ads.crakmedia.com": "INACTIVE",
             "ads.datinggold.com": "INACTIVE",
@@ -112,10 +115,6 @@
             "vutzmxahqio.co": "INACTIVE",
             "webtrends.telegraph.co.uk": "INACTIVE",
             "www.banner-link.com.br": "INACTIVE"
-        },
-        "1564552124": {
-            "ad.preferances.com": "INACTIVE",
-            "ads.canalblog.com": "INACTIVE"
         }
     }
 }
