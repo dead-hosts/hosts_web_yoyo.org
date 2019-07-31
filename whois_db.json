@@ -1964,6 +1964,11 @@
         "expiration_date": "13-may-2020",
         "state": "future"
     },
+    "big-bang-ads.com": {
+        "epoch": 1592524800,
+        "expiration_date": "19-jun-2020",
+        "state": "future"
+    },
     "bigbangmedia.com": {
         "epoch": "1604361600",
         "expiration_date": "03-nov-2020",
