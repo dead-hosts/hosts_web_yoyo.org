@@ -7055,8 +7055,8 @@
         "state": "future"
     },
     "rate.ru": {
-        "epoch": "1564617600",
-        "expiration_date": "01-aug-2019",
+        "epoch": 1596240000,
+        "expiration_date": "01-aug-2020",
         "state": "future"
     },
     "rayjump.com": {
@@ -9592,6 +9592,11 @@
     "zantracker.com": {
         "epoch": "1589155200",
         "expiration_date": "11-may-2020",
+        "state": "future"
+    },
+    "zarget.com": {
+        "epoch": 1693526400,
+        "expiration_date": "01-sep-2023",
         "state": "future"
     },
     "zbwp6ghm.com": {
