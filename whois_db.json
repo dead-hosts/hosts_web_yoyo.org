@@ -1544,6 +1544,11 @@
         "expiration_date": "06-apr-2020",
         "state": "future"
     },
+    "anstrex.com": {
+        "epoch": 1619049600,
+        "expiration_date": "22-apr-2021",
+        "state": "future"
+    },
     "anxiousapples.com": {
         "epoch": "1571616000",
         "expiration_date": "21-oct-2019",
@@ -1750,8 +1755,8 @@
         "state": "future"
     },
     "banner.kiev.ua": {
-        "epoch": "1564617600",
-        "expiration_date": "01-aug-2019",
+        "epoch": 1596240000,
+        "expiration_date": "01-aug-2020",
         "state": "future"
     },
     "bannerboxes.com": {
@@ -2415,8 +2420,8 @@
         "state": "future"
     },
     "chartbeat.com": {
-        "epoch": "1564704000",
-        "expiration_date": "02-aug-2019",
+        "epoch": 1596326400,
+        "expiration_date": "02-aug-2020",
         "state": "future"
     },
     "chartbeat.net": {
