@@ -3564,6 +3564,11 @@
         "expiration_date": "14-mar-2021",
         "state": "future"
     },
+    "emebo.io": {
+        "epoch": 1601510400,
+        "expiration_date": "01-oct-2020",
+        "state": "future"
+    },
     "emediate.dk": {
         "epoch": "1569801600",
         "expiration_date": "30-sep-2019",
@@ -3957,6 +3962,11 @@
     "firstlightera.com": {
         "epoch": "1572652800",
         "expiration_date": "02-nov-2019",
+        "state": "future"
+    },
+    "firstpromoter.com": {
+        "epoch": 1619049600,
+        "expiration_date": "22-apr-2021",
         "state": "future"
     },
     "flakyfeast.com": {
@@ -5322,6 +5332,11 @@
     "loading321.com": {
         "epoch": 1592006400,
         "expiration_date": "13-jun-2020",
+        "state": "future"
+    },
+    "logsss.com": {
+        "epoch": 1620086400,
+        "expiration_date": "04-may-2021",
         "state": "future"
     },
     "logua.com": {
