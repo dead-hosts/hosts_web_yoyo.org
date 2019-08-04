@@ -25,6 +25,11 @@
         "1564381416": {},
         "1564552124": {},
         "1564725674": {
+            "ads.web.cs.com": "INACTIVE",
+            "adserver.omroepzeeland.nl": "INACTIVE",
+            "webtrends.telegraph.co.uk": "INACTIVE"
+        },
+        "1564897956": {
             "a.0day.kiev.ua": "INACTIVE",
             "ad.choiceradio.com": "INACTIVE",
             "ad.eurosport.com": "INACTIVE",
@@ -38,6 +43,7 @@
             "ads.adultswim.com": "INACTIVE",
             "ads.ak.facebook.com.edgesuite.net": "INACTIVE",
             "ads.aol.com": "INACTIVE",
+            "ads.canalblog.com": "INACTIVE",
             "ads.cgnetworks.com": "INACTIVE",
             "ads.crakmedia.com": "INACTIVE",
             "ads.datinggold.com": "INACTIVE",
@@ -68,10 +74,9 @@
             "ads.tripod.spray.se": "INACTIVE",
             "ads.virtualcountries.com": "INACTIVE",
             "ads.web.aol.com": "INACTIVE",
-            "ads.web.cs.com": "INACTIVE",
             "ads03.redtube.com": "INACTIVE",
             "adserv.iafrica.com": "INACTIVE",
-            "adserver.omroepzeeland.nl": "INACTIVE",
+            "adserver.flossiemediagroup.com": "INACTIVE",
             "adsremote.scrippsnetworks.com": "INACTIVE",
             "adsrv.eacdn.com": "INACTIVE",
             "adtrading.de": "INACTIVE",
@@ -113,12 +118,7 @@
             "touchclarity.natwest.com": "INACTIVE",
             "track.dating-4-you.com": "INACTIVE",
             "vutzmxahqio.co": "INACTIVE",
-            "webtrends.telegraph.co.uk": "INACTIVE",
             "www.banner-link.com.br": "INACTIVE"
-        },
-        "1564897956": {
-            "ads.canalblog.com": "INACTIVE",
-            "adserver.flossiemediagroup.com": "INACTIVE"
         }
     }
 }
