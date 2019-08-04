@@ -1180,9 +1180,9 @@
         "state": "future"
     },
     "advariant.com": {
-        "epoch": "1564790400",
+        "epoch": 1564790400,
         "expiration_date": "03-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "adventory.com": {
         "epoch": "1571702400",
@@ -1610,8 +1610,8 @@
         "state": "future"
     },
     "argyresthia.com": {
-        "epoch": "1564790400",
-        "expiration_date": "03-aug-2019",
+        "epoch": 1596412800,
+        "expiration_date": "03-aug-2020",
         "state": "future"
     },
     "aromamirror.com": {
@@ -1855,8 +1855,8 @@
         "state": "future"
     },
     "bawdybeast.com": {
-        "epoch": "1564790400",
-        "expiration_date": "03-aug-2019",
+        "epoch": 1596412800,
+        "expiration_date": "03-aug-2020",
         "state": "future"
     },
     "baypops.com": {
@@ -2105,8 +2105,8 @@
         "state": "future"
     },
     "boredcrown.com": {
-        "epoch": "1564790400",
-        "expiration_date": "03-aug-2019",
+        "epoch": 1596412800,
+        "expiration_date": "03-aug-2020",
         "state": "future"
     },
     "boringcoat.com": {
@@ -2115,8 +2115,8 @@
         "state": "future"
     },
     "boudja.com": {
-        "epoch": "1564876800",
-        "expiration_date": "04-aug-2019",
+        "epoch": 1628035200,
+        "expiration_date": "04-aug-2021",
         "state": "future"
     },
     "bounceexchange.com": {
@@ -2190,8 +2190,8 @@
         "state": "future"
     },
     "broaddoor.com": {
-        "epoch": "1564790400",
-        "expiration_date": "03-aug-2019",
+        "epoch": 1596412800,
+        "expiration_date": "03-aug-2020",
         "state": "future"
     },
     "btez8.xyz": {
