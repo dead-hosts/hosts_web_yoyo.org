@@ -30,21 +30,16 @@
         },
         "1564897956": {
             "a.0day.kiev.ua": "INACTIVE",
-            "ad.choiceradio.com": "INACTIVE",
-            "ad.eurosport.com": "INACTIVE",
             "ad.f1cd.ru": "INACTIVE",
             "ad.globe7.com": "INACTIVE",
             "ad.slutload.com": "INACTIVE",
             "ad.xiaomi.com": "INACTIVE",
             "ad2.linxcz.cz": "INACTIVE",
             "adboost.de.vu": "INACTIVE",
-            "adimages.omroepzeeland.nl": "INACTIVE",
             "ads.adultswim.com": "INACTIVE",
             "ads.ak.facebook.com.edgesuite.net": "INACTIVE",
             "ads.aol.com": "INACTIVE",
-            "ads.canalblog.com": "INACTIVE",
             "ads.cgnetworks.com": "INACTIVE",
-            "ads.crakmedia.com": "INACTIVE",
             "ads.datinggold.com": "INACTIVE",
             "ads.eatinparis.com": "INACTIVE",
             "ads.expedia.com": "INACTIVE",
@@ -75,8 +70,6 @@
             "ads.web.aol.com": "INACTIVE",
             "ads03.redtube.com": "INACTIVE",
             "adserv.iafrica.com": "INACTIVE",
-            "adserver.flossiemediagroup.com": "INACTIVE",
-            "adserver.omroepzeeland.nl": "INACTIVE",
             "adsremote.scrippsnetworks.com": "INACTIVE",
             "adsrv.eacdn.com": "INACTIVE",
             "adtrading.de": "INACTIVE",
@@ -119,6 +112,17 @@
             "track.dating-4-you.com": "INACTIVE",
             "vutzmxahqio.co": "INACTIVE",
             "www.banner-link.com.br": "INACTIVE"
+        },
+        "1565502675": {
+            "ad.choiceradio.com": "INACTIVE",
+            "ad.eurosport.com": "INACTIVE",
+            "adimages.omroepzeeland.nl": "INACTIVE",
+            "ads.betfair.com.au": "INACTIVE",
+            "ads.canalblog.com": "INACTIVE",
+            "ads.crakmedia.com": "INACTIVE",
+            "ads.elcarado.com": "INACTIVE",
+            "adserver.flossiemediagroup.com": "INACTIVE",
+            "adserver.omroepzeeland.nl": "INACTIVE"
         }
     }
 }
