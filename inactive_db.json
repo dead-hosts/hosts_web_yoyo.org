@@ -44,8 +44,6 @@
             "ads.eatinparis.com": "INACTIVE",
             "ads.expedia.com": "INACTIVE",
             "ads.foxnews.com": "INACTIVE",
-            "ads.getlucky.com": "INACTIVE",
-            "ads.heias.com": "INACTIVE",
             "ads.hideyourarms.com": "INACTIVE",
             "ads.iafrica.com": "INACTIVE",
             "ads.larryaffiliates.com": "INACTIVE",
@@ -121,8 +119,11 @@
             "ads.canalblog.com": "INACTIVE",
             "ads.crakmedia.com": "INACTIVE",
             "ads.elcarado.com": "INACTIVE",
+            "ads.getlucky.com": "INACTIVE",
+            "ads.heias.com": "INACTIVE",
             "adserver.flossiemediagroup.com": "INACTIVE",
-            "adserver.omroepzeeland.nl": "INACTIVE"
+            "adserver.omroepzeeland.nl": "INACTIVE",
+            "adsk2.co": "INACTIVE"
         }
     }
 }
