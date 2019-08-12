@@ -23,7 +23,14 @@
             "adserver.omroepzeeland.nl": "INACTIVE",
             "adsk2.co": "INACTIVE",
             "adsrv.eacdn.com": "INACTIVE",
-            "arc1.msn.com": "INACTIVE"
+            "arc1.msn.com": "INACTIVE",
+            "clickwith.bid": "INACTIVE",
+            "dmtracking.alibaba.com": "INACTIVE",
+            "dmtracking2.alibaba.com": "INACTIVE",
+            "dsp.colpirio.com": "INACTIVE",
+            "media.ftv-publicite.fr": "INACTIVE",
+            "mtrcs.samba.tv": "INACTIVE",
+            "openad.tf1.fr": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
