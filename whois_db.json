@@ -1125,8 +1125,8 @@
         "state": "future"
     },
     "adtilt.com": {
-        "epoch": "1565136000",
-        "expiration_date": "07-aug-2019",
+        "epoch": 1596758400,
+        "expiration_date": "07-aug-2020",
         "state": "future"
     },
     "adtng.com": {
@@ -1170,8 +1170,8 @@
         "state": "future"
     },
     "adultadvertising.com": {
-        "epoch": "1565395200",
-        "expiration_date": "10-aug-2019",
+        "epoch": 1597017600,
+        "expiration_date": "10-aug-2020",
         "state": "future"
     },
     "adv-adserver.com": {
@@ -1180,9 +1180,9 @@
         "state": "future"
     },
     "advariant.com": {
-        "epoch": 1564790400,
-        "expiration_date": "03-aug-2019",
-        "state": "past"
+        "epoch": 1596412800,
+        "expiration_date": "03-aug-2020",
+        "state": "future"
     },
     "adventory.com": {
         "epoch": "1571702400",
@@ -1260,8 +1260,8 @@
         "state": "future"
     },
     "advfromnwl.com": {
-        "epoch": "1565136000",
-        "expiration_date": "07-aug-2019",
+        "epoch": 1596758400,
+        "expiration_date": "07-aug-2020",
         "state": "future"
     },
     "advisormedia.cz": {
@@ -1765,8 +1765,8 @@
         "state": "future"
     },
     "bannerconnect.com": {
-        "epoch": "1565136000",
-        "expiration_date": "07-aug-2019",
+        "epoch": 1596758400,
+        "expiration_date": "07-aug-2020",
         "state": "future"
     },
     "bannerconnect.net": {
@@ -1987,6 +1987,11 @@
     "billboard.cz": {
         "epoch": "1571616000",
         "expiration_date": "21-oct-2019",
+        "state": "future"
+    },
+    "biosda.com": {
+        "epoch": 1595376000,
+        "expiration_date": "22-jul-2020",
         "state": "future"
     },
     "bitads.net": {
@@ -2320,8 +2325,8 @@
         "state": "future"
     },
     "cash4members.com": {
-        "epoch": "1565049600",
-        "expiration_date": "06-aug-2019",
+        "epoch": 1596672000,
+        "expiration_date": "06-aug-2020",
         "state": "future"
     },
     "cashcrate.com": {
@@ -2410,8 +2415,8 @@
         "state": "future"
     },
     "chardwardse.club": {
-        "epoch": "1565308800",
-        "expiration_date": "09-aug-2019",
+        "epoch": 1628467200,
+        "expiration_date": "09-aug-2021",
         "state": "future"
     },
     "chart.dk": {
@@ -2535,9 +2540,9 @@
         "state": "future"
     },
     "clickbank.com": {
-        "epoch": 1564876800,
-        "expiration_date": "04-aug-2019",
-        "state": "past"
+        "epoch": 1596499200,
+        "expiration_date": "04-aug-2020",
+        "state": "future"
     },
     "clickbank.net": {
         "epoch": "1562716800",
