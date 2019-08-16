@@ -320,8 +320,8 @@
         "state": "future"
     },
     "ad-souk.com": {
-        "epoch": "1565827200",
-        "expiration_date": "15-aug-2019",
+        "epoch": 1597449600,
+        "expiration_date": "15-aug-2020",
         "state": "future"
     },
     "ad-space.net": {
@@ -1270,8 +1270,8 @@
         "state": "future"
     },
     "adviva.net": {
-        "epoch": "1565827200",
-        "expiration_date": "15-aug-2019",
+        "epoch": 1597449600,
+        "expiration_date": "15-aug-2020",
         "state": "future"
     },
     "advnt.com": {
@@ -2060,9 +2060,9 @@
         "state": "future"
     },
     "blueadvertise.com": {
-        "epoch": "1565913600",
+        "epoch": 1565913600,
         "expiration_date": "16-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "bluekai.com": {
         "epoch": "1593993600",
@@ -2335,8 +2335,8 @@
         "state": "future"
     },
     "cashengines.com": {
-        "epoch": "1565913600",
-        "expiration_date": "16-aug-2019",
+        "epoch": 1597536000,
+        "expiration_date": "16-aug-2020",
         "state": "future"
     },
     "cashfiesta.com": {
