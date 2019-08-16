@@ -1,7 +1,8 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/domains.list": {
         "1565643468": {},
-        "1565762952": {
+        "1565762952": {},
+        "1565937466": {
             "ad.choiceradio.com": "INACTIVE",
             "ad.eurosport.com": "INACTIVE",
             "ad.xiaomi.com": "INACTIVE",
@@ -21,7 +22,6 @@
             "ads.sift.co.uk": "INACTIVE",
             "ads.toplayaffiliates.com": "INACTIVE",
             "ads.trinitymirror.co.uk": "INACTIVE",
-            "ads.yourfreedvds.com": "INACTIVE",
             "adserver.omroepzeeland.nl": "INACTIVE",
             "adsk2.co": "INACTIVE",
             "adsrv.eacdn.com": "INACTIVE",
