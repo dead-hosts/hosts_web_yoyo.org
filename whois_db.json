@@ -1630,8 +1630,8 @@
         "state": "future"
     },
     "atdmt.com": {
-        "epoch": "1566000000",
-        "expiration_date": "17-aug-2019",
+        "epoch": 1597622400,
+        "expiration_date": "17-aug-2020",
         "state": "future"
     },
     "attractiveafternoon.com": {
@@ -2020,9 +2020,9 @@
         "state": "future"
     },
     "blast4traffic.com": {
-        "epoch": "1566000000",
+        "epoch": 1566000000,
         "expiration_date": "17-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "blingbucks.com": {
         "epoch": "1725840000",
@@ -2060,9 +2060,9 @@
         "state": "future"
     },
     "blueadvertise.com": {
-        "epoch": 1565913600,
-        "expiration_date": "16-aug-2019",
-        "state": "past"
+        "epoch": 1597536000,
+        "expiration_date": "16-aug-2020",
+        "state": "future"
     },
     "bluekai.com": {
         "epoch": "1593993600",
