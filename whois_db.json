@@ -6660,9 +6660,9 @@
         "state": "future"
     },
     "popflawlessads.com": {
-        "epoch": "1566000000",
+        "epoch": 1566000000,
         "expiration_date": "17-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "popmyads.com": {
         "epoch": "1581465600",
@@ -6715,8 +6715,8 @@
         "state": "future"
     },
     "postrelease.com": {
-        "epoch": "1566086400",
-        "expiration_date": "18-aug-2019",
+        "epoch": 1597708800,
+        "expiration_date": "18-aug-2020",
         "state": "future"
     },
     "potenza.cz": {
@@ -7727,7 +7727,7 @@
     "simpleanalytics.io": {
         "epoch": 1566086400,
         "expiration_date": "18-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "simpli.fi": {
         "epoch": "1584230400",
@@ -9130,9 +9130,9 @@
         "state": "future"
     },
     "visistat.com": {
-        "epoch": "1566086400",
+        "epoch": 1566086400,
         "expiration_date": "18-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "visitpath.com": {
         "epoch": 1592179200,
