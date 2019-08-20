@@ -1390,8 +1390,8 @@
         "state": "future"
     },
     "affiliation-france.com": {
-        "epoch": "1566259200",
-        "expiration_date": "20-aug-2019",
+        "epoch": 1597881600,
+        "expiration_date": "20-aug-2020",
         "state": "future"
     },
     "affrh2014.com": {
@@ -1660,8 +1660,8 @@
         "state": "future"
     },
     "auctionads.net": {
-        "epoch": "1566172800",
-        "expiration_date": "19-aug-2019",
+        "epoch": 1597795200,
+        "expiration_date": "19-aug-2020",
         "state": "future"
     },
     "audience2media.com": {
@@ -1735,9 +1735,9 @@
         "state": "future"
     },
     "backbeatmedia.com": {
-        "epoch": "1566172800",
+        "epoch": 1566172800,
         "expiration_date": "19-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "balancebreath.com": {
         "epoch": "1582675200",
@@ -2020,9 +2020,9 @@
         "state": "future"
     },
     "blast4traffic.com": {
-        "epoch": 1566000000,
-        "expiration_date": "17-aug-2019",
-        "state": "past"
+        "epoch": 1597622400,
+        "expiration_date": "17-aug-2020",
+        "state": "future"
     },
     "blingbucks.com": {
         "epoch": "1725840000",
