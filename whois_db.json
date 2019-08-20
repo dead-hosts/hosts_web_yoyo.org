@@ -6660,9 +6660,9 @@
         "state": "future"
     },
     "popflawlessads.com": {
-        "epoch": 1566000000,
-        "expiration_date": "17-aug-2019",
-        "state": "past"
+        "epoch": 1597622400,
+        "expiration_date": "17-aug-2020",
+        "state": "future"
     },
     "popmyads.com": {
         "epoch": "1581465600",
@@ -7530,9 +7530,9 @@
         "state": "future"
     },
     "sedotracker.com": {
-        "epoch": "1566259200",
+        "epoch": 1566259200,
         "expiration_date": "20-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "selectionsugar.com": {
         "epoch": "1570233600",
@@ -7725,9 +7725,9 @@
         "state": "future"
     },
     "simpleanalytics.io": {
-        "epoch": 1566086400,
-        "expiration_date": "18-aug-2019",
-        "state": "past"
+        "epoch": 1597708800,
+        "expiration_date": "18-aug-2020",
+        "state": "future"
     },
     "simpli.fi": {
         "epoch": "1584230400",
@@ -9130,9 +9130,9 @@
         "state": "future"
     },
     "visistat.com": {
-        "epoch": 1566086400,
-        "expiration_date": "18-aug-2019",
-        "state": "past"
+        "epoch": 1597708800,
+        "expiration_date": "18-aug-2020",
+        "state": "future"
     },
     "visitpath.com": {
         "epoch": 1592179200,
