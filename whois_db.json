@@ -420,9 +420,9 @@
         "state": "future"
     },
     "adbrn.com": {
-        "epoch": "1566345600",
+        "epoch": 1566345600,
         "expiration_date": "21-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "adbunker.com": {
         "epoch": "1583452800",
@@ -480,8 +480,8 @@
         "state": "future"
     },
     "addfreestats.com": {
-        "epoch": "1566345600",
-        "expiration_date": "21-aug-2019",
+        "epoch": 1597968000,
+        "expiration_date": "21-aug-2020",
         "state": "future"
     },
     "addme.com": {
