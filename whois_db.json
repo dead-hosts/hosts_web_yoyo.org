@@ -2255,8 +2255,8 @@
         "state": "future"
     },
     "calculatingtoothbrush.com": {
-        "epoch": "1566604800",
-        "expiration_date": "24-aug-2019",
+        "epoch": 1598227200,
+        "expiration_date": "24-aug-2020",
         "state": "future"
     },
     "calculatorcamera.com": {
@@ -2730,9 +2730,9 @@
         "state": "future"
     },
     "coin-hive.com": {
-        "epoch": "1566604800",
+        "epoch": 1566604800,
         "expiration_date": "24-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "coinhive.com": {
         "epoch": "1575158400",
@@ -2940,9 +2940,9 @@
         "state": "future"
     },
     "cpmstar.com": {
-        "epoch": 1566432000,
-        "expiration_date": "22-aug-2019",
-        "state": "past"
+        "epoch": 1598054400,
+        "expiration_date": "22-aug-2020",
+        "state": "future"
     },
     "cpxinteractive.com": {
         "epoch": "1602979200",
@@ -3335,9 +3335,9 @@
         "state": "future"
     },
     "domaining.in": {
-        "epoch": 1562544000,
-        "expiration_date": "08-jul-2019",
-        "state": "past"
+        "epoch": 1594166400,
+        "expiration_date": "08-jul-2020",
+        "state": "future"
     },
     "domainsponsor.com": {
         "epoch": 1596153600,
@@ -4545,8 +4545,8 @@
         "state": "future"
     },
     "hits4me.com": {
-        "epoch": "1566518400",
-        "expiration_date": "23-aug-2019",
+        "epoch": 1598140800,
+        "expiration_date": "23-aug-2020",
         "state": "future"
     },
     "hits4pay.com": {
@@ -5575,9 +5575,9 @@
         "state": "future"
     },
     "mediatrking.com": {
-        "epoch": "1566518400",
+        "epoch": 1566518400,
         "expiration_date": "23-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "mediavine.com": {
         "epoch": "1580256000",
