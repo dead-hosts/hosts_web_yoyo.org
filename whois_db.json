@@ -7040,9 +7040,9 @@
         "state": "future"
     },
     "rank-master.com": {
-        "epoch": "1566604800",
+        "epoch": 1566604800,
         "expiration_date": "24-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "rankingscout.com": {
         "epoch": 1593993600,
@@ -7220,8 +7220,8 @@
         "state": "future"
     },
     "resonantbrush.com": {
-        "epoch": "1566604800",
-        "expiration_date": "24-aug-2019",
+        "epoch": 1598227200,
+        "expiration_date": "24-aug-2020",
         "state": "future"
     },
     "resonate.com": {
@@ -8020,8 +8020,8 @@
         "state": "future"
     },
     "squirrelhands.com": {
-        "epoch": "1566604800",
-        "expiration_date": "24-aug-2019",
+        "epoch": 1598227200,
+        "expiration_date": "24-aug-2020",
         "state": "future"
     },
     "srvmath.com": {
@@ -8175,8 +8175,8 @@
         "state": "future"
     },
     "stripedburst.com": {
-        "epoch": "1566604800",
-        "expiration_date": "24-aug-2019",
+        "epoch": 1629763200,
+        "expiration_date": "24-aug-2021",
         "state": "future"
     },
     "strivesidewalk.com": {
@@ -8380,8 +8380,8 @@
         "state": "future"
     },
     "teads.tv": {
-        "epoch": "1566518400",
-        "expiration_date": "23-aug-2019",
+        "epoch": 1598140800,
+        "expiration_date": "23-aug-2020",
         "state": "future"
     },
     "tealeaf.com": {
@@ -8425,8 +8425,8 @@
         "state": "future"
     },
     "tendertest.com": {
-        "epoch": "1566604800",
-        "expiration_date": "24-aug-2019",
+        "epoch": 1598227200,
+        "expiration_date": "24-aug-2020",
         "state": "future"
     },
     "terriblethumb.com": {
@@ -8565,8 +8565,8 @@
         "state": "future"
     },
     "toecircle.com": {
-        "epoch": "1566604800",
-        "expiration_date": "24-aug-2019",
+        "epoch": 1598227200,
+        "expiration_date": "24-aug-2020",
         "state": "future"
     },
     "toothbrushnote.com": {
@@ -9400,8 +9400,8 @@
         "state": "future"
     },
     "womanear.com": {
-        "epoch": "1566604800",
-        "expiration_date": "24-aug-2019",
+        "epoch": 1598227200,
+        "expiration_date": "24-aug-2020",
         "state": "future"
     },
     "wonderlandads.com": {
