@@ -6,7 +6,9 @@
         "1566111774": {},
         "1566283762": {},
         "1566455905": {},
-        "1566626969": {
+        "1566626969": {},
+        "1566799221": {},
+        "1566972500": {
             "ad.choiceradio.com": "INACTIVE",
             "ad.eurosport.com": "INACTIVE",
             "ad.xiaomi.com": "INACTIVE",
@@ -42,9 +44,6 @@
             "record.bonniergaming.com": "INACTIVE",
             "touchclarity.natwest.com": "INACTIVE",
             "webtrends.telegraph.co.uk": "INACTIVE"
-        },
-        "1566799221": {
-            "ad.caradisiac.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
