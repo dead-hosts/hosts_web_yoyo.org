@@ -3040,8 +3040,8 @@
         "state": "future"
     },
     "cubics.com": {
-        "epoch": "1566950400",
-        "expiration_date": "28-aug-2019",
+        "epoch": 1598572800,
+        "expiration_date": "28-aug-2020",
         "state": "future"
     },
     "culturedcrayon.com": {
@@ -4745,9 +4745,9 @@
         "state": "future"
     },
     "imprese.cz": {
-        "epoch": "1566950400",
+        "epoch": 1566950400,
         "expiration_date": "28-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "impressionmedia.cz": {
         "epoch": 1595462400,
@@ -4800,8 +4800,8 @@
         "state": "future"
     },
     "indexstats.com": {
-        "epoch": "1567123200",
-        "expiration_date": "30-aug-2019",
+        "epoch": 1598745600,
+        "expiration_date": "30-aug-2020",
         "state": "future"
     },
     "indexww.com": {
@@ -6045,9 +6045,9 @@
         "state": "future"
     },
     "net-filter.com": {
-        "epoch": "1567036800",
+        "epoch": 1567036800,
         "expiration_date": "29-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "netaffiliation.com": {
         "epoch": "1622246400",
@@ -6170,9 +6170,9 @@
         "state": "future"
     },
     "nuseek.com": {
-        "epoch": 1566777600,
-        "expiration_date": "26-aug-2019",
-        "state": "past"
+        "epoch": 1598400000,
+        "expiration_date": "26-aug-2020",
+        "state": "future"
     },
     "nuttyorganization.com": {
         "epoch": "1575072000",
