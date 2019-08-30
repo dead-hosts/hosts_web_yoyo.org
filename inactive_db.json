@@ -8,7 +8,8 @@
         "1566455905": {},
         "1566626969": {},
         "1566799221": {},
-        "1566972500": {
+        "1566972500": {},
+        "1567146295": {
             "ad.choiceradio.com": "INACTIVE",
             "ad.eurosport.com": "INACTIVE",
             "ad.xiaomi.com": "INACTIVE",
@@ -32,6 +33,7 @@
             "adsk2.co": "INACTIVE",
             "adsrv.eacdn.com": "INACTIVE",
             "arc1.msn.com": "INACTIVE",
+            "boersego-ads.de": "INACTIVE",
             "clickwith.bid": "INACTIVE",
             "dmtracking.alibaba.com": "INACTIVE",
             "dmtracking2.alibaba.com": "INACTIVE",
@@ -44,9 +46,6 @@
             "record.bonniergaming.com": "INACTIVE",
             "touchclarity.natwest.com": "INACTIVE",
             "webtrends.telegraph.co.uk": "INACTIVE"
-        },
-        "1567146295": {
-            "boersego-ads.de": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
