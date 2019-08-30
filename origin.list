@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 14 Aug 2019 10:13:56 GMT
-# entries:        3023
+# entries:        3022
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Tue, 31 Aug 1999 00:00:00
+# start date:    Sat, 04 Sep 1999 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -479,7 +479,6 @@
 0.0.0.0 ads.guardianunlimited.co.uk
 0.0.0.0 ads.guru3d.com
 0.0.0.0 ads.harpers.org
-0.0.0.0 ads.harvard.edu
 0.0.0.0 ads.hbv.de
 0.0.0.0 ads.hearstmags.com
 0.0.0.0 ads.heartlight.org
