@@ -6045,9 +6045,9 @@
         "state": "future"
     },
     "net-filter.com": {
-        "epoch": 1567036800,
-        "expiration_date": "29-aug-2019",
-        "state": "past"
+        "epoch": 1598659200,
+        "expiration_date": "29-aug-2020",
+        "state": "future"
     },
     "netaffiliation.com": {
         "epoch": "1622246400",
@@ -6255,8 +6255,8 @@
         "state": "future"
     },
     "onenetworkdirect.com": {
-        "epoch": "1567209600",
-        "expiration_date": "31-aug-2019",
+        "epoch": 1598832000,
+        "expiration_date": "31-aug-2020",
         "state": "future"
     },
     "onestat.com": {
