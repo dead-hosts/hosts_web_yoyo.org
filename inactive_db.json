@@ -10,12 +10,14 @@
         "1566799221": {},
         "1566972500": {},
         "1567146295": {},
-        "1567318007": {
+        "1567318007": {},
+        "1567490935": {
             "ad.choiceradio.com": "INACTIVE",
             "ad.eurosport.com": "INACTIVE",
             "ad.xiaomi.com": "INACTIVE",
             "adimages.omroepzeeland.nl": "INACTIVE",
             "ads.betanews.com": "INACTIVE",
+            "ads.canalblog.com": "INACTIVE",
             "ads.crakmedia.com": "INACTIVE",
             "ads.elcarado.com": "INACTIVE",
             "ads.getlucky.com": "INACTIVE",
@@ -47,9 +49,6 @@
             "record.bonniergaming.com": "INACTIVE",
             "touchclarity.natwest.com": "INACTIVE",
             "webtrends.telegraph.co.uk": "INACTIVE"
-        },
-        "1567490935": {
-            "ads.canalblog.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
