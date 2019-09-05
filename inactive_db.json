@@ -49,6 +49,14 @@
             "record.bonniergaming.com": "INACTIVE",
             "touchclarity.natwest.com": "INACTIVE",
             "webtrends.telegraph.co.uk": "INACTIVE"
+        },
+        "1567663562": {
+            "ad.flurry.com": "INACTIVE",
+            "ad.musicmatch.com": "INACTIVE",
+            "ads.aol.co.uk": "INACTIVE",
+            "ads.bluelithium.com": "INACTIVE",
+            "adserver.aol.fr": "INACTIVE",
+            "adserver.yahoo.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
