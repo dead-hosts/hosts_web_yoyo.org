@@ -55,8 +55,12 @@
             "ad.musicmatch.com": "INACTIVE",
             "ads.aol.co.uk": "INACTIVE",
             "ads.bluelithium.com": "INACTIVE",
+            "ads.yap.yahoo.com": "INACTIVE",
+            "ads.yimg.com": "INACTIVE",
+            "ads.yldmgrimg.net": "INACTIVE",
             "adserver.aol.fr": "INACTIVE",
-            "adserver.yahoo.com": "INACTIVE"
+            "adserver.yahoo.com": "INACTIVE",
+            "analytics.yahoo.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
