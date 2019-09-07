@@ -65,6 +65,9 @@
             "us.a1.yimg.com": "INACTIVE",
             "visit.webhosting.yahoo.com": "INACTIVE",
             "webtrends.telegraph.co.uk": "INACTIVE"
+        },
+        "1567837150": {
+            "ads.yourfreedvds.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
