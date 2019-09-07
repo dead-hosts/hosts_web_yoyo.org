@@ -6315,8 +6315,8 @@
         "state": "future"
     },
     "opienetwork.com": {
-        "epoch": "1567728000",
-        "expiration_date": "06-sep-2019",
+        "epoch": 1599350400,
+        "expiration_date": "06-sep-2020",
         "state": "future"
     },
     "optimallimit.com": {
@@ -7080,8 +7080,8 @@
         "state": "future"
     },
     "rayjump.com": {
-        "epoch": "1567728000",
-        "expiration_date": "06-sep-2019",
+        "epoch": 1599350400,
+        "expiration_date": "06-sep-2020",
         "state": "future"
     },
     "re-directme.com": {
@@ -8265,9 +8265,9 @@
         "state": "future"
     },
     "swan-swan-goose.com": {
-        "epoch": "1567814400",
+        "epoch": 1567814400,
         "expiration_date": "07-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "swimslope.com": {
         "epoch": "1585872000",
@@ -8890,9 +8890,9 @@
         "state": "future"
     },
     "turboadv.com": {
-        "epoch": "1567814400",
+        "epoch": 1567814400,
         "expiration_date": "07-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "turn.com": {
         "epoch": "1711929600",
