@@ -8265,9 +8265,9 @@
         "state": "future"
     },
     "swan-swan-goose.com": {
-        "epoch": 1567814400,
-        "expiration_date": "07-sep-2019",
-        "state": "past"
+        "epoch": 1599436800,
+        "expiration_date": "07-sep-2020",
+        "state": "future"
     },
     "swimslope.com": {
         "epoch": "1585872000",
@@ -8890,9 +8890,9 @@
         "state": "future"
     },
     "turboadv.com": {
-        "epoch": 1567814400,
-        "expiration_date": "07-sep-2019",
-        "state": "past"
+        "epoch": 1599436800,
+        "expiration_date": "07-sep-2020",
+        "state": "future"
     },
     "turn.com": {
         "epoch": "1711929600",
