@@ -3295,9 +3295,9 @@
         "state": "future"
     },
     "discountclick.com": {
-        "epoch": "1568073600",
+        "epoch": 1568073600,
         "expiration_date": "10-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "discreetfield.com": {
         "epoch": "1597622400",
@@ -3410,9 +3410,9 @@
         "state": "future"
     },
     "dyntrk.com": {
-        "epoch": "1568073600",
+        "epoch": 1568073600,
         "expiration_date": "10-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "e-bannerx.com": {
         "epoch": 1592611200,
@@ -5880,8 +5880,8 @@
         "state": "future"
     },
     "mybuys.com": {
-        "epoch": "1568160000",
-        "expiration_date": "11-sep-2019",
+        "epoch": 1599782400,
+        "expiration_date": "11-sep-2020",
         "state": "future"
     },
     "mycounter.ua": {
@@ -5975,8 +5975,8 @@
         "state": "future"
     },
     "nativeroll.tv": {
-        "epoch": "1568160000",
-        "expiration_date": "11-sep-2019",
+        "epoch": 1599782400,
+        "expiration_date": "11-sep-2020",
         "state": "future"
     },
     "navegg.com": {
@@ -6580,8 +6580,8 @@
         "state": "future"
     },
     "picadmedia.com": {
-        "epoch": "1568160000",
-        "expiration_date": "11-sep-2019",
+        "epoch": 1599782400,
+        "expiration_date": "11-sep-2020",
         "state": "future"
     },
     "piet2eix3l.com": {
