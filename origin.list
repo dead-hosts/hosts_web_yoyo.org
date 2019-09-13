@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 06 Sep 2019 11:50:09 GMT
-# entries:        3022
+# last updated:   Thu, 12 Sep 2019 08:20:34 GMT
+# entries:        3024
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Thu, 16 Sep 1999 00:00:00
+# start date:    Sat, 18 Sep 1999 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -1571,7 +1571,6 @@
 0.0.0.0 findyourcasino.com
 0.0.0.0 first.nova.cz
 0.0.0.0 firstlightera.com
-0.0.0.0 firstpromoter.com
 0.0.0.0 flakyfeast.com
 0.0.0.0 flashtalking.com
 0.0.0.0 flavordecision.com
@@ -1693,6 +1692,7 @@
 0.0.0.0 hitlist.ru
 0.0.0.0 hitlounge.com
 0.0.0.0 hitometer.com
+0.0.0.0 hits-i.iubenda.com
 0.0.0.0 hits.europuls.eu
 0.0.0.0 hits.informer.com
 0.0.0.0 hits.puls.lv
@@ -1935,6 +1935,7 @@
 0.0.0.0 magicadz.co
 0.0.0.0 magnificentmist.com
 0.0.0.0 marchex.com
+0.0.0.0 marinsm.com
 0.0.0.0 markedcrayon.com
 0.0.0.0 markedpail.com
 0.0.0.0 market-buster.com
@@ -2034,6 +2035,7 @@
 0.0.0.0 moggattice.com
 0.0.0.0 moldyicicle.com
 0.0.0.0 monetate.net
+0.0.0.0 monetizer101.com
 0.0.0.0 moneyexpert.co.uk
 0.0.0.0 monsterpops.com
 0.0.0.0 mookie1.com
@@ -2671,6 +2673,7 @@
 0.0.0.0 swordfishdc.com
 0.0.0.0 swordgoose.com
 0.0.0.0 t.eloqua.com
+0.0.0.0 t.firstpromoter.com
 0.0.0.0 t.insigit.com
 0.0.0.0 taboola.com
 0.0.0.0 tagan.adlightning.com
@@ -2782,7 +2785,6 @@
 0.0.0.0 tracker.bannerflow.com
 0.0.0.0 tracker.colpirio.com
 0.0.0.0 tracker.icerocket.com
-0.0.0.0 tracker.marinsm.com
 0.0.0.0 tracker.samplicio.us
 0.0.0.0 tracker.trackerfix.com
 0.0.0.0 tracker.vgame.us
