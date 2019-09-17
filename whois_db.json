@@ -1340,8 +1340,8 @@
         "state": "future"
     },
     "adzones.com": {
-        "epoch": "1568592000",
-        "expiration_date": "16-sep-2019",
+        "epoch": 1600214400,
+        "expiration_date": "16-sep-2020",
         "state": "future"
     },
     "af-ad.co.uk": {
@@ -1505,8 +1505,8 @@
         "state": "future"
     },
     "amazon-adsystem.com": {
-        "epoch": "1568592000",
-        "expiration_date": "16-sep-2019",
+        "epoch": 1726444800,
+        "expiration_date": "16-sep-2024",
         "state": "future"
     },
     "ambiguousquilt.com": {
@@ -1552,6 +1552,11 @@
     "anxiousapples.com": {
         "epoch": "1571616000",
         "expiration_date": "21-oct-2019",
+        "state": "future"
+    },
+    "aobocker.se": {
+        "epoch": 1590192000,
+        "expiration_date": "23-may-2020",
         "state": "future"
     },
     "apathetictheory.com": {
