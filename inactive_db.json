@@ -22,12 +22,7 @@
             "boersego-ads.de": "INACTIVE",
             "oas.foxnews.com": "INACTIVE"
         },
-        "1568527733": {
-            "record.affiliates.karjalakasino.com": "INACTIVE",
-            "record.bonniergaming.com": "INACTIVE",
-            "touchclarity.natwest.com": "INACTIVE",
-            "webtrends.telegraph.co.uk": "INACTIVE"
-        },
+        "1568527733": {},
         "1568700587": {
             "ad.choiceradio.com": "INACTIVE",
             "ad.eurosport.com": "INACTIVE",
@@ -60,7 +55,12 @@
             "media.ftv-publicite.fr": "INACTIVE",
             "mtrcs.samba.tv": "INACTIVE",
             "openad.tf1.fr": "INACTIVE",
-            "pgl.example0101": "INVALID"
+            "pgl.example0101": "INVALID",
+            "record.affiliates.karjalakasino.com": "INACTIVE",
+            "record.bonniergaming.com": "INACTIVE",
+            "teliad.de": "INACTIVE",
+            "touchclarity.natwest.com": "INACTIVE",
+            "webtrends.telegraph.co.uk": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
