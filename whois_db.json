@@ -3199,6 +3199,11 @@
         "expiration_date": "04-apr-2020",
         "state": "future"
     },
+    "deloplen.com": {
+        "epoch": 1585440000,
+        "expiration_date": "29-mar-2020",
+        "state": "future"
+    },
     "deloton.com": {
         "epoch": "1569715200",
         "expiration_date": "29-sep-2019",
@@ -4150,8 +4155,8 @@
         "state": "future"
     },
     "fusionads.net": {
-        "epoch": "1568592000",
-        "expiration_date": "16-sep-2019",
+        "epoch": 1600214400,
+        "expiration_date": "16-sep-2020",
         "state": "future"
     },
     "fusionquest.com": {
@@ -4795,9 +4800,9 @@
         "state": "future"
     },
     "incognitosearches.com": {
-        "epoch": "1568678400",
+        "epoch": 1568678400,
         "expiration_date": "17-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "incrediblesugar.com": {
         "epoch": "1584748800",
