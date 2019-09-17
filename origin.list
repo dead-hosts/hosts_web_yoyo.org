@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 12 Sep 2019 08:20:34 GMT
-# entries:        3025
+# last updated:   Mon, 16 Sep 2019 11:42:40 GMT
+# entries:        3027
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Mon, 20 Sep 1999 00:00:00
+# start date:    Wed, 22 Sep 1999 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -944,6 +944,7 @@
 0.0.0.0 anrdoezrs.net
 0.0.0.0 anstrex.com
 0.0.0.0 anxiousapples.com
+0.0.0.0 aobocker.se
 0.0.0.0 apathetictheory.com
 0.0.0.0 api.intensifier.de
 0.0.0.0 apolloprogram.io
@@ -1398,6 +1399,7 @@
 0.0.0.0 defectivesun.com
 0.0.0.0 delegatediscussion.com
 0.0.0.0 deloo.de
+0.0.0.0 deloplen.com
 0.0.0.0 deloton.com
 0.0.0.0 demandbase.com
 0.0.0.0 demdex.net
