@@ -1020,9 +1020,9 @@
         "state": "future"
     },
     "adsmarket.com": {
-        "epoch": "1568851200",
+        "epoch": 1568851200,
         "expiration_date": "19-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "adsmart.com": {
         "epoch": "1586304000",
