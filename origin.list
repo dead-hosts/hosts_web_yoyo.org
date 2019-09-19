@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 16 Sep 2019 11:42:40 GMT
-# entries:        3027
+# last updated:   Wed, 18 Sep 2019 18:47:36 GMT
+# entries:        3031
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Wed, 22 Sep 1999 00:00:00
+# start date:    Fri, 24 Sep 1999 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -1496,6 +1496,7 @@
 0.0.0.0 emediate.eu
 0.0.0.0 emerse.com
 0.0.0.0 emetriq.de
+0.0.0.0 emjcd.com
 0.0.0.0 emltrk.com
 0.0.0.0 en25.com
 0.0.0.0 encouragingwilderness.com
@@ -1523,6 +1524,7 @@
 0.0.0.0 eusta.de
 0.0.0.0 everesttech.net
 0.0.0.0 evergage.com
+0.0.0.0 eversales.space
 0.0.0.0 evyy.net
 0.0.0.0 ewebcounter.com
 0.0.0.0 exchange-it.com
@@ -2599,6 +2601,7 @@
 0.0.0.0 spywords.com
 0.0.0.0 squirrelhands.com
 0.0.0.0 srvmath.com
+0.0.0.0 srvtrck.com
 0.0.0.0 srwww1.com
 0.0.0.0 st.dynamicyield.com
 0.0.0.0 stack-sonar.com
@@ -2861,6 +2864,7 @@
 0.0.0.0 unusualtitle.com
 0.0.0.0 unwrittenspot.com
 0.0.0.0 urlcash.net
+0.0.0.0 urldata.net
 0.0.0.0 us.a1.yimg.com
 0.0.0.0 usapromotravel.com
 0.0.0.0 userreplay.com
