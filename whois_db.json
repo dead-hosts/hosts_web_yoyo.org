@@ -4040,8 +4040,8 @@
         "state": "future"
     },
     "foresee.com": {
-        "epoch": "1568937600",
-        "expiration_date": "20-sep-2019",
+        "epoch": 1663632000,
+        "expiration_date": "20-sep-2022",
         "state": "future"
     },
     "forex-affiliate.net": {
@@ -5540,9 +5540,9 @@
         "state": "future"
     },
     "media-servers.net": {
-        "epoch": 1568851200,
-        "expiration_date": "19-sep-2019",
-        "state": "past"
+        "epoch": 1600473600,
+        "expiration_date": "19-sep-2020",
+        "state": "future"
     },
     "media.net": {
         "epoch": "1584316800",
@@ -5820,8 +5820,8 @@
         "state": "future"
     },
     "monsterpops.com": {
-        "epoch": "1569024000",
-        "expiration_date": "21-sep-2019",
+        "epoch": 1600646400,
+        "expiration_date": "21-sep-2020",
         "state": "future"
     },
     "mookie1.com": {
