@@ -25,10 +25,7 @@
         "1568527733": {},
         "1568700587": {},
         "1568873425": {
-            "ad.choiceradio.com": "INACTIVE",
-            "ad.eurosport.com": "INACTIVE",
             "ad.xiaomi.com": "INACTIVE",
-            "adimages.omroepzeeland.nl": "INACTIVE",
             "ads.canalblog.com": "INACTIVE",
             "ads.crakmedia.com": "INACTIVE",
             "ads.elcarado.com": "INACTIVE",
@@ -63,6 +60,11 @@
             "touchclarity.natwest.com": "INACTIVE",
             "webtrends.telegraph.co.uk": "INACTIVE",
             "www.money4exit.de": "INACTIVE"
+        },
+        "1569064391": {
+            "ad.choiceradio.com": "INACTIVE",
+            "ad.eurosport.com": "INACTIVE",
+            "adimages.omroepzeeland.nl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
