@@ -32,10 +32,7 @@
         },
         "1569064391": {},
         "1569219310": {
-            "ad.choiceradio.com": "INACTIVE",
-            "ad.eurosport.com": "INACTIVE",
             "ad.xiaomi.com": "INACTIVE",
-            "adimages.omroepzeeland.nl": "INACTIVE",
             "ads.canalblog.com": "INACTIVE",
             "ads.crakmedia.com": "INACTIVE",
             "ads.elcarado.com": "INACTIVE",
@@ -67,6 +64,11 @@
             "record.bonniergaming.com": "INACTIVE",
             "touchclarity.natwest.com": "INACTIVE",
             "webtrends.telegraph.co.uk": "INACTIVE"
+        },
+        "1569392170": {
+            "ad.choiceradio.com": "INACTIVE",
+            "ad.eurosport.com": "INACTIVE",
+            "adimages.omroepzeeland.nl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
