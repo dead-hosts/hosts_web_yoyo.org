@@ -32,7 +32,6 @@
         },
         "1569064391": {},
         "1569219310": {
-            "clickwith.bid": "INACTIVE",
             "dmtracking.alibaba.com": "INACTIVE",
             "dmtracking2.alibaba.com": "INACTIVE",
             "dsp.colpirio.com": "INACTIVE",
@@ -69,7 +68,8 @@
             "adserver.omroepzeeland.nl": "INACTIVE",
             "adserver.portalofevil.com": "INACTIVE",
             "adsrv.eacdn.com": "INACTIVE",
-            "arc1.msn.com": "INACTIVE"
+            "arc1.msn.com": "INACTIVE",
+            "clickwith.bid": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
