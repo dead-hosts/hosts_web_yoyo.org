@@ -1910,9 +1910,9 @@
         "state": "future"
     },
     "belstat.com": {
-        "epoch": "1569542400",
+        "epoch": 1569542400,
         "expiration_date": "27-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "berp.com": {
         "epoch": "1648080000",
@@ -2150,8 +2150,8 @@
         "state": "future"
     },
     "brand-display.com": {
-        "epoch": "1569542400",
-        "expiration_date": "27-sep-2019",
+        "epoch": 1601164800,
+        "expiration_date": "27-sep-2020",
         "state": "future"
     },
     "brandreachsys.com": {
@@ -2435,8 +2435,8 @@
         "state": "future"
     },
     "chartbeat.net": {
-        "epoch": "1569456000",
-        "expiration_date": "26-sep-2019",
+        "epoch": 1601078400,
+        "expiration_date": "26-sep-2020",
         "state": "future"
     },
     "checkm8.com": {
