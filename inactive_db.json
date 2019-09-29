@@ -35,9 +35,6 @@
         "1569392170": {},
         "1569565057": {
             "adserver.portalofevil.com": "INACTIVE",
-            "media.ftv-publicite.fr": "INACTIVE",
-            "mtrcs.samba.tv": "INACTIVE",
-            "openad.tf1.fr": "INACTIVE",
             "openx.blindferret.com": "INACTIVE",
             "pgl.example0101": "INVALID",
             "record.affiliates.karjalakasino.com": "INACTIVE",
@@ -71,7 +68,10 @@
             "clickwith.bid": "INACTIVE",
             "dmtracking.alibaba.com": "INACTIVE",
             "dmtracking2.alibaba.com": "INACTIVE",
-            "dsp.colpirio.com": "INACTIVE"
+            "dsp.colpirio.com": "INACTIVE",
+            "media.ftv-publicite.fr": "INACTIVE",
+            "mtrcs.samba.tv": "INACTIVE",
+            "openad.tf1.fr": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
