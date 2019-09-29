@@ -34,11 +34,7 @@
         "1569219310": {},
         "1569392170": {},
         "1569565057": {
-            "ad.xiaomi.com": "INACTIVE",
-            "ads.toplayaffiliates.com": "INACTIVE",
-            "ads.trinitymirror.co.uk": "INACTIVE",
             "adserver.portalofevil.com": "INACTIVE",
-            "arc1.msn.com": "INACTIVE",
             "clickwith.bid": "INACTIVE",
             "dmtracking.alibaba.com": "INACTIVE",
             "dmtracking2.alibaba.com": "INACTIVE",
@@ -56,6 +52,7 @@
         "1569738306": {
             "ad.choiceradio.com": "INACTIVE",
             "ad.eurosport.com": "INACTIVE",
+            "ad.xiaomi.com": "INACTIVE",
             "adimages.omroepzeeland.nl": "INACTIVE",
             "ads.canalblog.com": "INACTIVE",
             "ads.crakmedia.com": "INACTIVE",
@@ -70,8 +67,11 @@
             "ads.quasaraffiliates.com": "INACTIVE",
             "ads.saymedia.com": "INACTIVE",
             "ads.sift.co.uk": "INACTIVE",
+            "ads.toplayaffiliates.com": "INACTIVE",
+            "ads.trinitymirror.co.uk": "INACTIVE",
             "adserver.omroepzeeland.nl": "INACTIVE",
-            "adsrv.eacdn.com": "INACTIVE"
+            "adsrv.eacdn.com": "INACTIVE",
+            "arc1.msn.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
