@@ -7240,8 +7240,8 @@
         "state": "future"
     },
     "remarketingpixel.com": {
-        "epoch": "1569715200",
-        "expiration_date": "29-sep-2019",
+        "epoch": 1601337600,
+        "expiration_date": "29-sep-2020",
         "state": "future"
     },
     "remistrainew.club": {
@@ -8472,6 +8472,11 @@
     "tendertest.com": {
         "epoch": 1598227200,
         "expiration_date": "24-aug-2020",
+        "state": "future"
+    },
+    "tercept.com": {
+        "epoch": 1581638400,
+        "expiration_date": "14-feb-2020",
         "state": "future"
     },
     "terriblethumb.com": {
