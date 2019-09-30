@@ -5019,6 +5019,11 @@
         "expiration_date": "30-may-2025",
         "state": "future"
     },
+    "irchan.com": {
+        "epoch": 1618704000,
+        "expiration_date": "18-apr-2021",
+        "state": "future"
+    },
     "ireklama.cz": {
         "epoch": "1571875200",
         "expiration_date": "24-oct-2019",
@@ -5807,6 +5812,11 @@
     "moldyicicle.com": {
         "epoch": "1597622400",
         "expiration_date": "17-aug-2020",
+        "state": "future"
+    },
+    "monarchads.com": {
+        "epoch": 1583193600,
+        "expiration_date": "03-mar-2020",
         "state": "future"
     },
     "monetate.net": {
