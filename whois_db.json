@@ -8889,6 +8889,11 @@
         "expiration_date": "30-nov-2019",
         "state": "future"
     },
+    "tremorhub.com": {
+        "epoch": 1589068800,
+        "expiration_date": "10-may-2020",
+        "state": "future"
+    },
     "trendcounter.com": {
         "epoch": "1593388800",
         "expiration_date": "29-jun-2020",
