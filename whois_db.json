@@ -1190,14 +1190,14 @@
         "state": "future"
     },
     "adverticum.com": {
-        "epoch": "1569974400",
+        "epoch": 1569974400,
         "expiration_date": "02-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "adverticum.net": {
-        "epoch": "1569974400",
+        "epoch": 1569974400,
         "expiration_date": "02-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "advertise.com": {
         "epoch": "1761436800",
@@ -1220,8 +1220,8 @@
         "state": "future"
     },
     "advertisespace.com": {
-        "epoch": "1569888000",
-        "expiration_date": "01-oct-2019",
+        "epoch": 1601510400,
+        "expiration_date": "01-oct-2020",
         "state": "future"
     },
     "advertisingbanners.com": {
@@ -1495,8 +1495,8 @@
         "state": "future"
     },
     "alphonso.tv": {
-        "epoch": "1569974400",
-        "expiration_date": "02-oct-2019",
+        "epoch": 1601596800,
+        "expiration_date": "02-oct-2020",
         "state": "future"
     },
     "amazingcounters.com": {
