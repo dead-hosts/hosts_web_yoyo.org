@@ -39,9 +39,6 @@
         },
         "1569738306": {},
         "1569839038": {
-            "dmtracking.alibaba.com": "INACTIVE",
-            "dmtracking2.alibaba.com": "INACTIVE",
-            "dsp.colpirio.com": "INACTIVE",
             "imprese.cz": "INACTIVE",
             "media.ftv-publicite.fr": "INACTIVE",
             "mtrcs.samba.tv": "INACTIVE",
@@ -74,7 +71,10 @@
             "adserver.omroepzeeland.nl": "INACTIVE",
             "adsrv.eacdn.com": "INACTIVE",
             "arc1.msn.com": "INACTIVE",
-            "clickwith.bid": "INACTIVE"
+            "clickwith.bid": "INACTIVE",
+            "dmtracking.alibaba.com": "INACTIVE",
+            "dmtracking2.alibaba.com": "INACTIVE",
+            "dsp.colpirio.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
