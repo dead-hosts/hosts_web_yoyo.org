@@ -79,6 +79,24 @@
         },
         "1570668617": {
             "ad01.mediacorpsingapore.com": "INACTIVE"
+        },
+        "1570672909": {
+            "ad1.emediate.dk": "INACTIVE"
+        },
+        "1570673040": {
+            "ad1.pamedia.com.au": "INACTIVE"
+        },
+        "1570673042": {
+            "ad2.lupa.cz": "INACTIVE"
+        },
+        "1570673173": {
+            "ad2.xrea.com": "INACTIVE"
+        },
+        "1570673304": {
+            "ad3.pamedia.com.au": "INACTIVE"
+        },
+        "1570673435": {
+            "ad3.xrea.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
