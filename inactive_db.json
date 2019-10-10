@@ -118,6 +118,16 @@
         },
         "1570681346": {
             "ad.bnmla.com": "INACTIVE"
+        },
+        "1570685346": {
+            "ad.caradisiac.com": "INACTIVE",
+            "adcast.deviantart.com": "INACTIVE"
+        },
+        "1570685351": {
+            "ad.cgi.cz": "INACTIVE"
+        },
+        "1570685480": {
+            "adclient1.tucows.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
