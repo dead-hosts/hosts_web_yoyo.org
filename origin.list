@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 03 Oct 2019 14:23:01 GMT
-# entries:        3034
+# last updated:   Tue, 15 Oct 2019 12:26:58 GMT
+# entries:        3050
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sat, 09 Oct 1999 00:00:00
+# start date:    Wed, 20 Oct 1999 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -131,6 +131,7 @@
 0.0.0.0 ad.jamba.net
 0.0.0.0 ad.jamster.co.uk
 0.0.0.0 ad.jetsoftware.com
+0.0.0.0 ad.keenspace.com
 0.0.0.0 ad.leadbolt.net
 0.0.0.0 ad.liveinternet.ru
 0.0.0.0 ad.lupa.cz
@@ -274,6 +275,7 @@
 0.0.0.0 adland.ru
 0.0.0.0 adledge.com
 0.0.0.0 adlegend.com
+0.0.0.0 adlightning.com
 0.0.0.0 adlog.com.com
 0.0.0.0 adloox.com
 0.0.0.0 adlooxtracking.com
@@ -529,6 +531,7 @@
 0.0.0.0 ads.medienhaus.de
 0.0.0.0 ads.mgnetwork.com
 0.0.0.0 ads.miarroba.com
+0.0.0.0 ads.mic.com
 0.0.0.0 ads.mmania.com
 0.0.0.0 ads.mobilautomaten.com
 0.0.0.0 ads.mobilebet.com
@@ -656,6 +659,7 @@
 0.0.0.0 ads.youtube.com
 0.0.0.0 ads.zdnet.com
 0.0.0.0 ads.ztod.com
+0.0.0.0 ads1-adnow.com
 0.0.0.0 ads1.canoe.ca
 0.0.0.0 ads1.mediacapital.pt
 0.0.0.0 ads1.msn.com
@@ -714,6 +718,7 @@
 0.0.0.0 adserver.break-even.it
 0.0.0.0 adserver.cams.com
 0.0.0.0 adserver.com
+0.0.0.0 adserver.dca13.com
 0.0.0.0 adserver.digitoday.com
 0.0.0.0 adserver.freecity.de
 0.0.0.0 adserver.friendfinder.com
@@ -874,7 +879,6 @@
 0.0.0.0 affiliates.babylon.com
 0.0.0.0 affiliates.digitalriver.com
 0.0.0.0 affiliates.globat.com
-0.0.0.0 affiliates.internationaljock.com
 0.0.0.0 affiliates.rozetka.com.ua
 0.0.0.0 affiliates.streamray.com
 0.0.0.0 affiliates.thinkhost.net
@@ -890,6 +894,7 @@
 0.0.0.0 afterview.ru
 0.0.0.0 agkn.com
 0.0.0.0 agreeablestew.com
+0.0.0.0 agreemand.com
 0.0.0.0 ah-ha.com
 0.0.0.0 ahalogy.com
 0.0.0.0 aheadday.com
@@ -965,6 +970,7 @@
 0.0.0.0 assets1.exgfnetwork.com
 0.0.0.0 assoc-amazon.com
 0.0.0.0 aswpapius.com
+0.0.0.0 aswpsdkus.com
 0.0.0.0 at-adserver.alltop.com
 0.0.0.0 atdmt.com
 0.0.0.0 athena-ads.wikia.com
@@ -1132,6 +1138,7 @@
 0.0.0.0 blushingboundary.com
 0.0.0.0 bm.annonce.cz
 0.0.0.0 bn.bfast.com
+0.0.0.0 boersego-ads.de
 0.0.0.0 boilingbeetle.com
 0.0.0.0 boilingumbrella.com
 0.0.0.0 boomads.com
@@ -1206,6 +1213,7 @@
 0.0.0.0 cetrk.com
 0.0.0.0 cgicounter.puretec.de
 0.0.0.0 chairscrack.com
+0.0.0.0 chameleon.ad
 0.0.0.0 channel1vids.com
 0.0.0.0 channelintelligence.com
 0.0.0.0 chardwardse.club
@@ -1219,6 +1227,7 @@
 0.0.0.0 chickensstation.com
 0.0.0.0 chinsnakes.com
 0.0.0.0 chitika.net
+0.0.0.0 christingel.com
 0.0.0.0 cityads.telus.net
 0.0.0.0 cj.com
 0.0.0.0 cjbmanagement.com
@@ -1283,6 +1292,7 @@
 0.0.0.0 cointraffic.io
 0.0.0.0 colonize.com
 0.0.0.0 colpirio.com
+0.0.0.0 com-optimize-mac.live
 0.0.0.0 comclick.com
 0.0.0.0 comfortablecheese.com
 0.0.0.0 commindo-media-ressourcen.de
@@ -1425,6 +1435,7 @@
 0.0.0.0 disqusads.com
 0.0.0.0 dist.belnk.com
 0.0.0.0 distillery.wistia.com
+0.0.0.0 districtm.ca
 0.0.0.0 dk4ywix.com
 0.0.0.0 dmp.mall.tv
 0.0.0.0 dmtracker.com
@@ -1487,7 +1498,6 @@
 0.0.0.0 elephantqueue.com
 0.0.0.0 elitedollars.com
 0.0.0.0 elitetoplist.com
-0.0.0.0 elthamely.com
 0.0.0.0 emarketer.com
 0.0.0.0 emebo.com
 0.0.0.0 emebo.io
@@ -1521,6 +1531,7 @@
 0.0.0.0 eurekster.com
 0.0.0.0 euros4click.de
 0.0.0.0 eusta.de
+0.0.0.0 evadav.com
 0.0.0.0 everesttech.net
 0.0.0.0 evergage.com
 0.0.0.0 eversales.space
@@ -1576,6 +1587,7 @@
 0.0.0.0 findyourcasino.com
 0.0.0.0 first.nova.cz
 0.0.0.0 firstlightera.com
+0.0.0.0 fixel.ai
 0.0.0.0 flakyfeast.com
 0.0.0.0 flashtalking.com
 0.0.0.0 flavordecision.com
@@ -1585,6 +1597,7 @@
 0.0.0.0 floodprincipal.com
 0.0.0.0 flowgo.com
 0.0.0.0 flurry.com
+0.0.0.0 foamybox.com
 0.0.0.0 foo.cosmocode.de
 0.0.0.0 foresee.com
 0.0.0.0 forex-affiliate.net
@@ -1600,6 +1613,7 @@
 0.0.0.0 freepay.com
 0.0.0.0 freeskreen.com
 0.0.0.0 freestats.com
+0.0.0.0 freestats.tv
 0.0.0.0 freewebcounter.com
 0.0.0.0 freshmarketer.com
 0.0.0.0 frightenedpotato.com
@@ -1755,7 +1769,6 @@
 0.0.0.0 imonitor.nethost.cz
 0.0.0.0 importedincrease.com
 0.0.0.0 impossibleexpansion.com
-0.0.0.0 imprese.cz
 0.0.0.0 impressionmedia.cz
 0.0.0.0 impressionz.co.uk
 0.0.0.0 impulsehands.com
@@ -1964,7 +1977,6 @@
 0.0.0.0 maxonclick.com
 0.0.0.0 mbs.megaroticlive.com
 0.0.0.0 mbuyu.nl
-0.0.0.0 mdotm.com
 0.0.0.0 measuremap.com
 0.0.0.0 media-adrunner.mycomputer.com
 0.0.0.0 media-servers.net
@@ -1985,7 +1997,6 @@
 0.0.0.0 mediascale.de
 0.0.0.0 mediaserver.bwinpartypartners.it
 0.0.0.0 mediatext.com
-0.0.0.0 mediatrking.com
 0.0.0.0 mediavine.com
 0.0.0.0 mediavoice.com
 0.0.0.0 mediax.angloinfo.com
@@ -2242,6 +2253,7 @@
 0.0.0.0 phpadsnew.new.natuurpark.nl
 0.0.0.0 phpmyvisites.net
 0.0.0.0 pi.pardot.com
+0.0.0.0 piano.io
 0.0.0.0 picadmedia.com
 0.0.0.0 piet2eix3l.com
 0.0.0.0 pietexture.com
@@ -2289,7 +2301,6 @@
 0.0.0.0 presetrabbits.com
 0.0.0.0 previousplayground.com
 0.0.0.0 previouspotato.com
-0.0.0.0 primaryads.com
 0.0.0.0 primetime.net
 0.0.0.0 privatecash.com
 0.0.0.0 prmtracking.com
@@ -2338,6 +2349,7 @@
 0.0.0.0 px.dynamicyield.com
 0.0.0.0 px.gfycat.com
 0.0.0.0 pxl.iqm.com
+0.0.0.0 pymx5.com
 0.0.0.0 q.azcentral.com
 0.0.0.0 qctop.com
 0.0.0.0 qnsr.com
@@ -2431,6 +2443,7 @@
 0.0.0.0 revenuehits.com
 0.0.0.0 revsci.net
 0.0.0.0 revstats.com
+0.0.0.0 rhombusads.com
 0.0.0.0 richmails.com
 0.0.0.0 richmedia.yimg.com
 0.0.0.0 richstring.com
@@ -2888,6 +2901,8 @@
 0.0.0.0 vericlick.com
 0.0.0.0 verticalmass.com
 0.0.0.0 vervewireless.com
+0.0.0.0 viafoura.co
+0.0.0.0 viafoura.com
 0.0.0.0 vibrantmedia.com
 0.0.0.0 video-stats.video.google.com
 0.0.0.0 videoadex.com
@@ -3041,6 +3056,7 @@
 0.0.0.0 zeus.developershed.com
 0.0.0.0 zeusclicks.com
 0.0.0.0 zlp6s.pw
+0.0.0.0 zm232.com
 0.0.0.0 zmedia.com
 0.0.0.0 zpu.samsungelectronics.com
 0.0.0.0 zqtk.net
