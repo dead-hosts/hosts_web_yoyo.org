@@ -980,8 +980,8 @@
         "state": "future"
     },
     "adserverplus.com": {
-        "epoch": "1570838400",
-        "expiration_date": "12-oct-2019",
+        "epoch": 1665532800,
+        "expiration_date": "12-oct-2022",
         "state": "future"
     },
     "adserverpub.com": {
@@ -1100,8 +1100,8 @@
         "state": "future"
     },
     "adsynergy.com": {
-        "epoch": "1570060800",
-        "expiration_date": "03-oct-2019",
+        "epoch": 1601683200,
+        "expiration_date": "03-oct-2020",
         "state": "future"
     },
     "adtechjp.com": {
@@ -1155,8 +1155,8 @@
         "state": "future"
     },
     "adtrace.org": {
-        "epoch": "1570320000",
-        "expiration_date": "06-oct-2019",
+        "epoch": 1601942400,
+        "expiration_date": "06-oct-2020",
         "state": "future"
     },
     "adtrade.net": {
@@ -1195,14 +1195,14 @@
         "state": "future"
     },
     "adverticum.com": {
-        "epoch": 1569974400,
-        "expiration_date": "02-oct-2019",
-        "state": "past"
+        "epoch": 1601596800,
+        "expiration_date": "02-oct-2020",
+        "state": "future"
     },
     "adverticum.net": {
-        "epoch": 1569974400,
-        "expiration_date": "02-oct-2019",
-        "state": "past"
+        "epoch": 1601596800,
+        "expiration_date": "02-oct-2020",
+        "state": "future"
     },
     "advertise.com": {
         "epoch": "1761436800",
