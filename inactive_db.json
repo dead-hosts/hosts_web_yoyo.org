@@ -15,9 +15,7 @@
             "openx.blindferret.com": "INACTIVE"
         },
         "1569997210": {
-            "imprese.cz": "INACTIVE",
-            "webtrends.telegraph.co.uk": "INACTIVE",
-            "www.photo-ads.co.uk": "INACTIVE"
+            "imprese.cz": "INACTIVE"
         },
         "1571293900": {
             "ad.cooks.com": "INACTIVE"
@@ -1092,6 +1090,35 @@
         },
         "1571362140": {
             "video-stats.video.google.com": "INACTIVE"
+        },
+        "1571363380": {
+            "vs.tucows.com": "INACTIVE"
+        },
+        "1571363400": {
+            "wdads.sx.atl.publicus.com": "INACTIVE",
+            "web2.deja.com": "INACTIVE"
+        },
+        "1571363434": {
+            "webtrends.telegraph.co.uk": "INACTIVE"
+        },
+        "1571363459": {
+            "www8.glam.com": "INACTIVE"
+        },
+        "1571363465": {
+            "www-google-analytics.l.google.com": "INACTIVE",
+            "www.dnps.com": "INACTIVE"
+        },
+        "1571363487": {
+            "xpu.samsungelectronics.com": "INACTIVE"
+        },
+        "1571363505": {
+            "ypu.samsungelectronics.com": "INACTIVE"
+        },
+        "1571363521": {
+            "zeus.developershed.com": "INACTIVE"
+        },
+        "1571363530": {
+            "zpu.samsungelectronics.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {

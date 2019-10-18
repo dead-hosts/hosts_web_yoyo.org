@@ -9430,9 +9430,9 @@
         "state": "future"
     },
     "webstat.net": {
-        "epoch": "1571356800",
+        "epoch": 1571356800,
         "expiration_date": "18-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "webstats4u.com": {
         "epoch": 1584144000,
@@ -9595,13 +9595,13 @@
         "state": "future"
     },
     "x-traceur.com": {
-        "epoch": "1571270400",
-        "expiration_date": "17-oct-2019",
+        "epoch": 1602892800,
+        "expiration_date": "17-oct-2020",
         "state": "future"
     },
     "xchange.ro": {
-        "epoch": "1570492800",
-        "expiration_date": "08-oct-2019",
+        "epoch": 1602028800,
+        "expiration_date": "07-oct-2020",
         "state": "future"
     },
     "xclicks.net": {
@@ -9660,8 +9660,8 @@
         "state": "future"
     },
     "xxxmyself.com": {
-        "epoch": "1570838400",
-        "expiration_date": "12-oct-2019",
+        "epoch": 1602460800,
+        "expiration_date": "12-oct-2020",
         "state": "future"
     },
     "yabuka.com": {
@@ -9765,8 +9765,8 @@
         "state": "future"
     },
     "zealousfield.com": {
-        "epoch": "1570233600",
-        "expiration_date": "05-oct-2019",
+        "epoch": 1601856000,
+        "expiration_date": "05-oct-2020",
         "state": "future"
     },
     "zedo.com": {
