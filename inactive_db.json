@@ -13,9 +13,6 @@
             "adserver.portalofevil.com": "INACTIVE",
             "openx.blindferret.com": "INACTIVE"
         },
-        "1569997210": {
-            "imprese.cz": "INACTIVE"
-        },
         "1571353030": {
             "Adsatt.go.starwave.com": "INVALID"
         },
@@ -1127,6 +1124,9 @@
         },
         "1571432091": {
             "banners.sys-con.com": "INACTIVE"
+        },
+        "1571435974": {
+            "media.funpic.de": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
