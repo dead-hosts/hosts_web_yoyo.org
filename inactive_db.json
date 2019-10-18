@@ -6,7 +6,6 @@
             "oas.foxnews.com": "INACTIVE"
         },
         "1568873425": {
-            "adserver1.ogilvy-interactive.de": "INACTIVE",
             "teliad.de": "INACTIVE",
             "www.money4exit.de": "INACTIVE"
         },
@@ -16,9 +15,6 @@
         },
         "1569997210": {
             "imprese.cz": "INACTIVE"
-        },
-        "1571293900": {
-            "ad.cooks.com": "INACTIVE"
         },
         "1571353030": {
             "Adsatt.go.starwave.com": "INVALID"
@@ -1119,6 +1115,18 @@
         },
         "1571363530": {
             "zpu.samsungelectronics.com": "INACTIVE"
+        },
+        "1571431881": {
+            "ads.networksolutions.com": "INACTIVE"
+        },
+        "1571431985": {
+            "affiliates.rozetka.com.ua": "INACTIVE"
+        },
+        "1571432022": {
+            "api.intensifier.de": "INACTIVE"
+        },
+        "1571432091": {
+            "banners.sys-con.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
