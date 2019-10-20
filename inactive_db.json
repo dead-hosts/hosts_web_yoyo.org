@@ -1130,6 +1130,12 @@
         },
         "1571560931": {
             "zpu.samsungelectronics.com": "INACTIVE"
+        },
+        "1571566780": {
+            "ads.videosz.com": "INACTIVE"
+        },
+        "1571566869": {
+            "als-svc.nytimes.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
