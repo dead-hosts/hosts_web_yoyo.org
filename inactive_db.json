@@ -1136,6 +1136,9 @@
         },
         "1571566869": {
             "als-svc.nytimes.com": "INACTIVE"
+        },
+        "1571567929": {
+            "et.nytimes.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
