@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 18 Oct 2019 19:31:37 GMT
-# entries:        3051
+# last updated:   Sat, 19 Oct 2019 14:27:26 GMT
+# entries:        3052
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sat, 23 Oct 1999 00:00:00
+# start date:    Mon, 25 Oct 1999 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -1837,6 +1837,7 @@
 0.0.0.0 jquery-bin.com
 0.0.0.0 js.users.51.la
 0.0.0.0 jsecoin.com
+0.0.0.0 jsrdn.com
 0.0.0.0 juicyads.com
 0.0.0.0 jumptap.com
 0.0.0.0 justicejudo.com
