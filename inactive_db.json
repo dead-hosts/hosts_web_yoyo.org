@@ -1139,6 +1139,9 @@
         },
         "1571567929": {
             "et.nytimes.com": "INACTIVE"
+        },
+        "1571568428": {
+            "newnet.qsrch.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
