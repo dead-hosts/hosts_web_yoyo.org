@@ -13,126 +13,8 @@
             "adserver.portalofevil.com": "INACTIVE",
             "openx.blindferret.com": "INACTIVE"
         },
-        "1571357789": {
-            "counter.cnw.cz": "INACTIVE"
-        },
-        "1571357797": {
-            "counter.dreamhost.com": "INACTIVE"
-        },
-        "1571357803": {
-            "counter.fateback.com": "INACTIVE"
-        },
-        "1571357809": {
-            "cp.abbp1.pw": "INACTIVE"
-        },
-        "1571357821": {
-            "cpu.samsungelectronics.com": "INACTIVE"
-        },
         "1571357841": {
             "creatives.as4x.tmcs.net": "INACTIVE"
-        },
-        "1571357856": {
-            "customad.cnn.com": "INACTIVE"
-        },
-        "1571357858": {
-            "d.adroll.com": "INACTIVE"
-        },
-        "1571357871": {
-            "data.namesakeoscilloscopemarquis.com": "INACTIVE"
-        },
-        "1571359479": {
-            "distillery.wistia.com": "INACTIVE"
-        },
-        "1571359488": {
-            "dmtracking2.alibaba.com": "INACTIVE"
-        },
-        "1571359490": {
-            "dmtracking.alibaba.com": "INACTIVE"
-        },
-        "1571359496": {
-            "dnads.directnic.com": "INACTIVE"
-        },
-        "1571359517": {
-            "dpu.samsungelectronics.com": "INACTIVE"
-        },
-        "1571359518": {
-            "dsp.colpirio.com": "INACTIVE",
-            "dynamic.fmpub.net": "INACTIVE"
-        },
-        "1571359519": {
-            "e-adimages.scrippsnetworks.com": "INACTIVE"
-        },
-        "1571359525": {
-            "eas.almamedia.fi": "INACTIVE"
-        },
-        "1571359599": {
-            "fastclick.com.edgesuite.net": "INACTIVE"
-        },
-        "1571359611": {
-            "first.nova.cz": "INACTIVE"
-        },
-        "1571359644": {
-            "gp.dejanews.com": "INACTIVE"
-        },
-        "1571359670": {
-            "hexusads.fluent.ltd.uk": "INACTIVE"
-        },
-        "1571359695": {
-            "hits-i.iubenda.com": "INACTIVE"
-        },
-        "1571359707": {
-            "hud8mxdt.computerhelpmirror.top": "INACTIVE"
-        },
-        "1571359709": {
-            "iad.anm.co.uk": "INACTIVE"
-        },
-        "1571359719": {
-            "images-pw.secureserver.net": "INACTIVE"
-        },
-        "1571359739": {
-            "interactive.forthnet.gr": "INACTIVE"
-        },
-        "1571359750": {
-            "is-tracking-pixel-api-prod.appspot.com": "INACTIVE"
-        },
-        "1571359771": {
-            "js.users.51.la": "INACTIVE"
-        },
-        "1571359780": {
-            "k.iinfo.cz": "INACTIVE"
-        },
-        "1571359788": {
-            "kpu.samsungelectronics.com": "INACTIVE"
-        },
-        "1571359840": {
-            "log.btopenworld.com": "INACTIVE"
-        },
-        "1571359841": {
-            "log.logrocket.io": "INACTIVE"
-        },
-        "1571359871": {
-            "madclient.uimserv.net": "INACTIVE"
-        },
-        "1571359877": {
-            "mads.cnet.com": "INACTIVE"
-        },
-        "1571359885": {
-            "marketing.hearstmagazines.nl": "INACTIVE"
-        },
-        "1571359891": {
-            "marketing.nyi.net": "INACTIVE"
-        },
-        "1571359892": {
-            "mas.sector.sk": "INACTIVE"
-        },
-        "1571359894": {
-            "max.i12.de": "INACTIVE"
-        },
-        "1571359895": {
-            "mbs.megaroticlive.com": "INACTIVE"
-        },
-        "1571359904": {
-            "media.ftv-publicite.fr": "INACTIVE"
         },
         "1571359927": {
             "metrics.api.drift.com": "INACTIVE"
@@ -351,9 +233,6 @@
         },
         "1571363530": {
             "zpu.samsungelectronics.com": "INACTIVE"
-        },
-        "1571435974": {
-            "media.funpic.de": "INACTIVE"
         },
         "1571552704": {
             "Adsatt.go.starwave.com": "INVALID"
@@ -1136,6 +1015,128 @@
         },
         "1571556205": {
             "counter.bloke.com": "INACTIVE"
+        },
+        "1571556295": {
+            "counter.cnw.cz": "INACTIVE"
+        },
+        "1571556302": {
+            "counter.dreamhost.com": "INACTIVE"
+        },
+        "1571556308": {
+            "counter.fateback.com": "INACTIVE"
+        },
+        "1571556319": {
+            "count.west263.com": "INACTIVE"
+        },
+        "1571556320": {
+            "cp.abbp1.pw": "INACTIVE"
+        },
+        "1571556332": {
+            "cpu.samsungelectronics.com": "INACTIVE"
+        },
+        "1571556361": {
+            "customad.cnn.com": "INACTIVE"
+        },
+        "1571556364": {
+            "d.adroll.com": "INACTIVE"
+        },
+        "1571556376": {
+            "data.namesakeoscilloscopemarquis.com": "INACTIVE"
+        },
+        "1571556410": {
+            "distillery.wistia.com": "INACTIVE"
+        },
+        "1571556418": {
+            "dmtracking2.alibaba.com": "INACTIVE"
+        },
+        "1571556420": {
+            "dmtracking.alibaba.com": "INACTIVE"
+        },
+        "1571556426": {
+            "dnads.directnic.com": "INACTIVE"
+        },
+        "1571556447": {
+            "dpu.samsungelectronics.com": "INACTIVE"
+        },
+        "1571556448": {
+            "dsp.colpirio.com": "INACTIVE",
+            "dynamic.fmpub.net": "INACTIVE"
+        },
+        "1571556449": {
+            "e-adimages.scrippsnetworks.com": "INACTIVE"
+        },
+        "1571556455": {
+            "eas.almamedia.fi": "INACTIVE"
+        },
+        "1571556532": {
+            "fastclick.com.edgesuite.net": "INACTIVE"
+        },
+        "1571556543": {
+            "first.nova.cz": "INACTIVE"
+        },
+        "1571556591": {
+            "gp.dejanews.com": "INACTIVE"
+        },
+        "1571556619": {
+            "hexusads.fluent.ltd.uk": "INACTIVE"
+        },
+        "1571556647": {
+            "hits-i.iubenda.com": "INACTIVE"
+        },
+        "1571556666": {
+            "hud8mxdt.computerhelpmirror.top": "INACTIVE"
+        },
+        "1571556668": {
+            "iad.anm.co.uk": "INACTIVE"
+        },
+        "1571556679": {
+            "images-pw.secureserver.net": "INACTIVE"
+        },
+        "1571556699": {
+            "interactive.forthnet.gr": "INACTIVE"
+        },
+        "1571556710": {
+            "is-tracking-pixel-api-prod.appspot.com": "INACTIVE"
+        },
+        "1571556732": {
+            "js.users.51.la": "INACTIVE"
+        },
+        "1571556740": {
+            "k.iinfo.cz": "INACTIVE"
+        },
+        "1571556748": {
+            "kpu.samsungelectronics.com": "INACTIVE"
+        },
+        "1571556801": {
+            "log.btopenworld.com": "INACTIVE",
+            "log.logrocket.io": "INACTIVE"
+        },
+        "1571556832": {
+            "madclient.uimserv.net": "INACTIVE"
+        },
+        "1571556838": {
+            "mads.cnet.com": "INACTIVE"
+        },
+        "1571556846": {
+            "marketing.hearstmagazines.nl": "INACTIVE"
+        },
+        "1571556852": {
+            "marketing.nyi.net": "INACTIVE"
+        },
+        "1571556854": {
+            "mas.sector.sk": "INACTIVE"
+        },
+        "1571556855": {
+            "max.i12.de": "INACTIVE"
+        },
+        "1571556856": {
+            "mbs.megaroticlive.com": "INACTIVE"
+        },
+        "1571556865": {
+            "media.ftv-publicite.fr": "INACTIVE"
+        },
+        "1571556871": {
+            "media.funpic.de": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
