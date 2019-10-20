@@ -1260,9 +1260,9 @@
         "state": "future"
     },
     "advertwizard.com": {
-        "epoch": "1571443200",
+        "epoch": 1571443200,
         "expiration_date": "19-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "advfromnwl.com": {
         "epoch": 1596758400,
@@ -1915,8 +1915,8 @@
         "state": "future"
     },
     "behavioralengine.com": {
-        "epoch": "1571443200",
-        "expiration_date": "19-oct-2019",
+        "epoch": 1603065600,
+        "expiration_date": "19-oct-2020",
         "state": "future"
     },
     "belstat.com": {
