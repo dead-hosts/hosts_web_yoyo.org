@@ -16,44 +16,6 @@
         "1571357841": {
             "creatives.as4x.tmcs.net": "INACTIVE"
         },
-        "1571661855": {
-            "us.a1.yimg.com": "INACTIVE"
-        },
-        "1571661868": {
-            "utils.mediageneral.net": "INACTIVE"
-        },
-        "1571661898": {
-            "video-stats.video.google.com": "INACTIVE"
-        },
-        "1571661916": {
-            "vs.tucows.com": "INACTIVE"
-        },
-        "1571661936": {
-            "wdads.sx.atl.publicus.com": "INACTIVE",
-            "web2.deja.com": "INACTIVE"
-        },
-        "1571661971": {
-            "webtrends.telegraph.co.uk": "INACTIVE"
-        },
-        "1571661996": {
-            "www8.glam.com": "INACTIVE"
-        },
-        "1571662003": {
-            "www-google-analytics.l.google.com": "INACTIVE",
-            "www.dnps.com": "INACTIVE"
-        },
-        "1571662025": {
-            "xpu.samsungelectronics.com": "INACTIVE"
-        },
-        "1571662045": {
-            "ypu.samsungelectronics.com": "INACTIVE"
-        },
-        "1571662066": {
-            "zeus.developershed.com": "INACTIVE"
-        },
-        "1571662073": {
-            "zpu.samsungelectronics.com": "INACTIVE"
-        },
         "1571740939": {
             "Adsatt.go.starwave.com": "INVALID"
         },
@@ -1129,6 +1091,44 @@
         },
         "1571755037": {
             "upu.samsungelectronics.com": "INACTIVE"
+        },
+        "1571756563": {
+            "us.a1.yimg.com": "INACTIVE"
+        },
+        "1571756576": {
+            "utils.mediageneral.net": "INACTIVE"
+        },
+        "1571756605": {
+            "video-stats.video.google.com": "INACTIVE"
+        },
+        "1571756622": {
+            "vs.tucows.com": "INACTIVE"
+        },
+        "1571756643": {
+            "wdads.sx.atl.publicus.com": "INACTIVE",
+            "web2.deja.com": "INACTIVE"
+        },
+        "1571756677": {
+            "webtrends.telegraph.co.uk": "INACTIVE"
+        },
+        "1571756699": {
+            "www8.glam.com": "INACTIVE"
+        },
+        "1571756706": {
+            "www-google-analytics.l.google.com": "INACTIVE",
+            "www.dnps.com": "INACTIVE"
+        },
+        "1571756728": {
+            "xpu.samsungelectronics.com": "INACTIVE"
+        },
+        "1571756745": {
+            "ypu.samsungelectronics.com": "INACTIVE"
+        },
+        "1571756766": {
+            "zeus.developershed.com": "INACTIVE"
+        },
+        "1571756773": {
+            "zpu.samsungelectronics.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
