@@ -1430,8 +1430,8 @@
         "state": "future"
     },
     "agreemand.com": {
-        "epoch": "1571788800",
-        "expiration_date": "23-oct-2019",
+        "epoch": 1603411200,
+        "expiration_date": "23-oct-2020",
         "state": "future"
     },
     "ah-ha.com": {
@@ -1650,8 +1650,8 @@
         "state": "future"
     },
     "attractiveafternoon.com": {
-        "epoch": "1571961600",
-        "expiration_date": "25-oct-2019",
+        "epoch": 1603584000,
+        "expiration_date": "25-oct-2020",
         "state": "future"
     },
     "attribution.report": {
@@ -1900,9 +1900,9 @@
         "state": "future"
     },
     "bedsbreath.com": {
-        "epoch": "1571961600",
+        "epoch": 1571961600,
         "expiration_date": "25-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "beemray.com": {
         "epoch": 1576454400,
@@ -2420,8 +2420,8 @@
         "state": "future"
     },
     "chairscrack.com": {
-        "epoch": "1571961600",
-        "expiration_date": "25-oct-2019",
+        "epoch": 1603584000,
+        "expiration_date": "25-oct-2020",
         "state": "future"
     },
     "channel1vids.com": {
@@ -2485,8 +2485,8 @@
         "state": "future"
     },
     "chinsnakes.com": {
-        "epoch": "1571961600",
-        "expiration_date": "25-oct-2019",
+        "epoch": 1603584000,
+        "expiration_date": "25-oct-2020",
         "state": "future"
     },
     "chitika.net": {
@@ -2495,8 +2495,8 @@
         "state": "future"
     },
     "christingel.com": {
-        "epoch": "1571788800",
-        "expiration_date": "23-oct-2019",
+        "epoch": 1603411200,
+        "expiration_date": "23-oct-2020",
         "state": "future"
     },
     "cj.com": {
@@ -2740,9 +2740,9 @@
         "state": "future"
     },
     "code-server.biz": {
-        "epoch": 1567987200,
-        "expiration_date": "09-sep-2019",
-        "state": "past"
+        "epoch": 1599609600,
+        "expiration_date": "09-sep-2020",
+        "state": "future"
     },
     "cognitiv.ai": {
         "epoch": "1575417600",
@@ -2810,8 +2810,8 @@
         "state": "future"
     },
     "completecabbage.com": {
-        "epoch": "1571961600",
-        "expiration_date": "25-oct-2019",
+        "epoch": 1603584000,
+        "expiration_date": "25-oct-2020",
         "state": "future"
     },
     "complextoad.com": {
@@ -2855,8 +2855,8 @@
         "state": "future"
     },
     "consciouschairs.com": {
-        "epoch": "1571961600",
-        "expiration_date": "25-oct-2019",
+        "epoch": 1603584000,
+        "expiration_date": "25-oct-2020",
         "state": "future"
     },
     "consensad.com": {
@@ -2915,8 +2915,8 @@
         "state": "future"
     },
     "copycarpenter.com": {
-        "epoch": "1571961600",
-        "expiration_date": "25-oct-2019",
+        "epoch": 1603584000,
+        "expiration_date": "25-oct-2020",
         "state": "future"
     },
     "copyrightaccesscontrols.com": {
@@ -3020,8 +3020,8 @@
         "state": "future"
     },
     "credishe.com": {
-        "epoch": "1571788800",
-        "expiration_date": "23-oct-2019",
+        "epoch": 1603411200,
+        "expiration_date": "23-oct-2020",
         "state": "future"
     },
     "creep.world": {
