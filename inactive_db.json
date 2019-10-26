@@ -19,38 +19,6 @@
         "1571745350": {
             "ads.nationalgeographic.com": "INACTIVE"
         },
-        "1571756605": {
-            "video-stats.video.google.com": "INACTIVE"
-        },
-        "1571756622": {
-            "vs.tucows.com": "INACTIVE"
-        },
-        "1571756643": {
-            "wdads.sx.atl.publicus.com": "INACTIVE",
-            "web2.deja.com": "INACTIVE"
-        },
-        "1571756677": {
-            "webtrends.telegraph.co.uk": "INACTIVE"
-        },
-        "1571756699": {
-            "www8.glam.com": "INACTIVE"
-        },
-        "1571756706": {
-            "www-google-analytics.l.google.com": "INACTIVE",
-            "www.dnps.com": "INACTIVE"
-        },
-        "1571756728": {
-            "xpu.samsungelectronics.com": "INACTIVE"
-        },
-        "1571756745": {
-            "ypu.samsungelectronics.com": "INACTIVE"
-        },
-        "1571756766": {
-            "zeus.developershed.com": "INACTIVE"
-        },
-        "1571756773": {
-            "zpu.samsungelectronics.com": "INACTIVE"
-        },
         "1572038920": {
             "Adsatt.go.starwave.com": "INVALID"
         },
@@ -1124,6 +1092,38 @@
         },
         "1572052220": {
             "utils.mediageneral.net": "INACTIVE"
+        },
+        "1572054579": {
+            "video-stats.video.google.com": "INACTIVE"
+        },
+        "1572054597": {
+            "vs.tucows.com": "INACTIVE"
+        },
+        "1572054617": {
+            "wdads.sx.atl.publicus.com": "INACTIVE",
+            "web2.deja.com": "INACTIVE"
+        },
+        "1572054652": {
+            "webtrends.telegraph.co.uk": "INACTIVE"
+        },
+        "1572054675": {
+            "www8.glam.com": "INACTIVE"
+        },
+        "1572054682": {
+            "www-google-analytics.l.google.com": "INACTIVE",
+            "www.dnps.com": "INACTIVE"
+        },
+        "1572054706": {
+            "xpu.samsungelectronics.com": "INACTIVE"
+        },
+        "1572054723": {
+            "ypu.samsungelectronics.com": "INACTIVE"
+        },
+        "1572054750": {
+            "zeus.developershed.com": "INACTIVE"
+        },
+        "1572054757": {
+            "zpu.samsungelectronics.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
