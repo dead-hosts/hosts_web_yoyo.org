@@ -3825,9 +3825,9 @@
         "state": "future"
     },
     "exosrv.com": {
-        "epoch": "1572134400",
+        "epoch": 1572134400,
         "expiration_date": "27-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "experianmarketingservices.digital": {
         "epoch": 1602892800,
@@ -4590,9 +4590,9 @@
         "state": "future"
     },
     "hitlounge.com": {
-        "epoch": "1572134400",
+        "epoch": 1572134400,
         "expiration_date": "27-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "hitometer.com": {
         "epoch": "1612224000",
