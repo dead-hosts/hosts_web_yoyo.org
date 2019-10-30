@@ -3434,6 +3434,11 @@
         "expiration_date": "26-sep-2019",
         "state": "future"
     },
+    "dpbolvw.net": {
+        "epoch": 1586131200,
+        "expiration_date": "06-apr-2020",
+        "state": "future"
+    },
     "dq95d35.com": {
         "epoch": "1582502400",
         "expiration_date": "24-feb-2020",
@@ -5129,6 +5134,11 @@
         "expiration_date": "22-jan-2021",
         "state": "future"
     },
+    "jdoqocy.com": {
+        "epoch": 1586131200,
+        "expiration_date": "06-apr-2020",
+        "state": "future"
+    },
     "joetec.net": {
         "epoch": "1579996800",
         "expiration_date": "26-jan-2020",
@@ -5170,9 +5180,9 @@
         "state": "future"
     },
     "justrelevant.com": {
-        "epoch": 1572307200,
-        "expiration_date": "29-oct-2019",
-        "state": "past"
+        "epoch": 1603929600,
+        "expiration_date": "29-oct-2020",
+        "state": "future"
     },
     "justuno.com": {
         "epoch": "1620691200",
@@ -5190,8 +5200,8 @@
         "state": "future"
     },
     "karisimbi.net": {
-        "epoch": "1572393600",
-        "expiration_date": "30-oct-2019",
+        "epoch": 1604016000,
+        "expiration_date": "30-oct-2020",
         "state": "future"
     },
     "karonty.com": {
