@@ -395,9 +395,9 @@
         "state": "future"
     },
     "adblade.com": {
-        "epoch": "1572393600",
+        "epoch": 1572393600,
         "expiration_date": "30-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "adblockanalytics.com": {
         "epoch": "1580688000",
