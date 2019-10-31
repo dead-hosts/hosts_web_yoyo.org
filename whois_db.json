@@ -395,9 +395,9 @@
         "state": "future"
     },
     "adblade.com": {
-        "epoch": 1572393600,
-        "expiration_date": "30-oct-2019",
-        "state": "past"
+        "epoch": 1604016000,
+        "expiration_date": "30-oct-2020",
+        "state": "future"
     },
     "adblockanalytics.com": {
         "epoch": "1580688000",
@@ -930,8 +930,8 @@
         "state": "future"
     },
     "ads24h.net": {
-        "epoch": 1572480000,
-        "expiration_date": "31-oct-2019",
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
         "state": "future"
     },
     "ads4homes.com": {
