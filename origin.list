@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Tue, 29 Oct 2019 14:42:43 GMT
-# entries:        3061
+# entries:        3060
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Fri, 05 Nov 1999 00:00:00
+# start date:    Sun, 07 Nov 1999 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -195,6 +195,7 @@
 0.0.0.0 adalliance.io
 0.0.0.0 adap.tv
 0.0.0.0 adapt.tv
+0.0.0.0 adback.co
 0.0.0.0 adbard.net
 0.0.0.0 adblade.com
 0.0.0.0 adblockanalytics.com
@@ -1437,7 +1438,6 @@
 0.0.0.0 dist.belnk.com
 0.0.0.0 distillery.wistia.com
 0.0.0.0 districtm.ca
-0.0.0.0 djtfkakbufpwot.com
 0.0.0.0 dk4ywix.com
 0.0.0.0 dmp.mall.tv
 0.0.0.0 dmtracker.com
@@ -2327,7 +2327,6 @@
 0.0.0.0 promos.bwin.it
 0.0.0.0 promos.fling.com
 0.0.0.0 promote.pair.com
-0.0.0.0 promotion-campaigns.com
 0.0.0.0 pronetadvertising.com
 0.0.0.0 propellerads.com
 0.0.0.0 propellerclick.com
