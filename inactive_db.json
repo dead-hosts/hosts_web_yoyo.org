@@ -19,103 +19,6 @@
         "1571745350": {
             "ads.nationalgeographic.com": "INACTIVE"
         },
-        "1572679465": {
-            "stats.blogger.com": "INACTIVE"
-        },
-        "1572679471": {
-            "stats.directnic.com": "INACTIVE"
-        },
-        "1572679477": {
-            "stats.mirrorfootball.co.uk": "INACTIVE"
-        },
-        "1572679478": {
-            "stats.olark.com": "INACTIVE"
-        },
-        "1572679484": {
-            "stats.self.com": "INACTIVE"
-        },
-        "1572679489": {
-            "st.dynamicyield.com": "INACTIVE"
-        },
-        "1572679491": {
-            "stream.useriq.com": "INACTIVE"
-        },
-        "1572679558": {
-            "t.insigit.com": "INACTIVE"
-        },
-        "1572679714": {
-            "touchclarity.natwest.com": "INACTIVE"
-        },
-        "1572679716": {
-            "track.contently.com": "INACTIVE"
-        },
-        "1572679718": {
-            "tracker-pm2.spilleren.com": "INACTIVE"
-        },
-        "1572679726": {
-            "tracking.discounts-promo.ga": "INACTIVE"
-        },
-        "1572679732": {
-            "tracking.gajmp.com": "INACTIVE"
-        },
-        "1572679739": {
-            "track.mailerlite.com": "INACTIVE",
-            "tracking.internetstores.de": "INACTIVE",
-            "tracking.olx-st.com": "INACTIVE"
-        },
-        "1572679740": {
-            "track.nuxues.com": "INACTIVE"
-        },
-        "1572679741": {
-            "traffic.focuusing.com": "INACTIVE"
-        },
-        "1572679766": {
-            "truehits1.gits.net.th": "INACTIVE"
-        },
-        "1572679772": {
-            "truehits2.gits.net.th": "INACTIVE"
-        },
-        "1572679794": {
-            "upu.samsungelectronics.com": "INACTIVE"
-        },
-        "1572679795": {
-            "us.a1.yimg.com": "INACTIVE"
-        },
-        "1572679808": {
-            "utils.mediageneral.net": "INACTIVE"
-        },
-        "1572679838": {
-            "video-stats.video.google.com": "INACTIVE"
-        },
-        "1572679856": {
-            "vs.tucows.com": "INACTIVE"
-        },
-        "1572679876": {
-            "wdads.sx.atl.publicus.com": "INACTIVE",
-            "web2.deja.com": "INACTIVE"
-        },
-        "1572679913": {
-            "webtrends.telegraph.co.uk": "INACTIVE"
-        },
-        "1572679940": {
-            "www8.glam.com": "INACTIVE"
-        },
-        "1572679947": {
-            "www-google-analytics.l.google.com": "INACTIVE",
-            "www.dnps.com": "INACTIVE"
-        },
-        "1572679969": {
-            "xpu.samsungelectronics.com": "INACTIVE"
-        },
-        "1572679986": {
-            "ypu.samsungelectronics.com": "INACTIVE"
-        },
-        "1572680007": {
-            "zeus.developershed.com": "INACTIVE"
-        },
-        "1572680014": {
-            "zpu.samsungelectronics.com": "INACTIVE"
-        },
         "1572849088": {
             "Adsatt.go.starwave.com": "INVALID"
         },
@@ -1143,6 +1046,106 @@
         },
         "1572852516": {
             "staticads.btopenworld.com": "INACTIVE"
+        },
+        "1572852641": {
+            "stats.blogger.com": "INACTIVE"
+        },
+        "1572852648": {
+            "stats.directnic.com": "INACTIVE"
+        },
+        "1572852654": {
+            "stats.mirrorfootball.co.uk": "INACTIVE"
+        },
+        "1572852655": {
+            "stats.olark.com": "INACTIVE"
+        },
+        "1572852661": {
+            "stats.self.com": "INACTIVE"
+        },
+        "1572852665": {
+            "st.dynamicyield.com": "INACTIVE"
+        },
+        "1572852667": {
+            "stream.useriq.com": "INACTIVE"
+        },
+        "1572852741": {
+            "t.insigit.com": "INACTIVE"
+        },
+        "1572852777": {
+            "touchclarity.natwest.com": "INACTIVE"
+        },
+        "1572852779": {
+            "track.contently.com": "INACTIVE"
+        },
+        "1572852781": {
+            "tracker-pm2.spilleren.com": "INACTIVE"
+        },
+        "1572852790": {
+            "tracking.discounts-promo.ga": "INACTIVE"
+        },
+        "1572852796": {
+            "tracking.gajmp.com": "INACTIVE"
+        },
+        "1572852802": {
+            "tracking.internetstores.de": "INACTIVE",
+            "tracking.olx-st.com": "INACTIVE"
+        },
+        "1572852803": {
+            "track.mailerlite.com": "INACTIVE",
+            "track.nuxues.com": "INACTIVE"
+        },
+        "1572852805": {
+            "traffic.focuusing.com": "INACTIVE"
+        },
+        "1572852830": {
+            "travis.bosscasinos.com": "INACTIVE"
+        },
+        "1572852847": {
+            "truehits1.gits.net.th": "INACTIVE"
+        },
+        "1572852854": {
+            "truehits2.gits.net.th": "INACTIVE"
+        },
+        "1572852877": {
+            "upu.samsungelectronics.com": "INACTIVE"
+        },
+        "1572852878": {
+            "us.a1.yimg.com": "INACTIVE"
+        },
+        "1572852891": {
+            "utils.mediageneral.net": "INACTIVE"
+        },
+        "1572852927": {
+            "video-stats.video.google.com": "INACTIVE"
+        },
+        "1572852946": {
+            "vs.tucows.com": "INACTIVE"
+        },
+        "1572852966": {
+            "wdads.sx.atl.publicus.com": "INACTIVE",
+            "web2.deja.com": "INACTIVE"
+        },
+        "1572853002": {
+            "webtrends.telegraph.co.uk": "INACTIVE"
+        },
+        "1572853034": {
+            "www8.glam.com": "INACTIVE"
+        },
+        "1572853041": {
+            "www-google-analytics.l.google.com": "INACTIVE",
+            "www.dnps.com": "INACTIVE"
+        },
+        "1572853063": {
+            "xpu.samsungelectronics.com": "INACTIVE"
+        },
+        "1572853081": {
+            "ypu.samsungelectronics.com": "INACTIVE"
+        },
+        "1572853097": {
+            "zeus.developershed.com": "INACTIVE"
+        },
+        "1572853106": {
+            "zpu.samsungelectronics.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
