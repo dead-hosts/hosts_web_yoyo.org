@@ -1146,6 +1146,18 @@
         },
         "1572853106": {
             "zpu.samsungelectronics.com": "INACTIVE"
+        },
+        "1572864824": {
+            "ads.jpost.com": "INACTIVE"
+        },
+        "1572864826": {
+            "ads.kinxxx.com": "INACTIVE"
+        },
+        "1572864880": {
+            "ads.videosz.com": "INACTIVE"
+        },
+        "1572865005": {
+            "a.ucoz.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
