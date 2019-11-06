@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 02 Nov 2019 16:29:13 GMT
-# entries:        3064
+# last updated:   Mon, 04 Nov 2019 22:38:58 GMT
+# entries:        3066
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Tue, 09 Nov 1999 00:00:00
+# start date:    Thu, 11 Nov 1999 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -1117,6 +1117,7 @@
 0.0.0.0 big-bang-ads.com
 0.0.0.0 bigbangmedia.com
 0.0.0.0 bigclicks.com
+0.0.0.0 bigreal.org
 0.0.0.0 billboard.cz
 0.0.0.0 biosda.com
 0.0.0.0 bitmedianetwork.com
@@ -2132,6 +2133,7 @@
 0.0.0.0 newnet.qsrch.com
 0.0.0.0 newnudecash.com
 0.0.0.0 newopenx.detik.com
+0.0.0.0 newsadsppush.com
 0.0.0.0 newstarads.com
 0.0.0.0 newt1.adultadworld.com
 0.0.0.0 newt1.adultworld.com
