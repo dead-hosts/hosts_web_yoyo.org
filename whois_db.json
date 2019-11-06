@@ -6244,6 +6244,11 @@
         "expiration_date": "22-apr-2020",
         "state": "future"
     },
+    "newsadsppush.com": {
+        "epoch": 1596240000,
+        "expiration_date": "01-aug-2020",
+        "state": "future"
+    },
     "newstarads.com": {
         "epoch": "1576108800",
         "expiration_date": "12-dec-2019",
@@ -7065,9 +7070,9 @@
         "state": "future"
     },
     "pubdirecte.com": {
-        "epoch": "1572998400",
+        "epoch": 1572998400,
         "expiration_date": "06-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "publicidees.com": {
         "epoch": 1603929600,
@@ -7500,8 +7505,8 @@
         "state": "future"
     },
     "roar.com": {
-        "epoch": "1572998400",
-        "expiration_date": "06-nov-2019",
+        "epoch": 1604620800,
+        "expiration_date": "06-nov-2020",
         "state": "future"
     },
     "robotreplay.com": {
