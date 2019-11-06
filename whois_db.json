@@ -2014,6 +2014,11 @@
         "expiration_date": "22-feb-2020",
         "state": "future"
     },
+    "bigreal.org": {
+        "epoch": 1598227200,
+        "expiration_date": "24-aug-2020",
+        "state": "future"
+    },
     "billboard.cz": {
         "epoch": 1603238400,
         "expiration_date": "21-oct-2020",
@@ -2815,8 +2820,8 @@
         "state": "future"
     },
     "commissionmonster.com": {
-        "epoch": "1572912000",
-        "expiration_date": "05-nov-2019",
+        "epoch": 1604534400,
+        "expiration_date": "05-nov-2020",
         "state": "future"
     },
     "commonswing.com": {
@@ -2860,8 +2865,8 @@
         "state": "future"
     },
     "connatix.com": {
-        "epoch": "1572998400",
-        "expiration_date": "06-nov-2019",
+        "epoch": 1604620800,
+        "expiration_date": "06-nov-2020",
         "state": "future"
     },
     "connextra.com": {
