@@ -9140,9 +9140,9 @@
         "state": "future"
     },
     "ukbanners.com": {
-        "epoch": 1572825600,
-        "expiration_date": "04-nov-2019",
-        "state": "past"
+        "epoch": 1604448000,
+        "expiration_date": "04-nov-2020",
+        "state": "future"
     },
     "ultimateclixx.com": {
         "epoch": "1581638400",
