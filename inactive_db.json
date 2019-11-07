@@ -19,50 +19,6 @@
         "1571745350": {
             "ads.nationalgeographic.com": "INACTIVE"
         },
-        "1573031625": {
-            "upu.samsungelectronics.com": "INACTIVE"
-        },
-        "1573031626": {
-            "us.a1.yimg.com": "INACTIVE"
-        },
-        "1573031639": {
-            "utils.mediageneral.net": "INACTIVE"
-        },
-        "1573031667": {
-            "video-stats.video.google.com": "INACTIVE"
-        },
-        "1573031685": {
-            "vs.tucows.com": "INACTIVE"
-        },
-        "1573031705": {
-            "wdads.sx.atl.publicus.com": "INACTIVE",
-            "web2.deja.com": "INACTIVE"
-        },
-        "1573031742": {
-            "webtrends.telegraph.co.uk": "INACTIVE"
-        },
-        "1573031766": {
-            "wintricksbanner.googlepages.com": "INACTIVE"
-        },
-        "1573031779": {
-            "www8.glam.com": "INACTIVE"
-        },
-        "1573031786": {
-            "www-google-analytics.l.google.com": "INACTIVE",
-            "www.dnps.com": "INACTIVE"
-        },
-        "1573031807": {
-            "xpu.samsungelectronics.com": "INACTIVE"
-        },
-        "1573031825": {
-            "ypu.samsungelectronics.com": "INACTIVE"
-        },
-        "1573031846": {
-            "zeus.developershed.com": "INACTIVE"
-        },
-        "1573031855": {
-            "zpu.samsungelectronics.com": "INACTIVE"
-        },
         "1573123366": {
             "Adsatt.go.starwave.com": "INVALID"
         },
@@ -1135,6 +1091,50 @@
         },
         "1573137022": {
             "truehits2.gits.net.th": "INACTIVE"
+        },
+        "1573138640": {
+            "upu.samsungelectronics.com": "INACTIVE"
+        },
+        "1573138641": {
+            "us.a1.yimg.com": "INACTIVE"
+        },
+        "1573138654": {
+            "utils.mediageneral.net": "INACTIVE"
+        },
+        "1573138681": {
+            "video-stats.video.google.com": "INACTIVE"
+        },
+        "1573138698": {
+            "vs.tucows.com": "INACTIVE"
+        },
+        "1573138718": {
+            "wdads.sx.atl.publicus.com": "INACTIVE",
+            "web2.deja.com": "INACTIVE"
+        },
+        "1573138751": {
+            "webtrends.telegraph.co.uk": "INACTIVE"
+        },
+        "1573138778": {
+            "www8.glam.com": "INACTIVE"
+        },
+        "1573138784": {
+            "www-google-analytics.l.google.com": "INACTIVE",
+            "www.dnps.com": "INACTIVE"
+        },
+        "1573138804": {
+            "xpu.samsungelectronics.com": "INACTIVE"
+        },
+        "1573138823": {
+            "ypu.samsungelectronics.com": "INACTIVE"
+        },
+        "1573138838": {
+            "zeus.developershed.com": "INACTIVE"
+        },
+        "1573138844": {
+            "zpu.samsungelectronics.com": "INACTIVE"
+        },
+        "1573138851": {
+            "zzhc.vnet.cn": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
