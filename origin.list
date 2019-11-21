@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 18 Nov 2019 14:14:23 GMT
-# entries:        3141
+# last updated:   Wed, 20 Nov 2019 13:55:12 GMT
+# entries:        3145
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Wed, 24 Nov 1999 00:00:00
+# start date:    Fri, 26 Nov 1999 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -67,6 +67,7 @@
 0.0.0.0 absoluteclickscom.com
 0.0.0.0 absorbingband.com
 0.0.0.0 absurdwater.com
+0.0.0.0 abtasty.com
 0.0.0.0 abz.com
 0.0.0.0 ac.rnm.ca
 0.0.0.0 acbsearch.com
@@ -1565,6 +1566,7 @@
 0.0.0.0 etracker.de
 0.0.0.0 eu-adcenter.net
 0.0.0.0 eu1.madsone.com
+0.0.0.0 eulerian.net
 0.0.0.0 eurekster.com
 0.0.0.0 euros4click.de
 0.0.0.0 eusta.de
@@ -1599,6 +1601,7 @@
 0.0.0.0 eyewonder.com
 0.0.0.0 ezula.com
 0.0.0.0 f5biz.com
+0.0.0.0 f7ds.liberation.fr
 0.0.0.0 facilitategrandfather.com
 0.0.0.0 fadedprofit.com
 0.0.0.0 famousquarter.com
@@ -2347,6 +2350,7 @@
 0.0.0.0 plugrush.com
 0.0.0.0 pointroll.com
 0.0.0.0 popads.net
+0.0.0.0 popcash.net
 0.0.0.0 popflawlessads.com
 0.0.0.0 popmyads.com
 0.0.0.0 popub.com
