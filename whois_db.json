@@ -484,6 +484,11 @@
         "expiration_date": "22-sep-2020",
         "state": "future"
     },
+    "adcolony.com": {
+        "epoch": 1596758400.0,
+        "expiration_date": "07-aug-2020",
+        "state": "future"
+    },
     "adcomplete.com": {
         "epoch": 1576627200.0,
         "expiration_date": "18-dec-2019",
@@ -729,6 +734,11 @@
         "expiration_date": "25-oct-2022",
         "state": "future"
     },
+    "admanmedia.com": {
+        "epoch": 1630540800.0,
+        "expiration_date": "02-sep-2021",
+        "state": "future"
+    },
     "admantx.com": {
         "epoch": 1586390400.0,
         "expiration_date": "09-apr-2020",
@@ -782,6 +792,16 @@
     "adminshop.com": {
         "epoch": 1575763200.0,
         "expiration_date": "08-dec-2019",
+        "state": "future"
+    },
+    "admix.in": {
+        "epoch": 1582848000.0,
+        "expiration_date": "28-feb-2020",
+        "state": "future"
+    },
+    "admixer.net": {
+        "epoch": 1618185600.0,
+        "expiration_date": "12-apr-2021",
         "state": "future"
     },
     "admized.com": {
