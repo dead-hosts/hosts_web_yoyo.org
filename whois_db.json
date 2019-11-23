@@ -10675,12 +10675,12 @@
         "state": "future"
     },
     "zqtk.net": {
-        "epoch": 1592956800,
+        "epoch": 1592956800.0,
         "expiration_date": "24-jun-2020",
         "state": "future"
     },
     "zy16eoat1w.com": {
-        "epoch": 1591574400,
+        "epoch": 1591574400.0,
         "expiration_date": "08-jun-2020",
         "state": "future"
     }

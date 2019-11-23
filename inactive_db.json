@@ -1,42 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/domains.list": {
-        "1568356854": {
-            "ads.betanews.com": "INACTIVE",
-            "adsk2.co": "INACTIVE",
-            "oas.foxnews.com": "INACTIVE"
-        },
-        "1568873425": {
-            "teliad.de": "INACTIVE",
-            "www.money4exit.de": "INACTIVE"
-        },
-        "1569565057": {
-            "adserver.portalofevil.com": "INACTIVE",
-            "openx.blindferret.com": "INACTIVE"
-        },
-        "1571357841": {
-            "creatives.as4x.tmcs.net": "INACTIVE"
-        },
-        "1571745350": {
-            "ads.nationalgeographic.com": "INACTIVE"
-        },
-        "1573123828": {
-            "ads.allvatar.com": "INACTIVE"
-        },
-        "1573127619": {
-            "ads.forbes.com": "INACTIVE"
-        },
-        "1573136499": {
-            "pagerank-submitter.de": "INACTIVE"
-        },
-        "1573136650": {
-            "ranking-id.de": "INACTIVE"
-        },
-        "1573136975": {
-            "tracking.discounts-promo.ga": "INACTIVE"
-        },
-        "1573138851": {
-            "zzhc.vnet.cn": "INACTIVE"
-        },
         "1574491952": {
             "ac.rnm.ca": "INACTIVE",
             "ad-server.gulasidorna.se": "INACTIVE",
@@ -327,6 +290,24 @@
             "ypu.samsungelectronics.com": "INACTIVE",
             "zeus.developershed.com": "INACTIVE",
             "zpu.samsungelectronics.com": "INACTIVE"
+        },
+        "1574496222": {
+            "zzhc.vnet.cn": "INACTIVE"
+        },
+        "1574496277": {
+            "ads.allvatar.com": "INACTIVE",
+            "ads.betanews.com": "INACTIVE",
+            "ads.forbes.com": "INACTIVE",
+            "ads.nationalgeographic.com": "INACTIVE",
+            "adserver.portalofevil.com": "INACTIVE",
+            "adsk2.co": "INACTIVE",
+            "creatives.as4x.tmcs.net": "INACTIVE",
+            "oas.foxnews.com": "INACTIVE",
+            "openx.blindferret.com": "INACTIVE",
+            "pagerank-submitter.de": "INACTIVE",
+            "ranking-id.de": "INACTIVE",
+            "tracking.discounts-promo.ga": "INACTIVE",
+            "www.money4exit.de": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
