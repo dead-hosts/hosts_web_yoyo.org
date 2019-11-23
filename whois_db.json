@@ -1159,6 +1159,11 @@
         "expiration_date": "16-feb-2020",
         "state": "future"
     },
+    "adsolut.in": {
+        "epoch": 1599782400.0,
+        "expiration_date": "11-sep-2020",
+        "state": "future"
+    },
     "adspeed.net": {
         "epoch": 1744848000.0,
         "expiration_date": "17-apr-2025",
@@ -1217,6 +1222,11 @@
     "adsynergy.com": {
         "epoch": 1601683200.0,
         "expiration_date": "03-oct-2020",
+        "state": "future"
+    },
+    "adtech.com": {
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
         "state": "future"
     },
     "adtechjp.com": {
@@ -1299,6 +1309,11 @@
         "expiration_date": "17-jun-2020",
         "state": "future"
     },
+    "advangelists.com": {
+        "epoch": 1574553600.0,
+        "expiration_date": "24-nov-2019",
+        "state": "future"
+    },
     "advariant.com": {
         "epoch": 1596412800.0,
         "expiration_date": "03-aug-2020",
@@ -1344,6 +1359,11 @@
         "expiration_date": "01-oct-2020",
         "state": "future"
     },
+    "advertising.com": {
+        "epoch": 1641254400.0,
+        "expiration_date": "04-jan-2022",
+        "state": "future"
+    },
     "advertisingbanners.com": {
         "epoch": 1586995200.0,
         "expiration_date": "16-apr-2020",
@@ -1379,9 +1399,19 @@
         "expiration_date": "19-oct-2020",
         "state": "future"
     },
+    "adverty.com": {
+        "epoch": 1612396800.0,
+        "expiration_date": "04-feb-2021",
+        "state": "future"
+    },
     "advfromnwl.com": {
         "epoch": 1596758400,
         "expiration_date": "07-aug-2020",
+        "state": "future"
+    },
+    "adview.com": {
+        "epoch": 1599696000.0,
+        "expiration_date": "10-sep-2020",
         "state": "future"
     },
     "advisormedia.cz": {
@@ -1444,6 +1474,11 @@
         "expiration_date": "25-may-2020",
         "state": "future"
     },
+    "adyoulike.com": {
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
+        "state": "future"
+    },
     "adz2you.com": {
         "epoch": 1591747200.0,
         "expiration_date": "10-jun-2020",
@@ -1467,6 +1502,11 @@
     "adzones.com": {
         "epoch": 1600214400.0,
         "expiration_date": "16-sep-2020",
+        "state": "future"
+    },
+    "aerserv.com": {
+        "epoch": 1706659200.0,
+        "expiration_date": "31-jan-2024",
         "state": "future"
     },
     "af-ad.co.uk": {
@@ -1574,6 +1614,11 @@
         "expiration_date": "29-dec-2019",
         "state": "future"
     },
+    "airpush.com": {
+        "epoch": 1600387200.0,
+        "expiration_date": "18-sep-2020",
+        "state": "future"
+    },
     "aistat.net": {
         "epoch": 1605398400.0,
         "expiration_date": "15-nov-2020",
@@ -1597,6 +1642,11 @@
     "alexametrics.com": {
         "epoch": 1592524800.0,
         "expiration_date": "19-jun-2020",
+        "state": "future"
+    },
+    "algorix.co": {
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
         "state": "future"
     },
     "alipromo.com": {
@@ -1664,6 +1714,11 @@
         "expiration_date": "14-jan-2020",
         "state": "future"
     },
+    "aniview.com": {
+        "epoch": 1732060800.0,
+        "expiration_date": "20-nov-2024",
+        "state": "future"
+    },
     "anrdoezrs.net": {
         "epoch": 1586131200.0,
         "expiration_date": "06-apr-2020",
@@ -1727,6 +1782,11 @@
     "ar1nvz5.com": {
         "epoch": 1582502400.0,
         "expiration_date": "24-feb-2020",
+        "state": "future"
+    },
+    "aralego.com": {
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
         "state": "future"
     },
     "archswimming.com": {
@@ -1809,6 +1869,11 @@
         "expiration_date": "19-aug-2020",
         "state": "future"
     },
+    "audience.media": {
+        "epoch": 1600905600.0,
+        "expiration_date": "24-sep-2020",
+        "state": "future"
+    },
     "audience2media.com": {
         "epoch": 1583452800.0,
         "expiration_date": "06-mar-2020",
@@ -1867,6 +1932,11 @@
     "axiomaticalley.com": {
         "epoch": 1603238400.0,
         "expiration_date": "21-oct-2020",
+        "state": "future"
+    },
+    "axonix.com": {
+        "epoch": 1682553600.0,
+        "expiration_date": "27-apr-2023",
         "state": "future"
     },
     "aztracking.net": {
