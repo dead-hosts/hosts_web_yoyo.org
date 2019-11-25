@@ -1,184 +1,6 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/domains.list": {
-        "1574491952": {
-            "ac.rnm.ca": "INACTIVE",
-            "ad-server.gulasidorna.se": "INACTIVE",
-            "ad.anuntis.com": "INACTIVE",
-            "ad.bnmla.com": "INACTIVE",
-            "ad.freecity.de": "INACTIVE",
-            "ad.grafika.cz": "INACTIVE",
-            "ad.hbv.de": "INACTIVE",
-            "ad.hodomobile.com": "INACTIVE",
-            "ad.liveinternet.ru": "INACTIVE",
-            "ad.mgd.de": "INACTIVE",
-            "ad.nttnavi.co.jp": "INACTIVE",
-            "ad.reunion.com": "INACTIVE",
-            "ad.virtual-nights.com": "INACTIVE",
-            "ad.wavu.hu": "INACTIVE",
-            "ad.way.cz": "INACTIVE",
-            "ad.xiaomi.com": "INACTIVE",
-            "ad.xrea.com": "INACTIVE",
-            "ad.yadro.ru": "INACTIVE",
-            "ad.yourmedia.com": "INACTIVE",
-            "ad01.mediacorpsingapore.com": "INACTIVE",
-            "ad1.pamedia.com.au": "INACTIVE",
-            "ad2.lupa.cz": "INACTIVE",
-            "ad3.pamedia.com.au": "INACTIVE"
-        },
-        "1574491954": {
-            "adman.otenet.gr": "INACTIVE",
-            "admanager.btopenworld.com": "INACTIVE",
-            "adnet.asahi.com": "INACTIVE",
-            "adnet.worldreviewer.com": "INACTIVE"
-        },
-        "1574491955": {
-            "ads.4tube.com": "INACTIVE",
-            "ads.aceweb.net": "INACTIVE",
-            "ads.amdmb.com": "INACTIVE",
-            "ads.ask.com": "INACTIVE",
-            "ads.berlinonline.de": "INACTIVE",
-            "ads.bluemountain.com": "INACTIVE",
-            "ads.businessweek.com": "INACTIVE",
-            "ads.canoe.ca": "INACTIVE",
-            "ads.cbc.ca": "INACTIVE",
-            "ads.channel4.com": "INACTIVE",
-            "ads.clearchannel.com": "INACTIVE",
-            "ads.contactmusic.com": "INACTIVE",
-            "ads.creativematch.com": "INACTIVE",
-            "ads.dada.it": "INACTIVE",
-            "ads.dazoot.ro": "INACTIVE",
-            "ads.desmoinesregister.com": "INACTIVE",
-            "ads.detelefoongids.nl": "INACTIVE",
-            "ads.edbindex.dk": "INACTIVE",
-            "ads.elitetrader.com": "INACTIVE",
-            "ads.emirates.net.ae": "INACTIVE",
-            "ads.flooble.com": "INACTIVE",
-            "ads.footymad.net": "INACTIVE",
-            "ads.forbes.net": "INACTIVE",
-            "ads.fortunecity.com": "INACTIVE",
-            "ads.gamershell.com": "INACTIVE",
-            "ads.gamigo.de": "INACTIVE",
-            "ads.goyk.com": "INACTIVE",
-            "ads.gplusmedia.com": "INACTIVE",
-            "ads.ibryte.com": "INACTIVE"
-        },
-        "1574491956": {
-            "ads.ipowerweb.com": "INACTIVE",
-            "ads.itv.com": "INACTIVE",
-            "ads.jiwire.com": "INACTIVE",
-            "ads.mariuana.it": "INACTIVE",
-            "ads.mediaodyssey.com": "INACTIVE",
-            "ads.mmania.com": "INACTIVE",
-            "ads.newsint.co.uk": "INACTIVE",
-            "ads.ninemsn.com.au": "INACTIVE",
-            "ads.nordichardware.com": "INACTIVE",
-            "ads.nyi.net": "INACTIVE",
-            "ads.o2.pl": "INACTIVE",
-            "ads.oneplace.com": "INACTIVE",
-            "ads.optusnet.com.au": "INACTIVE"
-        },
-        "1574493386": {
-            "ads.planet.nl": "INACTIVE",
-            "ads.pni.com": "INACTIVE",
-            "ads.powweb.com": "INACTIVE",
-            "ads.program3.com": "INACTIVE",
-            "ads.recoletos.es": "INACTIVE",
-            "ads.scifi.com": "INACTIVE",
-            "ads.sexinyourcity.com": "INACTIVE",
-            "ads.silverdisc.co.uk": "INACTIVE",
-            "ads.tahono.com": "INACTIVE",
-            "ads.townhall.com": "INACTIVE"
-        },
-        "1574493387": {
-            "ads.videosz.com": "INACTIVE",
-            "ads.virtual-nights.com": "INACTIVE",
-            "ads.wiezoekje.nl": "INACTIVE",
-            "ads.wineenthusiast.com": "INACTIVE",
-            "ads.wwe.biz": "INACTIVE",
-            "ads.xtra.co.nz": "INACTIVE",
-            "ads.ztod.com": "INACTIVE",
-            "ads1.canoe.ca": "INACTIVE",
-            "ads1.virtual-nights.com": "INACTIVE",
-            "ads10.speedbit.com": "INACTIVE",
-            "ads2.clearchannel.com": "INACTIVE",
-            "ads2.net-communities.co.uk": "INACTIVE",
-            "ads2.oneplace.com": "INACTIVE",
-            "ads2.virtual-nights.com": "INACTIVE",
-            "ads2004.treiberupdate.de": "INACTIVE",
-            "ads3.virtual-nights.com": "INACTIVE",
-            "ads4.clearchannel.com": "INACTIVE",
-            "ads4.virtual-nights.com": "INACTIVE",
-            "ads5.virtual-nights.com": "INACTIVE",
-            "adserver.aidameter.com": "INACTIVE",
-            "adserver.betandwin.de": "INACTIVE",
-            "adserver.janes.com": "INACTIVE",
-            "adserver.libero.it": "INACTIVE",
-            "adserver.news.com.au": "INACTIVE",
-            "adserver.nydailynews.com": "INACTIVE",
-            "adserver.o2.pl": "INACTIVE",
-            "adserver.portugalmail.net": "INACTIVE",
-            "adserver.portugalmail.pt": "INACTIVE",
-            "adserver.theonering.net": "INACTIVE",
-            "adserver.virginmedia.com": "INACTIVE",
-            "adserver1.mindshare.de": "INACTIVE",
-            "adserver2.mindshare.de": "INACTIVE"
-        },
-        "1574493388": {
-            "adsrv.eacdn.com": "INACTIVE",
-            "adv.cooperhosting.net": "INACTIVE",
-            "adv.livedoor.com": "INACTIVE"
-        },
-        "1574493389": {
-            "adx.atnext.com": "INACTIVE",
-            "affiliate.gamestop.com": "INACTIVE",
-            "affiliate.offgamers.com": "INACTIVE",
-            "affiliates.thinkhost.net": "INACTIVE",
-            "affiliates.ultrahosting.com": "INACTIVE"
-        },
-        "1574493390": {
-            "analytics.adpost.org": "INACTIVE",
-            "analytics.bitrix.info": "INACTIVE",
-            "analytics.poolshool.com": "INACTIVE",
-            "anm.intelli-direct.com": "INACTIVE",
-            "api.intensifier.de": "INACTIVE",
-            "apu.samsungelectronics.com": "INACTIVE",
-            "as1.advfn.com": "INACTIVE"
-        },
-        "1574493391": {
-            "audit.median.hu": "INACTIVE",
-            "banner.ambercoastcasino.com": "INACTIVE",
-            "banner.cotedazurpalace.com": "INACTIVE",
-            "banner.coza.com": "INACTIVE",
-            "banner.elisa.net": "INACTIVE",
-            "banner.media-system.de": "INACTIVE",
-            "banner.mindshare.de": "INACTIVE",
-            "banner.noblepoker.com": "INACTIVE",
-            "banner.rbc.ru": "INACTIVE",
-            "banner.relcom.ru": "INACTIVE",
-            "banner.titan-dsl.de": "INACTIVE",
-            "bannergrabber.internet.gr": "INACTIVE",
-            "banners.bol.com.br": "INACTIVE",
-            "banners.linkbuddies.com": "INACTIVE"
-        },
-        "1574494260": {
-            "banners.resultonline.com": "INACTIVE",
-            "bannersng.yell.com": "INACTIVE",
-            "bans.adserver.co.il": "INACTIVE"
-        },
-        "1574494262": {
-            "box.anchorfree.net": "INACTIVE",
-            "bpu.samsungelectronics.com": "INACTIVE"
-        },
-        "1574494263": {
-            "cgicounter.puretec.de": "INACTIVE",
-            "cityads.telus.net": "INACTIVE"
-        },
-        "1574494264": {
-            "clicks.equantum.com": "INACTIVE",
-            "clickwith.bid": "INACTIVE"
-        },
         "1574494265": {
-            "content.acc-hd.de": "INACTIVE",
             "counter.dreamhost.com": "INACTIVE",
             "counter.fateback.com": "INACTIVE",
             "cpu.samsungelectronics.com": "INACTIVE"
@@ -308,6 +130,19 @@
             "ranking-id.de": "INACTIVE",
             "tracking.discounts-promo.ga": "INACTIVE",
             "www.money4exit.de": "INACTIVE"
+        },
+        "1574665322": {
+            "ad.xiaomi.com": "INACTIVE"
+        },
+        "1574665326": {
+            "ads.program3.com": "INACTIVE",
+            "ads.recoletos.es": "INACTIVE"
+        },
+        "1574665327": {
+            "adsrv.eacdn.com": "INACTIVE"
+        },
+        "1574665335": {
+            "clickwith.bid": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
