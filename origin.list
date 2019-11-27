@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 22 Nov 2019 13:51:36 GMT
-# entries:        3233
+# last updated:   Tue, 26 Nov 2019 22:23:56 GMT
+# entries:        3237
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Tue, 30 Nov 1999 00:00:00
+# start date:    Thu, 02 Dec 1999 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
@@ -1283,6 +1283,7 @@
 0.0.0.0 chinsnakes.com
 0.0.0.0 chitika.net
 0.0.0.0 christingel.com
+0.0.0.0 cision.com
 0.0.0.0 cityads.telus.net
 0.0.0.0 cj.com
 0.0.0.0 cjbmanagement.com
@@ -2072,6 +2073,7 @@
 0.0.0.0 market-buster.com
 0.0.0.0 marketing.888.com
 0.0.0.0 marketing.hearstmagazines.nl
+0.0.0.0 marketing.net.home24.de
 0.0.0.0 marketing.nyi.net
 0.0.0.0 marketing.osijek031.com
 0.0.0.0 marketingsolutions.yahoo.com
@@ -2448,6 +2450,7 @@
 0.0.0.0 promos.bwin.it
 0.0.0.0 promos.fling.com
 0.0.0.0 promote.pair.com
+0.0.0.0 promotions-884485.c.cdn77.org
 0.0.0.0 pronetadvertising.com
 0.0.0.0 propellerads.com
 0.0.0.0 propellerclick.com
@@ -3022,6 +3025,7 @@
 0.0.0.0 trendmd.com
 0.0.0.0 tribalfusion.com
 0.0.0.0 trickycelery.com
+0.0.0.0 triptease.io
 0.0.0.0 trix.net
 0.0.0.0 trk42.net
 0.0.0.0 trkn.us
