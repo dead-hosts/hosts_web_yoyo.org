@@ -8019,6 +8019,11 @@
         "expiration_date": "10-jul-2020",
         "state": "future"
     },
+    "revjet.com": {
+        "epoch": 1600041600.0,
+        "expiration_date": "14-sep-2020",
+        "state": "future"
+    },
     "revlift.io": {
         "epoch": 1641859200.0,
         "expiration_date": "11-jan-2022",
