@@ -12,9 +12,6 @@
         "1575011866": {
             "dnads.directnic.com": "INACTIVE"
         },
-        "1575012723": {
-            "pgl.example0101": "INVALID"
-        },
         "1575012732": {
             "stats.directnic.com": "INACTIVE"
         },
@@ -53,6 +50,9 @@
         },
         "1575129672": {
             "mtrcs.samba.tv": "INACTIVE"
+        },
+        "1575132452": {
+            "pgl.example0101": "INVALID"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
