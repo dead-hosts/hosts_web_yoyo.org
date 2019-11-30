@@ -9775,8 +9775,8 @@
         "state": "future"
     },
     "tranquilside.com": {
-        "epoch": 1575072000.0,
-        "expiration_date": "30-nov-2019",
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "treasuredata.com": {
@@ -9795,8 +9795,8 @@
         "state": "future"
     },
     "tremendoustime.com": {
-        "epoch": 1575072000.0,
-        "expiration_date": "30-nov-2019",
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "tremorhub.com": {
@@ -9975,8 +9975,8 @@
         "state": "future"
     },
     "untidyquestion.com": {
-        "epoch": 1575072000.0,
-        "expiration_date": "30-nov-2019",
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "unusualtitle.com": {
@@ -9985,8 +9985,8 @@
         "state": "future"
     },
     "unwrittenspot.com": {
-        "epoch": 1575072000.0,
-        "expiration_date": "30-nov-2019",
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "urbanairship.com": {
@@ -10175,8 +10175,8 @@
         "state": "future"
     },
     "visualrevenue.com": {
-        "epoch": 1575072000.0,
-        "expiration_date": "30-nov-2019",
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "vivtracking.com": {
@@ -10365,8 +10365,8 @@
         "state": "future"
     },
     "wellmadefrog.com": {
-        "epoch": 1575072000.0,
-        "expiration_date": "30-nov-2019",
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "wetrack.it": {
@@ -10400,8 +10400,8 @@
         "state": "future"
     },
     "whisperingcrib.com": {
-        "epoch": 1575072000.0,
-        "expiration_date": "30-nov-2019",
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "whoisonline.net": {
@@ -10480,8 +10480,8 @@
         "state": "future"
     },
     "wryfinger.com": {
-        "epoch": 1575072000.0,
-        "expiration_date": "30-nov-2019",
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "wt-eu02.net": {
@@ -10637,7 +10637,7 @@
     "yldbt.com": {
         "epoch": 1575072000.0,
         "expiration_date": "30-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "ymetrica1.com": {
         "epoch": 1577318400.0,
