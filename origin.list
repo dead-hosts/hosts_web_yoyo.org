@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 29 Nov 2019 18:52:36 GMT
-# entries:        3240
+# last updated:   Sat, 30 Nov 2019 15:04:45 GMT
+# entries:        3241
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -2091,6 +2091,7 @@
 0.0.0.0 maxonclick.com
 0.0.0.0 mbs.megaroticlive.com
 0.0.0.0 mbuyu.nl
+0.0.0.0 mcdlks.com
 0.0.0.0 measuremap.com
 0.0.0.0 media-adrunner.mycomputer.com
 0.0.0.0 media-servers.net
