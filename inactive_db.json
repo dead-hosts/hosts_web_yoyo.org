@@ -12,10 +12,6 @@
         "1575011866": {
             "dnads.directnic.com": "INACTIVE"
         },
-        "1575011878": {
-            "mr-rank.de": "INACTIVE",
-            "mtrcs.samba.tv": "INACTIVE"
-        },
         "1575012723": {
             "pgl.example0101": "INVALID"
         },
@@ -54,6 +50,9 @@
         },
         "1575127151": {
             "dsp.colpirio.com": "INACTIVE"
+        },
+        "1575129672": {
+            "mtrcs.samba.tv": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {

@@ -4779,9 +4779,19 @@
         "expiration_date": "19-jun-2020",
         "state": "future"
     },
+    "googleanalytics.com": {
+        "epoch": 1579996800.0,
+        "expiration_date": "26-jan-2020",
+        "state": "future"
+    },
     "googlesyndication.com": {
         "epoch": 1579564800.0,
         "expiration_date": "21-jan-2020",
+        "state": "future"
+    },
+    "googletagmanager.com": {
+        "epoch": 1605052800.0,
+        "expiration_date": "11-nov-2020",
         "state": "future"
     },
     "googletagservices.com": {
@@ -4965,8 +4975,8 @@
         "state": "future"
     },
     "highfalutinroom.com": {
-        "epoch": 1575072000.0,
-        "expiration_date": "30-nov-2019",
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "hightrafficads.com": {
@@ -5135,8 +5145,8 @@
         "state": "future"
     },
     "hurtteeth.com": {
-        "epoch": 1575072000.0,
-        "expiration_date": "30-nov-2019",
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "hydramedia.com": {
@@ -5740,8 +5750,8 @@
         "state": "future"
     },
     "laughablecopper.com": {
-        "epoch": 1575072000.0,
-        "expiration_date": "30-nov-2019",
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "laughcloth.com": {
@@ -5872,7 +5882,7 @@
     "linkrain.com": {
         "epoch": 1575072000.0,
         "expiration_date": "30-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "linkreferral.com": {
         "epoch": 1579737600.0,
@@ -6695,8 +6705,8 @@
         "state": "future"
     },
     "neighborlywatch.com": {
-        "epoch": 1575072000.0,
-        "expiration_date": "30-nov-2019",
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "nend.net": {
@@ -6815,8 +6825,8 @@
         "state": "future"
     },
     "nondescriptsmile.com": {
-        "epoch": 1575072000.0,
-        "expiration_date": "30-nov-2019",
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "nondescriptstocking.com": {
@@ -6860,8 +6870,8 @@
         "state": "future"
     },
     "nuttyorganization.com": {
-        "epoch": 1575072000.0,
-        "expiration_date": "30-nov-2019",
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "nzaza.com": {
@@ -7015,8 +7025,8 @@
         "state": "future"
     },
     "optimallimit.com": {
-        "epoch": 1575072000.0,
-        "expiration_date": "30-nov-2019",
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "optimizely.com": {
