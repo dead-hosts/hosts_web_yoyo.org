@@ -1080,7 +1080,7 @@
         "state": "future"
     },
     "adserverpub.com": {
-        "epoch": "1581811200",
+        "epoch": 1581811200.0,
         "expiration_date": "16-feb-2020",
         "state": "future"
     },
@@ -1172,6 +1172,11 @@
     "adspeed.net": {
         "epoch": 1744848000.0,
         "expiration_date": "17-apr-2025",
+        "state": "future"
+    },
+    "adspsp.com": {
+        "epoch": 1617494400.0,
+        "expiration_date": "04-apr-2021",
         "state": "future"
     },
     "adsrevenue.net": {
@@ -1590,8 +1595,8 @@
         "state": "future"
     },
     "agreeablestew.com": {
-        "epoch": 1575072000.0,
-        "expiration_date": "30-nov-2019",
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "agreemand.com": {
@@ -1690,8 +1695,8 @@
         "state": "future"
     },
     "ambiguousquilt.com": {
-        "epoch": 1575072000.0,
-        "expiration_date": "30-nov-2019",
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "ambitiousagreement.com": {
