@@ -3057,7 +3057,7 @@
     "coinhive.com": {
         "epoch": 1575158400.0,
         "expiration_date": "01-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "cointraffic.io": {
         "epoch": 1700265600.0,
@@ -3450,8 +3450,8 @@
         "state": "future"
     },
     "dapper.net": {
-        "epoch": 1575158400.0,
-        "expiration_date": "01-dec-2019",
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
         "state": "future"
     },
     "dashbida.com": {
