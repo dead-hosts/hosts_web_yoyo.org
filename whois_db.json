@@ -8000,8 +8000,8 @@
         "state": "future"
     },
     "remox.com": {
-        "epoch": 1575158400.0,
-        "expiration_date": "01-dec-2019",
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
         "state": "future"
     },
     "resolutekey.com": {
@@ -8677,7 +8677,7 @@
     "slopeaota.com": {
         "epoch": 1575158400.0,
         "expiration_date": "01-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "smaato.com": {
         "epoch": 1591660800.0,
@@ -9477,7 +9477,7 @@
     "thruport.com": {
         "epoch": 1575158400.0,
         "expiration_date": "01-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "ticklesign.com": {
         "epoch": 1582675200.0,
