@@ -1,25 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/domains.list": {
-        "1575274122": {
-            "ad1.emediate.dk": "INACTIVE",
-            "ads.allvatar.com": "INACTIVE",
-            "ads.betanews.com": "INACTIVE",
-            "ads.creativematch.com": "INACTIVE",
-            "ads.forbes.com": "INACTIVE",
-            "ads.nationalgeographic.com": "INACTIVE",
-            "adserver.portalofevil.com": "INACTIVE",
-            "adsk2.co": "INACTIVE",
-            "banners.directnic.com": "INACTIVE",
-            "creatives.as4x.tmcs.net": "INACTIVE",
-            "dnads.directnic.com": "INACTIVE",
-            "oas.foxnews.com": "INACTIVE",
-            "openx.blindferret.com": "INACTIVE",
-            "pagerank-submitter.de": "INACTIVE",
-            "ranking-id.de": "INACTIVE",
-            "stats.directnic.com": "INACTIVE",
-            "tracking.discounts-promo.ga": "INACTIVE",
-            "www.money4exit.de": "INACTIVE"
-        },
         "1575369382": {
             "ad.xiaomi.com": "INACTIVE"
         },
@@ -40,6 +20,26 @@
         },
         "1575376698": {
             "pgl.example0101": "INVALID"
+        },
+        "1575378667": {
+            "ad1.emediate.dk": "INACTIVE",
+            "ads.allvatar.com": "INACTIVE",
+            "ads.betanews.com": "INACTIVE",
+            "ads.creativematch.com": "INACTIVE",
+            "ads.forbes.com": "INACTIVE",
+            "ads.nationalgeographic.com": "INACTIVE",
+            "adserver.portalofevil.com": "INACTIVE",
+            "adsk2.co": "INACTIVE",
+            "banners.directnic.com": "INACTIVE",
+            "creatives.as4x.tmcs.net": "INACTIVE",
+            "dnads.directnic.com": "INACTIVE",
+            "oas.foxnews.com": "INACTIVE",
+            "openx.blindferret.com": "INACTIVE",
+            "pagerank-submitter.de": "INACTIVE",
+            "ranking-id.de": "INACTIVE",
+            "stats.directnic.com": "INACTIVE",
+            "tracking.discounts-promo.ga": "INACTIVE",
+            "www.money4exit.de": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
