@@ -2935,8 +2935,8 @@
         "state": "future"
     },
     "clicktracks.com": {
-        "epoch": 1575331200.0,
-        "expiration_date": "03-dec-2019",
+        "epoch": 1638489600.0,
+        "expiration_date": "03-dec-2021",
         "state": "future"
     },
     "clicktrade.com": {
@@ -3055,9 +3055,9 @@
         "state": "future"
     },
     "coinhive.com": {
-        "epoch": 1575158400.0,
-        "expiration_date": "01-dec-2019",
-        "state": "past"
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "state": "future"
     },
     "cointraffic.io": {
         "epoch": 1700265600.0,
