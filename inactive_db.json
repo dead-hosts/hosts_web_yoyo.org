@@ -1,8 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/domains.list": {
-        "1575373907": {
-            "adsrv.eacdn.com": "INACTIVE"
-        },
         "1575375304": {
             "clickwith.bid": "INACTIVE"
         },
@@ -40,6 +37,9 @@
         },
         "1575530667": {
             "ads.recoletos.es": "INACTIVE"
+        },
+        "1575531476": {
+            "adsrv.eacdn.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
