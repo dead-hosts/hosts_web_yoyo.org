@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 04 Dec 2019 18:54:35 GMT
-# entries:        3245
+# entries:        3241
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -24,6 +24,7 @@
 0.0.0.0 247media.com
 0.0.0.0 24log.com
 0.0.0.0 24log.de
+0.0.0.0 24pm-affiliation.com
 0.0.0.0 2mdn.net
 0.0.0.0 2o7.net
 0.0.0.0 2znp09oa.com
@@ -802,7 +803,6 @@
 0.0.0.0 adsrvr.org
 0.0.0.0 adsrvus.com
 0.0.0.0 adsrvx.com
-0.0.0.0 adsstat.com
 0.0.0.0 adstacks.in
 0.0.0.0 adstage.io
 0.0.0.0 adstat.4u.pl
@@ -927,7 +927,6 @@
 0.0.0.0 afterview.ru
 0.0.0.0 agkn.com
 0.0.0.0 agreeablestew.com
-0.0.0.0 agreemand.com
 0.0.0.0 ah-ha.com
 0.0.0.0 ahalogy.com
 0.0.0.0 aheadday.com
@@ -1282,7 +1281,6 @@
 0.0.0.0 chickensstation.com
 0.0.0.0 chinsnakes.com
 0.0.0.0 chitika.net
-0.0.0.0 christingel.com
 0.0.0.0 cision.com
 0.0.0.0 cityads.telus.net
 0.0.0.0 cj.com
@@ -1673,7 +1671,6 @@
 0.0.0.0 floodprincipal.com
 0.0.0.0 flowgo.com
 0.0.0.0 flurry.com
-0.0.0.0 foamybox.com
 0.0.0.0 foo.cosmocode.de
 0.0.0.0 foresee.com
 0.0.0.0 forex-affiliate.net
@@ -2155,7 +2152,6 @@
 0.0.0.0 mintegral.com
 0.0.0.0 mixedreading.com
 0.0.0.0 mixpanel.com
-0.0.0.0 mixtraffic.com
 0.0.0.0 mjxads.internet.com
 0.0.0.0 mktoresp.com
 0.0.0.0 ml314.com
