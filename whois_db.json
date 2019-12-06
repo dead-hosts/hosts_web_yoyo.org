@@ -6492,7 +6492,7 @@
     "movad.net": {
         "epoch": 1575590400.0,
         "expiration_date": "06-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "mowfruit.com": {
         "epoch": 1582675200.0,
@@ -7532,7 +7532,7 @@
     "prmtracking.com": {
         "epoch": 1575590400.0,
         "expiration_date": "06-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "pro-advertising.com": {
         "epoch": 1601510400.0,
