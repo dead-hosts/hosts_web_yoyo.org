@@ -1,14 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/domains.list": {
-        "1575637945": {
-            "adsrv.eacdn.com": "INACTIVE"
-        },
-        "1575641116": {
-            "clickwith.bid": "INACTIVE"
-        },
-        "1575641119": {
-            "dsp.colpirio.com": "INACTIVE"
-        },
         "1575644020": {
             "mtrcs.samba.tv": "INACTIVE"
         },
@@ -42,6 +33,11 @@
         },
         "1575721501": {
             "ads.recoletos.es": "INACTIVE"
+        },
+        "1575729291": {
+            "adsrv.eacdn.com": "INACTIVE",
+            "clickwith.bid": "INACTIVE",
+            "dsp.colpirio.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
