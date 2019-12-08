@@ -19,9 +19,6 @@
             "tracking.discounts-promo.ga": "INACTIVE",
             "www.money4exit.de": "INACTIVE"
         },
-        "1575679007": {
-            "banners.babylon-x.com": "INACTIVE"
-        },
         "1575717429": {
             "ad.xiaomi.com": "INACTIVE"
         },
@@ -36,6 +33,9 @@
         "1575732872": {
             "mtrcs.samba.tv": "INACTIVE",
             "pgl.example0101": "INVALID"
+        },
+        "1575766576": {
+            "banners.babylon-x.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
