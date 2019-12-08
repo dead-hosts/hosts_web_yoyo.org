@@ -2985,8 +2985,8 @@
         "state": "future"
     },
     "clk1005.com": {
-        "epoch": 1575763200.0,
-        "expiration_date": "08-dec-2019",
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
         "state": "future"
     },
     "clk1011.com": {
@@ -4557,7 +4557,7 @@
     "freewebcounter.com": {
         "epoch": 1575763200.0,
         "expiration_date": "08-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "freewheel.com": {
         "epoch": 1605052800.0,
