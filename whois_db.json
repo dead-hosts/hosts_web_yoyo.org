@@ -2470,9 +2470,9 @@
         "state": "future"
     },
     "brightmountainmedia.com": {
-        "epoch": 1575676800.0,
-        "expiration_date": "07-dec-2019",
-        "state": "past"
+        "epoch": 1638835200.0,
+        "expiration_date": "07-dec-2021",
+        "state": "future"
     },
     "british-banners.com": {
         "epoch": 1597536000.0,
@@ -2990,13 +2990,13 @@
         "state": "future"
     },
     "clk1011.com": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "clk1015.com": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "clkrev.com": {
