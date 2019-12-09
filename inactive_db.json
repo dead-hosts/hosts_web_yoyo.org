@@ -1,8 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/domains.list": {
-        "1575732872": {
-            "pgl.example0101": "INVALID"
-        },
         "1575776562": {
             "banners.directnic.com": "INACTIVE",
             "creatives.as4x.tmcs.net": "INACTIVE"
@@ -41,6 +38,9 @@
         },
         "1575877549": {
             "mtrcs.samba.tv": "INACTIVE"
+        },
+        "1575878239": {
+            "pgl.example0101": "INVALID"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
