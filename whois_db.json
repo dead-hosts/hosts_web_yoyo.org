@@ -3610,8 +3610,8 @@
         "state": "future"
     },
     "dianomi.com": {
-        "epoch": 1575936000.0,
-        "expiration_date": "10-dec-2019",
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
         "state": "future"
     },
     "didtheyreadit.com": {
@@ -4555,9 +4555,9 @@
         "state": "future"
     },
     "freewebcounter.com": {
-        "epoch": 1575763200.0,
-        "expiration_date": "08-dec-2019",
-        "state": "past"
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
+        "state": "future"
     },
     "freewheel.com": {
         "epoch": 1605052800.0,
@@ -4950,9 +4950,9 @@
         "state": "future"
     },
     "hentaicounter.com": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
-        "state": "past"
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
+        "state": "future"
     },
     "herbalaffiliateprogram.com": {
         "epoch": 1582761600.0,
