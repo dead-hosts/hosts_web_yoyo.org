@@ -1,11 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/domains.list": {
-        "1575974812": {
-            "ad.xiaomi.com": "INACTIVE"
-        },
-        "1575974814": {
-            "ads.cricbuzz.com": "INACTIVE"
-        },
         "1575980835": {
             "adsrv.eacdn.com": "INACTIVE"
         },
@@ -39,6 +33,12 @@
             "stats.directnic.com": "INACTIVE",
             "tracking.discounts-promo.ga": "INACTIVE",
             "www.money4exit.de": "INACTIVE"
+        },
+        "1576134091": {
+            "ad.xiaomi.com": "INACTIVE"
+        },
+        "1576134094": {
+            "ads.cricbuzz.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {

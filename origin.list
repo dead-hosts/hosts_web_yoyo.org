@@ -2,7 +2,7 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 04 Dec 2019 18:54:35 GMT
+# last updated:   Wed, 11 Dec 2019 16:15:01 GMT
 # entries:        3241
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Wed, 15 Dec 1999 00:00:00
+# start date:    Fri, 17 Dec 1999 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -600,6 +600,7 @@
 0.0.0.0 ads.rediff.com
 0.0.0.0 ads.redlightcenter.com
 0.0.0.0 ads.resoom.de
+0.0.0.0 ads.revjet.com
 0.0.0.0 ads.satyamonline.com
 0.0.0.0 ads.saymedia.com
 0.0.0.0 ads.scifi.com
@@ -2582,7 +2583,6 @@
 0.0.0.0 revenue.net
 0.0.0.0 revenuedirect.com
 0.0.0.0 revenuehits.com
-0.0.0.0 revjet.com
 0.0.0.0 revlift.io
 0.0.0.0 revsci.net
 0.0.0.0 revstats.com
