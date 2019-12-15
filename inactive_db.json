@@ -6,12 +6,6 @@
         "1576134790": {
             "adserv.gamezone.de": "INACTIVE"
         },
-        "1576136909": {
-            "mtrcs.samba.tv": "INACTIVE"
-        },
-        "1576136912": {
-            "pgl.example0101": "INVALID"
-        },
         "1576138183": {
             "ad1.emediate.dk": "INACTIVE",
             "ads.allvatar.com": "INACTIVE",
@@ -31,9 +25,6 @@
             "tracking.discounts-promo.ga": "INACTIVE",
             "www.money4exit.de": "INACTIVE"
         },
-        "1576162824": {
-            "newnet.qsrch.com": "INACTIVE"
-        },
         "1576165595": {
             "record.mrwin.com": "INACTIVE"
         },
@@ -51,6 +42,12 @@
         },
         "1576430840": {
             "dsp.colpirio.com": "INACTIVE"
+        },
+        "1576432355": {
+            "mtrcs.samba.tv": "INACTIVE"
+        },
+        "1576432359": {
+            "pgl.example0101": "INVALID"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
