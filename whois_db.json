@@ -7840,8 +7840,8 @@
         "state": "future"
     },
     "rapidkittens.com": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "raresummer.com": {
@@ -7942,7 +7942,7 @@
     "redirectingat.com": {
         "epoch": 1576368000.0,
         "expiration_date": "15-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "redirectvoluum.com": {
         "epoch": 1722556800.0,
@@ -8065,8 +8065,8 @@
         "state": "future"
     },
     "revsci.net": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "revstats.com": {
@@ -8262,6 +8262,11 @@
     "s2d6.com": {
         "epoch": 1608595200.0,
         "expiration_date": "22-dec-2020",
+        "state": "future"
+    },
+    "sabio.us": {
+        "epoch": 1576713600.0,
+        "expiration_date": "19-dec-2019",
         "state": "future"
     },
     "sageanalyst.net": {
@@ -9145,8 +9150,8 @@
         "state": "future"
     },
     "sulkybutter.com": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "summerhamster.com": {
@@ -9250,8 +9255,8 @@
         "state": "future"
     },
     "talentedsteel.com": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "tamgrt.com": {
@@ -9310,8 +9315,8 @@
         "state": "future"
     },
     "tastefulsongs.com": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "tawdryson.com": {
@@ -9360,8 +9365,8 @@
         "state": "future"
     },
     "teenyvolcano.com": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "teethfan.com": {
@@ -9450,8 +9455,8 @@
         "state": "future"
     },
     "thinkablerice.com": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "thirdrespect.com": {
@@ -9465,8 +9470,8 @@
         "state": "future"
     },
     "threechurch.com": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "thrnt.com": {
@@ -9859,6 +9864,11 @@
         "expiration_date": "31-aug-2020",
         "state": "future"
     },
+    "trkn.us": {
+        "epoch": 1601424000.0,
+        "expiration_date": "30-sep-2020",
+        "state": "future"
+    },
     "trknths.com": {
         "epoch": 1584921600.0,
         "expiration_date": "23-mar-2020",
@@ -10045,8 +10055,8 @@
         "state": "future"
     },
     "uttermosthobbies.com": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "validclick.com": {
@@ -10275,8 +10285,8 @@
         "state": "future"
     },
     "waryfog.com": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "watchingthat.com": {
