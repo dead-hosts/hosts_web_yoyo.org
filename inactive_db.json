@@ -1,8 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/domains.list": {
-        "1576134091": {
-            "ad.xiaomi.com": "INACTIVE"
-        },
         "1576134094": {
             "ads.cricbuzz.com": "INACTIVE"
         },
@@ -54,6 +51,9 @@
         },
         "1576165595": {
             "record.mrwin.com": "INACTIVE"
+        },
+        "1576425555": {
+            "ad.xiaomi.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
