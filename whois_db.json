@@ -1110,8 +1110,8 @@
         "state": "future"
     },
     "adsfac.us": {
-        "epoch": "1566345600",
-        "expiration_date": "21-aug-2019",
+        "epoch": 1597968000.0,
+        "expiration_date": "21-aug-2020",
         "state": "future"
     },
     "adside.com": {
@@ -1720,7 +1720,7 @@
         "state": "future"
     },
     "amung.us": {
-        "epoch": "1647475200",
+        "epoch": 1647475200.0,
         "expiration_date": "17-mar-2022",
         "state": "future"
     },
@@ -1910,8 +1910,8 @@
         "state": "future"
     },
     "automaticflock.com": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "avenuea.com": {
@@ -2070,8 +2070,8 @@
         "state": "future"
     },
     "barbarousnerve.com": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "basebanner.com": {
@@ -2282,6 +2282,11 @@
     "bizzclick.com": {
         "epoch": 1592784000.0,
         "expiration_date": "22-jun-2020",
+        "state": "future"
+    },
+    "bkrtx.com": {
+        "epoch": 1583280000.0,
+        "expiration_date": "04-mar-2020",
         "state": "future"
     },
     "blast4traffic.com": {

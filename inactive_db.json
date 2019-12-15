@@ -6,12 +6,6 @@
         "1576134790": {
             "adserv.gamezone.de": "INACTIVE"
         },
-        "1576135497": {
-            "adsrv.eacdn.com": "INACTIVE"
-        },
-        "1576135501": {
-            "banners.babylon-x.com": "INACTIVE"
-        },
         "1576136205": {
             "clickwith.bid": "INACTIVE"
         },
@@ -54,6 +48,9 @@
         },
         "1576427443": {
             "ads.recoletos.es": "INACTIVE"
+        },
+        "1576428939": {
+            "adsrv.eacdn.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
