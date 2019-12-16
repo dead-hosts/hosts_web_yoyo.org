@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 15 Dec 2019 15:14:20 GMT
-# entries:        3239
+# last updated:   Mon, 16 Dec 2019 20:12:36 GMT
+# entries:        3241
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Mon, 20 Dec 1999 00:00:00
+# start date:    Tue, 21 Dec 1999 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -179,6 +179,7 @@
 0.0.0.0 ad0.bigmir.net
 0.0.0.0 ad01.mediacorpsingapore.com
 0.0.0.0 ad1.emule-project.org
+0.0.0.0 ad1.eventmanager.co.kr
 0.0.0.0 ad1.kde.cz
 0.0.0.0 ad1.pamedia.com.au
 0.0.0.0 ad2.iinfo.cz
@@ -302,6 +303,7 @@
 0.0.0.0 admantx.com
 0.0.0.0 admarketplace.net
 0.0.0.0 admarvel.com
+0.0.0.0 admaster.com.cn
 0.0.0.0 admax.nexage.com
 0.0.0.0 admedia.com
 0.0.0.0 admeld.com
