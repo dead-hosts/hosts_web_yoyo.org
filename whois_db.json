@@ -3377,7 +3377,7 @@
     "crowdgravity.com": {
         "epoch": 1576454400.0,
         "expiration_date": "16-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "crownclam.com": {
         "epoch": "1585958400",
@@ -3690,8 +3690,8 @@
         "state": "future"
     },
     "disqusads.com": {
-        "epoch": 1576454400.0,
-        "expiration_date": "16-dec-2019",
+        "epoch": 1639612800.0,
+        "expiration_date": "16-dec-2021",
         "state": "future"
     },
     "districtm.ca": {
@@ -4810,8 +4810,8 @@
         "state": "future"
     },
     "googletagservices.com": {
-        "epoch": 1576540800.0,
-        "expiration_date": "17-dec-2019",
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
         "state": "future"
     },
     "gorgeousground.com": {
