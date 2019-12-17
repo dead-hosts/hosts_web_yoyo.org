@@ -7945,9 +7945,9 @@
         "state": "future"
     },
     "redirectingat.com": {
-        "epoch": 1576368000.0,
-        "expiration_date": "15-dec-2019",
-        "state": "past"
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
+        "state": "future"
     },
     "redirectvoluum.com": {
         "epoch": 1722556800.0,
@@ -8035,8 +8035,8 @@
         "state": "future"
     },
     "retargeter.com": {
-        "epoch": 1576454400.0,
-        "expiration_date": "16-dec-2019",
+        "epoch": 1639612800.0,
+        "expiration_date": "16-dec-2021",
         "state": "future"
     },
     "revcontent.com": {
@@ -8082,7 +8082,7 @@
     "rhombusads.com": {
         "epoch": 1576540800.0,
         "expiration_date": "17-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "rhythmone.com": {
         "epoch": 1734566400.0,
@@ -9450,8 +9450,8 @@
         "state": "future"
     },
     "therapistla.com": {
-        "epoch": 1576454400.0,
-        "expiration_date": "16-dec-2019",
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
         "state": "future"
     },
     "therichkids.com": {
