@@ -1920,8 +1920,8 @@
         "state": "future"
     },
     "avenuea.com": {
-        "epoch": 1576540800.0,
-        "expiration_date": "17-dec-2019",
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
         "state": "future"
     },
     "avocet.io": {
@@ -2137,7 +2137,7 @@
     "beemray.com": {
         "epoch": 1576454400.0,
         "expiration_date": "16-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "begun.ru": {
         "epoch": 1582070400.0,
