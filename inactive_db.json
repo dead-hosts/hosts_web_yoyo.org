@@ -1,9 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/domains.list": {
-        "1576540815": {
-            "ads.recoletos.es": "INACTIVE",
-            "ads.yourfreedvds.com": "INACTIVE"
-        },
         "1576543618": {
             "adsrv.eacdn.com": "INACTIVE"
         },
@@ -45,6 +41,10 @@
         },
         "1576739083": {
             "ad.xiaomi.com": "INACTIVE"
+        },
+        "1576739975": {
+            "ads.forium.de": "INACTIVE",
+            "ads.recoletos.es": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
