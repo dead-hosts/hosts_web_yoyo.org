@@ -1,8 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/domains.list": {
-        "1576543618": {
-            "adsrv.eacdn.com": "INACTIVE"
-        },
         "1576546033": {
             "clickwith.bid": "INACTIVE"
         },
@@ -36,15 +33,15 @@
             "tracking.discounts-promo.ga": "INACTIVE",
             "www.money4exit.de": "INACTIVE"
         },
-        "1576584819": {
-            "banners.babylon-x.com": "INACTIVE"
-        },
         "1576739083": {
             "ad.xiaomi.com": "INACTIVE"
         },
         "1576739975": {
             "ads.forium.de": "INACTIVE",
             "ads.recoletos.es": "INACTIVE"
+        },
+        "1576740748": {
+            "adsrv.eacdn.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
