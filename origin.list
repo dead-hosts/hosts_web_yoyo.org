@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 16 Dec 2019 20:12:36 GMT
-# entries:        3241
+# last updated:   Fri, 20 Dec 2019 19:51:15 GMT
+# entries:        3240
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,11 +11,10 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Fri, 24 Dec 1999 00:00:00
+# start date:    Sat, 25 Dec 1999 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
-0.0.0.0 123found.com
 0.0.0.0 123freeavatars.com
 0.0.0.0 180hits.de
 0.0.0.0 180searchassistant.com
@@ -185,7 +184,6 @@
 0.0.0.0 ad2.iinfo.cz
 0.0.0.0 ad2.lupa.cz
 0.0.0.0 ad2.xrea.com
-0.0.0.0 ad2flash.com
 0.0.0.0 ad3.iinfo.cz
 0.0.0.0 ad3.pamedia.com.au
 0.0.0.0 ad3.xrea.com
@@ -467,7 +465,6 @@
 0.0.0.0 ads.fool.com
 0.0.0.0 ads.footymad.net
 0.0.0.0 ads.forbes.net
-0.0.0.0 ads.forium.de
 0.0.0.0 ads.fortunecity.com
 0.0.0.0 ads.fotosidan.se
 0.0.0.0 ads.foxnetworks.com
@@ -1003,6 +1000,7 @@
 0.0.0.0 archswimming.com
 0.0.0.0 ard.xxxblackbook.com
 0.0.0.0 are-ter.com
+0.0.0.0 area51-ts.com
 0.0.0.0 argyresthia.com
 0.0.0.0 aromamirror.com
 0.0.0.0 as.webmd.com
@@ -1256,7 +1254,6 @@
 0.0.0.0 casinotraffic.com
 0.0.0.0 casterist.info
 0.0.0.0 cbanners.virtuagirlhd.com
-0.0.0.0 cbsi.com
 0.0.0.0 cdn.bannerflow.com
 0.0.0.0 cdn.freefarcy.com
 0.0.0.0 cdn.heapanalytics.com
@@ -1932,6 +1929,7 @@
 0.0.0.0 jaizouji.com
 0.0.0.0 jcount.com
 0.0.0.0 jdoqocy.com
+0.0.0.0 jetlore.com
 0.0.0.0 jinkads.de
 0.0.0.0 joetec.net
 0.0.0.0 jquery-bin.com
@@ -1948,6 +1946,7 @@
 0.0.0.0 k.iinfo.cz
 0.0.0.0 kanoodle.com
 0.0.0.0 kargo.com
+0.0.0.0 karisimbi.net
 0.0.0.0 karonty.com
 0.0.0.0 keymedia.hu
 0.0.0.0 keywee.co
