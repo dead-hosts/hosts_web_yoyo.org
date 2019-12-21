@@ -8285,9 +8285,9 @@
         "state": "future"
     },
     "sabio.us": {
-        "epoch": 1576713600.0,
-        "expiration_date": "19-dec-2019",
-        "state": "past"
+        "epoch": 1639872000.0,
+        "expiration_date": "19-dec-2021",
+        "state": "future"
     },
     "sageanalyst.net": {
         "epoch": 1578009600.0,
@@ -8552,7 +8552,7 @@
     "sharethrough.com": {
         "epoch": 1576886400.0,
         "expiration_date": "21-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "sharppatch.com": {
         "epoch": 1585872000.0,
@@ -8650,9 +8650,9 @@
         "state": "future"
     },
     "sinoa.com": {
-        "epoch": 1576627200.0,
-        "expiration_date": "18-dec-2019",
-        "state": "past"
+        "epoch": 1608249600.0,
+        "expiration_date": "18-dec-2020",
+        "state": "future"
     },
     "sitedataprocessing.com": {
         "epoch": 1598486400.0,
@@ -9595,8 +9595,8 @@
         "state": "future"
     },
     "topforall.com": {
-        "epoch": 1576886400.0,
-        "expiration_date": "21-dec-2019",
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
         "state": "future"
     },
     "topgamesites.net": {
@@ -10275,8 +10275,8 @@
         "state": "future"
     },
     "vrtzcontextualads.com": {
-        "epoch": 1576886400.0,
-        "expiration_date": "21-dec-2019",
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
         "state": "future"
     },
     "vungle.com": {
