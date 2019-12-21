@@ -3,9 +3,6 @@
         "1576739975": {
             "ads.forium.de": "INACTIVE"
         },
-        "1576740748": {
-            "adsrv.eacdn.com": "INACTIVE"
-        },
         "1576741432": {
             "clickwith.bid": "INACTIVE"
         },
@@ -44,6 +41,9 @@
         },
         "1576885851": {
             "ads.recoletos.es": "INACTIVE"
+        },
+        "1576888521": {
+            "adsrv.eacdn.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
