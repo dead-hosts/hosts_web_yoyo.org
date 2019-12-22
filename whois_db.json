@@ -384,6 +384,11 @@
         "expiration_date": "01-mar-2020",
         "state": "future"
     },
+    "ad4max.com": {
+        "epoch": 1605657600.0,
+        "expiration_date": "18-nov-2020",
+        "state": "future"
+    },
     "adadvisor.net": {
         "epoch": 1649376000.0,
         "expiration_date": "08-apr-2022",
@@ -417,6 +422,11 @@
     "adblade.com": {
         "epoch": 1604016000.0,
         "expiration_date": "30-oct-2020",
+        "state": "future"
+    },
+    "adblade.org": {
+        "epoch": 1629072000.0,
+        "expiration_date": "16-aug-2021",
         "state": "future"
     },
     "adblockanalytics.com": {
@@ -480,9 +490,9 @@
         "state": "future"
     },
     "adcentriconline.com": {
-        "epoch": 1576800000.0,
-        "expiration_date": "20-dec-2019",
-        "state": "past"
+        "epoch": 1608422400.0,
+        "expiration_date": "20-dec-2020",
+        "state": "future"
     },
     "adcept.net": {
         "epoch": 1577664000.0,

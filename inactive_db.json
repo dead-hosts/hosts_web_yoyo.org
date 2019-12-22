@@ -1,8 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/domains.list": {
-        "1576882551": {
-            "ad.xiaomi.com": "INACTIVE"
-        },
         "1576885851": {
             "ads.recoletos.es": "INACTIVE"
         },
@@ -42,6 +39,9 @@
             "stats.directnic.com": "INACTIVE",
             "tracking.discounts-promo.ga": "INACTIVE",
             "www.money4exit.de": "INACTIVE"
+        },
+        "1576998345": {
+            "ad.xiaomi.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
