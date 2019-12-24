@@ -554,8 +554,8 @@
 0.0.0.0 ads.gplusmedia.com
 0.0.0.0 ads.gradfinder.com
 0.0.0.0 ads.grindinggears.com
-0.0.0.0 ads.gsm-exchange.com
 0.0.0.0 ads.gsmexchange.com
+0.0.0.0 ads.gsm-exchange.com
 0.0.0.0 ads.guardian.co.uk
 0.0.0.0 ads.guardianunlimited.co.uk
 0.0.0.0 ads.guru3d.com
@@ -733,8 +733,8 @@
 0.0.0.0 ads.tripod.lycos.nl
 0.0.0.0 ads-trk.vidible.tv
 0.0.0.0 ads.tso.dennisnet.co.uk
-0.0.0.0 ads-twitter.com
 0.0.0.0 ads.twitter.com
+0.0.0.0 ads-twitter.com
 0.0.0.0 ads.uknetguide.co.uk
 0.0.0.0 ads.ultimate-guitar.com
 0.0.0.0 ads.uncrate.com
@@ -1331,8 +1331,8 @@
 0.0.0.0 code-server.biz
 0.0.0.0 cognitiv.ai
 0.0.0.0 cognitiveadscience.com
-0.0.0.0 coin-hive.com
 0.0.0.0 coinhive.com
+0.0.0.0 coin-hive.com
 0.0.0.0 cointraffic.io
 0.0.0.0 collector-medium.lightstep.com
 0.0.0.0 colonize.com
@@ -1722,8 +1722,8 @@
 0.0.0.0 go-mpulse.net
 0.0.0.0 gondolagnome.com
 0.0.0.0 googleadservices.com
-0.0.0.0 googleanalytics.com
 0.0.0.0 google-analytics.com
+0.0.0.0 googleanalytics.com
 0.0.0.0 googlesyndication.com
 0.0.0.0 googletagmanager.com
 0.0.0.0 googletagservices.com
