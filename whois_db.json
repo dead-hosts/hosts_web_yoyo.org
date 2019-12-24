@@ -7272,7 +7272,7 @@
     "perfectaudience.com": {
         "epoch": 1577145600.0,
         "expiration_date": "24-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "perfiliate.com": {
         "epoch": 1584921600.0,
@@ -8030,8 +8030,8 @@
         "state": "future"
     },
     "relmaxtop.com": {
-        "epoch": 1577145600.0,
-        "expiration_date": "24-dec-2019",
+        "epoch": 1640304000.0,
+        "expiration_date": "24-dec-2021",
         "state": "future"
     },
     "remarketingpixel.com": {
