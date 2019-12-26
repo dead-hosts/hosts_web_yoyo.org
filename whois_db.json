@@ -8747,7 +8747,7 @@
     "smartclip.net": {
         "epoch": 1577318400.0,
         "expiration_date": "26-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "smartlook.com": {
         "epoch": 1606694400.0,
@@ -9812,7 +9812,7 @@
     "trafficz.net": {
         "epoch": 1577318400.0,
         "expiration_date": "26-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "traffiq.com": {
         "epoch": 1589587200.0,
@@ -10315,8 +10315,8 @@
         "state": "past"
     },
     "warlog.ru": {
-        "epoch": 1577232000.0,
-        "expiration_date": "25-dec-2019",
+        "epoch": 1608854400.0,
+        "expiration_date": "25-dec-2020",
         "state": "future"
     },
     "waryfog.com": {
@@ -10705,8 +10705,8 @@
         "state": "future"
     },
     "ymetrica1.com": {
-        "epoch": 1577318400.0,
-        "expiration_date": "26-dec-2019",
+        "epoch": 1608940800.0,
+        "expiration_date": "26-dec-2020",
         "state": "future"
     },
     "yoggrt.com": {
