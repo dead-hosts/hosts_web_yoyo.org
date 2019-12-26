@@ -1,11 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/domains.list": {
-        "1577174279": {
-            "dsp.colpirio.com": "INACTIVE"
-        },
-        "1577174281": {
-            "exchange.bg": "INACTIVE"
-        },
         "1577175061": {
             "mtrcs.samba.tv": "INACTIVE"
         },
@@ -47,6 +41,12 @@
         },
         "1577346029": {
             "clickwith.bid": "INACTIVE"
+        },
+        "1577347160": {
+            "dsp.colpirio.com": "INACTIVE"
+        },
+        "1577347161": {
+            "exchange.bg": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
