@@ -7270,9 +7270,9 @@
         "state": "future"
     },
     "perfectaudience.com": {
-        "epoch": 1577145600.0,
-        "expiration_date": "24-dec-2019",
-        "state": "past"
+        "epoch": 1608768000.0,
+        "expiration_date": "24-dec-2020",
+        "state": "future"
     },
     "perfiliate.com": {
         "epoch": 1584921600.0,
