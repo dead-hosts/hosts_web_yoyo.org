@@ -3,12 +3,6 @@
         "1577347161": {
             "exchange.bg": "INACTIVE"
         },
-        "1577347968": {
-            "mtrcs.samba.tv": "INACTIVE"
-        },
-        "1577347970": {
-            "pgl.example0101": "INVALID"
-        },
         "1577348731": {
             "ads.allvatar.com": "INACTIVE",
             "ads.forbes.com": "INACTIVE",
@@ -47,6 +41,12 @@
         },
         "1577519721": {
             "dsp.colpirio.com": "INACTIVE"
+        },
+        "1577520435": {
+            "mtrcs.samba.tv": "INACTIVE"
+        },
+        "1577520438": {
+            "pgl.example0101": "INVALID"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
