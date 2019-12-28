@@ -1,24 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/domains.list": {
-        "1577347161": {
-            "exchange.bg": "INACTIVE"
-        },
-        "1577348731": {
-            "ads.forbes.com": "INACTIVE",
-            "openx.blindferret.com": "INACTIVE",
-            "stats.directnic.com": "INACTIVE",
-            "tracking.discounts-promo.ga": "INACTIVE"
-        },
-        "1577348935": {
-            "ads.betanews.com": "INACTIVE",
-            "ads.creativematch.com": "INACTIVE",
-            "ads.cricbuzz.com": "INACTIVE",
-            "ads.forium.de": "INACTIVE",
-            "adserv.gamezone.de": "INACTIVE",
-            "banners.directnic.com": "INACTIVE",
-            "oas.foxnews.com": "INACTIVE",
-            "pagerank-submitter.de": "INACTIVE"
-        },
         "1577516907": {
             "ad.xiaomi.com": "INACTIVE"
         },
@@ -49,6 +30,23 @@
             "dnads.directnic.com": "INACTIVE",
             "ranking-id.de": "INACTIVE",
             "www.money4exit.de": "INACTIVE"
+        },
+        "1577521252": {
+            "ads.creativematch.com": "INACTIVE",
+            "ads.forium.de": "INACTIVE",
+            "adserv.gamezone.de": "INACTIVE",
+            "tracking.discounts-promo.ga": "INACTIVE"
+        },
+        "1577521253": {
+            "ads.betanews.com": "INACTIVE",
+            "ads.cricbuzz.com": "INACTIVE",
+            "ads.forbes.com": "INACTIVE",
+            "banners.directnic.com": "INACTIVE",
+            "exchange.bg": "INACTIVE",
+            "oas.foxnews.com": "INACTIVE",
+            "openx.blindferret.com": "INACTIVE",
+            "pagerank-submitter.de": "INACTIVE",
+            "stats.directnic.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
