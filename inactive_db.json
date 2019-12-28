@@ -1,11 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/domains.list": {
-        "1577345106": {
-            "ads.recoletos.es": "INACTIVE"
-        },
-        "1577345107": {
-            "adsrv.eacdn.com": "INACTIVE"
-        },
         "1577346029": {
             "clickwith.bid": "INACTIVE"
         },
@@ -47,6 +41,12 @@
         },
         "1577516907": {
             "ad.xiaomi.com": "INACTIVE"
+        },
+        "1577517747": {
+            "ads.recoletos.es": "INACTIVE"
+        },
+        "1577517748": {
+            "adsrv.eacdn.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
