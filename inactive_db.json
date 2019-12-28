@@ -1,8 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/domains.list": {
-        "1577344314": {
-            "ad.xiaomi.com": "INACTIVE"
-        },
         "1577345106": {
             "ads.recoletos.es": "INACTIVE"
         },
@@ -47,6 +44,9 @@
             "creatives.as4x.tmcs.net": "INACTIVE",
             "oas.foxnews.com": "INACTIVE",
             "pagerank-submitter.de": "INACTIVE"
+        },
+        "1577516907": {
+            "ad.xiaomi.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {

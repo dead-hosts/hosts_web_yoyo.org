@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Sun, 22 Dec 2019 08:50:52 GMT
-# entries:        3246
+# entries:        3243
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Fri, 31 Dec 1999 00:00:00
+# start date:    Sun, 02 Jan 2000 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -390,7 +390,6 @@
 0.0.0.0 ads.ask.com
 0.0.0.0 ads.aspalliance.com
 0.0.0.0 ads.avazu.net
-0.0.0.0 ads.batpmturner.com
 0.0.0.0 ads.belointeractive.com
 0.0.0.0 ads.berlinonline.de
 0.0.0.0 ads.betfair.com
@@ -1611,7 +1610,6 @@
 0.0.0.0 evyy.net
 0.0.0.0 ewebcounter.com
 0.0.0.0 exchange-it.com
-0.0.0.0 exchange.bg
 0.0.0.0 exchangead.com
 0.0.0.0 exchangeclicksonline.com
 0.0.0.0 exclusivebrass.com
@@ -1654,7 +1652,6 @@
 0.0.0.0 feebleshock.com
 0.0.0.0 feedbackresearch.com
 0.0.0.0 feedjit.com
-0.0.0.0 feynmanhopeful.eu
 0.0.0.0 ffxcam.fairfax.com.au
 0.0.0.0 fimserve.com
 0.0.0.0 findcommerce.com
