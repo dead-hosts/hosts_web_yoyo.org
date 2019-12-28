@@ -3270,9 +3270,9 @@
         "state": "future"
     },
     "cost2buy.net": {
-        "epoch": 1577318400.0,
-        "expiration_date": "26-dec-2019",
-        "state": "past"
+        "epoch": 1608940800.0,
+        "expiration_date": "26-dec-2020",
+        "state": "future"
     },
     "counted.com": {
         "epoch": 1586822400.0,
