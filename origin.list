@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 22 Dec 2019 08:50:52 GMT
-# entries:        3243
+# last updated:   Sun, 29 Dec 2019 08:42:37 GMT
+# entries:        3246
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sun, 02 Jan 2000 00:00:00
+# start date:    Tue, 04 Jan 2000 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -106,6 +106,7 @@
 0.0.0.0 ad.amgdgt.com
 0.0.0.0 ad.anuntis.com
 0.0.0.0 ad.auditude.com
+0.0.0.0 ad.bitmedia.io
 0.0.0.0 ad.bizo.com
 0.0.0.0 ad.bnmla.com
 0.0.0.0 ad.bondage.com
@@ -809,6 +810,7 @@
 0.0.0.0 adstest.weather.com
 0.0.0.0 adsupply.com
 0.0.0.0 adswizz.com
+0.0.0.0 adsxyz.com
 0.0.0.0 adsymptotic.com
 0.0.0.0 adsynergy.com
 0.0.0.0 adsys.townnews.com
@@ -1759,6 +1761,7 @@
 0.0.0.0 gtop100.com
 0.0.0.0 guardedschool.com
 0.0.0.0 gunggo.com
+0.0.0.0 h-bid.com
 0.0.0.0 h78xb.pw
 0.0.0.0 hammerhearing.com
 0.0.0.0 handyfield.com
