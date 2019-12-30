@@ -4924,6 +4924,11 @@
         "expiration_date": "20-apr-2021",
         "state": "future"
     },
+    "h-bid.com": {
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
+        "state": "future"
+    },
     "h78xb.pw": {
         "epoch": 1586822400.0,
         "expiration_date": "14-apr-2020",
