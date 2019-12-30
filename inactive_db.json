@@ -1,11 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/domains.list": {
-        "1577520435": {
-            "mtrcs.samba.tv": "INACTIVE"
-        },
-        "1577520438": {
-            "pgl.example0101": "INVALID"
-        },
         "1577521121": {
             "ad1.emediate.dk": "INACTIVE",
             "ads.allvatar.com": "INACTIVE",
@@ -51,6 +45,12 @@
         },
         "1577691811": {
             "dsp.colpirio.com": "INACTIVE"
+        },
+        "1577692502": {
+            "mtrcs.samba.tv": "INACTIVE"
+        },
+        "1577692505": {
+            "pgl.example0101": "INVALID"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
