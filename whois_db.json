@@ -1249,6 +1249,11 @@
         "expiration_date": "19-nov-2027",
         "state": "future"
     },
+    "adsxyz.com": {
+        "epoch": 1594598400.0,
+        "expiration_date": "13-jul-2020",
+        "state": "future"
+    },
     "adsymptotic.com": {
         "epoch": 1631145600.0,
         "expiration_date": "09-sep-2021",
