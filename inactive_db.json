@@ -1,9 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/domains.list": {
-        "1577862601": {
-            "a.aproductmsg.com": "INACTIVE",
-            "ad.xiaomi.com": "INACTIVE"
-        },
         "1577863290": {
             "ads.recoletos.es": "INACTIVE"
         },
@@ -48,6 +44,15 @@
             "stats.directnic.com": "INACTIVE",
             "tracking.discounts-promo.ga": "INACTIVE",
             "www.money4exit.de": "INACTIVE"
+        },
+        "1578035435": {
+            "a.aproductmsg.com": "INACTIVE"
+        },
+        "1578035436": {
+            "ad.xiaomi.com": "INACTIVE"
+        },
+        "1578035438": {
+            "ads.canalblog.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
