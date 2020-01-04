@@ -9,9 +9,6 @@
         "1578036814": {
             "bans.adserver.co.il": "INACTIVE"
         },
-        "1578037505": {
-            "dsp.colpirio.com": "INACTIVE"
-        },
         "1578038196": {
             "mtrcs.samba.tv": "INACTIVE"
         },
@@ -57,6 +54,9 @@
         },
         "1578136070": {
             "clickwith.bid": "INACTIVE"
+        },
+        "1578137204": {
+            "dsp.colpirio.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
