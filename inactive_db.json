@@ -4,11 +4,7 @@
             "a.aproductmsg.com": "INACTIVE"
         },
         "1578036126": {
-            "ads.recoletos.es": "INACTIVE",
             "adserver.dca13.com": "INACTIVE"
-        },
-        "1578036127": {
-            "adsrv.eacdn.com": "INACTIVE"
         },
         "1578036814": {
             "banners.babylon-x.com": "INACTIVE",
@@ -56,6 +52,12 @@
         },
         "1578133375": {
             "ads.canalblog.com": "INACTIVE"
+        },
+        "1578134754": {
+            "ads.recoletos.es": "INACTIVE"
+        },
+        "1578134755": {
+            "adsrv.eacdn.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {

@@ -1154,6 +1154,11 @@
         "expiration_date": "16-may-2020",
         "state": "future"
     },
+    "adskpak.com": {
+        "epoch": 1604707200.0,
+        "expiration_date": "07-nov-2020",
+        "state": "future"
+    },
     "adsmarket.com": {
         "epoch": 1600473600.0,
         "expiration_date": "19-sep-2020",
