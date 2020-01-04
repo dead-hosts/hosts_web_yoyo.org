@@ -9340,9 +9340,9 @@
         "state": "future"
     },
     "tapinfluence.com": {
-        "epoch": 1577923200.0,
-        "expiration_date": "02-jan-2020",
-        "state": "past"
+        "epoch": 1609545600.0,
+        "expiration_date": "02-jan-2021",
+        "state": "future"
     },
     "tapjoy.com": {
         "epoch": 1672617600.0,
@@ -10607,7 +10607,7 @@
     "xclicks.net": {
         "epoch": 1578096000.0,
         "expiration_date": "04-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "xertive.com": {
         "epoch": 1587081600.0,

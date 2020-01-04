@@ -1,38 +1,18 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/domains.list": {
-        "1578035435": {
-            "a.aproductmsg.com": "INACTIVE"
-        },
         "1578036126": {
             "adserver.dca13.com": "INACTIVE"
-        },
-        "1578036814": {
-            "bans.adserver.co.il": "INACTIVE"
-        },
-        "1578038197": {
-            "nugg.ad": "INACTIVE"
         },
         "1578039154": {
             "ad1.emediate.dk": "INACTIVE",
             "ads.allvatar.com": "INACTIVE",
-            "ads.betanews.com": "INACTIVE",
             "ads.creativematch.com": "INACTIVE",
-            "ads.cricbuzz.com": "INACTIVE",
-            "ads.forbes.com": "INACTIVE",
-            "ads.forium.de": "INACTIVE",
-            "ads.nationalgeographic.com": "INACTIVE",
             "adserv.gamezone.de": "INACTIVE",
-            "adserver.portalofevil.com": "INACTIVE",
             "banners.directnic.com": "INACTIVE",
-            "creatives.as4x.tmcs.net": "INACTIVE",
-            "dnads.directnic.com": "INACTIVE",
             "exchange.bg": "INACTIVE",
             "oas.foxnews.com": "INACTIVE",
-            "openx.blindferret.com": "INACTIVE",
             "pagerank-submitter.de": "INACTIVE",
-            "ranking-id.de": "INACTIVE",
-            "stats.directnic.com": "INACTIVE",
-            "tracking.discounts-promo.ga": "INACTIVE"
+            "stats.directnic.com": "INACTIVE"
         },
         "1578133373": {
             "ad.xiaomi.com": "INACTIVE"
@@ -57,6 +37,22 @@
         },
         "1578138287": {
             "pgl.example0101": "INVALID"
+        },
+        "1578139217": {
+            "a.aproductmsg.com": "INACTIVE",
+            "ads.betanews.com": "INACTIVE",
+            "ads.cricbuzz.com": "INACTIVE",
+            "ads.forbes.com": "INACTIVE",
+            "ads.forium.de": "INACTIVE",
+            "ads.nationalgeographic.com": "INACTIVE",
+            "adserver.portalofevil.com": "INACTIVE",
+            "bans.adserver.co.il": "INACTIVE",
+            "creatives.as4x.tmcs.net": "INACTIVE",
+            "dnads.directnic.com": "INACTIVE",
+            "nugg.ad": "INACTIVE",
+            "openx.blindferret.com": "INACTIVE",
+            "ranking-id.de": "INACTIVE",
+            "tracking.discounts-promo.ga": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
