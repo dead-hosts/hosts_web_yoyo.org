@@ -1,11 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/domains.list": {
-        "1578133373": {
-            "ad.xiaomi.com": "INACTIVE"
-        },
-        "1578133375": {
-            "ads.canalblog.com": "INACTIVE"
-        },
         "1578134754": {
             "ads.recoletos.es": "INACTIVE"
         },
@@ -51,6 +45,12 @@
             "oas.foxnews.com": "INACTIVE",
             "pagerank-submitter.de": "INACTIVE",
             "stats.directnic.com": "INACTIVE"
+        },
+        "1578294729": {
+            "ad.xiaomi.com": "INACTIVE"
+        },
+        "1578294731": {
+            "ads.canalblog.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
