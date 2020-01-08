@@ -1342,7 +1342,7 @@
     "adtriplex.com": {
         "epoch": 1578441600.0,
         "expiration_date": "08-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "adultadvertising.com": {
         "epoch": 1597017600.0,
@@ -1495,8 +1495,8 @@
         "state": "future"
     },
     "adxpansion.com": {
-        "epoch": 1578355200.0,
-        "expiration_date": "07-jan-2020",
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "adxpose.com": {
@@ -2385,8 +2385,8 @@
         "state": "future"
     },
     "bluelithium.com": {
-        "epoch": 1578355200.0,
-        "expiration_date": "07-jan-2020",
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "bluewhaleweb.com": {
@@ -2477,7 +2477,7 @@
     "brassrule.com": {
         "epoch": 1578441600.0,
         "expiration_date": "08-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "brealtime.com": {
         "epoch": 1587081600.0,
@@ -2732,7 +2732,7 @@
     "cetrk.com": {
         "epoch": 1578441600.0,
         "expiration_date": "08-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "chairscrack.com": {
         "epoch": 1603584000.0,
@@ -3172,7 +3172,7 @@
     "concernrain.com": {
         "epoch": 1578441600.0,
         "expiration_date": "08-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "confirmed-profits.com": {
         "epoch": 1590796800,
