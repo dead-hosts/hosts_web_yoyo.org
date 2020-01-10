@@ -1340,9 +1340,9 @@
         "state": "future"
     },
     "adtriplex.com": {
-        "epoch": 1578441600.0,
-        "expiration_date": "08-jan-2020",
-        "state": "past"
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
+        "state": "future"
     },
     "adultadvertising.com": {
         "epoch": 1597017600.0,
@@ -1745,8 +1745,8 @@
         "state": "future"
     },
     "amplitude.com": {
-        "epoch": 1578614400.0,
-        "expiration_date": "10-jan-2020",
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
         "state": "future"
     },
     "amung.us": {
@@ -2475,9 +2475,9 @@
         "state": "future"
     },
     "brassrule.com": {
-        "epoch": 1578441600.0,
-        "expiration_date": "08-jan-2020",
-        "state": "past"
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
+        "state": "future"
     },
     "brealtime.com": {
         "epoch": 1587081600.0,
@@ -2730,9 +2730,9 @@
         "state": "future"
     },
     "cetrk.com": {
-        "epoch": 1578441600.0,
-        "expiration_date": "08-jan-2020",
-        "state": "past"
+        "epoch": 1641600000.0,
+        "expiration_date": "08-jan-2022",
+        "state": "future"
     },
     "chairscrack.com": {
         "epoch": 1603584000.0,
