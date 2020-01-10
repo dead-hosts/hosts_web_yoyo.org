@@ -1,14 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/domains.list": {
-        "1578470339": {
-            "mtrcs.samba.tv": "INACTIVE"
-        },
-        "1578470342": {
-            "pgl.example0101": "INVALID"
-        },
-        "1578470344": {
-            "record.mrwin.com": "INACTIVE"
-        },
         "1578470964": {
             "topbarh.box.sk": "INACTIVE"
         },
@@ -57,6 +48,18 @@
         },
         "1578642476": {
             "dsp.colpirio.com": "INACTIVE"
+        },
+        "1578643170": {
+            "mtrcs.samba.tv": "INACTIVE"
+        },
+        "1578643171": {
+            "newnet.qsrch.com": "INACTIVE"
+        },
+        "1578643173": {
+            "pgl.example0101": "INVALID"
+        },
+        "1578643175": {
+            "record.mrwin.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
