@@ -7090,8 +7090,8 @@
         "state": "future"
     },
     "optimizely.com": {
-        "epoch": 1578700800.0,
-        "expiration_date": "11-jan-2020",
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
         "state": "future"
     },
     "optimost.com": {
@@ -7987,6 +7987,11 @@
     "receptivereaction.com": {
         "epoch": 1597622400.0,
         "expiration_date": "17-aug-2020",
+        "state": "future"
+    },
+    "recoco.it": {
+        "epoch": 1599955200.0,
+        "expiration_date": "13-sep-2020",
         "state": "future"
     },
     "redirectingat.com": {
