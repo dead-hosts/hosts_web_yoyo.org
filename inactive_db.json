@@ -1,15 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/domains.list": {
-        "1578644081": {
-            "a.aproductmsg.com": "INACTIVE",
-            "ads.allvatar.com": "INACTIVE",
-            "ads.creativematch.com": "INACTIVE",
-            "ads.forium.de": "INACTIVE",
-            "bans.adserver.co.il": "INACTIVE",
-            "dnads.directnic.com": "INACTIVE",
-            "openx.blindferret.com": "INACTIVE",
-            "pagerank-submitter.de": "INACTIVE"
-        },
         "1578739125": {
             "ad.xiaomi.com": "INACTIVE"
         },
@@ -54,6 +44,16 @@
             "stats.directnic.com": "INACTIVE",
             "topbarh.box.sk": "INACTIVE",
             "tracking.discounts-promo.ga": "INACTIVE"
+        },
+        "1578751092": {
+            "a.aproductmsg.com": "INACTIVE",
+            "ads.allvatar.com": "INACTIVE",
+            "ads.creativematch.com": "INACTIVE",
+            "ads.forium.de": "INACTIVE",
+            "bans.adserver.co.il": "INACTIVE",
+            "dnads.directnic.com": "INACTIVE",
+            "openx.blindferret.com": "INACTIVE",
+            "pagerank-submitter.de": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
