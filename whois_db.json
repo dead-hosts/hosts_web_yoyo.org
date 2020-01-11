@@ -515,9 +515,9 @@
         "state": "future"
     },
     "adconion.com": {
-        "epoch": 1578528000.0,
-        "expiration_date": "09-jan-2020",
-        "state": "past"
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
+        "state": "future"
     },
     "adcontrolsolutions.net": {
         "epoch": 1593129600.0,
@@ -705,9 +705,9 @@
         "state": "future"
     },
     "adk2.com": {
-        "epoch": 1578614400.0,
-        "expiration_date": "10-jan-2020",
-        "state": "past"
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
+        "state": "future"
     },
     "adland.ru": {
         "epoch": 1590019200.0,
