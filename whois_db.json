@@ -9747,7 +9747,7 @@
     "trackmysales.com": {
         "epoch": 1578873600.0,
         "expiration_date": "13-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "trackuhub.com": {
         "epoch": 1627689600.0,
@@ -10180,8 +10180,8 @@
         "state": "future"
     },
     "vericlick.com": {
-        "epoch": 1578873600.0,
-        "expiration_date": "13-jan-2020",
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
         "state": "future"
     },
     "vertadnet.com": {
@@ -10415,8 +10415,8 @@
         "state": "future"
     },
     "websponsors.com": {
-        "epoch": 1578873600.0,
-        "expiration_date": "13-jan-2020",
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
         "state": "future"
     },
     "webstat.com": {

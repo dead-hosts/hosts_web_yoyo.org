@@ -1,9 +1,7 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/domains.list": {
         "1578750013": {
-            "ad1.emediate.dk": "INACTIVE",
             "ads.betanews.com": "INACTIVE",
-            "ads.cricbuzz.com": "INACTIVE",
             "ads.forbes.com": "INACTIVE",
             "ads.nationalgeographic.com": "INACTIVE",
             "adserv.gamezone.de": "INACTIVE",
@@ -12,22 +10,14 @@
             "banners.directnic.com": "INACTIVE",
             "creatives.as4x.tmcs.net": "INACTIVE",
             "exchange.bg": "INACTIVE",
-            "nugg.ad": "INACTIVE",
-            "oas.foxnews.com": "INACTIVE",
-            "ranking-id.de": "INACTIVE",
             "record.mrwin.com": "INACTIVE",
-            "stats.directnic.com": "INACTIVE",
-            "topbarh.box.sk": "INACTIVE",
-            "tracking.discounts-promo.ga": "INACTIVE"
+            "topbarh.box.sk": "INACTIVE"
         },
         "1578751092": {
-            "a.aproductmsg.com": "INACTIVE",
-            "ads.allvatar.com": "INACTIVE",
             "ads.creativematch.com": "INACTIVE",
             "ads.forium.de": "INACTIVE",
             "bans.adserver.co.il": "INACTIVE",
             "dnads.directnic.com": "INACTIVE",
-            "openx.blindferret.com": "INACTIVE",
             "pagerank-submitter.de": "INACTIVE"
         },
         "1578899755": {
@@ -54,6 +44,18 @@
         },
         "1578902814": {
             "pgl.example0101": "INVALID"
+        },
+        "1578903535": {
+            "a.aproductmsg.com": "INACTIVE",
+            "ad1.emediate.dk": "INACTIVE",
+            "ads.allvatar.com": "INACTIVE",
+            "ads.cricbuzz.com": "INACTIVE",
+            "nugg.ad": "INACTIVE",
+            "oas.foxnews.com": "INACTIVE",
+            "openx.blindferret.com": "INACTIVE",
+            "ranking-id.de": "INACTIVE",
+            "stats.directnic.com": "INACTIVE",
+            "tracking.discounts-promo.ga": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
