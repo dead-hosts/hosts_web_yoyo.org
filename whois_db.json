@@ -1397,7 +1397,7 @@
     "advertiserurl.com": {
         "epoch": 1578787200.0,
         "expiration_date": "12-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "advertisespace.com": {
         "epoch": 1601510400.0,
@@ -2580,8 +2580,8 @@
         "state": "future"
     },
     "c1exchange.com": {
-        "epoch": 1578873600.0,
-        "expiration_date": "13-jan-2020",
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
         "state": "future"
     },
     "calculatingcircle.com": {

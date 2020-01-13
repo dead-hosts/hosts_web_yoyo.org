@@ -1,8 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/domains.list": {
-        "1578744396": {
-            "clickwith.bid": "INACTIVE"
-        },
         "1578746408": {
             "dsp.colpirio.com": "INACTIVE"
         },
@@ -51,6 +48,12 @@
         },
         "1578900748": {
             "adsrv.eacdn.com": "INACTIVE"
+        },
+        "1578901433": {
+            "adworx.be": "INACTIVE"
+        },
+        "1578901439": {
+            "clickwith.bid": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
