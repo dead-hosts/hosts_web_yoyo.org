@@ -6595,9 +6595,9 @@
         "state": "future"
     },
     "myaffiliateprogram.com": {
-        "epoch": 1578873600.0,
-        "expiration_date": "13-jan-2020",
-        "state": "past"
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
+        "state": "future"
     },
     "mybestmv.com": {
         "epoch": 1583366400.0,
@@ -7167,6 +7167,11 @@
     "oxcash.com": {
         "epoch": 1589760000.0,
         "expiration_date": "18-may-2020",
+        "state": "future"
+    },
+    "p-n.io": {
+        "epoch": 1584921600.0,
+        "expiration_date": "23-mar-2020",
         "state": "future"
     },
     "p2r14.com": {
