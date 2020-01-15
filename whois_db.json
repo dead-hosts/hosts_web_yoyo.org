@@ -9092,7 +9092,7 @@
     "statistik-gallup.net": {
         "epoch": 1578960000.0,
         "expiration_date": "14-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "stats4all.com": {
         "epoch": 1595980800.0,
@@ -9760,9 +9760,9 @@
         "state": "future"
     },
     "trackmysales.com": {
-        "epoch": 1578873600.0,
-        "expiration_date": "13-jan-2020",
-        "state": "past"
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
+        "state": "future"
     },
     "trackuhub.com": {
         "epoch": 1627689600.0,
