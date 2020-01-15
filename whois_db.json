@@ -3570,9 +3570,9 @@
         "state": "future"
     },
     "deepintent.com": {
-        "epoch": 1578873600.0,
-        "expiration_date": "13-jan-2020",
-        "state": "past"
+        "epoch": 1642032000.0,
+        "expiration_date": "13-jan-2022",
+        "state": "future"
     },
     "defectivesun.com": {
         "epoch": 1597622400.0,
@@ -4115,8 +4115,8 @@
         "state": "future"
     },
     "estat.com": {
-        "epoch": 1578960000.0,
-        "expiration_date": "14-jan-2020",
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
         "state": "future"
     },
     "etahub.com": {
@@ -4125,8 +4125,8 @@
         "state": "future"
     },
     "etargetnet.com": {
-        "epoch": 1578960000.0,
-        "expiration_date": "14-jan-2020",
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
         "state": "future"
     },
     "eu-adcenter.net": {
@@ -5167,7 +5167,7 @@
     "htmlhubing.xyz": {
         "epoch": 1579046400.0,
         "expiration_date": "15-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "httpool.com": {
         "epoch": 1711670400.0,
@@ -5262,6 +5262,11 @@
     "icptrack.com": {
         "epoch": 1718668800.0,
         "expiration_date": "18-jun-2024",
+        "state": "future"
+    },
+    "id5-sync.com": {
+        "epoch": 1642982400.0,
+        "expiration_date": "24-jan-2022",
         "state": "future"
     },
     "identads.com": {
@@ -5422,7 +5427,7 @@
     "infinite-ads.com": {
         "epoch": 1578960000.0,
         "expiration_date": "14-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "infinityads.com": {
         "epoch": 1599264000.0,
@@ -5477,6 +5482,11 @@
     "insightexpressai.com": {
         "epoch": 1610236800.0,
         "expiration_date": "10-jan-2021",
+        "state": "future"
+    },
+    "inskinad.com": {
+        "epoch": 1603411200.0,
+        "expiration_date": "23-oct-2020",
         "state": "future"
     },
     "inspectlet.com": {
