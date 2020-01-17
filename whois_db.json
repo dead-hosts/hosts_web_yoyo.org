@@ -3365,8 +3365,8 @@
         "state": "future"
     },
     "crazypopups.com": {
-        "epoch": 1579132800.0,
-        "expiration_date": "16-jan-2020",
+        "epoch": 1610755200.0,
+        "expiration_date": "16-jan-2021",
         "state": "future"
     },
     "creafi-online-media.com": {
@@ -3780,8 +3780,8 @@
         "state": "future"
     },
     "doubleclick.net": {
-        "epoch": 1579219200.0,
-        "expiration_date": "17-jan-2020",
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
         "state": "future"
     },
     "doublepimp.com": {
@@ -4425,8 +4425,8 @@
         "state": "future"
     },
     "findyourcasino.com": {
-        "epoch": 1579219200.0,
-        "expiration_date": "17-jan-2020",
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
         "state": "future"
     },
     "fineclicks.com": {
@@ -4727,7 +4727,7 @@
     "gemlix.com": {
         "epoch": 1579219200.0,
         "expiration_date": "17-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "georiot.com": {
         "epoch": 1612396800.0,
@@ -5165,9 +5165,9 @@
         "state": "future"
     },
     "htmlhubing.xyz": {
-        "epoch": 1579046400.0,
-        "expiration_date": "15-jan-2020",
-        "state": "past"
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
+        "state": "future"
     },
     "httpool.com": {
         "epoch": 1711670400.0,
@@ -5585,8 +5585,8 @@
         "state": "future"
     },
     "ipredictive.com": {
-        "epoch": 1579219200.0,
-        "expiration_date": "17-jan-2020",
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
         "state": "future"
     },
     "ipro.com": {
