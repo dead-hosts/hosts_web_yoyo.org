@@ -1,11 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/domains.list": {
-        "1579042451": {
-            "ad.xiaomi.com": "INACTIVE"
-        },
-        "1579042454": {
-            "ads.canalblog.com": "INACTIVE"
-        },
         "1579046733": {
             "ads.nwsource.com": "INACTIVE",
             "ads.recoletos.es": "INACTIVE"
@@ -58,6 +52,12 @@
         },
         "1579089574": {
             "banners.babylon-x.com": "INACTIVE"
+        },
+        "1579245447": {
+            "ad.xiaomi.com": "INACTIVE"
+        },
+        "1579245450": {
+            "ads.canalblog.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
