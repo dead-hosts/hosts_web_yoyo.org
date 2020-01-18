@@ -6987,7 +6987,7 @@
     "olivebrandresponse.com": {
         "epoch": 1579305600.0,
         "expiration_date": "18-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "omnijay.com": {
         "epoch": 1626652800.0,
@@ -8662,6 +8662,11 @@
     "sillyscrew.com": {
         "epoch": 1597622400.0,
         "expiration_date": "17-aug-2020",
+        "state": "future"
+    },
+    "silvalliant.info": {
+        "epoch": 1602460800.0,
+        "expiration_date": "12-oct-2020",
         "state": "future"
     },
     "silvermob.com": {
