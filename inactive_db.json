@@ -9,9 +9,6 @@
         "1579246826": {
             "banners.sys-con.com": "INACTIVE"
         },
-        "1579247514": {
-            "dsp.colpirio.com": "INACTIVE"
-        },
         "1579248207": {
             "mtrcs.samba.tv": "INACTIVE"
         },
@@ -60,6 +57,9 @@
         },
         "1579395297": {
             "clickwith.bid": "INACTIVE"
+        },
+        "1579398060": {
+            "dsp.colpirio.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
