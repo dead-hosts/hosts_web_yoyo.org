@@ -1,11 +1,7 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/domains.list": {
         "1579246139": {
-            "ads.nwsource.com": "INACTIVE",
-            "ads.recoletos.es": "INACTIVE"
-        },
-        "1579246823": {
-            "adsrv.eacdn.com": "INACTIVE"
+            "ads.nwsource.com": "INACTIVE"
         },
         "1579246824": {
             "adworx.be": "INACTIVE"
@@ -59,6 +55,12 @@
         },
         "1579388387": {
             "ads.canalblog.com": "INACTIVE"
+        },
+        "1579392172": {
+            "ads.recoletos.es": "INACTIVE"
+        },
+        "1579392173": {
+            "adsrv.eacdn.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
