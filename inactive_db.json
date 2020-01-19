@@ -1,42 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/domains.list": {
-        "1579246139": {
-            "ads.nwsource.com": "INACTIVE"
-        },
-        "1579246824": {
-            "adworx.be": "INACTIVE"
-        },
-        "1579246826": {
-            "banners.sys-con.com": "INACTIVE"
-        },
-        "1579249243": {
-            "a.aproductmsg.com": "INACTIVE",
-            "ad1.emediate.dk": "INACTIVE",
-            "ads.allvatar.com": "INACTIVE",
-            "ads.betanews.com": "INACTIVE",
-            "ads.creativematch.com": "INACTIVE",
-            "ads.cricbuzz.com": "INACTIVE",
-            "ads.forbes.com": "INACTIVE",
-            "ads.forium.de": "INACTIVE",
-            "ads.nationalgeographic.com": "INACTIVE",
-            "adserv.gamezone.de": "INACTIVE",
-            "adserver.dca13.com": "INACTIVE",
-            "adserver.portalofevil.com": "INACTIVE",
-            "banners.directnic.com": "INACTIVE",
-            "bans.adserver.co.il": "INACTIVE",
-            "creatives.as4x.tmcs.net": "INACTIVE",
-            "dnads.directnic.com": "INACTIVE",
-            "exchange.bg": "INACTIVE",
-            "nugg.ad": "INACTIVE",
-            "oas.foxnews.com": "INACTIVE",
-            "openx.blindferret.com": "INACTIVE",
-            "pagerank-submitter.de": "INACTIVE",
-            "ranking-id.de": "INACTIVE",
-            "record.mrwin.com": "INACTIVE",
-            "stats.directnic.com": "INACTIVE",
-            "topbarh.box.sk": "INACTIVE",
-            "tracking.discounts-promo.ga": "INACTIVE"
-        },
         "1579388385": {
             "ad.xiaomi.com": "INACTIVE"
         },
@@ -60,6 +23,37 @@
         },
         "1579400233": {
             "pgl.example0101": "INVALID"
+        },
+        "1579403790": {
+            "a.aproductmsg.com": "INACTIVE",
+            "ad1.emediate.dk": "INACTIVE",
+            "ads.allvatar.com": "INACTIVE",
+            "ads.betanews.com": "INACTIVE",
+            "ads.creativematch.com": "INACTIVE",
+            "ads.cricbuzz.com": "INACTIVE",
+            "ads.forbes.com": "INACTIVE",
+            "ads.forium.de": "INACTIVE",
+            "ads.nationalgeographic.com": "INACTIVE",
+            "ads.nwsource.com": "INACTIVE",
+            "adserv.gamezone.de": "INACTIVE",
+            "adserver.dca13.com": "INACTIVE",
+            "adserver.portalofevil.com": "INACTIVE",
+            "adworx.be": "INACTIVE",
+            "banners.directnic.com": "INACTIVE",
+            "banners.sys-con.com": "INACTIVE",
+            "bans.adserver.co.il": "INACTIVE",
+            "creatives.as4x.tmcs.net": "INACTIVE",
+            "dnads.directnic.com": "INACTIVE",
+            "exchange.bg": "INACTIVE",
+            "nugg.ad": "INACTIVE",
+            "oas.foxnews.com": "INACTIVE",
+            "openx.blindferret.com": "INACTIVE",
+            "pagerank-submitter.de": "INACTIVE",
+            "ranking-id.de": "INACTIVE",
+            "record.mrwin.com": "INACTIVE",
+            "stats.directnic.com": "INACTIVE",
+            "topbarh.box.sk": "INACTIVE",
+            "tracking.discounts-promo.ga": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
