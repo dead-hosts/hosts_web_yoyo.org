@@ -56,6 +56,10 @@
         "1579680595": {
             "ads.berlinonline.de": "INACTIVE",
             "ads.canalblog.com": "INACTIVE"
+        },
+        "1579714335": {
+            "ads.blog.com": "INACTIVE",
+            "ads.brabys.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
