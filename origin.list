@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 18 Jan 2020 09:18:22 GMT
-# entries:        3251
+# last updated:   Wed, 22 Jan 2020 12:30:00 GMT
+# entries:        3252
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -3019,6 +3019,7 @@
 0.0.0.0 traffichunt.com
 0.0.0.0 trafficjunky.net
 0.0.0.0 trafficleader.com
+0.0.0.0 trafficrouter.io
 0.0.0.0 trafficsecrets.com
 0.0.0.0 trafficspaces.net
 0.0.0.0 trafficstrategies.com
