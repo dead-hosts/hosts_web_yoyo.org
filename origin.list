@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 22 Jan 2020 12:30:00 GMT
-# entries:        3252
+# last updated:   Wed, 22 Jan 2020 12:55:17 GMT
+# entries:        3254
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -2462,6 +2462,7 @@
 0.0.0.0 promote.pair.com
 0.0.0.0 promotions-884485.c.cdn77.org
 0.0.0.0 pronetadvertising.com
+0.0.0.0 proof-x.com
 0.0.0.0 propellerads.com
 0.0.0.0 propellerclick.com
 0.0.0.0 proper.io
@@ -3109,6 +3110,7 @@
 0.0.0.0 videoegg.com
 0.0.0.0 vidora.com
 0.0.0.0 view4cash.de
+0.0.0.0 viglink.com
 0.0.0.0 visiblemeasures.com
 0.0.0.0 visistat.com
 0.0.0.0 visit.webhosting.yahoo.com
