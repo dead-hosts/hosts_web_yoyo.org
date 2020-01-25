@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 25 Jan 2020 16:55:36 GMT
-# entries:        3261
+# last updated:   Sat, 25 Jan 2020 21:39:37 GMT
+# entries:        3262
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -2834,6 +2834,7 @@
 0.0.0.0 stats.x14.eu
 0.0.0.0 stats2.self.com
 0.0.0.0 stats4all.com
+0.0.0.0 statserv.net
 0.0.0.0 statsie.com
 0.0.0.0 statxpress.com
 0.0.0.0 steadfastsound.com
