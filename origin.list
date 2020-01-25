@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 23 Jan 2020 18:11:25 GMT
-# entries:        3260
+# last updated:   Sat, 25 Jan 2020 16:55:36 GMT
+# entries:        3261
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -2923,6 +2923,7 @@
 0.0.0.0 textads.biz
 0.0.0.0 textlinks.com
 0.0.0.0 tfag.de
+0.0.0.0 the-ozone-project.com
 0.0.0.0 theadex.com
 0.0.0.0 theadhost.com
 0.0.0.0 thebugs.ws
