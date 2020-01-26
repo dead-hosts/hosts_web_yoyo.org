@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 25 Jan 2020 21:39:37 GMT
-# entries:        3262
+# last updated:   Sun, 26 Jan 2020 08:38:58 GMT
+# entries:        3263
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -1046,6 +1046,7 @@
 0.0.0.0 backbeatmedia.com
 0.0.0.0 balancebreath.com
 0.0.0.0 balloontexture.com
+0.0.0.0 bamgrid.com
 0.0.0.0 banik.redigy.cz
 0.0.0.0 banner-exchange-24.de
 0.0.0.0 banner.ad.nu
