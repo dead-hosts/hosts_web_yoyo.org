@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 26 Jan 2020 12:49:28 GMT
-# entries:        3266
+# last updated:   Sun, 26 Jan 2020 18:30:52 GMT
+# entries:        3268
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -1685,6 +1685,7 @@
 0.0.0.0 frailoffer.com
 0.0.0.0 free-banners.com
 0.0.0.0 freebanner.com
+0.0.0.0 freecounterstat.com
 0.0.0.0 freelogs.com
 0.0.0.0 freeonlineusers.com
 0.0.0.0 freepay.com
@@ -2943,6 +2944,7 @@
 0.0.0.0 thruport.com
 0.0.0.0 tia.timeinc.net
 0.0.0.0 ticklesign.com
+0.0.0.0 ticksel.com
 0.0.0.0 tidaltv.com
 0.0.0.0 tinybar.com
 0.0.0.0 tls.telemetry.swe.quicinc.com
