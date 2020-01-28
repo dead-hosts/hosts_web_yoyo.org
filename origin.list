@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 28 Jan 2020 14:23:50 GMT
-# entries:        3291
+# last updated:   Tue, 28 Jan 2020 17:44:35 GMT
+# entries:        3295
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -1595,6 +1595,7 @@
 0.0.0.0 entercasino.com
 0.0.0.0 enthusiasticdad.com
 0.0.0.0 entrecard.s3.amazonaws.com
+0.0.0.0 entremental.com
 0.0.0.0 enviousthread.com
 0.0.0.0 epom.com
 0.0.0.0 eqads.com
@@ -1736,6 +1737,7 @@
 0.0.0.0 geovisite.com
 0.0.0.0 getclicky.com
 0.0.0.0 getintent.com
+0.0.0.0 gezginsepeti.com
 0.0.0.0 giddycoat.com
 0.0.0.0 globalismedia.com
 0.0.0.0 globaltakeoff.net
@@ -2476,6 +2478,7 @@
 0.0.0.0 proext.com
 0.0.0.0 profero.com
 0.0.0.0 profitrumour.com
+0.0.0.0 profscribe.com
 0.0.0.0 programattik.com
 0.0.0.0 projectwonderful.com
 0.0.0.0 promo.badoink.com
@@ -2661,6 +2664,7 @@
 0.0.0.0 rubiconproject.com
 0.0.0.0 runads.com
 0.0.0.0 rundsp.com
+0.0.0.0 runoutsoftware.com
 0.0.0.0 ruthlessrobin.com
 0.0.0.0 s.adroll.com
 0.0.0.0 s2d6.com
