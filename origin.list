@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 27 Jan 2020 12:52:33 GMT
-# entries:        3269
+# last updated:   Tue, 28 Jan 2020 08:00:49 GMT
+# entries:        3270
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -3189,6 +3189,7 @@
 0.0.0.0 wetrack.it
 0.0.0.0 whaleads.com
 0.0.0.0 whenu.com
+0.0.0.0 wheredoyoucomefrom.ovh
 0.0.0.0 whirlwealth.com
 0.0.0.0 whiskyqueue.com
 0.0.0.0 whispa.com
