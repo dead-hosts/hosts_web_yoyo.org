@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 28 Jan 2020 17:44:35 GMT
-# entries:        3294
+# last updated:   Wed, 29 Jan 2020 16:22:55 GMT
+# entries:        3295
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -333,6 +333,7 @@
 0.0.0.0 adnxs.com
 0.0.0.0 adocean.pl
 0.0.0.0 adonspot.com
+0.0.0.0 adoric-om.com
 0.0.0.0 adorigin.com
 0.0.0.0 adotmob.com
 0.0.0.0 adpenguin.biz
