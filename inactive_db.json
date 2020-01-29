@@ -52,9 +52,6 @@
         "1579863239": {
             "ads.berlinonline.de": "INACTIVE"
         },
-        "1580211114": {
-            "ads.recoletos.es": "INACTIVE"
-        },
         "1580218449": {
             "ad.xiaomi.com": "INACTIVE"
         },
@@ -63,6 +60,9 @@
         },
         "1580233672": {
             "ads.brabys.com": "INACTIVE"
+        },
+        "1580299664": {
+            "ads.yourfreedvds.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
