@@ -52,19 +52,23 @@
         "1579863239": {
             "ads.berlinonline.de": "INACTIVE"
         },
-        "1580305991": {
-            "ad.xiaomi.com": "INACTIVE"
-        },
-        "1580305994": {
-            "ads.canalblog.com": "INACTIVE",
-            "ads.kinxxx.com": "INACTIVE"
-        },
         "1580312325": {
             "ads.edbindex.dk": "INACTIVE"
         },
         "1580371082": {
             "ads.bloomberg.com": "INACTIVE",
             "ads.brabys.com": "INACTIVE"
+        },
+        "1580395417": {
+            "ad.xiaomi.com": "INACTIVE"
+        },
+        "1580395419": {
+            "ads.canalblog.com": "INACTIVE",
+            "ads.kinxxx.com": "INACTIVE"
+        },
+        "1580395420": {
+            "ads.quasaraffiliates.com": "INACTIVE",
+            "ads.recoletos.es": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
