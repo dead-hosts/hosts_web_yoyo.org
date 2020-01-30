@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 30 Jan 2020 15:59:53 GMT
-# entries:        3296
+# last updated:   Thu, 30 Jan 2020 17:40:31 GMT
+# entries:        3297
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -303,6 +303,7 @@
 0.0.0.0 admarketplace.net
 0.0.0.0 admarvel.com
 0.0.0.0 admaster.com.cn
+0.0.0.0 admatchly.com
 0.0.0.0 admax.nexage.com
 0.0.0.0 admedia.com
 0.0.0.0 admeld.com
