@@ -68,6 +68,10 @@
         },
         "1580312325": {
             "ads.edbindex.dk": "INACTIVE"
+        },
+        "1580371082": {
+            "ads.bloomberg.com": "INACTIVE",
+            "ads.brabys.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
