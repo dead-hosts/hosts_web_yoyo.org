@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 29 Jan 2020 16:22:55 GMT
-# entries:        3294
+# last updated:   Thu, 30 Jan 2020 15:12:34 GMT
+# entries:        3295
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -1193,6 +1193,7 @@
 0.0.0.0 blushingboundary.com
 0.0.0.0 bm.annonce.cz
 0.0.0.0 bn.bfast.com
+0.0.0.0 bnnrrv.qontentum.de
 0.0.0.0 boersego-ads.de
 0.0.0.0 boffoadsapi.com
 0.0.0.0 boilingbeetle.com
