@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 30 Jan 2020 15:12:34 GMT
-# entries:        3295
+# last updated:   Thu, 30 Jan 2020 15:59:53 GMT
+# entries:        3296
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -1540,6 +1540,7 @@
 0.0.0.0 dstillery.com
 0.0.0.0 dynamic.fmpub.net
 0.0.0.0 dyntrk.com
+0.0.0.0 dzairads.com
 0.0.0.0 e-adimages.scrippsnetworks.com
 0.0.0.0 e-bannerx.com
 0.0.0.0 e-debtconsolidation.com
