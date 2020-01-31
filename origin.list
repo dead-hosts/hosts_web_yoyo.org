@@ -2,7 +2,7 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 30 Jan 2020 17:49:49 GMT
+# last updated:   Fri, 31 Jan 2020 07:26:36 GMT
 # entries:        3299
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
@@ -1210,7 +1210,6 @@
 0.0.0.0 bpath.com
 0.0.0.0 bpu.samsungelectronics.com
 0.0.0.0 braincash.com
-0.0.0.0 branch.io
 0.0.0.0 brand-display.com
 0.0.0.0 brandreachsys.com
 0.0.0.0 brassrule.com
@@ -1265,6 +1264,7 @@
 0.0.0.0 casterist.info
 0.0.0.0 cbanners.virtuagirlhd.com
 0.0.0.0 cdn.bannerflow.com
+0.0.0.0 cdn.branch.io
 0.0.0.0 cdn.freefarcy.com
 0.0.0.0 cdn.heapanalytics.com
 0.0.0.0 cdn.onesignal.com
