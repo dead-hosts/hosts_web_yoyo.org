@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Fri, 31 Jan 2020 07:26:36 GMT
-# entries:        3299
+# entries:        3295
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -196,7 +196,6 @@
 0.0.0.0 adap.tv
 0.0.0.0 adapt.tv
 0.0.0.0 adback.co
-0.0.0.0 adbard.net
 0.0.0.0 adblade.com
 0.0.0.0 adblade.org
 0.0.0.0 adblockanalytics.com
@@ -215,7 +214,6 @@
 0.0.0.0 adcell.de
 0.0.0.0 adcenter.net
 0.0.0.0 adcentriconline.com
-0.0.0.0 adcept.net
 0.0.0.0 adclick.com
 0.0.0.0 adclient.uimserv.net
 0.0.0.0 adclient1.tucows.com
@@ -2587,6 +2585,7 @@
 0.0.0.0 recoco.it
 0.0.0.0 record.affiliates.karjalakasino.com
 0.0.0.0 record.bonniergaming.com
+0.0.0.0 record.mrwin.com
 0.0.0.0 redirectingat.com
 0.0.0.0 redirectvoluum.com
 0.0.0.0 redshell.io
@@ -2624,7 +2623,6 @@
 0.0.0.0 revenuedirect.com
 0.0.0.0 revenuehits.com
 0.0.0.0 revlift.io
-0.0.0.0 revsci.net
 0.0.0.0 revstats.com
 0.0.0.0 rhombusads.com
 0.0.0.0 rhythmone.com
@@ -2982,7 +2980,6 @@
 0.0.0.0 tntclix.co.uk
 0.0.0.0 toecircle.com
 0.0.0.0 toothbrushnote.com
-0.0.0.0 top-casting-termine.de
 0.0.0.0 top-site-list.com
 0.0.0.0 top.list.ru
 0.0.0.0 top.mail.ru
@@ -3001,7 +2998,6 @@
 0.0.0.0 toplistcity.com
 0.0.0.0 topping.com.ua
 0.0.0.0 toprebates.com
-0.0.0.0 topsafelist.net
 0.0.0.0 topsir.com
 0.0.0.0 topsite.lv
 0.0.0.0 topsites.com.br
