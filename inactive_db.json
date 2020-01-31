@@ -52,10 +52,6 @@
         "1579863239": {
             "ads.berlinonline.de": "INACTIVE"
         },
-        "1580399188": {
-            "ads.clearchannel.com": "INACTIVE",
-            "ads.toplayaffiliates.com": "INACTIVE"
-        },
         "1580410552": {
             "ads.lapalingo.com": "INACTIVE"
         },
@@ -90,6 +86,9 @@
         "1580482525": {
             "ads.canalblog.com": "INACTIVE",
             "ads.recoletos.es": "INACTIVE"
+        },
+        "1580486490": {
+            "ads.space.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
