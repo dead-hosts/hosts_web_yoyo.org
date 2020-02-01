@@ -88,6 +88,11 @@
         },
         "1580545721": {
             "ads.lordlucky.com": "INACTIVE"
+        },
+        "1580549277": {
+            "ads.bloomberg.com": "INACTIVE",
+            "ads.newsquest.co.uk": "INACTIVE",
+            "ads.trinitymirror.co.uk": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
