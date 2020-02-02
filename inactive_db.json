@@ -97,6 +97,10 @@
         "1580670805": {
             "ads.newsquest.co.uk": "INACTIVE",
             "ads.toplayaffiliates.com": "INACTIVE"
+        },
+        "1580673604": {
+            "ads.motor-forum.nl": "INACTIVE",
+            "ads.space.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
