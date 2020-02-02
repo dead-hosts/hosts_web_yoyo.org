@@ -397,7 +397,7 @@
     "adalliance.io": {
         "epoch": 1580601600.0,
         "expiration_date": "02-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "adap.tv": {
         "epoch": 1613865600.0,
@@ -882,7 +882,7 @@
     "adnetwork.net": {
         "epoch": 1580601600.0,
         "expiration_date": "02-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "adnetworkperformance.com": {
         "epoch": 1587945600.0,

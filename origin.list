@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 31 Jan 2020 07:26:36 GMT
-# entries:        3295
+# last updated:   Sun, 02 Feb 2020 10:08:56 GMT
+# entries:        3296
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sun, 06 Feb 2000 00:00:00
+# start date:    Mon, 07 Feb 2000 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -2793,6 +2793,7 @@
 0.0.0.0 sovrn.com
 0.0.0.0 spacash.com
 0.0.0.0 spaceleadster.com
+0.0.0.0 spade.sci.twitch.tv
 0.0.0.0 sparkstudios.com
 0.0.0.0 specially4u.net
 0.0.0.0 specificmedia.co.uk
