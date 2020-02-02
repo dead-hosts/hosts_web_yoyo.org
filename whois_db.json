@@ -395,9 +395,9 @@
         "state": "future"
     },
     "adalliance.io": {
-        "epoch": 1580601600.0,
-        "expiration_date": "02-feb-2020",
-        "state": "past"
+        "epoch": 1612224000.0,
+        "expiration_date": "02-feb-2021",
+        "state": "future"
     },
     "adap.tv": {
         "epoch": 1613865600.0,
