@@ -55,13 +55,6 @@
         "1580537956": {
             "ads.yourfreedvds.com": "INACTIVE"
         },
-        "1580571915": {
-            "ad.xiaomi.com": "INACTIVE"
-        },
-        "1580571918": {
-            "ads.brabys.com": "INACTIVE",
-            "ads.recoletos.es": "INACTIVE"
-        },
         "1580575660": {
             "ad.choiceradio.com": "INACTIVE",
             "ad.eurosport.com": "INACTIVE"
@@ -85,6 +78,12 @@
             "ads.quasaraffiliates.com": "INACTIVE",
             "ads.sift.co.uk": "INACTIVE",
             "ads.trinitymirror.co.uk": "INACTIVE"
+        },
+        "1580660245": {
+            "ad.xiaomi.com": "INACTIVE"
+        },
+        "1580660248": {
+            "ads.recoletos.es": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
