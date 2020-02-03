@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Sun, 02 Feb 2020 19:06:45 GMT
-# entries:        3297
+# entries:        3296
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -1722,7 +1722,6 @@
 0.0.0.0 fuzzyflavor.com
 0.0.0.0 fuzzyweather.com
 0.0.0.0 fxstyle.net
-0.0.0.0 fyber.com
 0.0.0.0 ga.clearbit.com
 0.0.0.0 ga87z2o.com
 0.0.0.0 gadsbee.com
