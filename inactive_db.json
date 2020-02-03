@@ -111,6 +111,11 @@
             "ads.lordlucky.com": "INACTIVE",
             "ads.motor-forum.nl": "INACTIVE",
             "ads.newsquest.co.uk": "INACTIVE"
+        },
+        "1580772286": {
+            "ads.mmania.com": "INACTIVE",
+            "ads.programattik.com": "INACTIVE",
+            "ads.space.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
