@@ -55,12 +55,6 @@
         "1580662821": {
             "ads.wwe.biz": "INACTIVE"
         },
-        "1580665244": {
-            "ads.viksaffiliates.com": "INACTIVE"
-        },
-        "1580688966": {
-            "ads.canalblog.com": "INACTIVE"
-        },
         "1580692913": {
             "ads.flooble.com": "INACTIVE"
         },
@@ -116,6 +110,12 @@
             "ads.mmania.com": "INACTIVE",
             "ads.programattik.com": "INACTIVE",
             "ads.space.com": "INACTIVE"
+        },
+        "1580776292": {
+            "ads.canalblog.com": "INACTIVE",
+            "ads.ft.com": "INACTIVE",
+            "ads.lapalingo.com": "INACTIVE",
+            "ads.viksaffiliates.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
