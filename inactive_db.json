@@ -52,13 +52,6 @@
         "1579863239": {
             "ads.berlinonline.de": "INACTIVE"
         },
-        "1580747710": {
-            "ad.xiaomi.com": "INACTIVE"
-        },
-        "1580747713": {
-            "ads.mgnetwork.com": "INACTIVE",
-            "ads.recoletos.es": "INACTIVE"
-        },
         "1580751802": {
             "adimages.omroepzeeland.nl": "INACTIVE"
         },
@@ -119,6 +112,9 @@
         },
         "1580832198": {
             "ad.twitchguru.com": "INACTIVE"
+        },
+        "1580836339": {
+            "ad.xiaomi.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
