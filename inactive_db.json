@@ -52,9 +52,6 @@
         "1579863239": {
             "ads.berlinonline.de": "INACTIVE"
         },
-        "1580696767": {
-            "ad.doctissimo.fr": "INACTIVE"
-        },
         "1580704630": {
             "ads.brabys.com": "INACTIVE"
         },
@@ -113,6 +110,9 @@
         },
         "1580780125": {
             "ads.trinitymirror.co.uk": "INACTIVE"
+        },
+        "1580784171": {
+            "ads.flooble.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
