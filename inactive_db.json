@@ -52,10 +52,6 @@
         "1579863239": {
             "ads.berlinonline.de": "INACTIVE"
         },
-        "1580759872": {
-            "ads.heias.com": "INACTIVE",
-            "ads.toplayaffiliates.com": "INACTIVE"
-        },
         "1580763941": {
             "ad.bnmla.com": "INACTIVE"
         },
@@ -111,6 +107,15 @@
         },
         "1580844356": {
             "ads.mgnetwork.com": "INACTIVE"
+        },
+        "1580848765": {
+            "ads.bloomberg.com": "INACTIVE",
+            "ads.elcarado.com": "INACTIVE",
+            "ads.heias.com": "INACTIVE",
+            "ads.nytimes.com": "INACTIVE",
+            "ads.quasaraffiliates.com": "INACTIVE",
+            "ads.sift.co.uk": "INACTIVE",
+            "ads.toplayaffiliates.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
