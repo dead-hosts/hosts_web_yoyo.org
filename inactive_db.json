@@ -52,12 +52,6 @@
         "1579863239": {
             "ads.berlinonline.de": "INACTIVE"
         },
-        "1580776292": {
-            "ads.canalblog.com": "INACTIVE",
-            "ads.ft.com": "INACTIVE",
-            "ads.lapalingo.com": "INACTIVE",
-            "ads.viksaffiliates.com": "INACTIVE"
-        },
         "1580780125": {
             "ads.trinitymirror.co.uk": "INACTIVE"
         },
@@ -102,6 +96,12 @@
         },
         "1580856814": {
             "ads.crakmedia.com": "INACTIVE"
+        },
+        "1580864904": {
+            "ads.canalblog.com": "INACTIVE",
+            "ads.foxnetworks.com": "INACTIVE",
+            "ads.larryaffiliates.com": "INACTIVE",
+            "ads.space.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
