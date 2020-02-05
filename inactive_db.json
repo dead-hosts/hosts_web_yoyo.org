@@ -117,6 +117,9 @@
         "1580900087": {
             "ad.100.tbn.ru": "INACTIVE",
             "ad.tbn.ru": "INACTIVE"
+        },
+        "1580904271": {
+            "ad.choiceradio.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
