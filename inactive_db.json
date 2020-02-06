@@ -52,10 +52,6 @@
         "1579863239": {
             "ads.berlinonline.de": "INACTIVE"
         },
-        "1580871898": {
-            "ads.getlucky.com": "INACTIVE",
-            "ads.newsquest.co.uk": "INACTIVE"
-        },
         "1580875642": {
             "ads.kinxxx.com": "INACTIVE"
         },
@@ -123,6 +119,12 @@
         },
         "1580955795": {
             "ads.recoletos.es": "INACTIVE"
+        },
+        "1580959665": {
+            "ads.ft.com": "INACTIVE",
+            "ads.larryaffiliates.com": "INACTIVE",
+            "ads.newsquest.co.uk": "INACTIVE",
+            "ads.trinitymirror.co.uk": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
