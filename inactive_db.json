@@ -52,9 +52,6 @@
         "1579863239": {
             "ads.berlinonline.de": "INACTIVE"
         },
-        "1580911730": {
-            "adition.de": "INACTIVE"
-        },
         "1580915480": {
             "ads.edbindex.dk": "INACTIVE"
         },
@@ -116,6 +113,9 @@
         },
         "1580992698": {
             "ad.choiceradio.com": "INACTIVE"
+        },
+        "1581000658": {
+            "ads.lapalingo.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
