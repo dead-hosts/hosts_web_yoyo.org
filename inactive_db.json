@@ -123,6 +123,9 @@
             "ads.lordlucky.com": "INACTIVE",
             "ads.motor-forum.nl": "INACTIVE",
             "ads.networksolutions.com": "INACTIVE"
+        },
+        "1580972625": {
+            "ad.doctissimo.fr": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
