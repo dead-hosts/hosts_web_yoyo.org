@@ -52,13 +52,6 @@
         "1579863239": {
             "ads.berlinonline.de": "INACTIVE"
         },
-        "1580879409": {
-            "ad.doctissimo.fr": "INACTIVE",
-            "ad.nozonedata.com": "INACTIVE"
-        },
-        "1580879412": {
-            "ads.motor-forum.nl": "INACTIVE"
-        },
         "1580886486": {
             "ads.flooble.com": "INACTIVE"
         },
@@ -122,6 +115,14 @@
             "ads.larryaffiliates.com": "INACTIVE",
             "ads.newsquest.co.uk": "INACTIVE",
             "ads.trinitymirror.co.uk": "INACTIVE"
+        },
+        "1580968109": {
+            "ads.getlucky.com": "INACTIVE"
+        },
+        "1580968110": {
+            "ads.lordlucky.com": "INACTIVE",
+            "ads.motor-forum.nl": "INACTIVE",
+            "ads.networksolutions.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
