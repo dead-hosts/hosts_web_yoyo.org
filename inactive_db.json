@@ -108,6 +108,11 @@
             "ads.heias.com": "INACTIVE",
             "ads.larryaffiliates.com": "INACTIVE",
             "ads.trinitymirror.co.uk": "INACTIVE"
+        },
+        "1581051772": {
+            "ads.ft.com": "INACTIVE",
+            "ads.newsquest.co.uk": "INACTIVE",
+            "ads.recoletos.es": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
