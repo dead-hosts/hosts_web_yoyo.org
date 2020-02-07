@@ -52,10 +52,6 @@
         "1579863239": {
             "ads.berlinonline.de": "INACTIVE"
         },
-        "1580947657": {
-            "ads.crakmedia.com": "INACTIVE",
-            "ads.elcarado.com": "INACTIVE"
-        },
         "1580951699": {
             "ads.canalblog.com": "INACTIVE",
             "ads.space.com": "INACTIVE"
@@ -105,6 +101,9 @@
         "1581033930": {
             "ads.bloomberg.com": "INACTIVE",
             "ads.flooble.com": "INACTIVE"
+        },
+        "1581037697": {
+            "ads.quasaraffiliates.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
