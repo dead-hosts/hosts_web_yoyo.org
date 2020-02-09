@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 08 Feb 2020 08:22:04 GMT
-# entries:        3294
+# last updated:   Sun, 09 Feb 2020 10:04:31 GMT
+# entries:        3295
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -2669,6 +2669,7 @@
 0.0.0.0 runoutsoftware.com
 0.0.0.0 ruthlessrobin.com
 0.0.0.0 s.adroll.com
+0.0.0.0 s24hc8xzag.com
 0.0.0.0 s2d6.com
 0.0.0.0 sabio.us
 0.0.0.0 sageanalyst.net
