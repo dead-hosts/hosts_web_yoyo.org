@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 09 Feb 2020 10:04:31 GMT
-# entries:        3295
+# last updated:   Mon, 10 Feb 2020 10:05:16 GMT
+# entries:        3296
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -2217,6 +2217,7 @@
 0.0.0.0 mousestats.com
 0.0.0.0 movad.net
 0.0.0.0 mowfruit.com
+0.0.0.0 mparticle.com
 0.0.0.0 mpstat.us
 0.0.0.0 mr-rank.de
 0.0.0.0 mrskincash.com
