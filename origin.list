@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 10 Feb 2020 10:05:16 GMT
-# entries:        3296
+# last updated:   Mon, 10 Feb 2020 21:04:54 GMT
+# entries:        3298
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -575,6 +575,7 @@
 0.0.0.0 ads.okcimg.com
 0.0.0.0 ads.ole.com
 0.0.0.0 ads.oneplace.com
+0.0.0.0 ads.opensubtitles.org
 0.0.0.0 ads.optusnet.com.au
 0.0.0.0 ads.outpersonals.com
 0.0.0.0 ads.passion.com
@@ -685,6 +686,7 @@
 0.0.0.0 ads2.jubii.dk
 0.0.0.0 ads2.net-communities.co.uk
 0.0.0.0 ads2.oneplace.com
+0.0.0.0 ads2.opensubtitles.org
 0.0.0.0 ads2.rne.com
 0.0.0.0 ads2.virtual-nights.com
 0.0.0.0 ads2.xnet.cz
