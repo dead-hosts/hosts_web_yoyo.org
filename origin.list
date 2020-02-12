@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 10 Feb 2020 21:04:54 GMT
-# entries:        3298
+# last updated:   Wed, 12 Feb 2020 09:20:12 GMT
+# entries:        3299
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -1867,6 +1867,7 @@
 0.0.0.0 icptrack.com
 0.0.0.0 id5-sync.com
 0.0.0.0 identads.com
+0.0.0.0 idevaffiliate.com
 0.0.0.0 idtargeting.com
 0.0.0.0 ientrymail.com
 0.0.0.0 iesnare.com
