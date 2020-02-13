@@ -57,9 +57,6 @@
         "1581030225": {
             "ads.yourfreedvds.com": "INACTIVE"
         },
-        "1581508508": {
-            "ads.recoletos.es": "INACTIVE"
-        },
         "1581530423": {
             "ad.wavu.hu": "INACTIVE"
         },
@@ -72,6 +69,11 @@
         "1581594554": {
             "ads.canalblog.com": "INACTIVE",
             "ads.resoom.de": "INACTIVE"
+        },
+        "1581598197": {
+            "ads.brabys.com": "INACTIVE",
+            "ads.edbindex.dk": "INACTIVE",
+            "ads.recoletos.es": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
