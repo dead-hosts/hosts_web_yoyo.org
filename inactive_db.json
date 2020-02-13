@@ -57,15 +57,6 @@
         "1581030225": {
             "ads.yourfreedvds.com": "INACTIVE"
         },
-        "1581504451": {
-            "ad.xiaomi.com": "INACTIVE"
-        },
-        "1581504453": {
-            "ads.canalblog.com": "INACTIVE"
-        },
-        "1581504454": {
-            "ads.resoom.de": "INACTIVE"
-        },
         "1581508508": {
             "ads.recoletos.es": "INACTIVE"
         },
@@ -74,6 +65,13 @@
         },
         "1581586663": {
             "ads.networksolutions.com": "INACTIVE"
+        },
+        "1581594552": {
+            "ad.xiaomi.com": "INACTIVE"
+        },
+        "1581594554": {
+            "ads.canalblog.com": "INACTIVE",
+            "ads.resoom.de": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
