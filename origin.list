@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 12 Feb 2020 09:20:12 GMT
-# entries:        3298
+# last updated:   Fri, 14 Feb 2020 13:00:25 GMT
+# entries:        3299
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -2838,6 +2838,7 @@
 0.0.0.0 starffa.com
 0.0.0.0 start.freeze.com
 0.0.0.0 startapp.com
+0.0.0.0 stat-track.com
 0.0.0.0 stat.cliche.se
 0.0.0.0 stat.dyna.ultraweb.hu
 0.0.0.0 stat.pl
