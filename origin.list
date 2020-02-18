@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 14 Feb 2020 13:00:25 GMT
-# entries:        3299
+# last updated:   Tue, 18 Feb 2020 10:11:55 GMT
+# entries:        3301
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -1733,6 +1733,7 @@
 0.0.0.0 gamesites200.com
 0.0.0.0 gammamaximum.com
 0.0.0.0 gearwom.de
+0.0.0.0 gekko.spiceworks.com
 0.0.0.0 gemlix.com
 0.0.0.0 geo.digitalpoint.com
 0.0.0.0 geobanner.adultfriendfinder.com
@@ -2527,6 +2528,7 @@
 0.0.0.0 px.ads.linkedin.com
 0.0.0.0 px.dynamicyield.com
 0.0.0.0 px.gfycat.com
+0.0.0.0 px.spiceworks.com
 0.0.0.0 pxl.iqm.com
 0.0.0.0 pymx5.com
 0.0.0.0 q.azcentral.com
