@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 18 Feb 2020 10:11:55 GMT
-# entries:        3301
+# last updated:   Thu, 20 Feb 2020 07:33:49 GMT
+# entries:        3305
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -131,6 +131,7 @@
 0.0.0.0 ad.iinfo.cz
 0.0.0.0 ad.ilove.ch
 0.0.0.0 ad.infoseek.com
+0.0.0.0 ad.intl.xiaomi.com
 0.0.0.0 ad.jamba.net
 0.0.0.0 ad.jamster.co.uk
 0.0.0.0 ad.jetsoftware.com
@@ -2845,6 +2846,7 @@
 0.0.0.0 stat.dyna.ultraweb.hu
 0.0.0.0 stat.pl
 0.0.0.0 stat.webmedia.pl
+0.0.0.0 stat.xiaomi.com
 0.0.0.0 stat.zenon.net
 0.0.0.0 stat24.com
 0.0.0.0 stat24.meta.ua
@@ -3044,6 +3046,8 @@
 0.0.0.0 tracking.ibxlink.com
 0.0.0.0 tracking.inlocomedia.com
 0.0.0.0 tracking.internetstores.de
+0.0.0.0 tracking.intl.miui.com
+0.0.0.0 tracking.miui.com
 0.0.0.0 tracking.olx-st.com
 0.0.0.0 tracking.publicidees.com
 0.0.0.0 tracking01.walmart.com
