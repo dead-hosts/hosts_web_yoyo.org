@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 20 Feb 2020 07:33:49 GMT
-# entries:        3305
+# last updated:   Thu, 20 Feb 2020 17:00:41 GMT
+# entries:        3306
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -2924,6 +2924,7 @@
 0.0.0.0 tagular.com
 0.0.0.0 tailsweep.com
 0.0.0.0 tailsweep.se
+0.0.0.0 takethatad.com
 0.0.0.0 takru.com
 0.0.0.0 talentedsteel.com
 0.0.0.0 tamgrt.com
