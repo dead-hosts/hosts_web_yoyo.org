@@ -1007,7 +1007,7 @@
     "adrotator.se": {
         "epoch": 1582329600.0,
         "expiration_date": "22-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "adrta.com": {
         "epoch": 1687392000.0,
