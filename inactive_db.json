@@ -57,9 +57,6 @@
         "1581594554": {
             "ads.resoom.de": "INACTIVE"
         },
-        "1582450679": {
-            "ad.intl.xiaomi.com": "INACTIVE"
-        },
         "1582487144": {
             "ad.xiaomi.com": "INACTIVE"
         },
@@ -68,6 +65,9 @@
         },
         "1582490870": {
             "ads.recoletos.es": "INACTIVE"
+        },
+        "1582540410": {
+            "ad.intl.xiaomi.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
