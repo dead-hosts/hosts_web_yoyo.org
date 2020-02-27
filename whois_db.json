@@ -192,7 +192,7 @@
     "aaddzz.com": {
         "epoch": 1582761600.0,
         "expiration_date": "27-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "aaxads.com": {
         "epoch": 1603584000.0,
