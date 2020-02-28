@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 20 Feb 2020 17:00:41 GMT
-# entries:        3292
+# entries:        3291
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -790,6 +790,7 @@
 0.0.0.0 adsmart.net
 0.0.0.0 adsmogo.com
 0.0.0.0 adsnative.com
+0.0.0.0 adsoftware.com
 0.0.0.0 adsoldier.com
 0.0.0.0 adsolut.in
 0.0.0.0 adspeed.net
@@ -954,7 +955,6 @@
 0.0.0.0 americash.com
 0.0.0.0 amplitude.com
 0.0.0.0 amung.us
-0.0.0.0 anahtars.com
 0.0.0.0 analytics-production.hapyak.com
 0.0.0.0 analytics.adpost.org
 0.0.0.0 analytics.bitrix.info
@@ -1007,7 +1007,6 @@
 0.0.0.0 argyresthia.com
 0.0.0.0 aromamirror.com
 0.0.0.0 as.webmd.com
-0.0.0.0 as1.advfn.com
 0.0.0.0 assets1.exgfnetwork.com
 0.0.0.0 assoc-amazon.com
 0.0.0.0 aswpapius.com
