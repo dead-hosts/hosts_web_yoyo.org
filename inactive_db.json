@@ -57,9 +57,6 @@
         "1581594554": {
             "ads.resoom.de": "INACTIVE"
         },
-        "1583935513": {
-            "ads.datingyes.com": "INACTIVE"
-        },
         "1583947491": {
             "ad.intl.xiaomi.com": "INACTIVE",
             "ad.xiaomi.com": "INACTIVE"
@@ -70,6 +67,9 @@
         "1583990363": {
             "ads.canalblog.com": "INACTIVE",
             "ads.scifi.com": "INACTIVE"
+        },
+        "1584025936": {
+            "ads.recoletos.es": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
