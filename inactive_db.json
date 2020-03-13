@@ -57,10 +57,6 @@
         "1581594554": {
             "ads.resoom.de": "INACTIVE"
         },
-        "1583990363": {
-            "ads.canalblog.com": "INACTIVE",
-            "ads.scifi.com": "INACTIVE"
-        },
         "1584025936": {
             "ads.recoletos.es": "INACTIVE"
         },
@@ -71,6 +67,9 @@
         "1584063349": {
             "ads.edbindex.dk": "INACTIVE",
             "ads.emirates.net.ae": "INACTIVE"
+        },
+        "1584079258": {
+            "ads.canalblog.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
