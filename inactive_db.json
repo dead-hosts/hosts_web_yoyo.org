@@ -57,9 +57,6 @@
         "1581594554": {
             "ads.resoom.de": "INACTIVE"
         },
-        "1584255922": {
-            "ads.canalblog.com": "INACTIVE"
-        },
         "1584259772": {
             "ad.hodomobile.com": "INACTIVE"
         },
@@ -69,6 +66,9 @@
         "1584306336": {
             "ad.intl.xiaomi.com": "INACTIVE",
             "ad.xiaomi.com": "INACTIVE"
+        },
+        "1584343653": {
+            "ads.canalblog.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
