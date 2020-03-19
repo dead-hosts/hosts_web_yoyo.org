@@ -57,18 +57,16 @@
         "1581594554": {
             "ads.resoom.de": "INACTIVE"
         },
-        "1584520669": {
-            "ad-serverparc.nl": "INACTIVE",
-            "ad.intl.xiaomi.com": "INACTIVE",
-            "ad.xiaomi.com": "INACTIVE",
-            "ad2.lupa.cz": "INACTIVE"
-        },
-        "1584520672": {
-            "ads.canalblog.com": "INACTIVE",
-            "ads.recoletos.es": "INACTIVE"
-        },
         "1584543593": {
             "ads.networksolutions.com": "INACTIVE"
+        },
+        "1584609578": {
+            "ad-serverparc.nl": "INACTIVE",
+            "ad.intl.xiaomi.com": "INACTIVE",
+            "ad.xiaomi.com": "INACTIVE"
+        },
+        "1584609581": {
+            "ads.canalblog.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
