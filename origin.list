@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 20 Feb 2020 17:00:41 GMT
-# entries:        3277
+# last updated:   Tue, 24 Mar 2020 13:30:18 GMT
+# entries:        3276
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -1877,7 +1877,6 @@
 0.0.0.0 impulsehands.com
 0.0.0.0 imrworldwide.com
 0.0.0.0 inaccused.com
-0.0.0.0 inboxdollars.com
 0.0.0.0 incentaclick.com
 0.0.0.0 inclk.com
 0.0.0.0 incognitosearches.com
@@ -2345,6 +2344,7 @@
 0.0.0.0 optmstr.com
 0.0.0.0 optnmstr.com
 0.0.0.0 ordingly.com
+0.0.0.0 ostr.io
 0.0.0.0 ota.cartrawler.com
 0.0.0.0 otto-images.developershed.com
 0.0.0.0 outbrain.com
@@ -3043,7 +3043,6 @@
 0.0.0.0 trafficjunky.net
 0.0.0.0 trafficleader.com
 0.0.0.0 trafficrouter.io
-0.0.0.0 trafficsecrets.com
 0.0.0.0 trafficspaces.net
 0.0.0.0 trafficstrategies.com
 0.0.0.0 trafficswarm.com
