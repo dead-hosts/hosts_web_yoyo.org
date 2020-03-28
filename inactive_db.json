@@ -63,9 +63,6 @@
         "1585242857": {
             "ads.dazoot.ro": "INACTIVE"
         },
-        "1585349572": {
-            "ads.bluelithium.com": "INACTIVE"
-        },
         "1585369477": {
             "ads.yourfreedvds.com": "INACTIVE"
         },
@@ -85,6 +82,9 @@
         },
         "1585425103": {
             "ads.datingyes.com": "INACTIVE"
+        },
+        "1585437213": {
+            "ads.bluelithium.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
