@@ -63,14 +63,6 @@
         "1585242857": {
             "ads.dazoot.ro": "INACTIVE"
         },
-        "1585412922": {
-            "ad.intl.xiaomi.com": "INACTIVE",
-            "ad.xiaomi.com": "INACTIVE"
-        },
-        "1585412925": {
-            "ads.canalblog.com": "INACTIVE",
-            "ads.edbindex.dk": "INACTIVE"
-        },
         "1585416938": {
             "ads.recoletos.es": "INACTIVE"
         },
@@ -79,6 +71,13 @@
         },
         "1585437213": {
             "ads.bluelithium.com": "INACTIVE"
+        },
+        "1585500057": {
+            "ad.intl.xiaomi.com": "INACTIVE",
+            "ad.xiaomi.com": "INACTIVE"
+        },
+        "1585500060": {
+            "ads.canalblog.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
