@@ -63,10 +63,6 @@
         "1585242857": {
             "ads.dazoot.ro": "INACTIVE"
         },
-        "1585678586": {
-            "ad.intl.xiaomi.com": "INACTIVE",
-            "ad.xiaomi.com": "INACTIVE"
-        },
         "1585682486": {
             "ads.canalblog.com": "INACTIVE",
             "ads.recoletos.es": "INACTIVE"
@@ -79,6 +75,10 @@
         },
         "1585710387": {
             "ads.edbindex.dk": "INACTIVE"
+        },
+        "1585768806": {
+            "ad.intl.xiaomi.com": "INACTIVE",
+            "ad.xiaomi.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
