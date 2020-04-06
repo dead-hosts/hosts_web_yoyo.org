@@ -66,9 +66,6 @@
         "1585788684": {
             "ads.bluelithium.com": "INACTIVE"
         },
-        "1586060953": {
-            "ad.thewheelof.com": "INACTIVE"
-        },
         "1586094386": {
             "ads.brabys.com": "INACTIVE"
         },
@@ -87,6 +84,9 @@
         },
         "1586140982": {
             "ad.mediastorm.hu": "INACTIVE"
+        },
+        "1586148836": {
+            "ad.thewheelof.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
