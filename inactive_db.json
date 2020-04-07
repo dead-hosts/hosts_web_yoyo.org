@@ -66,9 +66,6 @@
         "1585788684": {
             "ads.bluelithium.com": "INACTIVE"
         },
-        "1586148836": {
-            "ad.thewheelof.com": "INACTIVE"
-        },
         "1586223722": {
             "ad.intl.xiaomi.com": "INACTIVE",
             "ad.xiaomi.com": "INACTIVE"
@@ -79,6 +76,9 @@
         },
         "1586223725": {
             "ads.recoletos.es": "INACTIVE"
+        },
+        "1586239633": {
+            "ad.thewheelof.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
