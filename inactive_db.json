@@ -66,24 +66,22 @@
         "1585788684": {
             "ads.bluelithium.com": "INACTIVE"
         },
-        "1586098538": {
-            "ad.intl.xiaomi.com": "INACTIVE"
-        },
-        "1586098539": {
-            "ad.xiaomi.com": "INACTIVE"
-        },
-        "1586098541": {
-            "ads.canalblog.com": "INACTIVE",
-            "ads.recoletos.es": "INACTIVE"
-        },
-        "1586133603": {
-            "ads.edbindex.dk": "INACTIVE"
-        },
         "1586140982": {
             "ad.mediastorm.hu": "INACTIVE"
         },
         "1586148836": {
             "ad.thewheelof.com": "INACTIVE"
+        },
+        "1586223722": {
+            "ad.intl.xiaomi.com": "INACTIVE",
+            "ad.xiaomi.com": "INACTIVE"
+        },
+        "1586223724": {
+            "ads.canalblog.com": "INACTIVE",
+            "ads.edbindex.dk": "INACTIVE"
+        },
+        "1586223725": {
+            "ads.recoletos.es": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
