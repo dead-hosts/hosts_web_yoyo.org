@@ -145,9 +145,9 @@
         "state": "future"
     },
     "77tracking.com": {
-        "epoch": 1586217600.0,
-        "expiration_date": "07-apr-2020",
-        "state": "past"
+        "epoch": 1617753600.0,
+        "expiration_date": "07-apr-2021",
+        "state": "future"
     },
     "7bpeople.com": {
         "epoch": 1596758400.0,
@@ -765,8 +765,8 @@
         "state": "future"
     },
     "admantx.com": {
-        "epoch": 1586390400.0,
-        "expiration_date": "09-apr-2020",
+        "epoch": 1649462400.0,
+        "expiration_date": "09-apr-2022",
         "state": "future"
     },
     "admarketplace.net": {
