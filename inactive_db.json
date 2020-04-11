@@ -107,6 +107,12 @@
         "1586584508": {
             "ads.elcarado.com": "INACTIVE",
             "ads.newsquest.co.uk": "INACTIVE"
+        },
+        "1586591790": {
+            "adimages.omroepzeeland.nl": "INACTIVE"
+        },
+        "1586591792": {
+            "ads.larryaffiliates.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
