@@ -117,6 +117,9 @@
         "1586595742": {
             "ads.heias.com": "INACTIVE",
             "ads.sift.co.uk": "INACTIVE"
+        },
+        "1586605800": {
+            "ads.trinitymirror.co.uk": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
