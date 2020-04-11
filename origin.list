@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 02 Apr 2020 09:04:06 GMT
-# entries:        3271
+# last updated:   Sat, 11 Apr 2020 21:51:31 GMT
+# entries:        3273
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -2621,6 +2621,7 @@
 0.0.0.0 rockabox.co
 0.0.0.0 roia.biz
 0.0.0.0 rok.com.com
+0.0.0.0 roq.ad
 0.0.0.0 rose.ixbt.com
 0.0.0.0 rotabanner.com
 0.0.0.0 roughroll.com
@@ -2886,6 +2887,7 @@
 0.0.0.0 t.insigit.com
 0.0.0.0 taboola.com
 0.0.0.0 tagan.adlightning.com
+0.0.0.0 tagger.opecloud.com
 0.0.0.0 tags.tiqcdn.com
 0.0.0.0 tagular.com
 0.0.0.0 tailsweep.com
