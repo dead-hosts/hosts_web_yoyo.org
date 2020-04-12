@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 11 Apr 2020 21:51:31 GMT
-# entries:        3273
+# last updated:   Sun, 12 Apr 2020 08:00:13 GMT
+# entries:        3274
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -2834,6 +2834,7 @@
 0.0.0.0 stats.self.com
 0.0.0.0 stats.townnews.com
 0.0.0.0 stats.unwired-i.net
+0.0.0.0 stats.vk-portal.net
 0.0.0.0 stats.wordpress.com
 0.0.0.0 stats.wp.com
 0.0.0.0 stats.x14.eu
