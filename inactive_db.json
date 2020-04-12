@@ -72,10 +72,6 @@
         "1586442396": {
             "ads.bluesq.com": "INACTIVE"
         },
-        "1586627902": {
-            "ads.getlucky.com": "INACTIVE",
-            "ads.quasaraffiliates.com": "INACTIVE"
-        },
         "1586632691": {
             "ads.lapalingo.com": "INACTIVE"
         },
@@ -141,6 +137,9 @@
             "ads.canalblog.com": "INACTIVE",
             "ads.ft.com": "INACTIVE",
             "ads.mgnetwork.com": "INACTIVE"
+        },
+        "1586717137": {
+            "ads.quasaraffiliates.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
