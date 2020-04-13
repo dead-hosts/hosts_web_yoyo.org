@@ -72,12 +72,6 @@
         "1586442396": {
             "ads.bluesq.com": "INACTIVE"
         },
-        "1586721726": {
-            "ads.getlucky.com": "INACTIVE",
-            "ads.lapalingo.com": "INACTIVE",
-            "ads.trinitymirror.co.uk": "INACTIVE",
-            "ads.viksaffiliates.com": "INACTIVE"
-        },
         "1586741032": {
             "ads.crakmedia.com": "INACTIVE"
         },
@@ -135,6 +129,13 @@
         },
         "1586807546": {
             "ads.ft.com": "INACTIVE"
+        },
+        "1586811812": {
+            "ads.getlucky.com": "INACTIVE",
+            "ads.lapalingo.com": "INACTIVE",
+            "ads.quasaraffiliates.com": "INACTIVE",
+            "ads.trinitymirror.co.uk": "INACTIVE",
+            "ads.viksaffiliates.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
