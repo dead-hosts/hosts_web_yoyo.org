@@ -72,15 +72,6 @@
         "1586442396": {
             "ads.bluesq.com": "INACTIVE"
         },
-        "1586712794": {
-            "ad.intl.xiaomi.com": "INACTIVE",
-            "ad.xiaomi.com": "INACTIVE"
-        },
-        "1586712797": {
-            "ads.canalblog.com": "INACTIVE",
-            "ads.ft.com": "INACTIVE",
-            "ads.mgnetwork.com": "INACTIVE"
-        },
         "1586717137": {
             "ads.quasaraffiliates.com": "INACTIVE"
         },
@@ -136,6 +127,14 @@
         },
         "1586798415": {
             "ads.motor-forum.nl": "INACTIVE"
+        },
+        "1586802702": {
+            "ad.intl.xiaomi.com": "INACTIVE",
+            "ad.xiaomi.com": "INACTIVE"
+        },
+        "1586802705": {
+            "ads.canalblog.com": "INACTIVE",
+            "ads.mgnetwork.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
