@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 12 Apr 2020 09:00:59 GMT
-# entries:        3274
+# last updated:   Mon, 13 Apr 2020 16:41:28 GMT
+# entries:        3276
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -327,6 +327,7 @@
 0.0.0.0 adnetwork.net
 0.0.0.0 adnetworkperformance.com
 0.0.0.0 adnews.maddog2000.de
+0.0.0.0 adnium.com
 0.0.0.0 adnotch.com
 0.0.0.0 adnxs.com
 0.0.0.0 adocean.pl
@@ -997,6 +998,7 @@
 0.0.0.0 argyresthia.com
 0.0.0.0 aromamirror.com
 0.0.0.0 as.webmd.com
+0.0.0.0 asewlfjqwlflkew.com
 0.0.0.0 assets1.exgfnetwork.com
 0.0.0.0 assoc-amazon.com
 0.0.0.0 aswpapius.com

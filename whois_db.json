@@ -889,6 +889,11 @@
         "expiration_date": "27-apr-2020",
         "state": "future"
     },
+    "adnium.com": {
+        "epoch": 1781654400.0,
+        "expiration_date": "17-jun-2026",
+        "state": "future"
+    },
     "adnotch.com": {
         "epoch": 1587600000.0,
         "expiration_date": "23-apr-2020",
