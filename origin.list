@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 14 Apr 2020 12:54:18 GMT
-# entries:        3290
+# last updated:   Tue, 14 Apr 2020 14:16:29 GMT
+# entries:        3315
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -1430,6 +1430,7 @@
 0.0.0.0 crta.dailymail.co.uk
 0.0.0.0 crtv.mate1.com
 0.0.0.0 crwdcntrl.net
+0.0.0.0 crypto-loot.org
 0.0.0.0 ctnetwork.hu
 0.0.0.0 cubics.com
 0.0.0.0 culturedcrayon.com
@@ -2221,6 +2222,7 @@
 0.0.0.0 mxptint.net
 0.0.0.0 myaffiliateprogram.com
 0.0.0.0 mybestmv.com
+0.0.0.0 mybetterdl.com
 0.0.0.0 mybloglog.com
 0.0.0.0 mybuys.com
 0.0.0.0 mycounter.ua
@@ -2310,6 +2312,7 @@
 0.0.0.0 observantice.com
 0.0.0.0 oclasrv.com
 0.0.0.0 oewa.at
+0.0.0.0 offaces-butional.com
 0.0.0.0 offer.fyber.com
 0.0.0.0 offer.sponsorpay.com
 0.0.0.0 offerforge.com
@@ -2355,6 +2358,7 @@
 0.0.0.0 ostr.io
 0.0.0.0 ota.cartrawler.com
 0.0.0.0 otto-images.developershed.com
+0.0.0.0 ouh3igaeb.com
 0.0.0.0 outbrain.com
 0.0.0.0 overture.com
 0.0.0.0 owebmoney.ru
@@ -2365,6 +2369,8 @@
 0.0.0.0 oxen.hillcountrytexas.com
 0.0.0.0 p-n.io
 0.0.0.0 p2r14.com
+0.0.0.0 padsbrown.com
+0.0.0.0 padssup.com
 0.0.0.0 pagead.l.google.com
 0.0.0.0 pagefair.com
 0.0.0.0 pagefair.net
@@ -2385,6 +2391,7 @@
 0.0.0.0 partners.priceline.com
 0.0.0.0 passeura.com
 0.0.0.0 passion-4.net
+0.0.0.0 patranally.xyz
 0.0.0.0 paycounter.com
 0.0.0.0 paypopup.com
 0.0.0.0 payserve.com
@@ -2431,6 +2438,7 @@
 0.0.0.0 pixel.mtrcs.samba.tv
 0.0.0.0 pixel.sojern.com
 0.0.0.0 pixel.watch
+0.0.0.0 pixel.yabidos.com
 0.0.0.0 placed.com
 0.0.0.0 play4traffic.com
 0.0.0.0 playhaven.com
@@ -2494,6 +2502,7 @@
 0.0.0.0 proton-tm.com
 0.0.0.0 protraffic.com
 0.0.0.0 provexia.com
+0.0.0.0 prsaln.com
 0.0.0.0 prsitecheck.com
 0.0.0.0 ps7894.com
 0.0.0.0 pstmrk.it
@@ -2511,8 +2520,13 @@
 0.0.0.0 puffyloss.com
 0.0.0.0 puffypull.com
 0.0.0.0 puffypurpose.com
+0.0.0.0 pushame.com
+0.0.0.0 pushance.com
 0.0.0.0 pushazer.com
 0.0.0.0 pushengage.com
+0.0.0.0 pushno.com
+0.0.0.0 pushtrack.co
+0.0.0.0 pushwhy.com
 0.0.0.0 px.ads.linkedin.com
 0.0.0.0 px.dynamicyield.com
 0.0.0.0 px.gfycat.com
@@ -2521,6 +2535,7 @@
 0.0.0.0 pymx5.com
 0.0.0.0 q.azcentral.com
 0.0.0.0 q1connect.com
+0.0.0.0 qcontentdelivery.info
 0.0.0.0 qctop.com
 0.0.0.0 qnsr.com
 0.0.0.0 quacksquirrel.com
@@ -2644,6 +2659,7 @@
 0.0.0.0 roughroll.com
 0.0.0.0 roxr.net
 0.0.0.0 rs6.net
+0.0.0.0 rsalcdp.com
 0.0.0.0 rta.dailymail.co.uk
 0.0.0.0 rtb.gumgum.com
 0.0.0.0 rtbadzesto.com
@@ -2655,6 +2671,7 @@
 0.0.0.0 rtbsbengine.com
 0.0.0.0 rtbtradein.com
 0.0.0.0 rtmark.net
+0.0.0.0 rtpdn11.com
 0.0.0.0 rtxplatform.com
 0.0.0.0 ru4.com
 0.0.0.0 rubiconproject.com
@@ -2662,6 +2679,8 @@
 0.0.0.0 rundsp.com
 0.0.0.0 ruthlessrobin.com
 0.0.0.0 s.adroll.com
+0.0.0.0 s1-adfly.com
+0.0.0.0 s20dh7e9dh.com
 0.0.0.0 s24hc8xzag.com
 0.0.0.0 s2d6.com
 0.0.0.0 sabio.us
@@ -2686,6 +2705,7 @@
 0.0.0.0 scripte-monster.de
 0.0.0.0 scrubsky.com
 0.0.0.0 scrubswim.com
+0.0.0.0 sdkfjxjertertry.com
 0.0.0.0 seadform.net
 0.0.0.0 searchmarketing.com
 0.0.0.0 searchramp.com
@@ -2710,6 +2730,7 @@
 0.0.0.0 servethis.com
 0.0.0.0 services.hearstmags.com
 0.0.0.0 serving-sys.com
+0.0.0.0 servingmillions.com
 0.0.0.0 sessioncam.com
 0.0.0.0 sexcounter.com
 0.0.0.0 sexinyourcity.com
@@ -2803,6 +2824,7 @@
 0.0.0.0 sponsors.thoughtsmedia.com
 0.0.0.0 spoor-api.asia.nikkei.com
 0.0.0.0 spot.fitness.com
+0.0.0.0 spotscenered.info
 0.0.0.0 spotx.tv
 0.0.0.0 spotxchange.com
 0.0.0.0 springaftermath.com
@@ -2836,6 +2858,7 @@
 0.0.0.0 stat24.com
 0.0.0.0 stat24.meta.ua
 0.0.0.0 statcounter.com
+0.0.0.0 statdynamic.com
 0.0.0.0 static.a-ads.com
 0.0.0.0 static.fmpub.net
 0.0.0.0 static.itrack.it
@@ -3011,6 +3034,8 @@
 0.0.0.0 track.effiliation.com
 0.0.0.0 track.flexlinks.com
 0.0.0.0 track.flexlinkspro.com
+0.0.0.0 track.freemmo2017.com
+0.0.0.0 track.game18click.com
 0.0.0.0 track.gawker.com
 0.0.0.0 track.hexcan.com
 0.0.0.0 track.mailerlite.com
