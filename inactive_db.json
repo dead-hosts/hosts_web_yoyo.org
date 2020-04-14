@@ -129,6 +129,9 @@
             "ads.quasaraffiliates.com": "INACTIVE",
             "ads.trinitymirror.co.uk": "INACTIVE",
             "ads.viksaffiliates.com": "INACTIVE"
+        },
+        "1586907230": {
+            "ads.scifi.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
