@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 14 Apr 2020 14:16:29 GMT
-# entries:        3315
+# last updated:   Tue, 14 Apr 2020 14:31:10 GMT
+# entries:        3326
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -1186,6 +1186,7 @@
 0.0.0.0 boffoadsapi.com
 0.0.0.0 boilingbeetle.com
 0.0.0.0 boilingumbrella.com
+0.0.0.0 bongacash.com
 0.0.0.0 boomads.com
 0.0.0.0 boomtrain.com
 0.0.0.0 boost-my-pr.de
@@ -2925,6 +2926,7 @@
 0.0.0.0 t.eloqua.com
 0.0.0.0 t.firstpromoter.com
 0.0.0.0 t.insigit.com
+0.0.0.0 t.irtyd.com
 0.0.0.0 taboola.com
 0.0.0.0 tagan.adlightning.com
 0.0.0.0 tagger.opecloud.com
@@ -3091,6 +3093,7 @@
 0.0.0.0 traktrafficflow.com
 0.0.0.0 tranquilside.com
 0.0.0.0 travis.bosscasinos.com
+0.0.0.0 trcklion.com
 0.0.0.0 treasuredata.com
 0.0.0.0 trekdata.com
 0.0.0.0 tremendoustime.com
@@ -3147,7 +3150,9 @@
 0.0.0.0 userreplay.net
 0.0.0.0 utils.mediageneral.net
 0.0.0.0 uttermosthobbies.com
+0.0.0.0 uzk4umokyri3.com
 0.0.0.0 v1.cnzz.com
+0.0.0.0 v1hcmqbaqw.ru
 0.0.0.0 validclick.com
 0.0.0.0 valuead.com
 0.0.0.0 valueclick.com
@@ -3159,12 +3164,16 @@
 0.0.0.0 veille-referencement.com
 0.0.0.0 velismedia.com
 0.0.0.0 ventivmedia.com
+0.0.0.0 venturead.com
 0.0.0.0 verblife-3.co
+0.0.0.0 verblife-4.co
+0.0.0.0 verblife-5.co
 0.0.0.0 vericlick.com
 0.0.0.0 vertamedia.com
 0.0.0.0 verticalmass.com
 0.0.0.0 vervewireless.com
 0.0.0.0 vibrantmedia.com
+0.0.0.0 vidcpm.com
 0.0.0.0 video-stats.video.google.com
 0.0.0.0 videoadex.com
 0.0.0.0 videoamp.com
@@ -3305,6 +3314,7 @@
 0.0.0.0 ymetrica1.com
 0.0.0.0 yoggrt.com
 0.0.0.0 ypu.samsungelectronics.com
+0.0.0.0 z501lpfg9x8v.com
 0.0.0.0 z5x.net
 0.0.0.0 zangocash.com
 0.0.0.0 zanox-affiliate.de
@@ -3325,5 +3335,6 @@
 0.0.0.0 zmedia.com
 0.0.0.0 zpu.samsungelectronics.com
 0.0.0.0 zqtk.net
+0.0.0.0 zukxd6fkxqn.com
 0.0.0.0 zy16eoat1w.com
 0.0.0.0 zzhc.vnet.cn
