@@ -73,9 +73,6 @@
             "ads.bluesq.com": "INACTIVE"
         },
         "1586902831": {
-            "ads.getlucky.com": "INACTIVE",
-            "ads.lapalingo.com": "INACTIVE",
-            "ads.quasaraffiliates.com": "INACTIVE",
             "ads.trinitymirror.co.uk": "INACTIVE",
             "ads.viksaffiliates.com": "INACTIVE"
         },
@@ -141,6 +138,11 @@
         },
         "1586987823": {
             "ads.ft.com": "INACTIVE"
+        },
+        "1586992573": {
+            "ads.getlucky.com": "INACTIVE",
+            "ads.lapalingo.com": "INACTIVE",
+            "ads.quasaraffiliates.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
