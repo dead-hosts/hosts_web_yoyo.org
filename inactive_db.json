@@ -72,9 +72,6 @@
         "1586442396": {
             "ads.bluesq.com": "INACTIVE"
         },
-        "1586860826": {
-            "ads.larryaffiliates.com": "INACTIVE"
-        },
         "1586866118": {
             "adimages.omroepzeeland.nl": "INACTIVE"
         },
@@ -138,6 +135,9 @@
         "1586946541": {
             "ads.elcarado.com": "INACTIVE",
             "ads.newsquest.co.uk": "INACTIVE"
+        },
+        "1586950846": {
+            "ads.larryaffiliates.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
