@@ -2,7 +2,7 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 14 Apr 2020 14:31:10 GMT
+# last updated:   Wed, 15 Apr 2020 12:54:36 GMT
 # entries:        3326
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
@@ -721,6 +721,7 @@
 0.0.0.0 adserve.io
 0.0.0.0 adserver.71i.de
 0.0.0.0 adserver.adultfriendfinder.com
+0.0.0.0 adserver.adverty.com
 0.0.0.0 adserver.aidameter.com
 0.0.0.0 adserver.aol.fr
 0.0.0.0 adserver.betandwin.de
@@ -861,7 +862,6 @@
 0.0.0.0 advertserve.com
 0.0.0.0 advertstream.com
 0.0.0.0 advertwizard.com
-0.0.0.0 adverty.com
 0.0.0.0 advideo.uimserv.net
 0.0.0.0 adview.com
 0.0.0.0 advisormedia.cz
