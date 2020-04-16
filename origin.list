@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 16 Apr 2020 10:42:28 GMT
-# entries:        3332
+# last updated:   Thu, 16 Apr 2020 12:25:09 GMT
+# entries:        3334
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -885,6 +885,7 @@
 0.0.0.0 adzerk.net
 0.0.0.0 adzerk.s3.amazonaws.com
 0.0.0.0 adzestocp.com
+0.0.0.0 adzone.temp.co.za
 0.0.0.0 adzones.com
 0.0.0.0 aerserv.com
 0.0.0.0 af-ad.co.uk
@@ -1830,6 +1831,7 @@
 0.0.0.0 hotlog.ru
 0.0.0.0 hotrank.com.tw
 0.0.0.0 hoverowl.com
+0.0.0.0 how-to-create-a-resignation-letter.com
 0.0.0.0 hs-analytics.net
 0.0.0.0 hsadspixel.net
 0.0.0.0 htlbid.com
