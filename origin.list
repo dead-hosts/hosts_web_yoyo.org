@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 16 Apr 2020 08:26:25 GMT
-# entries:        3331
+# last updated:   Thu, 16 Apr 2020 10:42:28 GMT
+# entries:        3332
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -1375,6 +1375,7 @@
 0.0.0.0 conversantmedia.com
 0.0.0.0 conversionbet.com
 0.0.0.0 conversionruler.com
+0.0.0.0 convertingtraffic.com
 0.0.0.0 convrse.media
 0.0.0.0 cookies.cmpnet.com
 0.0.0.0 coordinatedcub.com
