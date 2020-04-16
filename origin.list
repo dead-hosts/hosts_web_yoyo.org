@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 16 Apr 2020 12:25:09 GMT
-# entries:        3334
+# last updated:   Thu, 16 Apr 2020 13:17:15 GMT
+# entries:        3336
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -1025,6 +1025,7 @@
 0.0.0.0 augur.io
 0.0.0.0 auto-bannertausch.de
 0.0.0.0 automaticflock.com
+0.0.0.0 avazutracking.net
 0.0.0.0 avenuea.com
 0.0.0.0 avocet.io
 0.0.0.0 avpa.javalobby.org
@@ -3101,6 +3102,7 @@
 0.0.0.0 traktrafficflow.com
 0.0.0.0 tranquilside.com
 0.0.0.0 travis.bosscasinos.com
+0.0.0.0 trcking4wdm.de
 0.0.0.0 trcklion.com
 0.0.0.0 treasuredata.com
 0.0.0.0 trekdata.com
