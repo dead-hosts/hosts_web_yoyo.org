@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 15 Apr 2020 12:54:36 GMT
-# entries:        3326
+# last updated:   Thu, 16 Apr 2020 08:26:25 GMT
+# entries:        3331
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -52,6 +52,8 @@
 0.0.0.0 a.sakh.com
 0.0.0.0 a.ucoz.net
 0.0.0.0 a.ucoz.ru
+0.0.0.0 a.vfghd.com
+0.0.0.0 a.vfgtb.com
 0.0.0.0 a.xanga.com
 0.0.0.0 a135.wftv.com
 0.0.0.0 aaddzz.com
@@ -1336,6 +1338,7 @@
 0.0.0.0 cluster.adultworld.com
 0.0.0.0 clustrmaps.com
 0.0.0.0 cmp.dmgmediaprivacy.co.uk
+0.0.0.0 cmvrclicks000.com
 0.0.0.0 cnomy.com
 0.0.0.0 cnt.spbland.ru
 0.0.0.0 cnt1.pocitadlo.cz
@@ -1699,6 +1702,7 @@
 0.0.0.0 freshmarketer.com
 0.0.0.0 frightenedpotato.com
 0.0.0.0 frtyj.com
+0.0.0.0 frtyk.com
 0.0.0.0 fukc69xo.us
 0.0.0.0 fullstory.com
 0.0.0.0 functionalcrown.com
@@ -2923,6 +2927,7 @@
 0.0.0.0 swimslope.com
 0.0.0.0 swordfishdc.com
 0.0.0.0 swordgoose.com
+0.0.0.0 t.bawafx.com
 0.0.0.0 t.eloqua.com
 0.0.0.0 t.firstpromoter.com
 0.0.0.0 t.insigit.com
