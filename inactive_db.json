@@ -72,9 +72,6 @@
         "1586442396": {
             "ads.bluesq.com": "INACTIVE"
         },
-        "1587024549": {
-            "ads.canalblog.com": "INACTIVE"
-        },
         "1587029281": {
             "ads.bloomberg.com": "INACTIVE"
         },
@@ -134,6 +131,9 @@
         },
         "1587100347": {
             "ads.crakmedia.com": "INACTIVE"
+        },
+        "1587113494": {
+            "ads.canalblog.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
