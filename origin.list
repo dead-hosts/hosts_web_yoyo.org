@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 17 Apr 2020 15:30:43 GMT
-# entries:        3333
+# last updated:   Fri, 17 Apr 2020 19:35:46 GMT
+# entries:        3334
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -359,6 +359,7 @@
 0.0.0.0 adrta.com
 0.0.0.0 ads-click.com
 0.0.0.0 ads-game-187f4.firebaseapp.com
+0.0.0.0 ads-giris.com
 0.0.0.0 ads-software.net
 0.0.0.0 ads-trk.vidible.tv
 0.0.0.0 ads-twitter.com

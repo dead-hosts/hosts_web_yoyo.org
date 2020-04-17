@@ -1024,6 +1024,11 @@
         "expiration_date": "19-dec-2020",
         "state": "future"
     },
+    "ads-giris.com": {
+        "epoch": 1618444800.0,
+        "expiration_date": "15-apr-2021",
+        "state": "future"
+    },
     "ads-software.net": {
         "epoch": 1587600000.0,
         "expiration_date": "23-apr-2020",
