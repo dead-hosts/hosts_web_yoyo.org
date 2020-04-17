@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 16 Apr 2020 13:17:15 GMT
-# entries:        3332
+# last updated:   Fri, 17 Apr 2020 15:30:43 GMT
+# entries:        3333
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -2111,6 +2111,7 @@
 0.0.0.0 marketingsolutions.yahoo.com
 0.0.0.0 marketo.com
 0.0.0.0 mas.sector.sk
+0.0.0.0 massivemark.com
 0.0.0.0 matchcraft.com
 0.0.0.0 matheranalytics.com
 0.0.0.0 mathtag.com
