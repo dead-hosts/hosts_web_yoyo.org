@@ -75,9 +75,6 @@
         "1587064502": {
             "adnet.worldreviewer.com": "INACTIVE"
         },
-        "1587087086": {
-            "ads.trinitymirror.co.uk": "INACTIVE"
-        },
         "1587091380": {
             "ads.scifi.com": "INACTIVE",
             "ads.viksaffiliates.com": "INACTIVE"
@@ -94,6 +91,9 @@
         "1587163082": {
             "ad.intl.xiaomi.com": "INACTIVE",
             "ad.xiaomi.com": "INACTIVE"
+        },
+        "1587176678": {
+            "ads.datingyes.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
