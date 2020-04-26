@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 22 Apr 2020 23:18:12 GMT
-# entries:        3336
+# last updated:   Sun, 26 Apr 2020 17:14:25 GMT
+# entries:        3337
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -2370,6 +2370,7 @@
 0.0.0.0 otto-images.developershed.com
 0.0.0.0 ouh3igaeb.com
 0.0.0.0 outbrain.com
+0.0.0.0 overconfidentfood.com
 0.0.0.0 overture.com
 0.0.0.0 owebmoney.ru
 0.0.0.0 owlsr.us

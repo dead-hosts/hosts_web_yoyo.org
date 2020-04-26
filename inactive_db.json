@@ -1,5 +1,12 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/domains.list": {
+        "ad.digitallook.com": {
+            "included_at_epoch": 1587919639.78807,
+            "included_at_iso": "2020-04-26T16:47:19.788070",
+            "last_retested_at_epoch": 1587919639.78807,
+            "last_retested_at_iso": "2020-04-26T16:47:19.788070",
+            "status": "INACTIVE"
+        },
         "ad.intl.xiaomi.com": {
             "included_at_epoch": 1587163082.0,
             "included_at_iso": "2020-04-17T22:38:02",
