@@ -3,8 +3,8 @@
         "ad.intl.xiaomi.com": {
             "included_at_epoch": 1587163082.0,
             "included_at_iso": "2020-04-17T22:38:02",
-            "last_retested_at_epoch": 1587163082.0,
-            "last_retested_at_iso": "2020-04-17T22:38:02",
+            "last_retested_at_epoch": 1587916245.644076,
+            "last_retested_at_iso": "2020-04-26T15:50:45.644076",
             "status": "INACTIVE"
         },
         "ad.thewheelof.com": {
@@ -17,8 +17,8 @@
         "ad.xiaomi.com": {
             "included_at_epoch": 1587163082.0,
             "included_at_iso": "2020-04-17T22:38:02",
-            "last_retested_at_epoch": 1587163082.0,
-            "last_retested_at_iso": "2020-04-17T22:38:02",
+            "last_retested_at_epoch": 1587916245.688476,
+            "last_retested_at_iso": "2020-04-26T15:50:45.688476",
             "status": "INACTIVE"
         },
         "adnet.worldreviewer.com": {
@@ -42,18 +42,18 @@
             "last_retested_at_iso": "2020-04-09T14:26:36",
             "status": "INACTIVE"
         },
-        "ads.brabys.com": {
-            "included_at_epoch": 1587127018.0,
-            "included_at_iso": "2020-04-17T12:36:58",
-            "last_retested_at_epoch": 1587127018.0,
-            "last_retested_at_iso": "2020-04-17T12:36:58",
+        "ads.canalblog.com": {
+            "included_at_epoch": 1587916248.226426,
+            "included_at_iso": "2020-04-26T15:50:48.226426",
+            "last_retested_at_epoch": 1587916248.226426,
+            "last_retested_at_iso": "2020-04-26T15:50:48.226426",
             "status": "INACTIVE"
         },
-        "ads.datingyes.com": {
-            "included_at_epoch": 1587176678.0,
-            "included_at_iso": "2020-04-18T02:24:38",
-            "last_retested_at_epoch": 1587176678.0,
-            "last_retested_at_iso": "2020-04-18T02:24:38",
+        "ads.edbindex.dk": {
+            "included_at_epoch": 1587916248.29776,
+            "included_at_iso": "2020-04-26T15:50:48.297760",
+            "last_retested_at_epoch": 1587916248.29776,
+            "last_retested_at_iso": "2020-04-26T15:50:48.297760",
             "status": "INACTIVE"
         }
     },
