@@ -62,6 +62,13 @@
             "last_retested_at_epoch": 1587916248.29776,
             "last_retested_at_iso": "2020-04-26T15:50:48.297760",
             "status": "INACTIVE"
+        },
+        "ads.recoletos.es": {
+            "included_at_epoch": 1587939639.875995,
+            "included_at_iso": "2020-04-26T22:20:39.875995",
+            "last_retested_at_epoch": 1587939639.875995,
+            "last_retested_at_iso": "2020-04-26T22:20:39.875995",
+            "status": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
