@@ -28,6 +28,13 @@
             "last_retested_at_iso": "2020-04-26T15:50:45.688476",
             "status": "INACTIVE"
         },
+        "adman.otenet.gr": {
+            "included_at_epoch": 1587967709.504887,
+            "included_at_iso": "2020-04-27T06:08:29.504887",
+            "last_retested_at_epoch": 1587967709.504887,
+            "last_retested_at_iso": "2020-04-27T06:08:29.504887",
+            "status": "INACTIVE"
+        },
         "adnet.worldreviewer.com": {
             "included_at_epoch": 1587064502.0,
             "included_at_iso": "2020-04-16T19:15:02",
