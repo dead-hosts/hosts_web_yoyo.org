@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 26 Apr 2020 17:14:25 GMT
-# entries:        3337
+# last updated:   Mon, 27 Apr 2020 10:50:46 GMT
+# entries:        3339
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -1785,6 +1785,8 @@
 0.0.0.0 harrenmedia.com
 0.0.0.0 harrenmedianetwork.com
 0.0.0.0 havamedia.net
+0.0.0.0 hb.afl.rakuten.co.jp
+0.0.0.0 hbb.afl.rakuten.co.jp
 0.0.0.0 hdscout.com
 0.0.0.0 heap.com
 0.0.0.0 heias.com
