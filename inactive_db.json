@@ -1,5 +1,12 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/domains.list": {
+        "ad.hbv.de": {
+            "included_at_epoch": 1588016707.635038,
+            "included_at_iso": "2020-04-27T19:45:07.635038",
+            "last_retested_at_epoch": 1588016707.635038,
+            "last_retested_at_iso": "2020-04-27T19:45:07.635038",
+            "status": "INACTIVE"
+        },
         "ad.intl.xiaomi.com": {
             "included_at_epoch": 1587163082.0,
             "included_at_iso": "2020-04-17T22:38:02",
