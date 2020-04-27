@@ -56,6 +56,13 @@
             "last_retested_at_iso": "2020-04-27T16:25:36.797847",
             "status": "INACTIVE"
         },
+        "ads.edbindex.dk": {
+            "included_at_epoch": 1588012522.800154,
+            "included_at_iso": "2020-04-27T18:35:22.800154",
+            "last_retested_at_epoch": 1588012522.800154,
+            "last_retested_at_iso": "2020-04-27T18:35:22.800154",
+            "status": "INACTIVE"
+        },
         "ads.recoletos.es": {
             "included_at_epoch": 1587939639.875995,
             "included_at_iso": "2020-04-26T22:20:39.875995",
