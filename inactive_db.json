@@ -63,13 +63,6 @@
             "last_retested_at_iso": "2020-04-28T21:10:36.994641",
             "status": "INACTIVE"
         },
-        "ads.yourfreedvds.com": {
-            "included_at_epoch": 1588029189.453932,
-            "included_at_iso": "2020-04-27T23:13:09.453932",
-            "last_retested_at_epoch": 1588029189.453932,
-            "last_retested_at_iso": "2020-04-27T23:13:09.453932",
-            "status": "INACTIVE"
-        },
         "adserver.o2.pl": {
             "included_at_epoch": 1588045309.134538,
             "included_at_iso": "2020-04-28T03:41:49.134538",
