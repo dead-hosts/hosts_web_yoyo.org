@@ -56,6 +56,13 @@
             "last_retested_at_iso": "2020-04-28T17:34:56.098729",
             "status": "INACTIVE"
         },
+        "ads.edbindex.dk": {
+            "included_at_epoch": 1588108236.994641,
+            "included_at_iso": "2020-04-28T21:10:36.994641",
+            "last_retested_at_epoch": 1588108236.994641,
+            "last_retested_at_iso": "2020-04-28T21:10:36.994641",
+            "status": "INACTIVE"
+        },
         "ads.yourfreedvds.com": {
             "included_at_epoch": 1588029189.453932,
             "included_at_iso": "2020-04-27T23:13:09.453932",
