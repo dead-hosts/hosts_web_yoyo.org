@@ -10,8 +10,8 @@
         "ad.intl.xiaomi.com": {
             "included_at_epoch": 1587163082.0,
             "included_at_iso": "2020-04-17T22:38:02",
-            "last_retested_at_epoch": 1588004734.261538,
-            "last_retested_at_iso": "2020-04-27T16:25:34.261538",
+            "last_retested_at_epoch": 1588095293.599422,
+            "last_retested_at_iso": "2020-04-28T17:34:53.599422",
             "status": "INACTIVE"
         },
         "ad.thewheelof.com": {
@@ -24,8 +24,8 @@
         "ad.xiaomi.com": {
             "included_at_epoch": 1587163082.0,
             "included_at_iso": "2020-04-17T22:38:02",
-            "last_retested_at_epoch": 1588004734.302657,
-            "last_retested_at_iso": "2020-04-27T16:25:34.302657",
+            "last_retested_at_epoch": 1588095293.628915,
+            "last_retested_at_iso": "2020-04-28T17:34:53.628915",
             "status": "INACTIVE"
         },
         "adnet.worldreviewer.com": {
@@ -59,8 +59,8 @@
         "ads.canalblog.com": {
             "included_at_epoch": 1587916248.226426,
             "included_at_iso": "2020-04-26T15:50:48.226426",
-            "last_retested_at_epoch": 1588004736.797847,
-            "last_retested_at_iso": "2020-04-27T16:25:36.797847",
+            "last_retested_at_epoch": 1588095296.098729,
+            "last_retested_at_iso": "2020-04-28T17:34:56.098729",
             "status": "INACTIVE"
         },
         "ads.edbindex.dk": {
