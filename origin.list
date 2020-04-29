@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 28 Apr 2020 11:32:40 GMT
-# entries:        3342
+# last updated:   Wed, 29 Apr 2020 11:10:38 GMT
+# entries:        3343
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -959,6 +959,7 @@
 0.0.0.0 analytics.google.com
 0.0.0.0 analytics.htmedia.in
 0.0.0.0 analytics.icons8.com
+0.0.0.0 analytics.inlinemanual.com
 0.0.0.0 analytics.jabong.com
 0.0.0.0 analytics.live.com
 0.0.0.0 analytics.mailmunch.co
