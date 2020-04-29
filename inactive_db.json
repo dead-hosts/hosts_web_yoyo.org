@@ -55,6 +55,13 @@
             "last_retested_at_epoch": 1588108236.994641,
             "last_retested_at_iso": "2020-04-28T21:10:36.994641",
             "status": "INACTIVE"
+        },
+        "ads.nyi.net": {
+            "included_at_epoch": 1588181472.468446,
+            "included_at_iso": "2020-04-29T17:31:12.468446",
+            "last_retested_at_epoch": 1588181472.468446,
+            "last_retested_at_iso": "2020-04-29T17:31:12.468446",
+            "status": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
