@@ -21,6 +21,13 @@
             "last_retested_at_iso": "2020-04-30T12:11:00.289843",
             "status": "INACTIVE"
         },
+        "adfarm.mediaplex.com": {
+            "included_at_epoch": 1588277626.839778,
+            "included_at_iso": "2020-04-30T20:13:46.839778",
+            "last_retested_at_epoch": 1588277626.839778,
+            "last_retested_at_iso": "2020-04-30T20:13:46.839778",
+            "status": "INACTIVE"
+        },
         "adnet.worldreviewer.com": {
             "included_at_epoch": 1587064502.0,
             "included_at_iso": "2020-04-16T19:15:02",
