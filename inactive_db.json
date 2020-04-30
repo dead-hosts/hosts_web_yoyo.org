@@ -56,6 +56,13 @@
             "last_retested_at_iso": "2020-04-30T19:18:22.967409",
             "status": "INACTIVE"
         },
+        "ads.printscr.com": {
+            "included_at_epoch": 1588281635.136283,
+            "included_at_iso": "2020-04-30T21:20:35.136283",
+            "last_retested_at_epoch": 1588281635.136283,
+            "last_retested_at_iso": "2020-04-30T21:20:35.136283",
+            "status": "INACTIVE"
+        },
         "ads.recoletos.es": {
             "included_at_epoch": 1588270164.688804,
             "included_at_iso": "2020-04-30T18:09:24.688804",
