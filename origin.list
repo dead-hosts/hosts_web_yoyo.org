@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 29 Apr 2020 11:20:48 GMT
-# entries:        3344
+# last updated:   Thu, 30 Apr 2020 16:39:51 GMT
+# entries:        3345
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -742,6 +742,7 @@
 0.0.0.0 adserver.irishwebmasterforum.com
 0.0.0.0 adserver.janes.com
 0.0.0.0 adserver.libero.it
+0.0.0.0 adserver.mobi
 0.0.0.0 adserver.news.com.au
 0.0.0.0 adserver.nydailynews.com
 0.0.0.0 adserver.o2.pl
