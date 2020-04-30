@@ -3,8 +3,8 @@
         "ad.intl.xiaomi.com": {
             "included_at_epoch": 1587163082.0,
             "included_at_iso": "2020-04-17T22:38:02",
-            "last_retested_at_epoch": 1588095293.599422,
-            "last_retested_at_iso": "2020-04-28T17:34:53.599422",
+            "last_retested_at_epoch": 1588248660.25238,
+            "last_retested_at_iso": "2020-04-30T12:11:00.252380",
             "status": "INACTIVE"
         },
         "ad.thewheelof.com": {
@@ -17,8 +17,8 @@
         "ad.xiaomi.com": {
             "included_at_epoch": 1587163082.0,
             "included_at_iso": "2020-04-17T22:38:02",
-            "last_retested_at_epoch": 1588095293.628915,
-            "last_retested_at_iso": "2020-04-28T17:34:53.628915",
+            "last_retested_at_epoch": 1588248660.289843,
+            "last_retested_at_iso": "2020-04-30T12:11:00.289843",
             "status": "INACTIVE"
         },
         "adnet.worldreviewer.com": {
@@ -26,13 +26,6 @@
             "included_at_iso": "2020-04-16T19:15:02",
             "last_retested_at_epoch": 1587064502.0,
             "last_retested_at_iso": "2020-04-16T19:15:02",
-            "status": "INACTIVE"
-        },
-        "ads.bluelithium.com": {
-            "included_at_epoch": 1585788684.0,
-            "included_at_iso": "2020-04-02T00:51:24",
-            "last_retested_at_epoch": 1585788684.0,
-            "last_retested_at_iso": "2020-04-02T00:51:24",
             "status": "INACTIVE"
         },
         "ads.bluesq.com": {
@@ -45,15 +38,8 @@
         "ads.canalblog.com": {
             "included_at_epoch": 1587916248.226426,
             "included_at_iso": "2020-04-26T15:50:48.226426",
-            "last_retested_at_epoch": 1588095296.098729,
-            "last_retested_at_iso": "2020-04-28T17:34:56.098729",
-            "status": "INACTIVE"
-        },
-        "ads.edbindex.dk": {
-            "included_at_epoch": 1588108236.994641,
-            "included_at_iso": "2020-04-28T21:10:36.994641",
-            "last_retested_at_epoch": 1588108236.994641,
-            "last_retested_at_iso": "2020-04-28T21:10:36.994641",
+            "last_retested_at_epoch": 1588248662.733106,
+            "last_retested_at_iso": "2020-04-30T12:11:02.733106",
             "status": "INACTIVE"
         },
         "ads.nyi.net": {
