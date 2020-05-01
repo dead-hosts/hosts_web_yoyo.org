@@ -3,8 +3,8 @@
         "ad.intl.xiaomi.com": {
             "included_at_epoch": 1587163082.0,
             "included_at_iso": "2020-04-17T22:38:02",
-            "last_retested_at_epoch": 1588248660.25238,
-            "last_retested_at_iso": "2020-04-30T12:11:00.252380",
+            "last_retested_at_epoch": 1588336126.887985,
+            "last_retested_at_iso": "2020-05-01T12:28:46.887985",
             "status": "INACTIVE"
         },
         "ad.thewheelof.com": {
@@ -17,8 +17,8 @@
         "ad.xiaomi.com": {
             "included_at_epoch": 1587163082.0,
             "included_at_iso": "2020-04-17T22:38:02",
-            "last_retested_at_epoch": 1588248660.289843,
-            "last_retested_at_iso": "2020-04-30T12:11:00.289843",
+            "last_retested_at_epoch": 1588336126.925155,
+            "last_retested_at_iso": "2020-05-01T12:28:46.925155",
             "status": "INACTIVE"
         },
         "adfarm.mediaplex.com": {
@@ -45,8 +45,8 @@
         "ads.canalblog.com": {
             "included_at_epoch": 1587916248.226426,
             "included_at_iso": "2020-04-26T15:50:48.226426",
-            "last_retested_at_epoch": 1588248662.733106,
-            "last_retested_at_iso": "2020-04-30T12:11:02.733106",
+            "last_retested_at_epoch": 1588336129.506255,
+            "last_retested_at_iso": "2020-05-01T12:28:49.506255",
             "status": "INACTIVE"
         },
         "ads.detelefoongids.nl": {
