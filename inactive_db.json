@@ -90,6 +90,27 @@
             "last_retested_at_epoch": 1588347607.578173,
             "last_retested_at_iso": "2020-05-01T15:40:07.578173",
             "status": "INACTIVE"
+        },
+        "measure.office.com": {
+            "included_at_epoch": 1588351531.67752,
+            "included_at_iso": "2020-05-01T16:45:31.677520",
+            "last_retested_at_epoch": 1588351531.67752,
+            "last_retested_at_iso": "2020-05-01T16:45:31.677520",
+            "status": "INACTIVE"
+        },
+        "mtrcs.samba.tv": {
+            "included_at_epoch": 1588351533.183009,
+            "included_at_iso": "2020-05-01T16:45:33.183009",
+            "last_retested_at_epoch": 1588351533.183009,
+            "last_retested_at_iso": "2020-05-01T16:45:33.183009",
+            "status": "INACTIVE"
+        },
+        "pgl.example0101": {
+            "included_at_epoch": 1588351536.302098,
+            "included_at_iso": "2020-05-01T16:45:36.302098",
+            "last_retested_at_epoch": 1588351536.302098,
+            "last_retested_at_iso": "2020-05-01T16:45:36.302098",
+            "status": "INVALID"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
