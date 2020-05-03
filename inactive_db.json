@@ -66,29 +66,29 @@
         "measure.office.com": {
             "included_at_epoch": 1588351531.67752,
             "included_at_iso": "2020-05-01T16:45:31.677520",
-            "last_retested_at_epoch": 1588351531.67752,
-            "last_retested_at_iso": "2020-05-01T16:45:31.677520",
+            "last_retested_at_epoch": 1588516804.826255,
+            "last_retested_at_iso": "2020-05-03T14:40:04.826255",
             "status": "INACTIVE"
         },
         "mtrcs.samba.tv": {
             "included_at_epoch": 1588351533.183009,
             "included_at_iso": "2020-05-01T16:45:33.183009",
-            "last_retested_at_epoch": 1588351533.183009,
-            "last_retested_at_iso": "2020-05-01T16:45:33.183009",
+            "last_retested_at_epoch": 1588516806.358353,
+            "last_retested_at_iso": "2020-05-03T14:40:06.358353",
             "status": "INACTIVE"
         },
         "pgl.example0101": {
             "included_at_epoch": 1588351536.302098,
             "included_at_iso": "2020-05-01T16:45:36.302098",
-            "last_retested_at_epoch": 1588351536.302098,
-            "last_retested_at_iso": "2020-05-01T16:45:36.302098",
+            "last_retested_at_epoch": 1588516809.498622,
+            "last_retested_at_iso": "2020-05-03T14:40:09.498622",
             "status": "INVALID"
         },
         "stat.xiaomi.com": {
             "included_at_epoch": 1588354998.697395,
             "included_at_iso": "2020-05-01T17:43:18.697395",
-            "last_retested_at_epoch": 1588354998.697395,
-            "last_retested_at_iso": "2020-05-01T17:43:18.697395",
+            "last_retested_at_epoch": 1588516816.558588,
+            "last_retested_at_iso": "2020-05-03T14:40:16.558588",
             "status": "INACTIVE"
         }
     },
