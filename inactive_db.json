@@ -3,8 +3,8 @@
         "ad.intl.xiaomi.com": {
             "included_at_epoch": 1587163082.0,
             "included_at_iso": "2020-04-17T22:38:02",
-            "last_retested_at_epoch": 1588336126.887985,
-            "last_retested_at_iso": "2020-05-01T12:28:46.887985",
+            "last_retested_at_epoch": 1588514544.643886,
+            "last_retested_at_iso": "2020-05-03T14:02:24.643886",
             "status": "INACTIVE"
         },
         "ad.thewheelof.com": {
@@ -17,8 +17,8 @@
         "ad.xiaomi.com": {
             "included_at_epoch": 1587163082.0,
             "included_at_iso": "2020-04-17T22:38:02",
-            "last_retested_at_epoch": 1588336126.925155,
-            "last_retested_at_iso": "2020-05-01T12:28:46.925155",
+            "last_retested_at_epoch": 1588514544.685834,
+            "last_retested_at_iso": "2020-05-03T14:02:24.685834",
             "status": "INACTIVE"
         },
         "adfarm.mediaplex.com": {
@@ -45,36 +45,8 @@
         "ads.canalblog.com": {
             "included_at_epoch": 1587916248.226426,
             "included_at_iso": "2020-04-26T15:50:48.226426",
-            "last_retested_at_epoch": 1588336129.506255,
-            "last_retested_at_iso": "2020-05-01T12:28:49.506255",
-            "status": "INACTIVE"
-        },
-        "ads.detelefoongids.nl": {
-            "included_at_epoch": 1588324219.149116,
-            "included_at_iso": "2020-05-01T09:10:19.149116",
-            "last_retested_at_epoch": 1588324219.149116,
-            "last_retested_at_iso": "2020-05-01T09:10:19.149116",
-            "status": "INACTIVE"
-        },
-        "ads.edbindex.dk": {
-            "included_at_epoch": 1588274302.967409,
-            "included_at_iso": "2020-04-30T19:18:22.967409",
-            "last_retested_at_epoch": 1588274302.967409,
-            "last_retested_at_iso": "2020-04-30T19:18:22.967409",
-            "status": "INACTIVE"
-        },
-        "ads.printscr.com": {
-            "included_at_epoch": 1588281635.136283,
-            "included_at_iso": "2020-04-30T21:20:35.136283",
-            "last_retested_at_epoch": 1588281635.136283,
-            "last_retested_at_iso": "2020-04-30T21:20:35.136283",
-            "status": "INACTIVE"
-        },
-        "ads.recoletos.es": {
-            "included_at_epoch": 1588270164.688804,
-            "included_at_iso": "2020-04-30T18:09:24.688804",
-            "last_retested_at_epoch": 1588270164.688804,
-            "last_retested_at_iso": "2020-04-30T18:09:24.688804",
+            "last_retested_at_epoch": 1588514547.242662,
+            "last_retested_at_iso": "2020-05-03T14:02:27.242662",
             "status": "INACTIVE"
         },
         "adsrv.eacdn.com": {

@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 30 Apr 2020 16:39:51 GMT
-# entries:        3342
+# last updated:   Sat, 02 May 2020 17:57:26 GMT
+# entries:        3343
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sat, 06 May 2000 00:00:00
+# start date:    Mon, 08 May 2000 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -899,6 +899,7 @@
 0.0.0.0 affiliate.mercola.com
 0.0.0.0 affiliate.mogs.com
 0.0.0.0 affiliate.offgamers.com
+0.0.0.0 affiliate.rusvpn.com
 0.0.0.0 affiliate.travelnow.com
 0.0.0.0 affiliate.treated.com
 0.0.0.0 affiliate.viator.com
