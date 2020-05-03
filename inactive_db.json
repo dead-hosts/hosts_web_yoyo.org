@@ -52,15 +52,15 @@
         "adsrv.eacdn.com": {
             "included_at_epoch": 1588347601.002256,
             "included_at_iso": "2020-05-01T15:40:01.002256",
-            "last_retested_at_epoch": 1588347601.002256,
-            "last_retested_at_iso": "2020-05-01T15:40:01.002256",
+            "last_retested_at_epoch": 1588515823.395233,
+            "last_retested_at_iso": "2020-05-03T14:23:43.395233",
             "status": "INACTIVE"
         },
         "clickwith.bid": {
             "included_at_epoch": 1588347607.578173,
             "included_at_iso": "2020-05-01T15:40:07.578173",
-            "last_retested_at_epoch": 1588347607.578173,
-            "last_retested_at_iso": "2020-05-01T15:40:07.578173",
+            "last_retested_at_epoch": 1588515830.104045,
+            "last_retested_at_iso": "2020-05-03T14:23:50.104045",
             "status": "INACTIVE"
         },
         "measure.office.com": {
