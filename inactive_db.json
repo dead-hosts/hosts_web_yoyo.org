@@ -3,8 +3,8 @@
         "ad.intl.xiaomi.com": {
             "included_at_epoch": 1587163082.0,
             "included_at_iso": "2020-04-17T22:38:02",
-            "last_retested_at_epoch": 1588514544.643886,
-            "last_retested_at_iso": "2020-05-03T14:02:24.643886",
+            "last_retested_at_epoch": 1588687597.275799,
+            "last_retested_at_iso": "2020-05-05T14:06:37.275799",
             "status": "INACTIVE"
         },
         "ad.thewheelof.com": {
@@ -17,8 +17,8 @@
         "ad.xiaomi.com": {
             "included_at_epoch": 1587163082.0,
             "included_at_iso": "2020-04-17T22:38:02",
-            "last_retested_at_epoch": 1588514544.685834,
-            "last_retested_at_iso": "2020-05-03T14:02:24.685834",
+            "last_retested_at_epoch": 1588687597.310896,
+            "last_retested_at_iso": "2020-05-05T14:06:37.310896",
             "status": "INACTIVE"
         },
         "adfarm.mediaplex.com": {
@@ -45,8 +45,15 @@
         "ads.canalblog.com": {
             "included_at_epoch": 1587916248.226426,
             "included_at_iso": "2020-04-26T15:50:48.226426",
-            "last_retested_at_epoch": 1588514547.242662,
-            "last_retested_at_iso": "2020-05-03T14:02:27.242662",
+            "last_retested_at_epoch": 1588687600.033515,
+            "last_retested_at_iso": "2020-05-05T14:06:40.033515",
+            "status": "INACTIVE"
+        },
+        "ads.yourfreedvds.com": {
+            "included_at_epoch": 1588687600.399535,
+            "included_at_iso": "2020-05-05T14:06:40.399535",
+            "last_retested_at_epoch": 1588687600.399535,
+            "last_retested_at_iso": "2020-05-05T14:06:40.399535",
             "status": "INACTIVE"
         },
         "adsrv.eacdn.com": {
