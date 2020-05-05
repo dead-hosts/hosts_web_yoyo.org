@@ -56,18 +56,25 @@
             "last_retested_at_iso": "2020-05-05T14:06:40.399535",
             "status": "INACTIVE"
         },
+        "adserver.portugalmail.pt": {
+            "included_at_epoch": 1588688578.164548,
+            "included_at_iso": "2020-05-05T14:22:58.164548",
+            "last_retested_at_epoch": 1588688578.164548,
+            "last_retested_at_iso": "2020-05-05T14:22:58.164548",
+            "status": "INACTIVE"
+        },
         "adsrv.eacdn.com": {
             "included_at_epoch": 1588347601.002256,
             "included_at_iso": "2020-05-01T15:40:01.002256",
-            "last_retested_at_epoch": 1588515823.395233,
-            "last_retested_at_iso": "2020-05-03T14:23:43.395233",
+            "last_retested_at_epoch": 1588688578.625306,
+            "last_retested_at_iso": "2020-05-05T14:22:58.625306",
             "status": "INACTIVE"
         },
         "clickwith.bid": {
             "included_at_epoch": 1588347607.578173,
             "included_at_iso": "2020-05-01T15:40:07.578173",
-            "last_retested_at_epoch": 1588515830.104045,
-            "last_retested_at_iso": "2020-05-03T14:23:50.104045",
+            "last_retested_at_epoch": 1588688585.62487,
+            "last_retested_at_iso": "2020-05-05T14:23:05.624870",
             "status": "INACTIVE"
         },
         "measure.office.com": {
