@@ -10,8 +10,8 @@
         "ad.thewheelof.com": {
             "included_at_epoch": 1586442394.0,
             "included_at_iso": "2020-04-09T14:26:34",
-            "last_retested_at_epoch": 1588517709.521245,
-            "last_retested_at_iso": "2020-05-03T14:55:09.521245",
+            "last_retested_at_epoch": 1588690283.840052,
+            "last_retested_at_iso": "2020-05-05T14:51:23.840052",
             "status": "INACTIVE"
         },
         "ad.xiaomi.com": {
@@ -24,22 +24,22 @@
         "adfarm.mediaplex.com": {
             "included_at_epoch": 1588277626.839778,
             "included_at_iso": "2020-04-30T20:13:46.839778",
-            "last_retested_at_epoch": 1588517709.525519,
-            "last_retested_at_iso": "2020-05-03T14:55:09.525519",
+            "last_retested_at_epoch": 1588690283.849163,
+            "last_retested_at_iso": "2020-05-05T14:51:23.849163",
             "status": "INACTIVE"
         },
         "adnet.worldreviewer.com": {
             "included_at_epoch": 1587064502.0,
             "included_at_iso": "2020-04-16T19:15:02",
-            "last_retested_at_epoch": 1588517709.529662,
-            "last_retested_at_iso": "2020-05-03T14:55:09.529662",
+            "last_retested_at_epoch": 1588690283.853234,
+            "last_retested_at_iso": "2020-05-05T14:51:23.853234",
             "status": "INACTIVE"
         },
         "ads.bluesq.com": {
             "included_at_epoch": 1586442396.0,
             "included_at_iso": "2020-04-09T14:26:36",
-            "last_retested_at_epoch": 1588517709.516348,
-            "last_retested_at_iso": "2020-05-03T14:55:09.516348",
+            "last_retested_at_epoch": 1588690283.844839,
+            "last_retested_at_iso": "2020-05-05T14:51:23.844839",
             "status": "INACTIVE"
         },
         "ads.canalblog.com": {
@@ -101,8 +101,8 @@
         "stat.xiaomi.com": {
             "included_at_epoch": 1588354998.697395,
             "included_at_iso": "2020-05-01T17:43:18.697395",
-            "last_retested_at_epoch": 1588516816.558588,
-            "last_retested_at_iso": "2020-05-03T14:40:16.558588",
+            "last_retested_at_epoch": 1588690257.686317,
+            "last_retested_at_iso": "2020-05-05T14:50:57.686317",
             "status": "INACTIVE"
         }
     },
