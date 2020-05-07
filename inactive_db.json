@@ -66,22 +66,43 @@
         "adserver.portugalmail.pt": {
             "included_at_epoch": 1588688578.164548,
             "included_at_iso": "2020-05-05T14:22:58.164548",
-            "last_retested_at_epoch": 1588688578.164548,
-            "last_retested_at_iso": "2020-05-05T14:22:58.164548",
+            "last_retested_at_epoch": 1588861668.666326,
+            "last_retested_at_iso": "2020-05-07T14:27:48.666326",
             "status": "INACTIVE"
         },
         "adsrv.eacdn.com": {
             "included_at_epoch": 1588347601.002256,
             "included_at_iso": "2020-05-01T15:40:01.002256",
-            "last_retested_at_epoch": 1588688578.625306,
-            "last_retested_at_iso": "2020-05-05T14:22:58.625306",
+            "last_retested_at_epoch": 1588861669.097223,
+            "last_retested_at_iso": "2020-05-07T14:27:49.097223",
+            "status": "INACTIVE"
+        },
+        "affiliate.mercola.com": {
+            "included_at_epoch": 1588861670.466245,
+            "included_at_iso": "2020-05-07T14:27:50.466245",
+            "last_retested_at_epoch": 1588861670.466245,
+            "last_retested_at_iso": "2020-05-07T14:27:50.466245",
+            "status": "INACTIVE"
+        },
+        "banner.orb.net": {
+            "included_at_epoch": 1588861672.201528,
+            "included_at_iso": "2020-05-07T14:27:52.201528",
+            "last_retested_at_epoch": 1588861672.201528,
+            "last_retested_at_iso": "2020-05-07T14:27:52.201528",
+            "status": "INACTIVE"
+        },
+        "bannersng.yell.com": {
+            "included_at_epoch": 1588861672.449417,
+            "included_at_iso": "2020-05-07T14:27:52.449417",
+            "last_retested_at_epoch": 1588861672.449417,
+            "last_retested_at_iso": "2020-05-07T14:27:52.449417",
             "status": "INACTIVE"
         },
         "clickwith.bid": {
             "included_at_epoch": 1588347607.578173,
             "included_at_iso": "2020-05-01T15:40:07.578173",
-            "last_retested_at_epoch": 1588688585.62487,
-            "last_retested_at_iso": "2020-05-05T14:23:05.624870",
+            "last_retested_at_epoch": 1588861675.753806,
+            "last_retested_at_iso": "2020-05-07T14:27:55.753806",
             "status": "INACTIVE"
         },
         "measure.office.com": {
