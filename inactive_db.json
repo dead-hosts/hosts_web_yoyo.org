@@ -3,8 +3,8 @@
         "ad.intl.xiaomi.com": {
             "included_at_epoch": 1587163082.0,
             "included_at_iso": "2020-04-17T22:38:02",
-            "last_retested_at_epoch": 1588687597.275799,
-            "last_retested_at_iso": "2020-05-05T14:06:37.275799",
+            "last_retested_at_epoch": 1588860802.360722,
+            "last_retested_at_iso": "2020-05-07T14:13:22.360722",
             "status": "INACTIVE"
         },
         "ad.thewheelof.com": {
@@ -17,8 +17,8 @@
         "ad.xiaomi.com": {
             "included_at_epoch": 1587163082.0,
             "included_at_iso": "2020-04-17T22:38:02",
-            "last_retested_at_epoch": 1588687597.310896,
-            "last_retested_at_iso": "2020-05-05T14:06:37.310896",
+            "last_retested_at_epoch": 1588860802.409825,
+            "last_retested_at_iso": "2020-05-07T14:13:22.409825",
             "status": "INACTIVE"
         },
         "adfarm.mediaplex.com": {
@@ -45,15 +45,22 @@
         "ads.canalblog.com": {
             "included_at_epoch": 1587916248.226426,
             "included_at_iso": "2020-04-26T15:50:48.226426",
-            "last_retested_at_epoch": 1588687600.033515,
-            "last_retested_at_iso": "2020-05-05T14:06:40.033515",
+            "last_retested_at_epoch": 1588860805.160231,
+            "last_retested_at_iso": "2020-05-07T14:13:25.160231",
             "status": "INACTIVE"
         },
-        "ads.yourfreedvds.com": {
-            "included_at_epoch": 1588687600.399535,
-            "included_at_iso": "2020-05-05T14:06:40.399535",
-            "last_retested_at_epoch": 1588687600.399535,
-            "last_retested_at_iso": "2020-05-05T14:06:40.399535",
+        "ads.edbindex.dk": {
+            "included_at_epoch": 1588860805.226399,
+            "included_at_iso": "2020-05-07T14:13:25.226399",
+            "last_retested_at_epoch": 1588860805.226399,
+            "last_retested_at_iso": "2020-05-07T14:13:25.226399",
+            "status": "INACTIVE"
+        },
+        "ads.mmania.com": {
+            "included_at_epoch": 1588860805.350916,
+            "included_at_iso": "2020-05-07T14:13:25.350916",
+            "last_retested_at_epoch": 1588860805.350916,
+            "last_retested_at_iso": "2020-05-07T14:13:25.350916",
             "status": "INACTIVE"
         },
         "adserver.portugalmail.pt": {
