@@ -4245,8 +4245,8 @@
         "state": "future"
     },
     "erne.co": {
-        "epoch": 1588723200.0,
-        "expiration_date": "06-may-2020",
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
         "state": "future"
     },
     "ero-advertising.com": {
@@ -4724,6 +4724,16 @@
         "expiration_date": "22-jan-2021",
         "state": "future"
     },
+    "free-counter.co.uk": {
+        "epoch": 1594425600.0,
+        "expiration_date": "11-jul-2020",
+        "state": "future"
+    },
+    "free-counters.co.uk": {
+        "epoch": 1648080000.0,
+        "expiration_date": "24-mar-2022",
+        "state": "future"
+    },
     "freebanner.com": {
         "epoch": 1610409600.0,
         "expiration_date": "12-jan-2021",
@@ -4875,8 +4885,8 @@
         "state": "future"
     },
     "ga87z2o.com": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
         "state": "future"
     },
     "gadsbee.com": {
@@ -5445,8 +5455,8 @@
         "state": "future"
     },
     "hyprmx.com": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
         "state": "future"
     },
     "hystericalhelp.com": {
@@ -5545,8 +5555,8 @@
         "state": "future"
     },
     "imagecash.net": {
-        "epoch": 1588723200.0,
-        "expiration_date": "06-may-2020",
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
         "state": "future"
     },
     "imarketservices.com": {
@@ -5990,8 +6000,8 @@
         "state": "future"
     },
     "kanoodle.com": {
-        "epoch": 1588723200.0,
-        "expiration_date": "06-may-2020",
+        "epoch": 1872720000.0,
+        "expiration_date": "06-may-2029",
         "state": "future"
     },
     "kargo.com": {
@@ -6210,8 +6220,8 @@
         "state": "future"
     },
     "lightspeedcash.com": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
         "state": "future"
     },
     "lijit.com": {
@@ -6640,8 +6650,8 @@
         "state": "future"
     },
     "metaffiliation.com": {
-        "epoch": 1588723200.0,
-        "expiration_date": "06-may-2020",
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
         "state": "future"
     },
     "metanetwork.com": {
@@ -8115,9 +8125,9 @@
         "state": "future"
     },
     "pstmrk.it": {
-        "epoch": 1587340800.0,
-        "expiration_date": "20-apr-2020",
-        "state": "past"
+        "epoch": 1618876800.0,
+        "expiration_date": "20-apr-2021",
+        "state": "future"
     },
     "pub.network": {
         "epoch": 1620604800.0,
@@ -8415,8 +8425,8 @@
         "state": "future"
     },
     "realtracker.com": {
-        "epoch": 1588723200.0,
-        "expiration_date": "06-may-2020",
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
         "state": "future"
     },
     "rebelsubway.com": {
