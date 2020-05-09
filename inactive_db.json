@@ -52,8 +52,8 @@
         "adsrv.eacdn.com": {
             "included_at_epoch": 1588347601.002256,
             "included_at_iso": "2020-05-01T15:40:01.002256",
-            "last_retested_at_epoch": 1588861669.097223,
-            "last_retested_at_iso": "2020-05-07T14:27:49.097223",
+            "last_retested_at_epoch": 1589033660.372705,
+            "last_retested_at_iso": "2020-05-09T14:14:20.372705",
             "status": "INACTIVE"
         },
         "affiliate.mercola.com": {
@@ -63,25 +63,11 @@
             "last_retested_at_iso": "2020-05-07T14:27:50.466245",
             "status": "INACTIVE"
         },
-        "banner.orb.net": {
-            "included_at_epoch": 1588861672.201528,
-            "included_at_iso": "2020-05-07T14:27:52.201528",
-            "last_retested_at_epoch": 1588861672.201528,
-            "last_retested_at_iso": "2020-05-07T14:27:52.201528",
-            "status": "INACTIVE"
-        },
-        "bannersng.yell.com": {
-            "included_at_epoch": 1588861672.449417,
-            "included_at_iso": "2020-05-07T14:27:52.449417",
-            "last_retested_at_epoch": 1588861672.449417,
-            "last_retested_at_iso": "2020-05-07T14:27:52.449417",
-            "status": "INACTIVE"
-        },
         "clickwith.bid": {
             "included_at_epoch": 1588347607.578173,
             "included_at_iso": "2020-05-01T15:40:07.578173",
-            "last_retested_at_epoch": 1588861675.753806,
-            "last_retested_at_iso": "2020-05-07T14:27:55.753806",
+            "last_retested_at_epoch": 1589033667.316777,
+            "last_retested_at_iso": "2020-05-09T14:14:27.316777",
             "status": "INACTIVE"
         },
         "measure.office.com": {
