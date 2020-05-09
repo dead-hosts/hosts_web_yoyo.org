@@ -3,15 +3,15 @@
         "ad.intl.xiaomi.com": {
             "included_at_epoch": 1587163082.0,
             "included_at_iso": "2020-04-17T22:38:02",
-            "last_retested_at_epoch": 1588860802.360722,
-            "last_retested_at_iso": "2020-05-07T14:13:22.360722",
+            "last_retested_at_epoch": 1589032938.158416,
+            "last_retested_at_iso": "2020-05-09T14:02:18.158416",
             "status": "INACTIVE"
         },
         "ad.xiaomi.com": {
             "included_at_epoch": 1587163082.0,
             "included_at_iso": "2020-04-17T22:38:02",
-            "last_retested_at_epoch": 1588860802.409825,
-            "last_retested_at_iso": "2020-05-07T14:13:22.409825",
+            "last_retested_at_epoch": 1589032938.197542,
+            "last_retested_at_iso": "2020-05-09T14:02:18.197542",
             "status": "INACTIVE"
         },
         "adfarm.mediaplex.com": {
@@ -31,22 +31,15 @@
         "ads.canalblog.com": {
             "included_at_epoch": 1587916248.226426,
             "included_at_iso": "2020-04-26T15:50:48.226426",
-            "last_retested_at_epoch": 1588860805.160231,
-            "last_retested_at_iso": "2020-05-07T14:13:25.160231",
+            "last_retested_at_epoch": 1589032941.008453,
+            "last_retested_at_iso": "2020-05-09T14:02:21.008453",
             "status": "INACTIVE"
         },
         "ads.edbindex.dk": {
             "included_at_epoch": 1588860805.226399,
             "included_at_iso": "2020-05-07T14:13:25.226399",
-            "last_retested_at_epoch": 1588860805.226399,
-            "last_retested_at_iso": "2020-05-07T14:13:25.226399",
-            "status": "INACTIVE"
-        },
-        "ads.mmania.com": {
-            "included_at_epoch": 1588860805.350916,
-            "included_at_iso": "2020-05-07T14:13:25.350916",
-            "last_retested_at_epoch": 1588860805.350916,
-            "last_retested_at_iso": "2020-05-07T14:13:25.350916",
+            "last_retested_at_epoch": 1589032941.082951,
+            "last_retested_at_iso": "2020-05-09T14:02:21.082951",
             "status": "INACTIVE"
         },
         "adserver.portugalmail.pt": {
