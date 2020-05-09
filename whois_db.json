@@ -4544,6 +4544,11 @@
         "expiration_date": "18-mar-2021",
         "state": "future"
     },
+    "fastgetsoftware.com": {
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
+        "state": "future"
+    },
     "fastly-insights.com": {
         "epoch": 1668556800.0,
         "expiration_date": "16-nov-2022",
@@ -6020,8 +6025,8 @@
         "state": "future"
     },
     "karonty.com": {
-        "epoch": 1588896000.0,
-        "expiration_date": "08-may-2020",
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
         "state": "future"
     },
     "keywee.co": {
@@ -6070,8 +6075,8 @@
         "state": "future"
     },
     "kompasads.com": {
-        "epoch": 1588896000.0,
-        "expiration_date": "08-may-2020",
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
         "state": "future"
     },
     "kontera.com": {
@@ -6545,8 +6550,8 @@
         "state": "future"
     },
     "mediabridge.cc": {
-        "epoch": 1588982400.0,
-        "expiration_date": "09-may-2020",
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
         "state": "future"
     },
     "mediacharger.com": {
