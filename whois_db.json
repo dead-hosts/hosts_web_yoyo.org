@@ -10480,8 +10480,8 @@
         "state": "future"
     },
     "tremorhub.com": {
-        "epoch": 1589068800.0,
-        "expiration_date": "10-may-2020",
+        "epoch": 1652140800.0,
+        "expiration_date": "10-may-2022",
         "state": "future"
     },
     "trendcounter.com": {
@@ -11307,7 +11307,7 @@
     "xtendmedia.com": {
         "epoch": 1589155200.0,
         "expiration_date": "11-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "xtremetop100.com": {
         "epoch": 1687478400.0,
@@ -11417,7 +11417,7 @@
     "zantracker.com": {
         "epoch": 1589155200.0,
         "expiration_date": "11-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "zarget.com": {
         "epoch": 1693526400.0,
