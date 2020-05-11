@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 08 May 2020 16:11:01 GMT
-# entries:        3346
+# last updated:   Mon, 11 May 2020 11:58:38 GMT
+# entries:        3352
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sun, 14 May 2000 00:00:00
+# start date:    Tue, 16 May 2000 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -1581,6 +1581,7 @@
 0.0.0.0 emjcd.com
 0.0.0.0 emltrk.com
 0.0.0.0 emodoinc.com
+0.0.0.0 emptyescort.com
 0.0.0.0 emxdigital.com
 0.0.0.0 en25.com
 0.0.0.0 encouragingwilderness.com
@@ -2242,6 +2243,9 @@
 0.0.0.0 musiccounter.ru
 0.0.0.0 muwmedia.com
 0.0.0.0 mxptint.net
+0.0.0.0 myads.company
+0.0.0.0 myads.net
+0.0.0.0 myads.telkomsel.com
 0.0.0.0 myaffiliateprogram.com
 0.0.0.0 mybestmv.com
 0.0.0.0 mybetterdl.com
@@ -2966,6 +2970,7 @@
 0.0.0.0 tapjoy.com
 0.0.0.0 tappx.com
 0.0.0.0 targad.de
+0.0.0.0 targeting.nzme.arcpublishing.com
 0.0.0.0 targetingnow.com
 0.0.0.0 targetnet.com
 0.0.0.0 targetpoint.com
@@ -3075,6 +3080,7 @@
 0.0.0.0 tracker.samplicio.us
 0.0.0.0 tracker.vgame.us
 0.0.0.0 tracking.crunchiemedia.com
+0.0.0.0 tracking.epicgames.com
 0.0.0.0 tracking.gajmp.com
 0.0.0.0 tracking.ibxlink.com
 0.0.0.0 tracking.inlocomedia.com
