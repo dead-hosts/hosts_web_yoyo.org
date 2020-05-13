@@ -3,15 +3,15 @@
         "ad.intl.xiaomi.com": {
             "included_at_epoch": 1587163082.0,
             "included_at_iso": "2020-04-17T22:38:02",
-            "last_retested_at_epoch": 1589207080.319667,
-            "last_retested_at_iso": "2020-05-11T14:24:40.319667",
+            "last_retested_at_epoch": 1589379332.545829,
+            "last_retested_at_iso": "2020-05-13T14:15:32.545829",
             "status": "INACTIVE"
         },
         "ad.xiaomi.com": {
             "included_at_epoch": 1587163082.0,
             "included_at_iso": "2020-04-17T22:38:02",
-            "last_retested_at_epoch": 1589207080.366649,
-            "last_retested_at_iso": "2020-05-11T14:24:40.366649",
+            "last_retested_at_epoch": 1589379332.591252,
+            "last_retested_at_iso": "2020-05-13T14:15:32.591252",
             "status": "INACTIVE"
         },
         "adfarm.mediaplex.com": {
@@ -31,15 +31,8 @@
         "ads.canalblog.com": {
             "included_at_epoch": 1587916248.226426,
             "included_at_iso": "2020-04-26T15:50:48.226426",
-            "last_retested_at_epoch": 1589207082.989422,
-            "last_retested_at_iso": "2020-05-11T14:24:42.989422",
-            "status": "INACTIVE"
-        },
-        "ads.mariuana.it": {
-            "included_at_epoch": 1589207083.160879,
-            "included_at_iso": "2020-05-11T14:24:43.160879",
-            "last_retested_at_epoch": 1589207083.160879,
-            "last_retested_at_iso": "2020-05-11T14:24:43.160879",
+            "last_retested_at_epoch": 1589379335.521677,
+            "last_retested_at_iso": "2020-05-13T14:15:35.521677",
             "status": "INACTIVE"
         },
         "adserver.portugalmail.pt": {
