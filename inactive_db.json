@@ -3,15 +3,15 @@
         "ad.intl.xiaomi.com": {
             "included_at_epoch": 1587163082.0,
             "included_at_iso": "2020-04-17T22:38:02",
-            "last_retested_at_epoch": 1589379332.545829,
-            "last_retested_at_iso": "2020-05-13T14:15:32.545829",
+            "last_retested_at_epoch": 1589551486.829675,
+            "last_retested_at_iso": "2020-05-15T14:04:46.829675",
             "status": "INACTIVE"
         },
         "ad.xiaomi.com": {
             "included_at_epoch": 1587163082.0,
             "included_at_iso": "2020-04-17T22:38:02",
-            "last_retested_at_epoch": 1589379332.591252,
-            "last_retested_at_iso": "2020-05-13T14:15:32.591252",
+            "last_retested_at_epoch": 1589551486.870226,
+            "last_retested_at_iso": "2020-05-15T14:04:46.870226",
             "status": "INACTIVE"
         },
         "adfarm.mediaplex.com": {
@@ -21,18 +21,11 @@
             "last_retested_at_iso": "2020-05-13T15:35:04.406933",
             "status": "INACTIVE"
         },
-        "adnet.worldreviewer.com": {
-            "included_at_epoch": 1587064502.0,
-            "included_at_iso": "2020-04-16T19:15:02",
-            "last_retested_at_epoch": 1589384104.401892,
-            "last_retested_at_iso": "2020-05-13T15:35:04.401892",
-            "status": "INACTIVE"
-        },
         "ads.canalblog.com": {
             "included_at_epoch": 1587916248.226426,
             "included_at_iso": "2020-04-26T15:50:48.226426",
-            "last_retested_at_epoch": 1589379335.521677,
-            "last_retested_at_iso": "2020-05-13T14:15:35.521677",
+            "last_retested_at_epoch": 1589551489.494208,
+            "last_retested_at_iso": "2020-05-15T14:04:49.494208",
             "status": "INACTIVE"
         },
         "adserver.portugalmail.pt": {
