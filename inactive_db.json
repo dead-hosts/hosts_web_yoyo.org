@@ -38,8 +38,8 @@
         "adsrv.eacdn.com": {
             "included_at_epoch": 1588347601.002256,
             "included_at_iso": "2020-05-01T15:40:01.002256",
-            "last_retested_at_epoch": 1589380815.869004,
-            "last_retested_at_iso": "2020-05-13T14:40:15.869004",
+            "last_retested_at_epoch": 1589552727.104743,
+            "last_retested_at_iso": "2020-05-15T14:25:27.104743",
             "status": "INACTIVE"
         },
         "affiliate.mercola.com": {
@@ -52,8 +52,8 @@
         "clickwith.bid": {
             "included_at_epoch": 1588347607.578173,
             "included_at_iso": "2020-05-01T15:40:07.578173",
-            "last_retested_at_epoch": 1589380823.08474,
-            "last_retested_at_iso": "2020-05-13T14:40:23.084740",
+            "last_retested_at_epoch": 1589552733.839268,
+            "last_retested_at_iso": "2020-05-15T14:25:33.839268",
             "status": "INACTIVE"
         },
         "measure.office.com": {

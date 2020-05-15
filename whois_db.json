@@ -1765,8 +1765,8 @@
         "state": "future"
     },
     "amazingcounters.com": {
-        "epoch": 1589414400.0,
-        "expiration_date": "14-may-2020",
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
         "state": "future"
     },
     "amazon-adsystem.com": {
@@ -3490,9 +3490,9 @@
         "state": "future"
     },
     "creafi-online-media.com": {
-        "epoch": 1589328000.0,
-        "expiration_date": "13-may-2020",
-        "state": "past"
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
+        "state": "future"
     },
     "credishe.com": {
         "epoch": 1603411200.0,
