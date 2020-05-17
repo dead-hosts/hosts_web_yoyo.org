@@ -9799,6 +9799,11 @@
         "expiration_date": "03-apr-2020",
         "state": "future"
     },
+    "superficialsquare.com": {
+        "epoch": 1664064000.0,
+        "expiration_date": "25-sep-2022",
+        "state": "future"
+    },
     "supersonicads.com": {
         "epoch": 1610668800.0,
         "expiration_date": "15-jan-2021",
@@ -10440,8 +10445,8 @@
         "state": "future"
     },
     "traffiq.com": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "trafic.ro": {
@@ -10780,8 +10785,8 @@
         "state": "future"
     },
     "variablefitness.com": {
-        "epoch": 1589673600.0,
-        "expiration_date": "17-may-2020",
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
         "state": "future"
     },
     "veille-referencement.com": {

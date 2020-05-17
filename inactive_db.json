@@ -17,8 +17,8 @@
         "adfarm.mediaplex.com": {
             "included_at_epoch": 1588277626.839778,
             "included_at_iso": "2020-04-30T20:13:46.839778",
-            "last_retested_at_epoch": 1589554595.311335,
-            "last_retested_at_iso": "2020-05-15T14:56:35.311335",
+            "last_retested_at_epoch": 1589729170.078553,
+            "last_retested_at_iso": "2020-05-17T15:26:10.078553",
             "status": "INACTIVE"
         },
         "ads.canalblog.com": {
@@ -38,8 +38,8 @@
         "adserver.portugalmail.pt": {
             "included_at_epoch": 1588688578.164548,
             "included_at_iso": "2020-05-05T14:22:58.164548",
-            "last_retested_at_epoch": 1589554595.306924,
-            "last_retested_at_iso": "2020-05-15T14:56:35.306924",
+            "last_retested_at_epoch": 1589729170.083235,
+            "last_retested_at_iso": "2020-05-17T15:26:10.083235",
             "status": "INACTIVE"
         },
         "adsrv.eacdn.com": {
@@ -52,8 +52,8 @@
         "affiliate.mercola.com": {
             "included_at_epoch": 1588861670.466245,
             "included_at_iso": "2020-05-07T14:27:50.466245",
-            "last_retested_at_epoch": 1589554595.301984,
-            "last_retested_at_iso": "2020-05-15T14:56:35.301984",
+            "last_retested_at_epoch": 1589729170.073658,
+            "last_retested_at_iso": "2020-05-17T15:26:10.073658",
             "status": "INACTIVE"
         },
         "clickwith.bid": {
@@ -87,8 +87,8 @@
         "stat.xiaomi.com": {
             "included_at_epoch": 1588354998.697395,
             "included_at_iso": "2020-05-01T17:43:18.697395",
-            "last_retested_at_epoch": 1589554586.243488,
-            "last_retested_at_iso": "2020-05-15T14:56:26.243488",
+            "last_retested_at_epoch": 1589729160.771222,
+            "last_retested_at_iso": "2020-05-17T15:26:00.771222",
             "status": "INACTIVE"
         }
     },
