@@ -4725,8 +4725,8 @@
         "state": "future"
     },
     "fqtag.com": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "frailoffer.com": {
@@ -7205,9 +7205,9 @@
         "state": "future"
     },
     "neudesicmediagroup.com": {
-        "epoch": 1589500800.0,
-        "expiration_date": "15-may-2020",
-        "state": "past"
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
+        "state": "future"
     },
     "newbie.com": {
         "epoch": 1603324800.0,
@@ -9110,8 +9110,8 @@
         "state": "future"
     },
     "sharepointads.com": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "sharethrough.com": {
