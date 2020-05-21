@@ -6454,6 +6454,11 @@
         "expiration_date": "17-aug-2020",
         "state": "future"
     },
+    "malaysia-online-bank-kasino.com": {
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
+        "state": "future"
+    },
     "marchex.com": {
         "epoch": 1641340800.0,
         "expiration_date": "05-jan-2022",
@@ -6787,6 +6792,11 @@
     "mmtro.com": {
         "epoch": 1599177600.0,
         "expiration_date": "04-sep-2020",
+        "state": "future"
+    },
+    "moartraffic.com": {
+        "epoch": 1613347200.0,
+        "expiration_date": "15-feb-2021",
         "state": "future"
     },
     "moat.com": {
