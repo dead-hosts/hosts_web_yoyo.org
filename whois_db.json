@@ -10184,6 +10184,11 @@
         "expiration_date": "17-jan-2020",
         "state": "future"
     },
+    "tkbo.com": {
+        "epoch": 1605830400.0,
+        "expiration_date": "20-nov-2020",
+        "state": "future"
+    },
     "tlvmedia.com": {
         "epoch": 1618185600.0,
         "expiration_date": "12-apr-2021",
@@ -10747,6 +10752,11 @@
     "userreplay.net": {
         "epoch": 1594857600.0,
         "expiration_date": "16-jul-2020",
+        "state": "future"
+    },
+    "utl-1.com": {
+        "epoch": 1629504000.0,
+        "expiration_date": "21-aug-2021",
         "state": "future"
     },
     "uttermosthobbies.com": {
