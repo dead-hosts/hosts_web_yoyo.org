@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 21 May 2020 13:48:13 GMT
-# entries:        3360
+# last updated:   Thu, 21 May 2020 23:52:14 GMT
+# entries:        3361
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Fri, 26 May 2000 00:00:00
+# start date:    Sun, 28 May 2000 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -1832,6 +1832,7 @@
 0.0.0.0 hittail.com
 0.0.0.0 hitttenevtanin.com
 0.0.0.0 hlok.qertewrt.com
+0.0.0.0 hocgeese.com
 0.0.0.0 hollandbusinessadvertising.nl
 0.0.0.0 hollowshake.com
 0.0.0.0 homepageking.de
@@ -2297,6 +2298,7 @@
 0.0.0.0 netshelter.net
 0.0.0.0 neudesicmediagroup.com
 0.0.0.0 newads.bangbros.com
+0.0.0.0 newbie.com
 0.0.0.0 newnet.qsrch.com
 0.0.0.0 newnudecash.com
 0.0.0.0 newopenx.detik.com
@@ -2851,7 +2853,6 @@
 0.0.0.0 sponsorads.de
 0.0.0.0 sponsorpro.de
 0.0.0.0 sponsors.thoughtsmedia.com
-0.0.0.0 spoor-api.asia.nikkei.com
 0.0.0.0 spot.fitness.com
 0.0.0.0 spotscenered.info
 0.0.0.0 spotx.tv
