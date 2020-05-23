@@ -80,22 +80,22 @@
         "measure.office.com": {
             "included_at_epoch": 1588351531.67752,
             "included_at_iso": "2020-05-01T16:45:31.677520",
-            "last_retested_at_epoch": 1590073359.761344,
-            "last_retested_at_iso": "2020-05-21T15:02:39.761344",
+            "last_retested_at_epoch": 1590244743.023058,
+            "last_retested_at_iso": "2020-05-23T14:39:03.023058",
             "status": "INACTIVE"
         },
         "mtrcs.samba.tv": {
             "included_at_epoch": 1588351533.183009,
             "included_at_iso": "2020-05-01T16:45:33.183009",
-            "last_retested_at_epoch": 1590073361.439744,
-            "last_retested_at_iso": "2020-05-21T15:02:41.439744",
+            "last_retested_at_epoch": 1590244744.665282,
+            "last_retested_at_iso": "2020-05-23T14:39:04.665282",
             "status": "INACTIVE"
         },
         "pgl.example0101": {
             "included_at_epoch": 1588351536.302098,
             "included_at_iso": "2020-05-01T16:45:36.302098",
-            "last_retested_at_epoch": 1590073364.832154,
-            "last_retested_at_iso": "2020-05-21T15:02:44.832154",
+            "last_retested_at_epoch": 1590244748.004359,
+            "last_retested_at_iso": "2020-05-23T14:39:08.004359",
             "status": "INVALID"
         },
         "spoor-api.asia.nikkei.com": {
