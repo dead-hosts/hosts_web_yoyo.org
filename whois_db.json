@@ -1560,8 +1560,8 @@
         "state": "future"
     },
     "adyea.com": {
-        "epoch": 1590364800.0,
-        "expiration_date": "25-may-2020",
+        "epoch": 1621900800.0,
+        "expiration_date": "25-may-2021",
         "state": "future"
     },
     "adyoulike.com": {
@@ -3810,9 +3810,9 @@
         "state": "future"
     },
     "directivepub.com": {
-        "epoch": 1590192000.0,
-        "expiration_date": "23-may-2020",
-        "state": "past"
+        "epoch": 1621728000.0,
+        "expiration_date": "23-may-2021",
+        "state": "future"
     },
     "directleads.com": {
         "epoch": 1606867200.0,
