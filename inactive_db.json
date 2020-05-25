@@ -1,24 +1,24 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/domains.list": {
-        "ad.digitallook.com": {
-            "included_at_epoch": 1590243042.420965,
-            "included_at_iso": "2020-05-23T14:10:42.420965",
-            "last_retested_at_epoch": 1590243042.420965,
-            "last_retested_at_iso": "2020-05-23T14:10:42.420965",
-            "status": "INACTIVE"
-        },
         "ad.intl.xiaomi.com": {
             "included_at_epoch": 1589725439.31738,
             "included_at_iso": "2020-05-17T14:23:59.317380",
-            "last_retested_at_epoch": 1590243042.440038,
-            "last_retested_at_iso": "2020-05-23T14:10:42.440038",
+            "last_retested_at_epoch": 1590416877.402958,
+            "last_retested_at_iso": "2020-05-25T14:27:57.402958",
+            "status": "INACTIVE"
+        },
+        "ad.thewheelof.com": {
+            "included_at_epoch": 1590416877.435413,
+            "included_at_iso": "2020-05-25T14:27:57.435413",
+            "last_retested_at_epoch": 1590416877.435413,
+            "last_retested_at_iso": "2020-05-25T14:27:57.435413",
             "status": "INACTIVE"
         },
         "ad.xiaomi.com": {
             "included_at_epoch": 1589725439.35659,
             "included_at_iso": "2020-05-17T14:23:59.356590",
-            "last_retested_at_epoch": 1590243042.486723,
-            "last_retested_at_iso": "2020-05-23T14:10:42.486723",
+            "last_retested_at_epoch": 1590416877.447239,
+            "last_retested_at_iso": "2020-05-25T14:27:57.447239",
             "status": "INACTIVE"
         },
         "adfarm.mediaplex.com": {
@@ -28,25 +28,11 @@
             "last_retested_at_iso": "2020-05-23T14:50:16.963393",
             "status": "INACTIVE"
         },
-        "ads.brabys.com": {
-            "included_at_epoch": 1590243045.112921,
-            "included_at_iso": "2020-05-23T14:10:45.112921",
-            "last_retested_at_epoch": 1590243045.112921,
-            "last_retested_at_iso": "2020-05-23T14:10:45.112921",
-            "status": "INACTIVE"
-        },
         "ads.canalblog.com": {
-            "included_at_epoch": 1587916248.226426,
-            "included_at_iso": "2020-04-26T15:50:48.226426",
-            "last_retested_at_epoch": 1590243045.11752,
-            "last_retested_at_iso": "2020-05-23T14:10:45.117520",
-            "status": "INACTIVE"
-        },
-        "ads.edbindex.dk": {
-            "included_at_epoch": 1590243045.180307,
-            "included_at_iso": "2020-05-23T14:10:45.180307",
-            "last_retested_at_epoch": 1590243045.180307,
-            "last_retested_at_iso": "2020-05-23T14:10:45.180307",
+            "included_at_epoch": 1590416880.216487,
+            "included_at_iso": "2020-05-25T14:28:00.216487",
+            "last_retested_at_epoch": 1590416880.216487,
+            "last_retested_at_iso": "2020-05-25T14:28:00.216487",
             "status": "INACTIVE"
         },
         "adserver.portugalmail.pt": {
