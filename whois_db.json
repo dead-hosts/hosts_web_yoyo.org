@@ -9504,6 +9504,11 @@
         "expiration_date": "19-jun-2020",
         "state": "future"
     },
+    "sportsad.net": {
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
+        "state": "future"
+    },
     "spotscenered.info": {
         "epoch": 1596844800.0,
         "expiration_date": "08-aug-2020",
@@ -9590,8 +9595,8 @@
         "state": "future"
     },
     "stack-sonar.com": {
-        "epoch": 1590451200.0,
-        "expiration_date": "26-may-2020",
+        "epoch": 1621987200.0,
+        "expiration_date": "26-may-2021",
         "state": "future"
     },
     "stackadapt.com": {
