@@ -4002,7 +4002,7 @@
     "e-n-t-e-r-n-e-x.com": {
         "epoch": 1590451200.0,
         "expiration_date": "26-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "e-planning.net": {
         "epoch": 1727049600.0,
@@ -5492,6 +5492,11 @@
     "i-clicks.net": {
         "epoch": 1602115200.0,
         "expiration_date": "08-oct-2020",
+        "state": "future"
+    },
+    "i-i.lt": {
+        "epoch": 1612656000.0,
+        "expiration_date": "07-feb-2021",
         "state": "future"
     },
     "i1img.com": {
@@ -8200,8 +8205,8 @@
         "state": "future"
     },
     "pubnative.net": {
-        "epoch": 1590451200.0,
-        "expiration_date": "26-may-2020",
+        "epoch": 1621987200.0,
+        "expiration_date": "26-may-2021",
         "state": "future"
     },
     "puffyloss.com": {

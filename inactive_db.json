@@ -77,6 +77,13 @@
             "last_retested_at_iso": "2020-05-25T14:59:31.053938",
             "status": "INACTIVE"
         },
+        "engine.espace.netavenir.com": {
+            "included_at_epoch": 1590494575.821834,
+            "included_at_iso": "2020-05-26T12:02:55.821834",
+            "last_retested_at_epoch": 1590494575.821834,
+            "last_retested_at_iso": "2020-05-26T12:02:55.821834",
+            "status": "INACTIVE"
+        },
         "measure.office.com": {
             "included_at_epoch": 1588351531.67752,
             "included_at_iso": "2020-05-01T16:45:31.677520",
