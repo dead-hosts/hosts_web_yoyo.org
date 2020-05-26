@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 26 May 2020 09:32:34 GMT
-# entries:        3375
+# last updated:   Tue, 26 May 2020 11:04:07 GMT
+# entries:        3376
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -143,6 +143,7 @@
 0.0.0.0 ad.mediastorm.hu
 0.0.0.0 ad.mgd.de
 0.0.0.0 ad.musicmatch.com
+0.0.0.0 ad.myapple.pl
 0.0.0.0 ad.nachtagenten.de
 0.0.0.0 ad.nozonedata.com
 0.0.0.0 ad.nttnavi.co.jp
