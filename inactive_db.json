@@ -35,6 +35,13 @@
             "last_retested_at_iso": "2020-05-25T14:28:00.216487",
             "status": "INACTIVE"
         },
+        "ads.nyi.net": {
+            "included_at_epoch": 1590490004.521585,
+            "included_at_iso": "2020-05-26T10:46:44.521585",
+            "last_retested_at_epoch": 1590490004.521585,
+            "last_retested_at_iso": "2020-05-26T10:46:44.521585",
+            "status": "INACTIVE"
+        },
         "adserver.portugalmail.pt": {
             "included_at_epoch": 1588688578.164548,
             "included_at_iso": "2020-05-05T14:22:58.164548",
