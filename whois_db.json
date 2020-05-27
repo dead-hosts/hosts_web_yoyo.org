@@ -4005,9 +4005,9 @@
         "state": "future"
     },
     "e-n-t-e-r-n-e-x.com": {
-        "epoch": 1590451200.0,
-        "expiration_date": "26-may-2020",
-        "state": "past"
+        "epoch": 1621987200.0,
+        "expiration_date": "26-may-2021",
+        "state": "future"
     },
     "e-planning.net": {
         "epoch": 1727049600.0,
@@ -5042,7 +5042,7 @@
     "goldstats.com": {
         "epoch": 1590537600.0,
         "expiration_date": "27-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "gondolagnome.com": {
         "epoch": 1592524800.0,
@@ -8182,6 +8182,11 @@
     "pstmrk.it": {
         "epoch": 1618876800.0,
         "expiration_date": "20-apr-2021",
+        "state": "future"
+    },
+    "ptoushoa.com": {
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
         "state": "future"
     },
     "pub.network": {
