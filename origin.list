@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 26 May 2020 11:04:07 GMT
-# entries:        3376
+# last updated:   Wed, 27 May 2020 12:14:42 GMT
+# entries:        3381
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Wed, 31 May 2000 00:00:00
+# start date:    Thu, 01 Jun 2000 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -368,6 +368,7 @@
 0.0.0.0 ads.5ci.lt
 0.0.0.0 ads.abovetopsecret.com
 0.0.0.0 ads.aceweb.net
+0.0.0.0 ads.acrosspf.com
 0.0.0.0 ads.activestate.com
 0.0.0.0 ads.ad-center.com
 0.0.0.0 ads.adfox.ru
@@ -762,6 +763,7 @@
 0.0.0.0 adserver.sciflicks.com
 0.0.0.0 adserver.sharewareonline.com
 0.0.0.0 adserver.spankaway.com
+0.0.0.0 adserver.thema.cc
 0.0.0.0 adserver.theonering.net
 0.0.0.0 adserver.twitpic.com
 0.0.0.0 adserver.viagogo.com
@@ -878,6 +880,7 @@
 0.0.0.0 adviva.net
 0.0.0.0 advnt.com
 0.0.0.0 adwhirl.com
+0.0.0.0 adwordsecommerce.com.br
 0.0.0.0 adworldnetwork.com
 0.0.0.0 adworx.at
 0.0.0.0 adworx.nl
@@ -2548,6 +2551,7 @@
 0.0.0.0 prsitecheck.com
 0.0.0.0 ps7894.com
 0.0.0.0 pstmrk.it
+0.0.0.0 ptoushoa.com
 0.0.0.0 pub.chez.com
 0.0.0.0 pub.club-internet.fr
 0.0.0.0 pub.hardware.fr
@@ -3099,6 +3103,7 @@
 0.0.0.0 tracker.icerocket.com
 0.0.0.0 tracker.samplicio.us
 0.0.0.0 tracker.vgame.us
+0.0.0.0 tracking.1-a1502-bi.co.uk
 0.0.0.0 tracking.crunchiemedia.com
 0.0.0.0 tracking.epicgames.com
 0.0.0.0 tracking.gajmp.com

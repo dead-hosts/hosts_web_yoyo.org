@@ -3,22 +3,15 @@
         "ad.intl.xiaomi.com": {
             "included_at_epoch": 1589725439.31738,
             "included_at_iso": "2020-05-17T14:23:59.317380",
-            "last_retested_at_epoch": 1590416877.402958,
-            "last_retested_at_iso": "2020-05-25T14:27:57.402958",
-            "status": "INACTIVE"
-        },
-        "ad.thewheelof.com": {
-            "included_at_epoch": 1590416877.435413,
-            "included_at_iso": "2020-05-25T14:27:57.435413",
-            "last_retested_at_epoch": 1590416877.435413,
-            "last_retested_at_iso": "2020-05-25T14:27:57.435413",
+            "last_retested_at_epoch": 1590589172.110262,
+            "last_retested_at_iso": "2020-05-27T14:19:32.110262",
             "status": "INACTIVE"
         },
         "ad.xiaomi.com": {
             "included_at_epoch": 1589725439.35659,
             "included_at_iso": "2020-05-17T14:23:59.356590",
-            "last_retested_at_epoch": 1590416877.447239,
-            "last_retested_at_iso": "2020-05-25T14:27:57.447239",
+            "last_retested_at_epoch": 1590589172.154436,
+            "last_retested_at_iso": "2020-05-27T14:19:32.154436",
             "status": "INACTIVE"
         },
         "adfarm.mediaplex.com": {
@@ -31,15 +24,8 @@
         "ads.canalblog.com": {
             "included_at_epoch": 1590416880.216487,
             "included_at_iso": "2020-05-25T14:28:00.216487",
-            "last_retested_at_epoch": 1590416880.216487,
-            "last_retested_at_iso": "2020-05-25T14:28:00.216487",
-            "status": "INACTIVE"
-        },
-        "ads.nyi.net": {
-            "included_at_epoch": 1590490004.521585,
-            "included_at_iso": "2020-05-26T10:46:44.521585",
-            "last_retested_at_epoch": 1590490004.521585,
-            "last_retested_at_iso": "2020-05-26T10:46:44.521585",
+            "last_retested_at_epoch": 1590589175.005941,
+            "last_retested_at_iso": "2020-05-27T14:19:35.005941",
             "status": "INACTIVE"
         },
         "adserver.portugalmail.pt": {
