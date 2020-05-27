@@ -38,8 +38,8 @@
         "adsrv.eacdn.com": {
             "included_at_epoch": 1588347601.002256,
             "included_at_iso": "2020-05-01T15:40:01.002256",
-            "last_retested_at_epoch": 1590418764.106937,
-            "last_retested_at_iso": "2020-05-25T14:59:24.106937",
+            "last_retested_at_epoch": 1590590184.921728,
+            "last_retested_at_iso": "2020-05-27T14:36:24.921728",
             "status": "INACTIVE"
         },
         "affiliate.mercola.com": {
@@ -49,18 +49,18 @@
             "last_retested_at_iso": "2020-05-25T15:53:48.116834",
             "status": "INACTIVE"
         },
-        "bannercommunity.de": {
-            "included_at_epoch": 1590418767.336605,
-            "included_at_iso": "2020-05-25T14:59:27.336605",
-            "last_retested_at_epoch": 1590418767.336605,
-            "last_retested_at_iso": "2020-05-25T14:59:27.336605",
+        "bannersng.yell.com": {
+            "included_at_epoch": 1590590188.340874,
+            "included_at_iso": "2020-05-27T14:36:28.340874",
+            "last_retested_at_epoch": 1590590188.340874,
+            "last_retested_at_iso": "2020-05-27T14:36:28.340874",
             "status": "INACTIVE"
         },
         "clickwith.bid": {
             "included_at_epoch": 1588347607.578173,
             "included_at_iso": "2020-05-01T15:40:07.578173",
-            "last_retested_at_epoch": 1590418771.053938,
-            "last_retested_at_iso": "2020-05-25T14:59:31.053938",
+            "last_retested_at_epoch": 1590590191.7549,
+            "last_retested_at_iso": "2020-05-27T14:36:31.754900",
             "status": "INACTIVE"
         },
         "engine.espace.netavenir.com": {
