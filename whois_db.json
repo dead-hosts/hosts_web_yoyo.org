@@ -3915,8 +3915,8 @@
         "state": "future"
     },
     "doubleclick.com": {
-        "epoch": 1590624000.0,
-        "expiration_date": "28-may-2020",
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
         "state": "future"
     },
     "doubleclick.net": {
@@ -4130,8 +4130,8 @@
         "state": "future"
     },
     "elitetoplist.com": {
-        "epoch": 1590710400.0,
-        "expiration_date": "29-may-2020",
+        "epoch": 1622246400.0,
+        "expiration_date": "29-may-2021",
         "state": "future"
     },
     "elthamely.com": {
@@ -5040,9 +5040,9 @@
         "state": "future"
     },
     "goldstats.com": {
-        "epoch": 1590537600.0,
-        "expiration_date": "27-may-2020",
-        "state": "past"
+        "epoch": 1622073600.0,
+        "expiration_date": "27-may-2021",
+        "state": "future"
     },
     "gondolagnome.com": {
         "epoch": 1592524800.0,
@@ -7525,8 +7525,8 @@
         "state": "future"
     },
     "optmd.com": {
-        "epoch": 1590624000.0,
-        "expiration_date": "28-may-2020",
+        "epoch": 1685232000.0,
+        "expiration_date": "28-may-2023",
         "state": "future"
     },
     "optmnstr.com": {
@@ -7935,8 +7935,8 @@
         "state": "future"
     },
     "popub.com": {
-        "epoch": 1590710400.0,
-        "expiration_date": "29-may-2020",
+        "epoch": 1622246400.0,
+        "expiration_date": "29-may-2021",
         "state": "future"
     },
     "popunder.ru": {
@@ -7947,7 +7947,7 @@
     "popupmoney.com": {
         "epoch": 1590710400.0,
         "expiration_date": "29-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "popupnation.com": {
         "epoch": 1598400000.0,
