@@ -35,11 +35,39 @@
             "last_retested_at_iso": "2020-05-29T14:55:02.932968",
             "status": "INACTIVE"
         },
+        "adsrv.eacdn.com": {
+            "included_at_epoch": 1590937494.023335,
+            "included_at_iso": "2020-05-31T15:04:54.023335",
+            "last_retested_at_epoch": 1590937494.023335,
+            "last_retested_at_iso": "2020-05-31T15:04:54.023335",
+            "status": "INACTIVE"
+        },
         "affiliate.mercola.com": {
             "included_at_epoch": 1588861670.466245,
             "included_at_iso": "2020-05-07T14:27:50.466245",
             "last_retested_at_epoch": 1590764102.923779,
             "last_retested_at_iso": "2020-05-29T14:55:02.923779",
+            "status": "INACTIVE"
+        },
+        "clickwith.bid": {
+            "included_at_epoch": 1590937500.724897,
+            "included_at_iso": "2020-05-31T15:05:00.724897",
+            "last_retested_at_epoch": 1590937500.724897,
+            "last_retested_at_iso": "2020-05-31T15:05:00.724897",
+            "status": "INACTIVE"
+        },
+        "count.west263.com": {
+            "included_at_epoch": 1590937501.838192,
+            "included_at_iso": "2020-05-31T15:05:01.838192",
+            "last_retested_at_epoch": 1590937501.838192,
+            "last_retested_at_iso": "2020-05-31T15:05:01.838192",
+            "status": "INACTIVE"
+        },
+        "dsp.colpirio.com": {
+            "included_at_epoch": 1590937503.924899,
+            "included_at_iso": "2020-05-31T15:05:03.924899",
+            "last_retested_at_epoch": 1590937503.924899,
+            "last_retested_at_iso": "2020-05-31T15:05:03.924899",
             "status": "INACTIVE"
         },
         "spoor-api.asia.nikkei.com": {
