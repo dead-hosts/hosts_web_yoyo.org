@@ -31,8 +31,8 @@
         "adserver.portugalmail.pt": {
             "included_at_epoch": 1588688578.164548,
             "included_at_iso": "2020-05-05T14:22:58.164548",
-            "last_retested_at_epoch": 1590764102.932968,
-            "last_retested_at_iso": "2020-05-29T14:55:02.932968",
+            "last_retested_at_epoch": 1590941339.395745,
+            "last_retested_at_iso": "2020-05-31T16:08:59.395745",
             "status": "INACTIVE"
         },
         "adsrv.eacdn.com": {
@@ -45,8 +45,8 @@
         "affiliate.mercola.com": {
             "included_at_epoch": 1588861670.466245,
             "included_at_iso": "2020-05-07T14:27:50.466245",
-            "last_retested_at_epoch": 1590764102.923779,
-            "last_retested_at_iso": "2020-05-29T14:55:02.923779",
+            "last_retested_at_epoch": 1590941339.390309,
+            "last_retested_at_iso": "2020-05-31T16:08:59.390309",
             "status": "INACTIVE"
         },
         "clickwith.bid": {
@@ -94,8 +94,15 @@
         "spoor-api.asia.nikkei.com": {
             "included_at_epoch": 1589902633.27031,
             "included_at_iso": "2020-05-19T15:37:13.270310",
-            "last_retested_at_epoch": 1590764102.928664,
-            "last_retested_at_iso": "2020-05-29T14:55:02.928664",
+            "last_retested_at_epoch": 1590941339.400629,
+            "last_retested_at_iso": "2020-05-31T16:08:59.400629",
+            "status": "INACTIVE"
+        },
+        "stat.xiaomi.com": {
+            "included_at_epoch": 1590941328.673351,
+            "included_at_iso": "2020-05-31T16:08:48.673351",
+            "last_retested_at_epoch": 1590941328.673351,
+            "last_retested_at_iso": "2020-05-31T16:08:48.673351",
             "status": "INACTIVE"
         }
     },
