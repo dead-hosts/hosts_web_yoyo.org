@@ -3,22 +3,29 @@
         "ad.intl.xiaomi.com": {
             "included_at_epoch": 1589725439.31738,
             "included_at_iso": "2020-05-17T14:23:59.317380",
-            "last_retested_at_epoch": 1590761931.808602,
-            "last_retested_at_iso": "2020-05-29T14:18:51.808602",
+            "last_retested_at_epoch": 1590935782.30815,
+            "last_retested_at_iso": "2020-05-31T14:36:22.308150",
             "status": "INACTIVE"
         },
         "ad.xiaomi.com": {
             "included_at_epoch": 1589725439.35659,
             "included_at_iso": "2020-05-17T14:23:59.356590",
-            "last_retested_at_epoch": 1590761931.853021,
-            "last_retested_at_iso": "2020-05-29T14:18:51.853021",
+            "last_retested_at_epoch": 1590935782.351328,
+            "last_retested_at_iso": "2020-05-31T14:36:22.351328",
             "status": "INACTIVE"
         },
         "ads.canalblog.com": {
             "included_at_epoch": 1590416880.216487,
             "included_at_iso": "2020-05-25T14:28:00.216487",
-            "last_retested_at_epoch": 1590761934.509947,
-            "last_retested_at_iso": "2020-05-29T14:18:54.509947",
+            "last_retested_at_epoch": 1590935784.995477,
+            "last_retested_at_iso": "2020-05-31T14:36:24.995477",
+            "status": "INACTIVE"
+        },
+        "ads.edbindex.dk": {
+            "included_at_epoch": 1590935785.066362,
+            "included_at_iso": "2020-05-31T14:36:25.066362",
+            "last_retested_at_epoch": 1590935785.066362,
+            "last_retested_at_iso": "2020-05-31T14:36:25.066362",
             "status": "INACTIVE"
         },
         "adserver.portugalmail.pt": {
@@ -28,13 +35,6 @@
             "last_retested_at_iso": "2020-05-29T14:55:02.932968",
             "status": "INACTIVE"
         },
-        "adsrv.eacdn.com": {
-            "included_at_epoch": 1588347601.002256,
-            "included_at_iso": "2020-05-01T15:40:01.002256",
-            "last_retested_at_epoch": 1590762822.692118,
-            "last_retested_at_iso": "2020-05-29T14:33:42.692118",
-            "status": "INACTIVE"
-        },
         "affiliate.mercola.com": {
             "included_at_epoch": 1588861670.466245,
             "included_at_iso": "2020-05-07T14:27:50.466245",
@@ -42,46 +42,11 @@
             "last_retested_at_iso": "2020-05-29T14:55:02.923779",
             "status": "INACTIVE"
         },
-        "clickwith.bid": {
-            "included_at_epoch": 1588347607.578173,
-            "included_at_iso": "2020-05-01T15:40:07.578173",
-            "last_retested_at_epoch": 1590762829.867802,
-            "last_retested_at_iso": "2020-05-29T14:33:49.867802",
-            "status": "INACTIVE"
-        },
-        "measure.office.com": {
-            "included_at_epoch": 1588351531.67752,
-            "included_at_iso": "2020-05-01T16:45:31.677520",
-            "last_retested_at_epoch": 1590763554.466119,
-            "last_retested_at_iso": "2020-05-29T14:45:54.466119",
-            "status": "INACTIVE"
-        },
-        "mtrcs.samba.tv": {
-            "included_at_epoch": 1588351533.183009,
-            "included_at_iso": "2020-05-01T16:45:33.183009",
-            "last_retested_at_epoch": 1590763556.094215,
-            "last_retested_at_iso": "2020-05-29T14:45:56.094215",
-            "status": "INACTIVE"
-        },
-        "pgl.example0101": {
-            "included_at_epoch": 1588351536.302098,
-            "included_at_iso": "2020-05-01T16:45:36.302098",
-            "last_retested_at_epoch": 1590763559.457236,
-            "last_retested_at_iso": "2020-05-29T14:45:59.457236",
-            "status": "INVALID"
-        },
         "spoor-api.asia.nikkei.com": {
             "included_at_epoch": 1589902633.27031,
             "included_at_iso": "2020-05-19T15:37:13.270310",
             "last_retested_at_epoch": 1590764102.928664,
             "last_retested_at_iso": "2020-05-29T14:55:02.928664",
-            "status": "INACTIVE"
-        },
-        "stat.xiaomi.com": {
-            "included_at_epoch": 1588354998.697395,
-            "included_at_iso": "2020-05-01T17:43:18.697395",
-            "last_retested_at_epoch": 1590764091.737635,
-            "last_retested_at_iso": "2020-05-29T14:54:51.737635",
             "status": "INACTIVE"
         }
     },

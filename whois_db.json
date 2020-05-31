@@ -30,9 +30,9 @@
         "state": "future"
     },
     "1rx.io": {
-        "epoch": 1590624000.0,
-        "expiration_date": "28-may-2020",
-        "state": "past"
+        "epoch": 1653696000.0,
+        "expiration_date": "28-may-2022",
+        "state": "future"
     },
     "207.net": {
         "epoch": 1594339200.0,
@@ -670,8 +670,8 @@
         "state": "future"
     },
     "adition.com": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
         "state": "future"
     },
     "adition.net": {
