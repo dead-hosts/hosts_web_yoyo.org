@@ -70,6 +70,27 @@
             "last_retested_at_iso": "2020-05-31T15:05:03.924899",
             "status": "INACTIVE"
         },
+        "measure.office.com": {
+            "included_at_epoch": 1590939419.540294,
+            "included_at_iso": "2020-05-31T15:36:59.540294",
+            "last_retested_at_epoch": 1590939419.540294,
+            "last_retested_at_iso": "2020-05-31T15:36:59.540294",
+            "status": "INACTIVE"
+        },
+        "mtrcs.samba.tv": {
+            "included_at_epoch": 1590939421.146585,
+            "included_at_iso": "2020-05-31T15:37:01.146585",
+            "last_retested_at_epoch": 1590939421.146585,
+            "last_retested_at_iso": "2020-05-31T15:37:01.146585",
+            "status": "INACTIVE"
+        },
+        "pgl.example0101": {
+            "included_at_epoch": 1590939424.381532,
+            "included_at_iso": "2020-05-31T15:37:04.381532",
+            "last_retested_at_epoch": 1590939424.381532,
+            "last_retested_at_iso": "2020-05-31T15:37:04.381532",
+            "status": "INVALID"
+        },
         "spoor-api.asia.nikkei.com": {
             "included_at_epoch": 1589902633.27031,
             "included_at_iso": "2020-05-19T15:37:13.270310",
