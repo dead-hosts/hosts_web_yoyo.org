@@ -3,36 +3,29 @@
         "ad.intl.xiaomi.com": {
             "included_at_epoch": 1589725439.31738,
             "included_at_iso": "2020-05-17T14:23:59.317380",
-            "last_retested_at_epoch": 1590935782.30815,
-            "last_retested_at_iso": "2020-05-31T14:36:22.308150",
+            "last_retested_at_epoch": 1591108619.321077,
+            "last_retested_at_iso": "2020-06-02T14:36:59.321077",
             "status": "INACTIVE"
         },
         "ad.xiaomi.com": {
             "included_at_epoch": 1589725439.35659,
             "included_at_iso": "2020-05-17T14:23:59.356590",
-            "last_retested_at_epoch": 1590935782.351328,
-            "last_retested_at_iso": "2020-05-31T14:36:22.351328",
+            "last_retested_at_epoch": 1591108619.363985,
+            "last_retested_at_iso": "2020-06-02T14:36:59.363985",
+            "status": "INACTIVE"
+        },
+        "ads.brabys.com": {
+            "included_at_epoch": 1591108622.021066,
+            "included_at_iso": "2020-06-02T14:37:02.021066",
+            "last_retested_at_epoch": 1591108622.021066,
+            "last_retested_at_iso": "2020-06-02T14:37:02.021066",
             "status": "INACTIVE"
         },
         "ads.canalblog.com": {
             "included_at_epoch": 1590416880.216487,
             "included_at_iso": "2020-05-25T14:28:00.216487",
-            "last_retested_at_epoch": 1590935784.995477,
-            "last_retested_at_iso": "2020-05-31T14:36:24.995477",
-            "status": "INACTIVE"
-        },
-        "ads.edbindex.dk": {
-            "included_at_epoch": 1590935785.066362,
-            "included_at_iso": "2020-05-31T14:36:25.066362",
-            "last_retested_at_epoch": 1590935785.066362,
-            "last_retested_at_iso": "2020-05-31T14:36:25.066362",
-            "status": "INACTIVE"
-        },
-        "adserver.portugalmail.pt": {
-            "included_at_epoch": 1588688578.164548,
-            "included_at_iso": "2020-05-05T14:22:58.164548",
-            "last_retested_at_epoch": 1590941339.395745,
-            "last_retested_at_iso": "2020-05-31T16:08:59.395745",
+            "last_retested_at_epoch": 1591108622.026388,
+            "last_retested_at_iso": "2020-06-02T14:37:02.026388",
             "status": "INACTIVE"
         },
         "adsrv.eacdn.com": {
