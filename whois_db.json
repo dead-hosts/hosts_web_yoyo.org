@@ -409,6 +409,11 @@
         "expiration_date": "19-dec-2020",
         "state": "future"
     },
+    "adaranth.com": {
+        "epoch": 1614902400.0,
+        "expiration_date": "05-mar-2021",
+        "state": "future"
+    },
     "adback.co": {
         "epoch": 1667520000.0,
         "expiration_date": "04-nov-2022",

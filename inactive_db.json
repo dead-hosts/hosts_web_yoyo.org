@@ -3,29 +3,43 @@
         "ad.intl.xiaomi.com": {
             "included_at_epoch": 1589725439.31738,
             "included_at_iso": "2020-05-17T14:23:59.317380",
-            "last_retested_at_epoch": 1591108619.321077,
-            "last_retested_at_iso": "2020-06-02T14:36:59.321077",
+            "last_retested_at_epoch": 1591281020.352227,
+            "last_retested_at_iso": "2020-06-04T14:30:20.352227",
+            "status": "INACTIVE"
+        },
+        "ad.rambler.ru": {
+            "included_at_epoch": 1591281020.376387,
+            "included_at_iso": "2020-06-04T14:30:20.376387",
+            "last_retested_at_epoch": 1591281020.376387,
+            "last_retested_at_iso": "2020-06-04T14:30:20.376387",
             "status": "INACTIVE"
         },
         "ad.xiaomi.com": {
             "included_at_epoch": 1589725439.35659,
             "included_at_iso": "2020-05-17T14:23:59.356590",
-            "last_retested_at_epoch": 1591108619.363985,
-            "last_retested_at_iso": "2020-06-02T14:36:59.363985",
-            "status": "INACTIVE"
-        },
-        "ads.brabys.com": {
-            "included_at_epoch": 1591108622.021066,
-            "included_at_iso": "2020-06-02T14:37:02.021066",
-            "last_retested_at_epoch": 1591108622.021066,
-            "last_retested_at_iso": "2020-06-02T14:37:02.021066",
+            "last_retested_at_epoch": 1591281020.40065,
+            "last_retested_at_iso": "2020-06-04T14:30:20.400650",
             "status": "INACTIVE"
         },
         "ads.canalblog.com": {
             "included_at_epoch": 1590416880.216487,
             "included_at_iso": "2020-05-25T14:28:00.216487",
-            "last_retested_at_epoch": 1591108622.026388,
-            "last_retested_at_iso": "2020-06-02T14:37:02.026388",
+            "last_retested_at_epoch": 1591281023.284757,
+            "last_retested_at_iso": "2020-06-04T14:30:23.284757",
+            "status": "INACTIVE"
+        },
+        "ads.edbindex.dk": {
+            "included_at_epoch": 1591281023.35913,
+            "included_at_iso": "2020-06-04T14:30:23.359130",
+            "last_retested_at_epoch": 1591281023.35913,
+            "last_retested_at_iso": "2020-06-04T14:30:23.359130",
+            "status": "INACTIVE"
+        },
+        "ads.indiatimes.com": {
+            "included_at_epoch": 1591281023.453407,
+            "included_at_iso": "2020-06-04T14:30:23.453407",
+            "last_retested_at_epoch": 1591281023.453407,
+            "last_retested_at_iso": "2020-06-04T14:30:23.453407",
             "status": "INACTIVE"
         },
         "adsrv.eacdn.com": {
