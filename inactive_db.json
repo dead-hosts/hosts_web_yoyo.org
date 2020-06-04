@@ -66,29 +66,29 @@
         "emediate.eu": {
             "included_at_epoch": 1591110914.261913,
             "included_at_iso": "2020-06-02T15:15:14.261913",
-            "last_retested_at_epoch": 1591110914.261913,
-            "last_retested_at_iso": "2020-06-02T15:15:14.261913",
+            "last_retested_at_epoch": 1591283107.211763,
+            "last_retested_at_iso": "2020-06-04T15:05:07.211763",
             "status": "INACTIVE"
         },
         "measure.office.com": {
             "included_at_epoch": 1590939419.540294,
             "included_at_iso": "2020-05-31T15:36:59.540294",
-            "last_retested_at_epoch": 1591110923.674834,
-            "last_retested_at_iso": "2020-06-02T15:15:23.674834",
+            "last_retested_at_epoch": 1591283116.789991,
+            "last_retested_at_iso": "2020-06-04T15:05:16.789991",
             "status": "INACTIVE"
         },
         "mtrcs.samba.tv": {
             "included_at_epoch": 1590939421.146585,
             "included_at_iso": "2020-05-31T15:37:01.146585",
-            "last_retested_at_epoch": 1591110925.308831,
-            "last_retested_at_iso": "2020-06-02T15:15:25.308831",
+            "last_retested_at_epoch": 1591283118.532676,
+            "last_retested_at_iso": "2020-06-04T15:05:18.532676",
             "status": "INACTIVE"
         },
         "pgl.example0101": {
             "included_at_epoch": 1590939424.381532,
             "included_at_iso": "2020-05-31T15:37:04.381532",
-            "last_retested_at_epoch": 1591110928.676873,
-            "last_retested_at_iso": "2020-06-02T15:15:28.676873",
+            "last_retested_at_epoch": 1591283121.934467,
+            "last_retested_at_iso": "2020-06-04T15:05:21.934467",
             "status": "INVALID"
         },
         "spoor-api.asia.nikkei.com": {

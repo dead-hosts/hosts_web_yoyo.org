@@ -3930,8 +3930,8 @@
         "state": "future"
     },
     "doublepimp.com": {
-        "epoch": 1591142400.0,
-        "expiration_date": "03-jun-2020",
+        "epoch": 1622678400.0,
+        "expiration_date": "03-jun-2021",
         "state": "future"
     },
     "doubtfulrainstorm.com": {
@@ -5227,7 +5227,7 @@
     "havamedia.net": {
         "epoch": 1591228800.0,
         "expiration_date": "04-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "hdscout.com": {
         "epoch": 1611360000.0,
@@ -5765,9 +5765,9 @@
         "state": "future"
     },
     "inringtone.com": {
-        "epoch": 1591056000.0,
-        "expiration_date": "02-jun-2020",
-        "state": "past"
+        "epoch": 1622592000.0,
+        "expiration_date": "02-jun-2021",
+        "state": "future"
     },
     "insgly.net": {
         "epoch": 1602115200.0,
@@ -6540,8 +6540,8 @@
         "state": "future"
     },
     "maximiser.net": {
-        "epoch": 1591142400.0,
-        "expiration_date": "03-jun-2020",
+        "epoch": 1622678400.0,
+        "expiration_date": "03-jun-2021",
         "state": "future"
     },
     "maximumcash.com": {
@@ -7440,8 +7440,8 @@
         "state": "future"
     },
     "onclickads.net": {
-        "epoch": 1591142400.0,
-        "expiration_date": "03-jun-2020",
+        "epoch": 1622678400.0,
+        "expiration_date": "03-jun-2021",
         "state": "future"
     },
     "oneandonlynetwork.com": {
