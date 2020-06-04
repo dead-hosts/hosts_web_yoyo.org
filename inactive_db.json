@@ -45,29 +45,22 @@
         "adsrv.eacdn.com": {
             "included_at_epoch": 1590937494.023335,
             "included_at_iso": "2020-05-31T15:04:54.023335",
-            "last_retested_at_epoch": 1591109562.019718,
-            "last_retested_at_iso": "2020-06-02T14:52:42.019718",
+            "last_retested_at_epoch": 1591281816.070835,
+            "last_retested_at_iso": "2020-06-04T14:43:36.070835",
             "status": "INACTIVE"
         },
-        "affiliate.mercola.com": {
-            "included_at_epoch": 1588861670.466245,
-            "included_at_iso": "2020-05-07T14:27:50.466245",
-            "last_retested_at_epoch": 1591111712.135359,
-            "last_retested_at_iso": "2020-06-02T15:28:32.135359",
-            "status": "INACTIVE"
-        },
-        "bannercommunity.de": {
-            "included_at_epoch": 1591109565.297603,
-            "included_at_iso": "2020-06-02T14:52:45.297603",
-            "last_retested_at_epoch": 1591109565.297603,
-            "last_retested_at_iso": "2020-06-02T14:52:45.297603",
+        "anm.intelli-direct.com": {
+            "included_at_epoch": 1591281818.391039,
+            "included_at_iso": "2020-06-04T14:43:38.391039",
+            "last_retested_at_epoch": 1591281818.391039,
+            "last_retested_at_iso": "2020-06-04T14:43:38.391039",
             "status": "INACTIVE"
         },
         "clickwith.bid": {
             "included_at_epoch": 1590937500.724897,
             "included_at_iso": "2020-05-31T15:05:00.724897",
-            "last_retested_at_epoch": 1591109569.042113,
-            "last_retested_at_iso": "2020-06-02T14:52:49.042113",
+            "last_retested_at_epoch": 1591281823.539435,
+            "last_retested_at_iso": "2020-06-04T14:43:43.539435",
             "status": "INACTIVE"
         },
         "emediate.eu": {

@@ -1120,8 +1120,8 @@
         "state": "future"
     },
     "adserve.io": {
-        "epoch": 1591228800.0,
-        "expiration_date": "04-jun-2020",
+        "epoch": 1622764800.0,
+        "expiration_date": "04-jun-2021",
         "state": "future"
     },
     "adserver.com": {
@@ -3070,8 +3070,8 @@
         "state": "future"
     },
     "clickonometrics.pl": {
-        "epoch": 1591228800.0,
-        "expiration_date": "04-jun-2020",
+        "epoch": 1685836800.0,
+        "expiration_date": "04-jun-2023",
         "state": "future"
     },
     "clicksor.com": {
@@ -3815,8 +3815,8 @@
         "state": "future"
     },
     "directaclick.com": {
-        "epoch": 1591228800.0,
-        "expiration_date": "04-jun-2020",
+        "epoch": 1622764800.0,
+        "expiration_date": "04-jun-2021",
         "state": "future"
     },
     "directivepub.com": {
