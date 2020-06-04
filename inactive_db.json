@@ -94,15 +94,22 @@
         "spoor-api.asia.nikkei.com": {
             "included_at_epoch": 1589902633.27031,
             "included_at_iso": "2020-05-19T15:37:13.270310",
-            "last_retested_at_epoch": 1591111712.140268,
-            "last_retested_at_iso": "2020-06-02T15:28:32.140268",
+            "last_retested_at_epoch": 1591284347.984783,
+            "last_retested_at_iso": "2020-06-04T15:25:47.984783",
             "status": "INACTIVE"
         },
         "stat.xiaomi.com": {
             "included_at_epoch": 1590941328.673351,
             "included_at_iso": "2020-05-31T16:08:48.673351",
-            "last_retested_at_epoch": 1591111701.682255,
-            "last_retested_at_iso": "2020-06-02T15:28:21.682255",
+            "last_retested_at_epoch": 1591284337.71655,
+            "last_retested_at_iso": "2020-06-04T15:25:37.716550",
+            "status": "INACTIVE"
+        },
+        "tfag.de": {
+            "included_at_epoch": 1591284339.652763,
+            "included_at_iso": "2020-06-04T15:25:39.652763",
+            "last_retested_at_epoch": 1591284339.652763,
+            "last_retested_at_iso": "2020-06-04T15:25:39.652763",
             "status": "INACTIVE"
         }
     },
