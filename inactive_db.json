@@ -3,8 +3,8 @@
         "ad.intl.xiaomi.com": {
             "included_at_epoch": 1589725439.31738,
             "included_at_iso": "2020-05-17T14:23:59.317380",
-            "last_retested_at_epoch": 1591281020.352227,
-            "last_retested_at_iso": "2020-06-04T14:30:20.352227",
+            "last_retested_at_epoch": 1591453514.463748,
+            "last_retested_at_iso": "2020-06-06T14:25:14.463748",
             "status": "INACTIVE"
         },
         "ad.rambler.ru": {
@@ -17,22 +17,29 @@
         "ad.xiaomi.com": {
             "included_at_epoch": 1589725439.35659,
             "included_at_iso": "2020-05-17T14:23:59.356590",
-            "last_retested_at_epoch": 1591281020.40065,
-            "last_retested_at_iso": "2020-06-04T14:30:20.400650",
+            "last_retested_at_epoch": 1591453514.508729,
+            "last_retested_at_iso": "2020-06-06T14:25:14.508729",
+            "status": "INACTIVE"
+        },
+        "ads.brabys.com": {
+            "included_at_epoch": 1591453517.2094,
+            "included_at_iso": "2020-06-06T14:25:17.209400",
+            "last_retested_at_epoch": 1591453517.2094,
+            "last_retested_at_iso": "2020-06-06T14:25:17.209400",
             "status": "INACTIVE"
         },
         "ads.canalblog.com": {
             "included_at_epoch": 1590416880.216487,
             "included_at_iso": "2020-05-25T14:28:00.216487",
-            "last_retested_at_epoch": 1591281023.284757,
-            "last_retested_at_iso": "2020-06-04T14:30:23.284757",
+            "last_retested_at_epoch": 1591453517.214772,
+            "last_retested_at_iso": "2020-06-06T14:25:17.214772",
             "status": "INACTIVE"
         },
         "ads.edbindex.dk": {
             "included_at_epoch": 1591281023.35913,
             "included_at_iso": "2020-06-04T14:30:23.359130",
-            "last_retested_at_epoch": 1591281023.35913,
-            "last_retested_at_iso": "2020-06-04T14:30:23.359130",
+            "last_retested_at_epoch": 1591453517.285557,
+            "last_retested_at_iso": "2020-06-06T14:25:17.285557",
             "status": "INACTIVE"
         },
         "ads.indiatimes.com": {
