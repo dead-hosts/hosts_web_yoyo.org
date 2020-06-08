@@ -38,8 +38,8 @@
         "adsrv.eacdn.com": {
             "included_at_epoch": 1590937494.023335,
             "included_at_iso": "2020-05-31T15:04:54.023335",
-            "last_retested_at_epoch": 1591454225.656711,
-            "last_retested_at_iso": "2020-06-06T14:37:05.656711",
+            "last_retested_at_epoch": 1591627429.073831,
+            "last_retested_at_iso": "2020-06-08T14:43:49.073831",
             "status": "INACTIVE"
         },
         "anm.intelli-direct.com": {
@@ -52,8 +52,8 @@
         "clickwith.bid": {
             "included_at_epoch": 1590937500.724897,
             "included_at_iso": "2020-05-31T15:05:00.724897",
-            "last_retested_at_epoch": 1591454232.476021,
-            "last_retested_at_iso": "2020-06-06T14:37:12.476021",
+            "last_retested_at_epoch": 1591627436.33316,
+            "last_retested_at_iso": "2020-06-08T14:43:56.333160",
             "status": "INACTIVE"
         },
         "emediate.eu": {
