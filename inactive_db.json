@@ -94,8 +94,15 @@
         "clickwith.bid": {
             "included_at_epoch": 1590937500.724897,
             "included_at_iso": "2020-05-31T15:05:00.724897",
-            "last_retested_at_epoch": 1591627436.33316,
-            "last_retested_at_iso": "2020-06-08T14:43:56.333160",
+            "last_retested_at_epoch": 1591800721.510414,
+            "last_retested_at_iso": "2020-06-10T14:52:01.510414",
+            "status": "INACTIVE"
+        },
+        "count.west263.com": {
+            "included_at_epoch": 1591800722.742477,
+            "included_at_iso": "2020-06-10T14:52:02.742477",
+            "last_retested_at_epoch": 1591800722.742477,
+            "last_retested_at_iso": "2020-06-10T14:52:02.742477",
             "status": "INACTIVE"
         },
         "emediate.eu": {
@@ -105,18 +112,25 @@
             "last_retested_at_iso": "2020-06-08T15:07:09.691746",
             "status": "INACTIVE"
         },
+        "imageads.canoe.ca": {
+            "included_at_epoch": 1591800731.547383,
+            "included_at_iso": "2020-06-10T14:52:11.547383",
+            "last_retested_at_epoch": 1591800731.547383,
+            "last_retested_at_iso": "2020-06-10T14:52:11.547383",
+            "status": "INACTIVE"
+        },
         "measure.office.com": {
             "included_at_epoch": 1590939419.540294,
             "included_at_iso": "2020-05-31T15:36:59.540294",
-            "last_retested_at_epoch": 1591628161.018375,
-            "last_retested_at_iso": "2020-06-08T14:56:01.018375",
+            "last_retested_at_epoch": 1591800735.536808,
+            "last_retested_at_iso": "2020-06-10T14:52:15.536808",
             "status": "INACTIVE"
         },
         "mtrcs.samba.tv": {
             "included_at_epoch": 1590939421.146585,
             "included_at_iso": "2020-05-31T15:37:01.146585",
-            "last_retested_at_epoch": 1591628162.593619,
-            "last_retested_at_iso": "2020-06-08T14:56:02.593619",
+            "last_retested_at_epoch": 1591800737.255281,
+            "last_retested_at_iso": "2020-06-10T14:52:17.255281",
             "status": "INACTIVE"
         },
         "pgl.example0101": {
