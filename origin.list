@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 04 Jun 2020 16:42:26 GMT
-# entries:        3382
+# last updated:   Wed, 10 Jun 2020 08:24:42 GMT
+# entries:        3384
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Tue, 13 Jun 2000 00:00:00
+# start date:    Thu, 15 Jun 2000 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -1249,6 +1249,7 @@
 0.0.0.0 calculatorcamera.com
 0.0.0.0 callousbrake.com
 0.0.0.0 callrail.com
+0.0.0.0 calmcactus.com
 0.0.0.0 campaign.bharatmatrimony.com
 0.0.0.0 caniamedia.com
 0.0.0.0 cannads.urgrafix.com
@@ -1389,6 +1390,7 @@
 0.0.0.0 contaxe.de
 0.0.0.0 content.acc-hd.de
 0.0.0.0 content.ad
+0.0.0.0 content22.online.citi.com
 0.0.0.0 contextweb.com
 0.0.0.0 converge-digital.com
 0.0.0.0 conversantmedia.com

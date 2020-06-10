@@ -3,8 +3,8 @@
         "ad.intl.xiaomi.com": {
             "included_at_epoch": 1589725439.31738,
             "included_at_iso": "2020-05-17T14:23:59.317380",
-            "last_retested_at_epoch": 1591626405.109114,
-            "last_retested_at_iso": "2020-06-08T14:26:45.109114",
+            "last_retested_at_epoch": 1591799274.11748,
+            "last_retested_at_iso": "2020-06-10T14:27:54.117480",
             "status": "INACTIVE"
         },
         "ad.rambler.ru": {
@@ -17,15 +17,29 @@
         "ad.xiaomi.com": {
             "included_at_epoch": 1589725439.35659,
             "included_at_iso": "2020-05-17T14:23:59.356590",
-            "last_retested_at_epoch": 1591626405.153807,
-            "last_retested_at_iso": "2020-06-08T14:26:45.153807",
+            "last_retested_at_epoch": 1591799274.15454,
+            "last_retested_at_iso": "2020-06-10T14:27:54.154540",
+            "status": "INACTIVE"
+        },
+        "admerize.be": {
+            "included_at_epoch": 1591799275.905599,
+            "included_at_iso": "2020-06-10T14:27:55.905599",
+            "last_retested_at_epoch": 1591799275.905599,
+            "last_retested_at_iso": "2020-06-10T14:27:55.905599",
             "status": "INACTIVE"
         },
         "ads.canalblog.com": {
             "included_at_epoch": 1590416880.216487,
             "included_at_iso": "2020-05-25T14:28:00.216487",
-            "last_retested_at_epoch": 1591626407.969841,
-            "last_retested_at_iso": "2020-06-08T14:26:47.969841",
+            "last_retested_at_epoch": 1591799276.85544,
+            "last_retested_at_iso": "2020-06-10T14:27:56.855440",
+            "status": "INACTIVE"
+        },
+        "ads.canoe.ca": {
+            "included_at_epoch": 1591799276.861145,
+            "included_at_iso": "2020-06-10T14:27:56.861145",
+            "last_retested_at_epoch": 1591799276.861145,
+            "last_retested_at_iso": "2020-06-10T14:27:56.861145",
             "status": "INACTIVE"
         },
         "ads.indiatimes.com": {
