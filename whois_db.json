@@ -1582,7 +1582,7 @@
     "adz2you.com": {
         "epoch": 1591747200.0,
         "expiration_date": "10-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "adzbazar.com": {
         "epoch": 1621728000.0,
@@ -2717,6 +2717,11 @@
     "callstats.io": {
         "epoch": 1598745600,
         "expiration_date": "30-aug-2020",
+        "state": "future"
+    },
+    "calmcactus.com": {
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "calmfoot.com": {

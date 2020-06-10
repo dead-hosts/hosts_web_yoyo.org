@@ -49,11 +49,32 @@
             "last_retested_at_iso": "2020-06-08T15:07:09.701400",
             "status": "INACTIVE"
         },
+        "ads1.canoe.ca": {
+            "included_at_epoch": 1591799993.173414,
+            "included_at_iso": "2020-06-10T14:39:53.173414",
+            "last_retested_at_epoch": 1591799993.173414,
+            "last_retested_at_iso": "2020-06-10T14:39:53.173414",
+            "status": "INACTIVE"
+        },
+        "ads2004.treiberupdate.de": {
+            "included_at_epoch": 1591799993.224681,
+            "included_at_iso": "2020-06-10T14:39:53.224681",
+            "last_retested_at_epoch": 1591799993.224681,
+            "last_retested_at_iso": "2020-06-10T14:39:53.224681",
+            "status": "INACTIVE"
+        },
+        "ads5.canoe.ca": {
+            "included_at_epoch": 1591799993.302186,
+            "included_at_iso": "2020-06-10T14:39:53.302186",
+            "last_retested_at_epoch": 1591799993.302186,
+            "last_retested_at_iso": "2020-06-10T14:39:53.302186",
+            "status": "INACTIVE"
+        },
         "adsrv.eacdn.com": {
             "included_at_epoch": 1590937494.023335,
             "included_at_iso": "2020-05-31T15:04:54.023335",
-            "last_retested_at_epoch": 1591627429.073831,
-            "last_retested_at_iso": "2020-06-08T14:43:49.073831",
+            "last_retested_at_epoch": 1591799994.080501,
+            "last_retested_at_iso": "2020-06-10T14:39:54.080501",
             "status": "INACTIVE"
         },
         "anm.intelli-direct.com": {
@@ -61,6 +82,13 @@
             "included_at_iso": "2020-06-04T14:43:38.391039",
             "last_retested_at_epoch": 1591628829.710818,
             "last_retested_at_iso": "2020-06-08T15:07:09.710818",
+            "status": "INACTIVE"
+        },
+        "banner.orb.net": {
+            "included_at_epoch": 1591799997.330946,
+            "included_at_iso": "2020-06-10T14:39:57.330946",
+            "last_retested_at_epoch": 1591799997.330946,
+            "last_retested_at_iso": "2020-06-10T14:39:57.330946",
             "status": "INACTIVE"
         },
         "clickwith.bid": {
