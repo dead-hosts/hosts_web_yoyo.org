@@ -10,8 +10,8 @@
         "ad.rambler.ru": {
             "included_at_epoch": 1591281020.376387,
             "included_at_iso": "2020-06-04T14:30:20.376387",
-            "last_retested_at_epoch": 1591628829.696721,
-            "last_retested_at_iso": "2020-06-08T15:07:09.696721",
+            "last_retested_at_epoch": 1591801658.059666,
+            "last_retested_at_iso": "2020-06-10T15:07:38.059666",
             "status": "INACTIVE"
         },
         "ad.xiaomi.com": {
@@ -45,8 +45,8 @@
         "ads.indiatimes.com": {
             "included_at_epoch": 1591281023.453407,
             "included_at_iso": "2020-06-04T14:30:23.453407",
-            "last_retested_at_epoch": 1591628829.7014,
-            "last_retested_at_iso": "2020-06-08T15:07:09.701400",
+            "last_retested_at_epoch": 1591801658.045503,
+            "last_retested_at_iso": "2020-06-10T15:07:38.045503",
             "status": "INACTIVE"
         },
         "ads1.canoe.ca": {
@@ -80,8 +80,8 @@
         "anm.intelli-direct.com": {
             "included_at_epoch": 1591281818.391039,
             "included_at_iso": "2020-06-04T14:43:38.391039",
-            "last_retested_at_epoch": 1591628829.710818,
-            "last_retested_at_iso": "2020-06-08T15:07:09.710818",
+            "last_retested_at_epoch": 1591801658.050515,
+            "last_retested_at_iso": "2020-06-10T15:07:38.050515",
             "status": "INACTIVE"
         },
         "banner.orb.net": {
@@ -108,8 +108,8 @@
         "emediate.eu": {
             "included_at_epoch": 1591110914.261913,
             "included_at_iso": "2020-06-02T15:15:14.261913",
-            "last_retested_at_epoch": 1591628829.691746,
-            "last_retested_at_iso": "2020-06-08T15:07:09.691746",
+            "last_retested_at_epoch": 1591801658.05505,
+            "last_retested_at_iso": "2020-06-10T15:07:38.055050",
             "status": "INACTIVE"
         },
         "imageads.canoe.ca": {
@@ -143,8 +143,8 @@
         "spoor-api.asia.nikkei.com": {
             "included_at_epoch": 1589902633.27031,
             "included_at_iso": "2020-05-19T15:37:13.270310",
-            "last_retested_at_epoch": 1591628829.706376,
-            "last_retested_at_iso": "2020-06-08T15:07:09.706376",
+            "last_retested_at_epoch": 1591801658.068608,
+            "last_retested_at_iso": "2020-06-10T15:07:38.068608",
             "status": "INACTIVE"
         },
         "stat.xiaomi.com": {
@@ -157,8 +157,8 @@
         "tfag.de": {
             "included_at_epoch": 1591284339.652763,
             "included_at_iso": "2020-06-04T15:25:39.652763",
-            "last_retested_at_epoch": 1591628829.715623,
-            "last_retested_at_iso": "2020-06-08T15:07:09.715623",
+            "last_retested_at_epoch": 1591801658.064165,
+            "last_retested_at_iso": "2020-06-10T15:07:38.064165",
             "status": "INACTIVE"
         }
     },
