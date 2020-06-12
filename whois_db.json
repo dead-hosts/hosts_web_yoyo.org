@@ -2280,8 +2280,8 @@
         "state": "future"
     },
     "bestsearch.net": {
-        "epoch": 1591920000.0,
-        "expiration_date": "12-jun-2020",
+        "epoch": 1623456000.0,
+        "expiration_date": "12-jun-2021",
         "state": "future"
     },
     "bewilderedblade.com": {
@@ -5310,8 +5310,8 @@
         "state": "future"
     },
     "histats.com": {
-        "epoch": 1591920000.0,
-        "expiration_date": "12-jun-2020",
+        "epoch": 1623456000.0,
+        "expiration_date": "12-jun-2021",
         "state": "future"
     },
     "historicalrequest.com": {
@@ -5432,6 +5432,11 @@
     "hs-analytics.net": {
         "epoch": 1600387200.0,
         "expiration_date": "18-sep-2020",
+        "state": "future"
+    },
+    "hs-banner.com": {
+        "epoch": 1646784000.0,
+        "expiration_date": "09-mar-2022",
         "state": "future"
     },
     "hsadspixel.net": {
@@ -7630,13 +7635,13 @@
         "state": "future"
     },
     "pagefair.com": {
-        "epoch": 1591833600.0,
-        "expiration_date": "11-jun-2020",
+        "epoch": 1623369600.0,
+        "expiration_date": "11-jun-2021",
         "state": "future"
     },
     "pagefair.net": {
-        "epoch": 1591833600.0,
-        "expiration_date": "11-jun-2020",
+        "epoch": 1623369600.0,
+        "expiration_date": "11-jun-2021",
         "state": "future"
     },
     "pagerank4you.com": {
