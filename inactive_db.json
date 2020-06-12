@@ -3,8 +3,8 @@
         "ad.intl.xiaomi.com": {
             "included_at_epoch": 1589725439.31738,
             "included_at_iso": "2020-05-17T14:23:59.317380",
-            "last_retested_at_epoch": 1591799274.11748,
-            "last_retested_at_iso": "2020-06-10T14:27:54.117480",
+            "last_retested_at_epoch": 1591973452.348598,
+            "last_retested_at_iso": "2020-06-12T14:50:52.348598",
             "status": "INACTIVE"
         },
         "ad.rambler.ru": {
@@ -17,8 +17,8 @@
         "ad.xiaomi.com": {
             "included_at_epoch": 1589725439.35659,
             "included_at_iso": "2020-05-17T14:23:59.356590",
-            "last_retested_at_epoch": 1591799274.15454,
-            "last_retested_at_iso": "2020-06-10T14:27:54.154540",
+            "last_retested_at_epoch": 1591973452.387817,
+            "last_retested_at_iso": "2020-06-12T14:50:52.387817",
             "status": "INACTIVE"
         },
         "admerize.be": {
@@ -31,8 +31,8 @@
         "ads.canalblog.com": {
             "included_at_epoch": 1590416880.216487,
             "included_at_iso": "2020-05-25T14:28:00.216487",
-            "last_retested_at_epoch": 1591799276.85544,
-            "last_retested_at_iso": "2020-06-10T14:27:56.855440",
+            "last_retested_at_epoch": 1591973455.046298,
+            "last_retested_at_iso": "2020-06-12T14:50:55.046298",
             "status": "INACTIVE"
         },
         "ads.canoe.ca": {
@@ -49,18 +49,18 @@
             "last_retested_at_iso": "2020-06-10T15:07:38.045503",
             "status": "INACTIVE"
         },
+        "ads.printscr.com": {
+            "included_at_epoch": 1591973455.29102,
+            "included_at_iso": "2020-06-12T14:50:55.291020",
+            "last_retested_at_epoch": 1591973455.29102,
+            "last_retested_at_iso": "2020-06-12T14:50:55.291020",
+            "status": "INACTIVE"
+        },
         "ads1.canoe.ca": {
             "included_at_epoch": 1591799993.173414,
             "included_at_iso": "2020-06-10T14:39:53.173414",
             "last_retested_at_epoch": 1591799993.173414,
             "last_retested_at_iso": "2020-06-10T14:39:53.173414",
-            "status": "INACTIVE"
-        },
-        "ads2004.treiberupdate.de": {
-            "included_at_epoch": 1591799993.224681,
-            "included_at_iso": "2020-06-10T14:39:53.224681",
-            "last_retested_at_epoch": 1591799993.224681,
-            "last_retested_at_iso": "2020-06-10T14:39:53.224681",
             "status": "INACTIVE"
         },
         "ads5.canoe.ca": {
@@ -73,8 +73,8 @@
         "adsrv.eacdn.com": {
             "included_at_epoch": 1590937494.023335,
             "included_at_iso": "2020-05-31T15:04:54.023335",
-            "last_retested_at_epoch": 1591799994.080501,
-            "last_retested_at_iso": "2020-06-10T14:39:54.080501",
+            "last_retested_at_epoch": 1591973456.313669,
+            "last_retested_at_iso": "2020-06-12T14:50:56.313669",
             "status": "INACTIVE"
         },
         "anm.intelli-direct.com": {
@@ -82,13 +82,6 @@
             "included_at_iso": "2020-06-04T14:43:38.391039",
             "last_retested_at_epoch": 1591801658.050515,
             "last_retested_at_iso": "2020-06-10T15:07:38.050515",
-            "status": "INACTIVE"
-        },
-        "banner.orb.net": {
-            "included_at_epoch": 1591799997.330946,
-            "included_at_iso": "2020-06-10T14:39:57.330946",
-            "last_retested_at_epoch": 1591799997.330946,
-            "last_retested_at_iso": "2020-06-10T14:39:57.330946",
             "status": "INACTIVE"
         },
         "clickwith.bid": {
