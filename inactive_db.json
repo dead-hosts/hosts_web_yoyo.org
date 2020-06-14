@@ -80,8 +80,8 @@
         "clickwith.bid": {
             "included_at_epoch": 1590937500.724897,
             "included_at_iso": "2020-05-31T15:05:00.724897",
-            "last_retested_at_epoch": 1591975547.267268,
-            "last_retested_at_iso": "2020-06-12T15:25:47.267268",
+            "last_retested_at_epoch": 1592146688.681099,
+            "last_retested_at_iso": "2020-06-14T14:58:08.681099",
             "status": "INACTIVE"
         },
         "emediate.eu": {
@@ -101,22 +101,22 @@
         "measure.office.com": {
             "included_at_epoch": 1590939419.540294,
             "included_at_iso": "2020-05-31T15:36:59.540294",
-            "last_retested_at_epoch": 1591975560.576226,
-            "last_retested_at_iso": "2020-06-12T15:26:00.576226",
+            "last_retested_at_epoch": 1592146701.885624,
+            "last_retested_at_iso": "2020-06-14T14:58:21.885624",
             "status": "INACTIVE"
         },
         "mtrcs.samba.tv": {
             "included_at_epoch": 1590939421.146585,
             "included_at_iso": "2020-05-31T15:37:01.146585",
-            "last_retested_at_epoch": 1591975562.211322,
-            "last_retested_at_iso": "2020-06-12T15:26:02.211322",
+            "last_retested_at_epoch": 1592146703.47399,
+            "last_retested_at_iso": "2020-06-14T14:58:23.473990",
             "status": "INACTIVE"
         },
         "pgl.example0101": {
             "included_at_epoch": 1590939424.381532,
             "included_at_iso": "2020-05-31T15:37:04.381532",
-            "last_retested_at_epoch": 1591975565.540736,
-            "last_retested_at_iso": "2020-06-12T15:26:05.540736",
+            "last_retested_at_epoch": 1592146706.73386,
+            "last_retested_at_iso": "2020-06-14T14:58:26.733860",
             "status": "INVALID"
         },
         "spoor-api.asia.nikkei.com": {
