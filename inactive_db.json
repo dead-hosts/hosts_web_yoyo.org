@@ -3,8 +3,8 @@
         "ad.intl.xiaomi.com": {
             "included_at_epoch": 1592145672.110553,
             "included_at_iso": "2020-06-14T14:41:12.110553",
-            "last_retested_at_epoch": 1592145672.110553,
-            "last_retested_at_iso": "2020-06-14T14:41:12.110553",
+            "last_retested_at_epoch": 1592319071.310337,
+            "last_retested_at_iso": "2020-06-16T14:51:11.310337",
             "status": "INACTIVE"
         },
         "ad.rambler.ru": {
@@ -17,8 +17,8 @@
         "ad.xiaomi.com": {
             "included_at_epoch": 1592145672.150161,
             "included_at_iso": "2020-06-14T14:41:12.150161",
-            "last_retested_at_epoch": 1592145672.150161,
-            "last_retested_at_iso": "2020-06-14T14:41:12.150161",
+            "last_retested_at_epoch": 1592319071.356388,
+            "last_retested_at_iso": "2020-06-16T14:51:11.356388",
             "status": "INACTIVE"
         },
         "admerize.be": {
@@ -31,8 +31,8 @@
         "ads.canalblog.com": {
             "included_at_epoch": 1590416880.216487,
             "included_at_iso": "2020-05-25T14:28:00.216487",
-            "last_retested_at_epoch": 1592145674.858575,
-            "last_retested_at_iso": "2020-06-14T14:41:14.858575",
+            "last_retested_at_epoch": 1592319074.179178,
+            "last_retested_at_iso": "2020-06-16T14:51:14.179178",
             "status": "INACTIVE"
         },
         "ads.canoe.ca": {
@@ -40,6 +40,13 @@
             "included_at_iso": "2020-06-10T14:27:56.861145",
             "last_retested_at_epoch": 1592147220.844921,
             "last_retested_at_iso": "2020-06-14T15:07:00.844921",
+            "status": "INACTIVE"
+        },
+        "ads.edbindex.dk": {
+            "included_at_epoch": 1592319074.249109,
+            "included_at_iso": "2020-06-16T14:51:14.249109",
+            "last_retested_at_epoch": 1592319074.249109,
+            "last_retested_at_iso": "2020-06-16T14:51:14.249109",
             "status": "INACTIVE"
         },
         "ads.indiatimes.com": {
@@ -66,8 +73,8 @@
         "adsrv.eacdn.com": {
             "included_at_epoch": 1590937494.023335,
             "included_at_iso": "2020-05-31T15:04:54.023335",
-            "last_retested_at_epoch": 1592145676.102415,
-            "last_retested_at_iso": "2020-06-14T14:41:16.102415",
+            "last_retested_at_epoch": 1592319075.519157,
+            "last_retested_at_iso": "2020-06-16T14:51:15.519157",
             "status": "INACTIVE"
         },
         "anm.intelli-direct.com": {
