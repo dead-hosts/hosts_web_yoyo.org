@@ -4070,13 +4070,13 @@
         "state": "future"
     },
     "eclkmpbn.com": {
-        "epoch": 1592179200.0,
-        "expiration_date": "15-jun-2020",
+        "epoch": 1623715200.0,
+        "expiration_date": "15-jun-2021",
         "state": "future"
     },
     "eclkspbn.com": {
-        "epoch": 1592179200.0,
-        "expiration_date": "15-jun-2020",
+        "epoch": 1623715200.0,
+        "expiration_date": "15-jun-2021",
         "state": "future"
     },
     "economicpizzas.com": {
@@ -5197,6 +5197,11 @@
     "h92zbpn4zcv1.com": {
         "epoch": 1611273600.0,
         "expiration_date": "22-jan-2021",
+        "state": "future"
+    },
+    "habitualhumor.com": {
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
         "state": "future"
     },
     "hadskiz.com": {
@@ -7509,6 +7514,11 @@
         "expiration_date": "20-feb-2021",
         "state": "future"
     },
+    "openadsnetwork.com": {
+        "epoch": 1613520000.0,
+        "expiration_date": "17-feb-2021",
+        "state": "future"
+    },
     "operationkettle.com": {
         "epoch": 1601856000.0,
         "expiration_date": "05-oct-2020",
@@ -8352,7 +8362,7 @@
     "questaffiliates.net": {
         "epoch": 1592265600.0,
         "expiration_date": "16-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "quicksandear.com": {
         "epoch": 1611273600.0,
@@ -8777,7 +8787,7 @@
     "rsalcdp.com": {
         "epoch": 1592265600.0,
         "expiration_date": "16-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "rtbadzesto.com": {
         "epoch": 1612569600.0,
