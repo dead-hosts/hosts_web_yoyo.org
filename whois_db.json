@@ -8795,9 +8795,9 @@
         "state": "future"
     },
     "rsalcdp.com": {
-        "epoch": 1592265600.0,
-        "expiration_date": "16-jun-2020",
-        "state": "past"
+        "epoch": 1623801600.0,
+        "expiration_date": "16-jun-2021",
+        "state": "future"
     },
     "rtbadzesto.com": {
         "epoch": 1612569600.0,
@@ -9312,6 +9312,11 @@
     "siteimproveanalytics.com": {
         "epoch": 1708905600.0,
         "expiration_date": "26-feb-2024",
+        "state": "future"
+    },
+    "siteimproveanalytics.io": {
+        "epoch": 1615161600.0,
+        "expiration_date": "08-mar-2021",
         "state": "future"
     },
     "sitemeter.com": {
@@ -10290,8 +10295,8 @@
         "state": "future"
     },
     "top20free.com": {
-        "epoch": 1592438400.0,
-        "expiration_date": "18-jun-2020",
+        "epoch": 1623974400.0,
+        "expiration_date": "18-jun-2021",
         "state": "future"
     },
     "top90.ro": {
@@ -11302,6 +11307,11 @@
     "worldwide-cash.net": {
         "epoch": 1597536000.0,
         "expiration_date": "16-aug-2020",
+        "state": "future"
+    },
+    "worldwidedigitalads.com": {
+        "epoch": 1598659200.0,
+        "expiration_date": "29-aug-2020",
         "state": "future"
     },
     "worriednumber.com": {
