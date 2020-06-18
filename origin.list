@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 15 Jun 2020 11:49:32 GMT
-# entries:        3380
+# last updated:   Thu, 18 Jun 2020 08:33:31 GMT
+# entries:        3389
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Wed, 21 Jun 2000 00:00:00
+# start date:    Fri, 23 Jun 2000 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -56,6 +56,7 @@
 0.0.0.0 a.xanga.com
 0.0.0.0 a135.wftv.com
 0.0.0.0 aaddzz.com
+0.0.0.0 aax-eu-dub.amazon.com
 0.0.0.0 aaxads.com
 0.0.0.0 aaxdetect.com
 0.0.0.0 abacho.net
@@ -969,6 +970,7 @@
 0.0.0.0 analytics.icons8.com
 0.0.0.0 analytics.inlinemanual.com
 0.0.0.0 analytics.jabong.com
+0.0.0.0 analytics.jst.ai
 0.0.0.0 analytics.live.com
 0.0.0.0 analytics.mailmunch.co
 0.0.0.0 analytics.myfinance.com
@@ -981,6 +983,7 @@
 0.0.0.0 analytics.siliconexpert.com
 0.0.0.0 analytics.swiggy.com
 0.0.0.0 analytics.yahoo.com
+0.0.0.0 analyticsapi.happypancake.net
 0.0.0.0 aniview.com
 0.0.0.0 annonser.dagbladet.no
 0.0.0.0 anrdoezrs.net
@@ -1122,6 +1125,7 @@
 0.0.0.0 bannerspace.com
 0.0.0.0 bannerswap.com
 0.0.0.0 bannertesting.com
+0.0.0.0 bannertrack.net
 0.0.0.0 bannery.cz
 0.0.0.0 bannieres.acces-contenu.com
 0.0.0.0 bans.bride.ru
@@ -1378,6 +1382,7 @@
 0.0.0.0 concernedcondition.com
 0.0.0.0 conductrics.com
 0.0.0.0 connatix.com
+0.0.0.0 connectad.io
 0.0.0.0 connextra.com
 0.0.0.0 consciouschairs.com
 0.0.0.0 consensad.com
@@ -2708,6 +2713,7 @@
 0.0.0.0 rsalcdp.com
 0.0.0.0 rta.dailymail.co.uk
 0.0.0.0 rtb.gumgum.com
+0.0.0.0 rtb.openx.net
 0.0.0.0 rtbadzesto.com
 0.0.0.0 rtbflairads.com
 0.0.0.0 rtbidhost.com
@@ -2810,6 +2816,7 @@
 0.0.0.0 sinoa.com
 0.0.0.0 sitedataprocessing.com
 0.0.0.0 siteimproveanalytics.com
+0.0.0.0 siteimproveanalytics.io
 0.0.0.0 siteintercept.qualtrics.com
 0.0.0.0 sitemeter.com
 0.0.0.0 sixscissors.com
@@ -2973,6 +2980,7 @@
 0.0.0.0 t.insigit.com
 0.0.0.0 t.irtyd.com
 0.0.0.0 taboola.com
+0.0.0.0 tag.links-analytics.com
 0.0.0.0 tagan.adlightning.com
 0.0.0.0 tagger.opecloud.com
 0.0.0.0 tags.tiqcdn.com
@@ -3319,6 +3327,7 @@
 0.0.0.0 wondoads.de
 0.0.0.0 woopra.com
 0.0.0.0 worldwide-cash.net
+0.0.0.0 worldwidedigitalads.com
 0.0.0.0 worriednumber.com
 0.0.0.0 worrybutter.com
 0.0.0.0 wpnrtnmrewunrtok.xyz
