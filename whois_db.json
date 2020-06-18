@@ -2164,6 +2164,11 @@
         "expiration_date": "29-jan-2021",
         "state": "future"
     },
+    "bannertrack.net": {
+        "epoch": 1600473600.0,
+        "expiration_date": "19-sep-2020",
+        "state": "future"
+    },
     "bannery.cz": {
         "epoch": 1620432000.0,
         "expiration_date": "08-may-2021",
@@ -2510,8 +2515,8 @@
         "state": "future"
     },
     "bongacash.com": {
-        "epoch": 1592438400.0,
-        "expiration_date": "18-jun-2020",
+        "epoch": 1655510400.0,
+        "expiration_date": "18-jun-2022",
         "state": "future"
     },
     "boomads.com": {
@@ -3319,6 +3324,11 @@
         "expiration_date": "06-nov-2020",
         "state": "future"
     },
+    "connectad.io": {
+        "epoch": 1623801600.0,
+        "expiration_date": "16-jun-2021",
+        "state": "future"
+    },
     "connextra.com": {
         "epoch": 1754956800.0,
         "expiration_date": "12-aug-2025",
@@ -3355,8 +3365,8 @@
         "state": "future"
     },
     "conversantmedia.com": {
-        "epoch": 1592438400.0,
-        "expiration_date": "18-jun-2020",
+        "epoch": 1623974400.0,
+        "expiration_date": "18-jun-2021",
         "state": "future"
     },
     "conversionbet.com": {
@@ -3525,13 +3535,13 @@
         "state": "future"
     },
     "criteo.com": {
-        "epoch": 1592352000.0,
-        "expiration_date": "17-jun-2020",
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
         "state": "future"
     },
     "criteo.net": {
-        "epoch": 1592352000.0,
-        "expiration_date": "17-jun-2020",
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
         "state": "future"
     },
     "critictruck.com": {
@@ -6155,13 +6165,13 @@
         "state": "future"
     },
     "ladsreds.com": {
-        "epoch": 1592352000.0,
-        "expiration_date": "17-jun-2020",
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
         "state": "future"
     },
     "ladsup.com": {
-        "epoch": 1592352000.0,
-        "expiration_date": "17-jun-2020",
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
         "state": "future"
     },
     "lakequincy.com": {
@@ -7335,8 +7345,8 @@
         "state": "future"
     },
     "npttech.com": {
-        "epoch": 1592352000.0,
-        "expiration_date": "17-jun-2020",
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
         "state": "future"
     },
     "nr-data.net": {
@@ -7635,13 +7645,13 @@
         "state": "future"
     },
     "padsbrown.com": {
-        "epoch": 1592352000.0,
-        "expiration_date": "17-jun-2020",
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
         "state": "future"
     },
     "padssup.com": {
-        "epoch": 1592352000.0,
-        "expiration_date": "17-jun-2020",
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
         "state": "future"
     },
     "pagefair.com": {
@@ -8340,8 +8350,8 @@
         "state": "future"
     },
     "quantcast.com": {
-        "epoch": 1592438400.0,
-        "expiration_date": "18-jun-2020",
+        "epoch": 1655510400.0,
+        "expiration_date": "18-jun-2022",
         "state": "future"
     },
     "quantserve.com": {
@@ -8360,9 +8370,9 @@
         "state": "future"
     },
     "questaffiliates.net": {
-        "epoch": 1592265600.0,
-        "expiration_date": "16-jun-2020",
-        "state": "past"
+        "epoch": 1623801600.0,
+        "expiration_date": "16-jun-2021",
+        "state": "future"
     },
     "quicksandear.com": {
         "epoch": 1611273600.0,
