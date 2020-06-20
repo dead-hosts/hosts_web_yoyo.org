@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 18 Jun 2020 08:33:31 GMT
-# entries:        3389
+# last updated:   Thu, 18 Jun 2020 21:09:08 GMT
+# entries:        3394
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Fri, 23 Jun 2000 00:00:00
+# start date:    Sun, 25 Jun 2000 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -55,6 +55,7 @@
 0.0.0.0 a.vfgtb.com
 0.0.0.0 a.xanga.com
 0.0.0.0 a135.wftv.com
+0.0.0.0 aa-metrics.trip-ai.jp
 0.0.0.0 aaddzz.com
 0.0.0.0 aax-eu-dub.amazon.com
 0.0.0.0 aaxads.com
@@ -363,7 +364,6 @@
 0.0.0.0 ads-click.com
 0.0.0.0 ads-dev.pinterest.com
 0.0.0.0 ads-game-187f4.firebaseapp.com
-0.0.0.0 ads-software.net
 0.0.0.0 ads-trk.vidible.tv
 0.0.0.0 ads-twitter.com
 0.0.0.0 ads.4tube.com
@@ -410,6 +410,7 @@
 0.0.0.0 ads.bumq.com
 0.0.0.0 ads.businessweek.com
 0.0.0.0 ads.canalblog.com
+0.0.0.0 ads.canoe.ca
 0.0.0.0 ads.casinocity.com
 0.0.0.0 ads.casumoaffiliates.com
 0.0.0.0 ads.cbc.ca
@@ -680,6 +681,7 @@
 0.0.0.0 ads.zdnet.com
 0.0.0.0 ads.ztod.com
 0.0.0.0 ads1-adnow.com
+0.0.0.0 ads1.canoe.ca
 0.0.0.0 ads1.mediacapital.pt
 0.0.0.0 ads1.msn.com
 0.0.0.0 ads1.rne.com
@@ -707,6 +709,7 @@
 0.0.0.0 ads4.gamecity.net
 0.0.0.0 ads4.virtual-nights.com
 0.0.0.0 ads4homes.com
+0.0.0.0 ads5.canoe.ca
 0.0.0.0 ads5.virtual-nights.com
 0.0.0.0 ads6.gamecity.net
 0.0.0.0 ads7.gamecity.net
@@ -839,6 +842,7 @@
 0.0.0.0 adtoma.com
 0.0.0.0 adtrace.org
 0.0.0.0 adtrade.net
+0.0.0.0 adtrak.net
 0.0.0.0 adtriplex.com
 0.0.0.0 adultadvertising.com
 0.0.0.0 adv-adserver.com
@@ -1668,6 +1672,7 @@
 0.0.0.0 fadedprofit.com
 0.0.0.0 fadedsnow.com
 0.0.0.0 famousquarter.com
+0.0.0.0 faracoon.com
 0.0.0.0 farethief.com
 0.0.0.0 farmergoldfish.com
 0.0.0.0 fascinatedfeather.com
@@ -1901,6 +1906,7 @@
 0.0.0.0 ilead.itrack.it
 0.0.0.0 illfatedsnail.com
 0.0.0.0 illustriousoatmeal.com
+0.0.0.0 imageads.canoe.ca
 0.0.0.0 imagecash.net
 0.0.0.0 images-pw.secureserver.net
 0.0.0.0 imarketservices.com
@@ -2422,7 +2428,6 @@
 0.0.0.0 pagead.l.google.com
 0.0.0.0 pagefair.com
 0.0.0.0 pagefair.net
-0.0.0.0 pagerank-ranking.de
 0.0.0.0 pagerank4you.com
 0.0.0.0 pageranktop.com
 0.0.0.0 paleleaf.com

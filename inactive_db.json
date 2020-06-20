@@ -3,8 +3,8 @@
         "ad.intl.xiaomi.com": {
             "included_at_epoch": 1592145672.110553,
             "included_at_iso": "2020-06-14T14:41:12.110553",
-            "last_retested_at_epoch": 1592490892.32328,
-            "last_retested_at_iso": "2020-06-18T14:34:52.323280",
+            "last_retested_at_epoch": 1592664226.223913,
+            "last_retested_at_iso": "2020-06-20T14:43:46.223913",
             "status": "INACTIVE"
         },
         "ad.rambler.ru": {
@@ -17,8 +17,8 @@
         "ad.xiaomi.com": {
             "included_at_epoch": 1592145672.150161,
             "included_at_iso": "2020-06-14T14:41:12.150161",
-            "last_retested_at_epoch": 1592490892.364156,
-            "last_retested_at_iso": "2020-06-18T14:34:52.364156",
+            "last_retested_at_epoch": 1592664226.257892,
+            "last_retested_at_iso": "2020-06-20T14:43:46.257892",
             "status": "INACTIVE"
         },
         "admerize.be": {
@@ -31,8 +31,15 @@
         "ads.canalblog.com": {
             "included_at_epoch": 1590416880.216487,
             "included_at_iso": "2020-05-25T14:28:00.216487",
-            "last_retested_at_epoch": 1592490894.993345,
-            "last_retested_at_iso": "2020-06-18T14:34:54.993345",
+            "last_retested_at_epoch": 1592664229.028112,
+            "last_retested_at_iso": "2020-06-20T14:43:49.028112",
+            "status": "INACTIVE"
+        },
+        "ads.detelefoongids.nl": {
+            "included_at_epoch": 1592664229.078204,
+            "included_at_iso": "2020-06-20T14:43:49.078204",
+            "last_retested_at_epoch": 1592664229.078204,
+            "last_retested_at_iso": "2020-06-20T14:43:49.078204",
             "status": "INACTIVE"
         },
         "ads.indiatimes.com": {
@@ -45,8 +52,8 @@
         "adsrv.eacdn.com": {
             "included_at_epoch": 1590937494.023335,
             "included_at_iso": "2020-05-31T15:04:54.023335",
-            "last_retested_at_epoch": 1592490896.236815,
-            "last_retested_at_iso": "2020-06-18T14:34:56.236815",
+            "last_retested_at_epoch": 1592664230.347405,
+            "last_retested_at_iso": "2020-06-20T14:43:50.347405",
             "status": "INACTIVE"
         },
         "anm.intelli-direct.com": {
@@ -54,6 +61,13 @@
             "included_at_iso": "2020-06-04T14:43:38.391039",
             "last_retested_at_epoch": 1592492617.177745,
             "last_retested_at_iso": "2020-06-18T15:03:37.177745",
+            "status": "INACTIVE"
+        },
+        "banner.grandefm.com.br": {
+            "included_at_epoch": 1592664233.592024,
+            "included_at_iso": "2020-06-20T14:43:53.592024",
+            "last_retested_at_epoch": 1592664233.592024,
+            "last_retested_at_iso": "2020-06-20T14:43:53.592024",
             "status": "INACTIVE"
         },
         "clickwith.bid": {
