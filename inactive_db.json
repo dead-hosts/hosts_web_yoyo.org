@@ -94,22 +94,15 @@
         "banner.grandefm.com.br": {
             "included_at_epoch": 1592664233.592024,
             "included_at_iso": "2020-06-20T14:43:53.592024",
-            "last_retested_at_epoch": 1592664233.592024,
-            "last_retested_at_iso": "2020-06-20T14:43:53.592024",
+            "last_retested_at_epoch": 1592840228.564375,
+            "last_retested_at_iso": "2020-06-22T15:37:08.564375",
             "status": "INACTIVE"
         },
         "clickwith.bid": {
             "included_at_epoch": 1590937500.724897,
             "included_at_iso": "2020-05-31T15:05:00.724897",
-            "last_retested_at_epoch": 1592665419.8879,
-            "last_retested_at_iso": "2020-06-20T15:03:39.887900",
-            "status": "INACTIVE"
-        },
-        "counter.nowlinux.com": {
-            "included_at_epoch": 1592665421.142148,
-            "included_at_iso": "2020-06-20T15:03:41.142148",
-            "last_retested_at_epoch": 1592665421.142148,
-            "last_retested_at_iso": "2020-06-20T15:03:41.142148",
+            "last_retested_at_epoch": 1592840232.436716,
+            "last_retested_at_iso": "2020-06-22T15:37:12.436716",
             "status": "INACTIVE"
         },
         "emediate.eu": {
@@ -119,18 +112,25 @@
             "last_retested_at_iso": "2020-06-20T15:12:55.199016",
             "status": "INACTIVE"
         },
+        "marketing.nyi.net": {
+            "included_at_epoch": 1592840245.847576,
+            "included_at_iso": "2020-06-22T15:37:25.847576",
+            "last_retested_at_epoch": 1592840245.847576,
+            "last_retested_at_iso": "2020-06-22T15:37:25.847576",
+            "status": "INACTIVE"
+        },
         "measure.office.com": {
             "included_at_epoch": 1590939419.540294,
             "included_at_iso": "2020-05-31T15:36:59.540294",
-            "last_retested_at_epoch": 1592665433.462986,
-            "last_retested_at_iso": "2020-06-20T15:03:53.462986",
+            "last_retested_at_epoch": 1592840246.05548,
+            "last_retested_at_iso": "2020-06-22T15:37:26.055480",
             "status": "INACTIVE"
         },
         "mtrcs.samba.tv": {
             "included_at_epoch": 1590939421.146585,
             "included_at_iso": "2020-05-31T15:37:01.146585",
-            "last_retested_at_epoch": 1592665435.185854,
-            "last_retested_at_iso": "2020-06-20T15:03:55.185854",
+            "last_retested_at_epoch": 1592840247.738271,
+            "last_retested_at_iso": "2020-06-22T15:37:27.738271",
             "status": "INACTIVE"
         },
         "pagerank-ranking.de": {
@@ -143,8 +143,8 @@
         "pgl.example0101": {
             "included_at_epoch": 1590939424.381532,
             "included_at_iso": "2020-05-31T15:37:04.381532",
-            "last_retested_at_epoch": 1592665438.550592,
-            "last_retested_at_iso": "2020-06-20T15:03:58.550592",
+            "last_retested_at_epoch": 1592840251.141971,
+            "last_retested_at_iso": "2020-06-22T15:37:31.141971",
             "status": "INVALID"
         },
         "stat.xiaomi.com": {

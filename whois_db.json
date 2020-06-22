@@ -2397,7 +2397,7 @@
     "bizzclick.com": {
         "epoch": 1592784000.0,
         "expiration_date": "22-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "bkrtx.com": {
         "epoch": 1614816000.0,
@@ -2985,8 +2985,8 @@
         "state": "future"
     },
     "clevernt.com": {
-        "epoch": 1592784000.0,
-        "expiration_date": "22-jun-2020",
+        "epoch": 1624320000.0,
+        "expiration_date": "22-jun-2021",
         "state": "future"
     },
     "click2freemoney.com": {
@@ -3222,7 +3222,7 @@
     "cognitiveadscience.com": {
         "epoch": 1592784000.0,
         "expiration_date": "22-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "coin-hive.com": {
         "epoch": 1598227200.0,
@@ -3420,8 +3420,8 @@
         "state": "future"
     },
     "cormast.com": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
         "state": "future"
     },
     "cosmopolitads.com": {
@@ -4657,7 +4657,7 @@
     "fingahvf.top": {
         "epoch": 1592784000.0,
         "expiration_date": "22-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "firstlightera.com": {
         "epoch": 1635811200.0,
@@ -5427,7 +5427,7 @@
     "hotkeys.com": {
         "epoch": 1592784000.0,
         "expiration_date": "22-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "hotlog.ru": {
         "epoch": 1609372800.0,
@@ -5480,8 +5480,8 @@
         "state": "future"
     },
     "hueads.com": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
         "state": "future"
     },
     "hueadsortb.com": {
@@ -5882,7 +5882,7 @@
     "intergi.com": {
         "epoch": 1592784000.0,
         "expiration_date": "22-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "internetfuel.com": {
         "epoch": 1595203200.0,
