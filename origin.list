@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 22 Jun 2020 14:40:50 GMT
-# entries:        3410
+# last updated:   Mon, 22 Jun 2020 15:27:55 GMT
+# entries:        3414
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -161,6 +161,7 @@
 0.0.0.0 ad.reunion.com
 0.0.0.0 ad.sensismediasmart.com.au
 0.0.0.0 ad.seznam.cz
+0.0.0.0 ad.simflight.com
 0.0.0.0 ad.simgames.net
 0.0.0.0 ad.smartclip.net
 0.0.0.0 ad.tbn.ru
@@ -447,6 +448,7 @@
 0.0.0.0 ads.directionsmag.com
 0.0.0.0 ads.domain.com
 0.0.0.0 ads.domeus.com
+0.0.0.0 ads.dtpnetwork.biz
 0.0.0.0 ads.eagletribune.com
 0.0.0.0 ads.easy-forex.com
 0.0.0.0 ads.economist.com
@@ -611,6 +613,7 @@
 0.0.0.0 ads.radio1.lv
 0.0.0.0 ads.rcs.it
 0.0.0.0 ads.recoletos.es
+0.0.0.0 ads.redactor.in.ua
 0.0.0.0 ads.rediff.com
 0.0.0.0 ads.redlightcenter.com
 0.0.0.0 ads.revjet.com
@@ -757,6 +760,7 @@
 0.0.0.0 adserver.com
 0.0.0.0 adserver.diariodosertao.com.br
 0.0.0.0 adserver.digitoday.com
+0.0.0.0 adserver.echdk.pl
 0.0.0.0 adserver.freecity.de
 0.0.0.0 adserver.friendfinder.com
 0.0.0.0 adserver.hardsextube.com
