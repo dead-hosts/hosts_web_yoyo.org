@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 22 Jun 2020 15:27:55 GMT
-# entries:        3414
+# last updated:   Wed, 24 Jun 2020 11:46:06 GMT
+# entries:        3440
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Tue, 27 Jun 2000 00:00:00
+# start date:    Thu, 29 Jun 2000 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -56,6 +56,7 @@
 0.0.0.0 a.vfgtb.com
 0.0.0.0 a.xanga.com
 0.0.0.0 a135.wftv.com
+0.0.0.0 aa-metrics.beauty.hotpepper.jp
 0.0.0.0 aa-metrics.trip-ai.jp
 0.0.0.0 aaddzz.com
 0.0.0.0 aax-eu-dub.amazon.com
@@ -147,8 +148,10 @@
 0.0.0.0 ad.media-servers.net
 0.0.0.0 ad.mediastorm.hu
 0.0.0.0 ad.mgd.de
+0.0.0.0 ad.mobstazinc.cn
 0.0.0.0 ad.musicmatch.com
 0.0.0.0 ad.myapple.pl
+0.0.0.0 ad.mynetreklam.com.streamprovider.net
 0.0.0.0 ad.nachtagenten.de
 0.0.0.0 ad.nozonedata.com
 0.0.0.0 ad.nttnavi.co.jp
@@ -406,6 +409,7 @@
 0.0.0.0 ads.blog.com
 0.0.0.0 ads.bloomberg.com
 0.0.0.0 ads.bluemountain.com
+0.0.0.0 ads.boerding.com
 0.0.0.0 ads.bonniercorp.com
 0.0.0.0 ads.boylesports.com
 0.0.0.0 ads.brabys.com
@@ -442,6 +446,7 @@
 0.0.0.0 ads.desmoinesregister.com
 0.0.0.0 ads.detelefoongids.nl
 0.0.0.0 ads.deviantart.com
+0.0.0.0 ads.devmates.com
 0.0.0.0 ads.digital-digest.com
 0.0.0.0 ads.digitalmedianet.com
 0.0.0.0 ads.digitalpoint.com
@@ -464,6 +469,7 @@
 0.0.0.0 ads.expat-blog.biz
 0.0.0.0 ads.factorymedia.com
 0.0.0.0 ads.fairfax.com.au
+0.0.0.0 ads.fastcomgroup.it
 0.0.0.0 ads.fasttrack-ignite.com
 0.0.0.0 ads.faxo.com
 0.0.0.0 ads.ferianc.com
@@ -473,6 +479,7 @@
 0.0.0.0 ads.fool.com
 0.0.0.0 ads.footymad.net
 0.0.0.0 ads.forbes.net
+0.0.0.0 ads.formit.cz
 0.0.0.0 ads.fortunecity.com
 0.0.0.0 ads.fotosidan.se
 0.0.0.0 ads.foxnetworks.com
@@ -496,6 +503,7 @@
 0.0.0.0 ads.gplusmedia.com
 0.0.0.0 ads.gradfinder.com
 0.0.0.0 ads.grindinggears.com
+0.0.0.0 ads.groupewin.fr
 0.0.0.0 ads.gsm-exchange.com
 0.0.0.0 ads.gsmexchange.com
 0.0.0.0 ads.guardian.co.uk
@@ -541,6 +549,7 @@
 0.0.0.0 ads.larryaffiliates.com
 0.0.0.0 ads.leovegas.com
 0.0.0.0 ads.lesbianpersonals.com
+0.0.0.0 ads.liberte.pl
 0.0.0.0 ads.linkedin.com
 0.0.0.0 ads.linuxfoundation.org
 0.0.0.0 ads.livenation.com
@@ -565,6 +574,8 @@
 0.0.0.0 ads.msn.com
 0.0.0.0 ads.multimania.lycos.fr
 0.0.0.0 ads.muslimehelfen.org
+0.0.0.0 ads.mvscoelho.com
+0.0.0.0 ads.myadv.org
 0.0.0.0 ads.nccwebs.com
 0.0.0.0 ads.ncm.com
 0.0.0.0 ads.ndtv1.com
@@ -590,8 +601,10 @@
 0.0.0.0 ads.opensubtitles.org
 0.0.0.0 ads.optusnet.com.au
 0.0.0.0 ads.outpersonals.com
+0.0.0.0 ads.oxyshop.cz
 0.0.0.0 ads.passion.com
 0.0.0.0 ads.pennet.com
+0.0.0.0 ads.pfl.ua
 0.0.0.0 ads.phpclasses.org
 0.0.0.0 ads.pinterest.com
 0.0.0.0 ads.planet.nl
@@ -611,6 +624,7 @@
 0.0.0.0 ads.quasaraffiliates.com
 0.0.0.0 ads.quoka.de
 0.0.0.0 ads.radio1.lv
+0.0.0.0 ads.rcncdn.de
 0.0.0.0 ads.rcs.it
 0.0.0.0 ads.recoletos.es
 0.0.0.0 ads.redactor.in.ua
@@ -629,10 +643,12 @@
 0.0.0.0 ads.sift.co.uk
 0.0.0.0 ads.silverdisc.co.uk
 0.0.0.0 ads.simplyhired.com
+0.0.0.0 ads.sjon.info
 0.0.0.0 ads.smartclick.com
 0.0.0.0 ads.socialtheater.com
 0.0.0.0 ads.soft32.com
 0.0.0.0 ads.space.com
+0.0.0.0 ads.squarecrop.net
 0.0.0.0 ads.stackoverflow.com
 0.0.0.0 ads.sun.com
 0.0.0.0 ads.suomiautomaatti.com
@@ -644,6 +660,7 @@
 0.0.0.0 ads.thrillsaffiliates.com
 0.0.0.0 ads.tiktok.com
 0.0.0.0 ads.tmcs.net
+0.0.0.0 ads.todoti.com.br
 0.0.0.0 ads.toplayaffiliates.com
 0.0.0.0 ads.totallyfreestuff.com
 0.0.0.0 ads.townhall.com
@@ -668,6 +685,7 @@
 0.0.0.0 ads.videosz.com
 0.0.0.0 ads.viksaffiliates.com
 0.0.0.0 ads.virtual-nights.com
+0.0.0.0 ads.virtuopolitan.com
 0.0.0.0 ads.vnumedia.com
 0.0.0.0 ads.waps.cn
 0.0.0.0 ads.wapx.cn
@@ -712,6 +730,7 @@
 0.0.0.0 ads2.rne.com
 0.0.0.0 ads2.techads.info
 0.0.0.0 ads2.virtual-nights.com
+0.0.0.0 ads2.webdrive.no
 0.0.0.0 ads2.xnet.cz
 0.0.0.0 ads2004.treiberupdate.de
 0.0.0.0 ads24h.net
@@ -750,7 +769,9 @@
 0.0.0.0 adserver.adultfriendfinder.com
 0.0.0.0 adserver.adverty.com
 0.0.0.0 adserver.aidameter.com
+0.0.0.0 adserver.anawe.cz
 0.0.0.0 adserver.aol.fr
+0.0.0.0 adserver.bdoce.cl
 0.0.0.0 adserver.betandwin.de
 0.0.0.0 adserver.bing.com
 0.0.0.0 adserver.bizhat.com
@@ -772,6 +793,7 @@
 0.0.0.0 adserver.janes.com
 0.0.0.0 adserver.libero.it
 0.0.0.0 adserver.mobi
+0.0.0.0 adserver.msmb.biz
 0.0.0.0 adserver.news.com.au
 0.0.0.0 adserver.nydailynews.com
 0.0.0.0 adserver.o2.pl
@@ -1033,6 +1055,7 @@
 0.0.0.0 argyresthia.com
 0.0.0.0 aromamirror.com
 0.0.0.0 as.webmd.com
+0.0.0.0 aserv.motorsgate.com
 0.0.0.0 asewlfjqwlflkew.com
 0.0.0.0 assets1.exgfnetwork.com
 0.0.0.0 assoc-amazon.com
@@ -1780,6 +1803,7 @@
 0.0.0.0 geovisite.com
 0.0.0.0 getclicky.com
 0.0.0.0 getintent.com
+0.0.0.0 getmyads.com
 0.0.0.0 giddycoat.com
 0.0.0.0 globalismedia.com
 0.0.0.0 globaltakeoff.net
@@ -3135,6 +3159,7 @@
 0.0.0.0 tracker.vgame.us
 0.0.0.0 tracking.1-a1502-bi.co.uk
 0.0.0.0 tracking.1-kv015-ap.co.uk
+0.0.0.0 tracking.21-a4652-bi.co.uk
 0.0.0.0 tracking.5-47737-bi.co.uk
 0.0.0.0 tracking.crunchiemedia.com
 0.0.0.0 tracking.epicgames.com
@@ -3373,6 +3398,7 @@
 0.0.0.0 xapads.com
 0.0.0.0 xchange.ro
 0.0.0.0 xertive.com
+0.0.0.0 xfreeservice.com
 0.0.0.0 xg4ken.com
 0.0.0.0 xiti.com
 0.0.0.0 xovq5nemr.com
