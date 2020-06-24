@@ -11389,6 +11389,11 @@
         "expiration_date": "17-apr-2021",
         "state": "future"
     },
+    "xfreeservice.com": {
+        "epoch": 1598745600.0,
+        "expiration_date": "30-aug-2020",
+        "state": "future"
+    },
     "xg4ken.com": {
         "epoch": 1713916800.0,
         "expiration_date": "24-apr-2024",
@@ -11600,8 +11605,8 @@
         "state": "future"
     },
     "zqtk.net": {
-        "epoch": 1592956800.0,
-        "expiration_date": "24-jun-2020",
+        "epoch": 1624492800.0,
+        "expiration_date": "24-jun-2021",
         "state": "future"
     },
     "zukxd6fkxqn.com": {
