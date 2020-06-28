@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 26 Jun 2020 12:45:19 GMT
-# entries:        3470
+# last updated:   Sun, 28 Jun 2020 14:25:26 GMT
+# entries:        3475
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sat, 01 Jul 2000 00:00:00
+# start date:    Mon, 03 Jul 2000 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -223,6 +223,7 @@
 0.0.0.0 adbutler.com
 0.0.0.0 adbuyer.com
 0.0.0.0 adbuyer3.lycos.com
+0.0.0.0 adcampo.com
 0.0.0.0 adcannyads.com
 0.0.0.0 adcash.com
 0.0.0.0 adcast.deviantart.com
@@ -384,6 +385,7 @@
 0.0.0.0 ads.ad-center.com
 0.0.0.0 ads.adfox.ru
 0.0.0.0 ads.administrator.de
+0.0.0.0 ads.adred.de
 0.0.0.0 ads.adshareware.net
 0.0.0.0 ads.adstream.com.ro
 0.0.0.0 ads.adultfriendfinder.com
@@ -659,6 +661,7 @@
 0.0.0.0 ads.socapro.com
 0.0.0.0 ads.socialtheater.com
 0.0.0.0 ads.soft32.com
+0.0.0.0 ads.soweb.gr
 0.0.0.0 ads.space.com
 0.0.0.0 ads.squarecrop.net
 0.0.0.0 ads.stackoverflow.com
@@ -785,6 +788,7 @@
 0.0.0.0 adsensecustomsearchads.com
 0.0.0.0 adserve.ams.rhythmxchange.com
 0.0.0.0 adserve.io
+0.0.0.0 adserve.jbs.org
 0.0.0.0 adserver.71i.de
 0.0.0.0 adserver.adultfriendfinder.com
 0.0.0.0 adserver.adverty.com
@@ -867,6 +871,7 @@
 0.0.0.0 adspirit.de
 0.0.0.0 adsponse.de
 0.0.0.0 adspsp.com
+0.0.0.0 adsroller.com
 0.0.0.0 adsrv.deviantart.com
 0.0.0.0 adsrv.eacdn.com
 0.0.0.0 adsrv.iol.co.za
