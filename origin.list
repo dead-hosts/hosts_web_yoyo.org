@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 28 Jun 2020 14:25:26 GMT
-# entries:        3475
+# last updated:   Tue, 30 Jun 2020 10:09:13 GMT
+# entries:        3482
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Mon, 03 Jul 2000 00:00:00
+# start date:    Wed, 05 Jul 2000 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -53,6 +53,7 @@
 0.0.0.0 a.sakh.com
 0.0.0.0 a.ucoz.net
 0.0.0.0 a.ucoz.ru
+0.0.0.0 a.vartoken.com
 0.0.0.0 a.vfghd.com
 0.0.0.0 a.vfgtb.com
 0.0.0.0 a.xanga.com
@@ -69,6 +70,7 @@
 0.0.0.0 abashedangle.com
 0.0.0.0 abc-ads.com
 0.0.0.0 aboardlevel.com
+0.0.0.0 aboutads.gr
 0.0.0.0 abruptroad.com
 0.0.0.0 absentstream.com
 0.0.0.0 absoluteclickscom.com
@@ -162,6 +164,7 @@
 0.0.0.0 ad.preferances.com
 0.0.0.0 ad.profiwin.de
 0.0.0.0 ad.prv.pl
+0.0.0.0 ad.pttcn.net
 0.0.0.0 ad.reunion.com
 0.0.0.0 ad.sensismediasmart.com.au
 0.0.0.0 ad.seznam.cz
@@ -1404,6 +1407,7 @@
 0.0.0.0 clickhouse.com
 0.0.0.0 clickhype.com
 0.0.0.0 clicklink.jp
+0.0.0.0 clickmate.io
 0.0.0.0 clickonometrics.pl
 0.0.0.0 clicks.equantum.com
 0.0.0.0 clicks.mods.de
@@ -2687,6 +2691,7 @@
 0.0.0.0 radarurl.com
 0.0.0.0 radiate.com
 0.0.0.0 railwayrainstorm.com
+0.0.0.0 railwayreason.com
 0.0.0.0 rampidads.com
 0.0.0.0 rank-master.com
 0.0.0.0 rankchamp.de
@@ -2716,6 +2721,7 @@
 0.0.0.0 realclever.com
 0.0.0.0 realclix.com
 0.0.0.0 realmedia-a800.d4p.net
+0.0.0.0 realsrv.com
 0.0.0.0 realtechnetwork.com
 0.0.0.0 realtracker.com
 0.0.0.0 rebelsubway.com
@@ -3259,6 +3265,7 @@
 0.0.0.0 truehits2.gits.net.th
 0.0.0.0 trustx.org
 0.0.0.0 tsyndicate.com
+0.0.0.0 tsyndicate.net
 0.0.0.0 tubemogul.com
 0.0.0.0 turboadv.com
 0.0.0.0 turn.com

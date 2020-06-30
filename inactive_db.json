@@ -3,8 +3,8 @@
         "ad.intl.xiaomi.com": {
             "included_at_epoch": 1592145672.110553,
             "included_at_iso": "2020-06-14T14:41:12.110553",
-            "last_retested_at_epoch": 1593355784.975864,
-            "last_retested_at_iso": "2020-06-28T14:49:44.975864",
+            "last_retested_at_epoch": 1593529883.343535,
+            "last_retested_at_iso": "2020-06-30T15:11:23.343535",
             "status": "INACTIVE"
         },
         "ad.rambler.ru": {
@@ -17,8 +17,8 @@
         "ad.xiaomi.com": {
             "included_at_epoch": 1592145672.150161,
             "included_at_iso": "2020-06-14T14:41:12.150161",
-            "last_retested_at_epoch": 1593355785.019188,
-            "last_retested_at_iso": "2020-06-28T14:49:45.019188",
+            "last_retested_at_epoch": 1593529883.384375,
+            "last_retested_at_iso": "2020-06-30T15:11:23.384375",
             "status": "INACTIVE"
         },
         "admerize.be": {
@@ -31,8 +31,8 @@
         "ads.canalblog.com": {
             "included_at_epoch": 1592837607.37751,
             "included_at_iso": "2020-06-22T14:53:27.377510",
-            "last_retested_at_epoch": 1593355787.671619,
-            "last_retested_at_iso": "2020-06-28T14:49:47.671619",
+            "last_retested_at_epoch": 1593529886.155288,
+            "last_retested_at_iso": "2020-06-30T15:11:26.155288",
             "status": "INACTIVE"
         },
         "ads.indiatimes.com": {
@@ -40,6 +40,34 @@
             "included_at_iso": "2020-06-04T14:30:23.453407",
             "last_retested_at_epoch": 1593357646.018372,
             "last_retested_at_iso": "2020-06-28T15:20:46.018372",
+            "status": "INACTIVE"
+        },
+        "ads.nyi.net": {
+            "included_at_epoch": 1593529886.415324,
+            "included_at_iso": "2020-06-30T15:11:26.415324",
+            "last_retested_at_epoch": 1593529886.415324,
+            "last_retested_at_iso": "2020-06-30T15:11:26.415324",
+            "status": "INACTIVE"
+        },
+        "ads.scifi.com": {
+            "included_at_epoch": 1593529886.483163,
+            "included_at_iso": "2020-06-30T15:11:26.483163",
+            "last_retested_at_epoch": 1593529886.483163,
+            "last_retested_at_iso": "2020-06-30T15:11:26.483163",
+            "status": "INACTIVE"
+        },
+        "adsrv.eacdn.com": {
+            "included_at_epoch": 1593529887.5962,
+            "included_at_iso": "2020-06-30T15:11:27.596200",
+            "last_retested_at_epoch": 1593529887.5962,
+            "last_retested_at_iso": "2020-06-30T15:11:27.596200",
+            "status": "INACTIVE"
+        },
+        "adsrv.kobi.tv": {
+            "included_at_epoch": 1593529887.602726,
+            "included_at_iso": "2020-06-30T15:11:27.602726",
+            "last_retested_at_epoch": 1593529887.602726,
+            "last_retested_at_iso": "2020-06-30T15:11:27.602726",
             "status": "INACTIVE"
         },
         "anm.intelli-direct.com": {
@@ -70,39 +98,11 @@
             "last_retested_at_iso": "2020-06-28T15:20:46.044255",
             "status": "INACTIVE"
         },
-        "measure.office.com": {
-            "included_at_epoch": 1590939419.540294,
-            "included_at_iso": "2020-05-31T15:36:59.540294",
-            "last_retested_at_epoch": 1593357021.671172,
-            "last_retested_at_iso": "2020-06-28T15:10:21.671172",
-            "status": "INACTIVE"
-        },
-        "mtrcs.samba.tv": {
-            "included_at_epoch": 1590939421.146585,
-            "included_at_iso": "2020-05-31T15:37:01.146585",
-            "last_retested_at_epoch": 1593357023.349759,
-            "last_retested_at_iso": "2020-06-28T15:10:23.349759",
-            "status": "INACTIVE"
-        },
         "pagerank-ranking.de": {
             "included_at_epoch": 1592320446.266337,
             "included_at_iso": "2020-06-16T15:14:06.266337",
             "last_retested_at_epoch": 1593357646.027204,
             "last_retested_at_iso": "2020-06-28T15:20:46.027204",
-            "status": "INACTIVE"
-        },
-        "pgl.example0101": {
-            "included_at_epoch": 1590939424.381532,
-            "included_at_iso": "2020-05-31T15:37:04.381532",
-            "last_retested_at_epoch": 1593357026.80908,
-            "last_retested_at_iso": "2020-06-28T15:10:26.809080",
-            "status": "INVALID"
-        },
-        "stat.xiaomi.com": {
-            "included_at_epoch": 1590941328.673351,
-            "included_at_iso": "2020-05-31T16:08:48.673351",
-            "last_retested_at_epoch": 1593357598.463083,
-            "last_retested_at_iso": "2020-06-28T15:19:58.463083",
             "status": "INACTIVE"
         },
         "tfag.de": {
