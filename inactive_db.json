@@ -84,11 +84,18 @@
             "last_retested_at_iso": "2020-06-28T15:20:46.035591",
             "status": "INACTIVE"
         },
-        "emediate.eu": {
-            "included_at_epoch": 1591110914.261913,
-            "included_at_iso": "2020-06-02T15:15:14.261913",
-            "last_retested_at_epoch": 1593357646.023007,
-            "last_retested_at_iso": "2020-06-28T15:20:46.023007",
+        "bannersng.yell.com": {
+            "included_at_epoch": 1593532350.67315,
+            "included_at_iso": "2020-06-30T15:52:30.673150",
+            "last_retested_at_epoch": 1593532350.67315,
+            "last_retested_at_iso": "2020-06-30T15:52:30.673150",
+            "status": "INACTIVE"
+        },
+        "clickwith.bid": {
+            "included_at_epoch": 1593532354.229316,
+            "included_at_iso": "2020-06-30T15:52:34.229316",
+            "last_retested_at_epoch": 1593532354.229316,
+            "last_retested_at_iso": "2020-06-30T15:52:34.229316",
             "status": "INACTIVE"
         },
         "i.xx.openx.com": {
@@ -98,12 +105,33 @@
             "last_retested_at_iso": "2020-06-28T15:20:46.044255",
             "status": "INACTIVE"
         },
+        "measure.office.com": {
+            "included_at_epoch": 1593532367.945732,
+            "included_at_iso": "2020-06-30T15:52:47.945732",
+            "last_retested_at_epoch": 1593532367.945732,
+            "last_retested_at_iso": "2020-06-30T15:52:47.945732",
+            "status": "INACTIVE"
+        },
+        "mtrcs.samba.tv": {
+            "included_at_epoch": 1593532369.650865,
+            "included_at_iso": "2020-06-30T15:52:49.650865",
+            "last_retested_at_epoch": 1593532369.650865,
+            "last_retested_at_iso": "2020-06-30T15:52:49.650865",
+            "status": "INACTIVE"
+        },
         "pagerank-ranking.de": {
             "included_at_epoch": 1592320446.266337,
             "included_at_iso": "2020-06-16T15:14:06.266337",
             "last_retested_at_epoch": 1593357646.027204,
             "last_retested_at_iso": "2020-06-28T15:20:46.027204",
             "status": "INACTIVE"
+        },
+        "pgl.example0101": {
+            "included_at_epoch": 1593532373.131394,
+            "included_at_iso": "2020-06-30T15:52:53.131394",
+            "last_retested_at_epoch": 1593532373.131394,
+            "last_retested_at_iso": "2020-06-30T15:52:53.131394",
+            "status": "INVALID"
         },
         "tfag.de": {
             "included_at_epoch": 1591284339.652763,

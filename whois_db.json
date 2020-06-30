@@ -2080,8 +2080,8 @@
         "state": "future"
     },
     "b-1st.com": {
-        "epoch": 1593388800.0,
-        "expiration_date": "29-jun-2020",
+        "epoch": 1624924800.0,
+        "expiration_date": "29-jun-2021",
         "state": "future"
     },
     "b59812ee54afcabd.com": {
@@ -2697,7 +2697,7 @@
     "buyingadsmadeeasy.com": {
         "epoch": 1593475200.0,
         "expiration_date": "30-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "buysellads.com": {
         "epoch": 1825113600.0,
@@ -3097,6 +3097,11 @@
     "clickhype.com": {
         "epoch": 1612137600.0,
         "expiration_date": "01-feb-2021",
+        "state": "future"
+    },
+    "clickmate.io": {
+        "epoch": 1604707200.0,
+        "expiration_date": "07-nov-2020",
         "state": "future"
     },
     "clickonometrics.pl": {
@@ -3870,8 +3875,8 @@
         "state": "future"
     },
     "directtrack.com": {
-        "epoch": 1593388800.0,
-        "expiration_date": "29-jun-2020",
+        "epoch": 1624924800.0,
+        "expiration_date": "29-jun-2021",
         "state": "future"
     },
     "discountclick.com": {
@@ -7545,8 +7550,8 @@
         "state": "future"
     },
     "onscroll.com": {
-        "epoch": 1593388800.0,
-        "expiration_date": "29-jun-2020",
+        "epoch": 1624924800.0,
+        "expiration_date": "29-jun-2021",
         "state": "future"
     },
     "onthe.io": {
