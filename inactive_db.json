@@ -10,8 +10,8 @@
         "ad.rambler.ru": {
             "included_at_epoch": 1591281020.376387,
             "included_at_iso": "2020-06-04T14:30:20.376387",
-            "last_retested_at_epoch": 1593357646.039839,
-            "last_retested_at_iso": "2020-06-28T15:20:46.039839",
+            "last_retested_at_epoch": 1593533861.778505,
+            "last_retested_at_iso": "2020-06-30T16:17:41.778505",
             "status": "INACTIVE"
         },
         "ad.xiaomi.com": {
@@ -24,8 +24,8 @@
         "admerize.be": {
             "included_at_epoch": 1591799275.905599,
             "included_at_iso": "2020-06-10T14:27:55.905599",
-            "last_retested_at_epoch": 1593357646.048704,
-            "last_retested_at_iso": "2020-06-28T15:20:46.048704",
+            "last_retested_at_epoch": 1593533861.787926,
+            "last_retested_at_iso": "2020-06-30T16:17:41.787926",
             "status": "INACTIVE"
         },
         "ads.canalblog.com": {
@@ -38,8 +38,8 @@
         "ads.indiatimes.com": {
             "included_at_epoch": 1591281023.453407,
             "included_at_iso": "2020-06-04T14:30:23.453407",
-            "last_retested_at_epoch": 1593357646.018372,
-            "last_retested_at_iso": "2020-06-28T15:20:46.018372",
+            "last_retested_at_epoch": 1593533861.792649,
+            "last_retested_at_iso": "2020-06-30T16:17:41.792649",
             "status": "INACTIVE"
         },
         "ads.nyi.net": {
@@ -73,15 +73,15 @@
         "anm.intelli-direct.com": {
             "included_at_epoch": 1591281818.391039,
             "included_at_iso": "2020-06-04T14:43:38.391039",
-            "last_retested_at_epoch": 1593357646.052798,
-            "last_retested_at_iso": "2020-06-28T15:20:46.052798",
+            "last_retested_at_epoch": 1593533861.797409,
+            "last_retested_at_iso": "2020-06-30T16:17:41.797409",
             "status": "INACTIVE"
         },
         "banner.grandefm.com.br": {
             "included_at_epoch": 1592664233.592024,
             "included_at_iso": "2020-06-20T14:43:53.592024",
-            "last_retested_at_epoch": 1593357646.035591,
-            "last_retested_at_iso": "2020-06-28T15:20:46.035591",
+            "last_retested_at_epoch": 1593533861.773521,
+            "last_retested_at_iso": "2020-06-30T16:17:41.773521",
             "status": "INACTIVE"
         },
         "bannersng.yell.com": {
@@ -101,8 +101,8 @@
         "i.xx.openx.com": {
             "included_at_epoch": 1593010854.194682,
             "included_at_iso": "2020-06-24T15:00:54.194682",
-            "last_retested_at_epoch": 1593357646.044255,
-            "last_retested_at_iso": "2020-06-28T15:20:46.044255",
+            "last_retested_at_epoch": 1593533861.802052,
+            "last_retested_at_iso": "2020-06-30T16:17:41.802052",
             "status": "INACTIVE"
         },
         "measure.office.com": {
@@ -122,8 +122,8 @@
         "pagerank-ranking.de": {
             "included_at_epoch": 1592320446.266337,
             "included_at_iso": "2020-06-16T15:14:06.266337",
-            "last_retested_at_epoch": 1593357646.027204,
-            "last_retested_at_iso": "2020-06-28T15:20:46.027204",
+            "last_retested_at_epoch": 1593533861.812029,
+            "last_retested_at_iso": "2020-06-30T16:17:41.812029",
             "status": "INACTIVE"
         },
         "pgl.example0101": {
@@ -133,18 +133,25 @@
             "last_retested_at_iso": "2020-06-30T15:52:53.131394",
             "status": "INVALID"
         },
+        "stat.xiaomi.com": {
+            "included_at_epoch": 1593533831.898414,
+            "included_at_iso": "2020-06-30T16:17:11.898414",
+            "last_retested_at_epoch": 1593533831.898414,
+            "last_retested_at_iso": "2020-06-30T16:17:11.898414",
+            "status": "INACTIVE"
+        },
         "tfag.de": {
             "included_at_epoch": 1591284339.652763,
             "included_at_iso": "2020-06-04T15:25:39.652763",
-            "last_retested_at_epoch": 1593357646.056861,
-            "last_retested_at_iso": "2020-06-28T15:20:46.056861",
+            "last_retested_at_epoch": 1593533861.807278,
+            "last_retested_at_iso": "2020-06-30T16:17:41.807278",
             "status": "INACTIVE"
         },
         "webmaster-partnerprogramme24.de": {
             "included_at_epoch": 1593011487.2123,
             "included_at_iso": "2020-06-24T15:11:27.212300",
-            "last_retested_at_epoch": 1593357646.031452,
-            "last_retested_at_iso": "2020-06-28T15:20:46.031452",
+            "last_retested_at_epoch": 1593533861.783346,
+            "last_retested_at_iso": "2020-06-30T16:17:41.783346",
             "status": "INACTIVE"
         }
     },
