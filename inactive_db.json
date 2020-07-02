@@ -17,8 +17,8 @@
         "admerize.be": {
             "included_at_epoch": 1591799275.905599,
             "included_at_iso": "2020-06-10T14:27:55.905599",
-            "last_retested_at_epoch": 1593533861.787926,
-            "last_retested_at_iso": "2020-06-30T16:17:41.787926",
+            "last_retested_at_epoch": 1593704173.677651,
+            "last_retested_at_iso": "2020-07-02T15:36:13.677651",
             "status": "INACTIVE"
         },
         "ads.canalblog.com": {
@@ -52,8 +52,8 @@
         "banner.grandefm.com.br": {
             "included_at_epoch": 1592664233.592024,
             "included_at_iso": "2020-06-20T14:43:53.592024",
-            "last_retested_at_epoch": 1593533861.773521,
-            "last_retested_at_iso": "2020-06-30T16:17:41.773521",
+            "last_retested_at_epoch": 1593704173.66257,
+            "last_retested_at_iso": "2020-07-02T15:36:13.662570",
             "status": "INACTIVE"
         },
         "boersego-ads.de": {
@@ -73,8 +73,8 @@
         "i.xx.openx.com": {
             "included_at_epoch": 1593010854.194682,
             "included_at_iso": "2020-06-24T15:00:54.194682",
-            "last_retested_at_epoch": 1593533861.802052,
-            "last_retested_at_iso": "2020-06-30T16:17:41.802052",
+            "last_retested_at_epoch": 1593704173.672629,
+            "last_retested_at_iso": "2020-07-02T15:36:13.672629",
             "status": "INACTIVE"
         },
         "measure.office.com": {
@@ -94,8 +94,8 @@
         "pagerank-ranking.de": {
             "included_at_epoch": 1592320446.266337,
             "included_at_iso": "2020-06-16T15:14:06.266337",
-            "last_retested_at_epoch": 1593533861.812029,
-            "last_retested_at_iso": "2020-06-30T16:17:41.812029",
+            "last_retested_at_epoch": 1593704173.682339,
+            "last_retested_at_iso": "2020-07-02T15:36:13.682339",
             "status": "INACTIVE"
         },
         "pgl.example0101": {
@@ -108,22 +108,15 @@
         "stat.xiaomi.com": {
             "included_at_epoch": 1593533831.898414,
             "included_at_iso": "2020-06-30T16:17:11.898414",
-            "last_retested_at_epoch": 1593533831.898414,
-            "last_retested_at_iso": "2020-06-30T16:17:11.898414",
-            "status": "INACTIVE"
-        },
-        "tfag.de": {
-            "included_at_epoch": 1591284339.652763,
-            "included_at_iso": "2020-06-04T15:25:39.652763",
-            "last_retested_at_epoch": 1593533861.807278,
-            "last_retested_at_iso": "2020-06-30T16:17:41.807278",
+            "last_retested_at_epoch": 1593704127.668215,
+            "last_retested_at_iso": "2020-07-02T15:35:27.668215",
             "status": "INACTIVE"
         },
         "webmaster-partnerprogramme24.de": {
             "included_at_epoch": 1593011487.2123,
             "included_at_iso": "2020-06-24T15:11:27.212300",
-            "last_retested_at_epoch": 1593533861.783346,
-            "last_retested_at_iso": "2020-06-30T16:17:41.783346",
+            "last_retested_at_epoch": 1593704173.66759,
+            "last_retested_at_iso": "2020-07-02T15:36:13.667590",
             "status": "INACTIVE"
         }
     },
