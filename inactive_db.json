@@ -3,22 +3,15 @@
         "ad.intl.xiaomi.com": {
             "included_at_epoch": 1592145672.110553,
             "included_at_iso": "2020-06-14T14:41:12.110553",
-            "last_retested_at_epoch": 1593529883.343535,
-            "last_retested_at_iso": "2020-06-30T15:11:23.343535",
-            "status": "INACTIVE"
-        },
-        "ad.rambler.ru": {
-            "included_at_epoch": 1591281020.376387,
-            "included_at_iso": "2020-06-04T14:30:20.376387",
-            "last_retested_at_epoch": 1593533861.778505,
-            "last_retested_at_iso": "2020-06-30T16:17:41.778505",
+            "last_retested_at_epoch": 1593701749.605385,
+            "last_retested_at_iso": "2020-07-02T14:55:49.605385",
             "status": "INACTIVE"
         },
         "ad.xiaomi.com": {
             "included_at_epoch": 1592145672.150161,
             "included_at_iso": "2020-06-14T14:41:12.150161",
-            "last_retested_at_epoch": 1593529883.384375,
-            "last_retested_at_iso": "2020-06-30T15:11:23.384375",
+            "last_retested_at_epoch": 1593701749.66075,
+            "last_retested_at_iso": "2020-07-02T14:55:49.660750",
             "status": "INACTIVE"
         },
         "admerize.be": {
@@ -31,43 +24,29 @@
         "ads.canalblog.com": {
             "included_at_epoch": 1592837607.37751,
             "included_at_iso": "2020-06-22T14:53:27.377510",
-            "last_retested_at_epoch": 1593529886.155288,
-            "last_retested_at_iso": "2020-06-30T15:11:26.155288",
+            "last_retested_at_epoch": 1593701752.606625,
+            "last_retested_at_iso": "2020-07-02T14:55:52.606625",
             "status": "INACTIVE"
         },
-        "ads.indiatimes.com": {
-            "included_at_epoch": 1591281023.453407,
-            "included_at_iso": "2020-06-04T14:30:23.453407",
-            "last_retested_at_epoch": 1593533861.792649,
-            "last_retested_at_iso": "2020-06-30T16:17:41.792649",
-            "status": "INACTIVE"
-        },
-        "ads.nyi.net": {
-            "included_at_epoch": 1593529886.415324,
-            "included_at_iso": "2020-06-30T15:11:26.415324",
-            "last_retested_at_epoch": 1593529886.415324,
-            "last_retested_at_iso": "2020-06-30T15:11:26.415324",
-            "status": "INACTIVE"
-        },
-        "ads.scifi.com": {
-            "included_at_epoch": 1593529886.483163,
-            "included_at_iso": "2020-06-30T15:11:26.483163",
-            "last_retested_at_epoch": 1593529886.483163,
-            "last_retested_at_iso": "2020-06-30T15:11:26.483163",
+        "ads.edbindex.dk": {
+            "included_at_epoch": 1593701752.693695,
+            "included_at_iso": "2020-07-02T14:55:52.693695",
+            "last_retested_at_epoch": 1593701752.693695,
+            "last_retested_at_iso": "2020-07-02T14:55:52.693695",
             "status": "INACTIVE"
         },
         "adsrv.eacdn.com": {
             "included_at_epoch": 1593529887.5962,
             "included_at_iso": "2020-06-30T15:11:27.596200",
-            "last_retested_at_epoch": 1593529887.5962,
-            "last_retested_at_iso": "2020-06-30T15:11:27.596200",
+            "last_retested_at_epoch": 1593701754.225894,
+            "last_retested_at_iso": "2020-07-02T14:55:54.225894",
             "status": "INACTIVE"
         },
         "adsrv.kobi.tv": {
             "included_at_epoch": 1593529887.602726,
             "included_at_iso": "2020-06-30T15:11:27.602726",
-            "last_retested_at_epoch": 1593529887.602726,
-            "last_retested_at_iso": "2020-06-30T15:11:27.602726",
+            "last_retested_at_epoch": 1593701754.232923,
+            "last_retested_at_iso": "2020-07-02T14:55:54.232923",
             "status": "INACTIVE"
         },
         "anm.intelli-direct.com": {
