@@ -2032,7 +2032,7 @@
     "avazutracking.net": {
         "epoch": 1593648000.0,
         "expiration_date": "02-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "avenuea.com": {
         "epoch": 1608163200.0,
@@ -2695,9 +2695,9 @@
         "state": "future"
     },
     "buyingadsmadeeasy.com": {
-        "epoch": 1593475200.0,
-        "expiration_date": "30-jun-2020",
-        "state": "past"
+        "epoch": 1625011200.0,
+        "expiration_date": "30-jun-2021",
+        "state": "future"
     },
     "buysellads.com": {
         "epoch": 1825113600.0,
@@ -4430,8 +4430,8 @@
         "state": "future"
     },
     "exelate.com": {
-        "epoch": 1593648000.0,
-        "expiration_date": "02-jul-2020",
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
         "state": "future"
     },
     "exelator.com": {
@@ -4630,8 +4630,8 @@
         "state": "future"
     },
     "feathr.co": {
-        "epoch": 1593648000.0,
-        "expiration_date": "02-jul-2020",
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
         "state": "future"
     },
     "feebleshock.com": {
@@ -6345,8 +6345,8 @@
         "state": "future"
     },
     "linkbuddies.com": {
-        "epoch": 1593561600.0,
-        "expiration_date": "01-jul-2020",
+        "epoch": 1625097600.0,
+        "expiration_date": "01-jul-2021",
         "state": "future"
     },
     "linkexchange.com": {
@@ -7012,7 +7012,7 @@
     "mparticle.com": {
         "epoch": 1593648000.0,
         "expiration_date": "02-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "mpstat.us": {
         "epoch": 1606608000.0,

@@ -49,13 +49,6 @@
             "last_retested_at_iso": "2020-07-02T14:55:54.232923",
             "status": "INACTIVE"
         },
-        "anm.intelli-direct.com": {
-            "included_at_epoch": 1591281818.391039,
-            "included_at_iso": "2020-06-04T14:43:38.391039",
-            "last_retested_at_epoch": 1593533861.797409,
-            "last_retested_at_iso": "2020-06-30T16:17:41.797409",
-            "status": "INACTIVE"
-        },
         "banner.grandefm.com.br": {
             "included_at_epoch": 1592664233.592024,
             "included_at_iso": "2020-06-20T14:43:53.592024",
@@ -63,18 +56,18 @@
             "last_retested_at_iso": "2020-06-30T16:17:41.773521",
             "status": "INACTIVE"
         },
-        "bannersng.yell.com": {
-            "included_at_epoch": 1593532350.67315,
-            "included_at_iso": "2020-06-30T15:52:30.673150",
-            "last_retested_at_epoch": 1593532350.67315,
-            "last_retested_at_iso": "2020-06-30T15:52:30.673150",
+        "boersego-ads.de": {
+            "included_at_epoch": 1593703517.781721,
+            "included_at_iso": "2020-07-02T15:25:17.781721",
+            "last_retested_at_epoch": 1593703517.781721,
+            "last_retested_at_iso": "2020-07-02T15:25:17.781721",
             "status": "INACTIVE"
         },
         "clickwith.bid": {
             "included_at_epoch": 1593532354.229316,
             "included_at_iso": "2020-06-30T15:52:34.229316",
-            "last_retested_at_epoch": 1593532354.229316,
-            "last_retested_at_iso": "2020-06-30T15:52:34.229316",
+            "last_retested_at_epoch": 1593703520.189322,
+            "last_retested_at_iso": "2020-07-02T15:25:20.189322",
             "status": "INACTIVE"
         },
         "i.xx.openx.com": {
@@ -87,15 +80,15 @@
         "measure.office.com": {
             "included_at_epoch": 1593532367.945732,
             "included_at_iso": "2020-06-30T15:52:47.945732",
-            "last_retested_at_epoch": 1593532367.945732,
-            "last_retested_at_iso": "2020-06-30T15:52:47.945732",
+            "last_retested_at_epoch": 1593703534.683286,
+            "last_retested_at_iso": "2020-07-02T15:25:34.683286",
             "status": "INACTIVE"
         },
         "mtrcs.samba.tv": {
             "included_at_epoch": 1593532369.650865,
             "included_at_iso": "2020-06-30T15:52:49.650865",
-            "last_retested_at_epoch": 1593532369.650865,
-            "last_retested_at_iso": "2020-06-30T15:52:49.650865",
+            "last_retested_at_epoch": 1593703536.425056,
+            "last_retested_at_iso": "2020-07-02T15:25:36.425056",
             "status": "INACTIVE"
         },
         "pagerank-ranking.de": {
@@ -108,8 +101,8 @@
         "pgl.example0101": {
             "included_at_epoch": 1593532373.131394,
             "included_at_iso": "2020-06-30T15:52:53.131394",
-            "last_retested_at_epoch": 1593532373.131394,
-            "last_retested_at_iso": "2020-06-30T15:52:53.131394",
+            "last_retested_at_epoch": 1593703540.049436,
+            "last_retested_at_iso": "2020-07-02T15:25:40.049436",
             "status": "INVALID"
         },
         "stat.xiaomi.com": {
