@@ -2030,9 +2030,9 @@
         "state": "future"
     },
     "avazutracking.net": {
-        "epoch": 1593648000.0,
-        "expiration_date": "02-jul-2020",
-        "state": "past"
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
+        "state": "future"
     },
     "avenuea.com": {
         "epoch": 1608163200.0,
@@ -2920,8 +2920,8 @@
         "state": "future"
     },
     "checkm8.com": {
-        "epoch": 1593734400.0,
-        "expiration_date": "03-jul-2020",
+        "epoch": 1625270400.0,
+        "expiration_date": "03-jul-2021",
         "state": "future"
     },
     "cheerfulrange.com": {
@@ -6722,7 +6722,7 @@
     "meetrics.net": {
         "epoch": 1593820800.0,
         "expiration_date": "04-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "megapu.sh": {
         "epoch": 1638230400.0,
@@ -7010,9 +7010,9 @@
         "state": "future"
     },
     "mparticle.com": {
-        "epoch": 1593648000.0,
-        "expiration_date": "02-jul-2020",
-        "state": "past"
+        "epoch": 1656720000.0,
+        "expiration_date": "02-jul-2022",
+        "state": "future"
     },
     "mpstat.us": {
         "epoch": 1606608000.0,
@@ -7930,8 +7930,8 @@
         "state": "future"
     },
     "pippio.com": {
-        "epoch": 1593820800.0,
-        "expiration_date": "04-jul-2020",
+        "epoch": 1656892800.0,
+        "expiration_date": "04-jul-2022",
         "state": "future"
     },
     "piquantpigs.com": {
@@ -8245,8 +8245,8 @@
         "state": "future"
     },
     "prsaln.com": {
-        "epoch": 1593734400.0,
-        "expiration_date": "03-jul-2020",
+        "epoch": 1625270400.0,
+        "expiration_date": "03-jul-2021",
         "state": "future"
     },
     "prsitecheck.com": {
