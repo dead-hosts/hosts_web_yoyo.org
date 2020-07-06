@@ -3,15 +3,15 @@
         "ad.intl.xiaomi.com": {
             "included_at_epoch": 1592145672.110553,
             "included_at_iso": "2020-06-14T14:41:12.110553",
-            "last_retested_at_epoch": 1593874127.460638,
-            "last_retested_at_iso": "2020-07-04T14:48:47.460638",
+            "last_retested_at_epoch": 1594047319.357598,
+            "last_retested_at_iso": "2020-07-06T14:55:19.357598",
             "status": "INACTIVE"
         },
         "ad.xiaomi.com": {
             "included_at_epoch": 1592145672.150161,
             "included_at_iso": "2020-06-14T14:41:12.150161",
-            "last_retested_at_epoch": 1593874127.510853,
-            "last_retested_at_iso": "2020-07-04T14:48:47.510853",
+            "last_retested_at_epoch": 1594047319.400475,
+            "last_retested_at_iso": "2020-07-06T14:55:19.400475",
             "status": "INACTIVE"
         },
         "admerize.be": {
@@ -24,22 +24,15 @@
         "ads.canalblog.com": {
             "included_at_epoch": 1592837607.37751,
             "included_at_iso": "2020-06-22T14:53:27.377510",
-            "last_retested_at_epoch": 1593874130.26009,
-            "last_retested_at_iso": "2020-07-04T14:48:50.260090",
-            "status": "INACTIVE"
-        },
-        "ads.edbindex.dk": {
-            "included_at_epoch": 1593701752.693695,
-            "included_at_iso": "2020-07-02T14:55:52.693695",
-            "last_retested_at_epoch": 1593874130.336873,
-            "last_retested_at_iso": "2020-07-04T14:48:50.336873",
+            "last_retested_at_epoch": 1594047322.101583,
+            "last_retested_at_iso": "2020-07-06T14:55:22.101583",
             "status": "INACTIVE"
         },
         "adsrv.eacdn.com": {
             "included_at_epoch": 1593529887.5962,
             "included_at_iso": "2020-06-30T15:11:27.596200",
-            "last_retested_at_epoch": 1593874131.660441,
-            "last_retested_at_iso": "2020-07-04T14:48:51.660441",
+            "last_retested_at_epoch": 1594047323.471322,
+            "last_retested_at_iso": "2020-07-06T14:55:23.471322",
             "status": "INACTIVE"
         },
         "banner.grandefm.com.br": {
