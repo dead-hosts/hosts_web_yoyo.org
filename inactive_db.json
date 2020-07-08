@@ -17,8 +17,8 @@
         "admerize.be": {
             "included_at_epoch": 1591799275.905599,
             "included_at_iso": "2020-06-10T14:27:55.905599",
-            "last_retested_at_epoch": 1594049956.448487,
-            "last_retested_at_iso": "2020-07-06T15:39:16.448487",
+            "last_retested_at_epoch": 1594207177.641909,
+            "last_retested_at_iso": "2020-07-08T11:19:37.641909",
             "status": "INACTIVE"
         },
         "ads.canalblog.com": {
@@ -45,15 +45,15 @@
         "banner.grandefm.com.br": {
             "included_at_epoch": 1592664233.592024,
             "included_at_iso": "2020-06-20T14:43:53.592024",
-            "last_retested_at_epoch": 1594049956.443976,
-            "last_retested_at_iso": "2020-07-06T15:39:16.443976",
+            "last_retested_at_epoch": 1594207177.624612,
+            "last_retested_at_iso": "2020-07-08T11:19:37.624612",
             "status": "INACTIVE"
         },
         "boersego-ads.de": {
             "included_at_epoch": 1593703517.781721,
             "included_at_iso": "2020-07-02T15:25:17.781721",
-            "last_retested_at_epoch": 1594049956.457291,
-            "last_retested_at_iso": "2020-07-06T15:39:16.457291",
+            "last_retested_at_epoch": 1594207177.619594,
+            "last_retested_at_iso": "2020-07-08T11:19:37.619594",
             "status": "INACTIVE"
         },
         "clickwith.bid": {
@@ -66,8 +66,8 @@
         "i.xx.openx.com": {
             "included_at_epoch": 1593010854.194682,
             "included_at_iso": "2020-06-24T15:00:54.194682",
-            "last_retested_at_epoch": 1594049956.452944,
-            "last_retested_at_iso": "2020-07-06T15:39:16.452944",
+            "last_retested_at_epoch": 1594207177.637696,
+            "last_retested_at_iso": "2020-07-08T11:19:37.637696",
             "status": "INACTIVE"
         },
         "measure.office.com": {
@@ -87,8 +87,8 @@
         "pagerank-ranking.de": {
             "included_at_epoch": 1592320446.266337,
             "included_at_iso": "2020-06-16T15:14:06.266337",
-            "last_retested_at_epoch": 1594049956.434254,
-            "last_retested_at_iso": "2020-07-06T15:39:16.434254",
+            "last_retested_at_epoch": 1594207177.629059,
+            "last_retested_at_iso": "2020-07-08T11:19:37.629059",
             "status": "INACTIVE"
         },
         "pgl.example0101": {
@@ -101,15 +101,15 @@
         "stat.xiaomi.com": {
             "included_at_epoch": 1593533831.898414,
             "included_at_iso": "2020-06-30T16:17:11.898414",
-            "last_retested_at_epoch": 1594049910.955729,
-            "last_retested_at_iso": "2020-07-06T15:38:30.955729",
+            "last_retested_at_epoch": 1594207131.901558,
+            "last_retested_at_iso": "2020-07-08T11:18:51.901558",
             "status": "INACTIVE"
         },
         "webmaster-partnerprogramme24.de": {
             "included_at_epoch": 1593011487.2123,
             "included_at_iso": "2020-06-24T15:11:27.212300",
-            "last_retested_at_epoch": 1594049956.439311,
-            "last_retested_at_iso": "2020-07-06T15:39:16.439311",
+            "last_retested_at_epoch": 1594207177.633317,
+            "last_retested_at_iso": "2020-07-08T11:19:37.633317",
             "status": "INACTIVE"
         }
     },
