@@ -2455,8 +2455,8 @@
         "state": "future"
     },
     "blogherads.com": {
-        "epoch": 1594166400.0,
-        "expiration_date": "08-jul-2020",
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
         "state": "future"
     },
     "blogrush.com": {
@@ -3942,7 +3942,7 @@
     "domaining.in": {
         "epoch": 1594166400.0,
         "expiration_date": "08-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "domainsponsor.com": {
         "epoch": 1596153600.0,
@@ -5254,6 +5254,11 @@
         "expiration_date": "25-feb-2021",
         "state": "future"
     },
+    "haltingbadge.com": {
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
+        "state": "future"
+    },
     "hammerhearing.com": {
         "epoch": 1617408000.0,
         "expiration_date": "03-apr-2021",
@@ -5320,8 +5325,8 @@
         "state": "future"
     },
     "hexcan.com": {
-        "epoch": 1594166400.0,
-        "expiration_date": "08-jul-2020",
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
         "state": "future"
     },
     "heyos.com": {
@@ -6212,6 +6217,11 @@
     "lakequincy.com": {
         "epoch": 1617494400.0,
         "expiration_date": "04-apr-2021",
+        "state": "future"
+    },
+    "lameletters.com": {
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
         "state": "future"
     },
     "lanistaads.com": {
@@ -7290,8 +7300,8 @@
         "state": "future"
     },
     "netincap.com": {
-        "epoch": 1594166400.0,
-        "expiration_date": "08-jul-2020",
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
         "state": "future"
     },
     "netmng.com": {
@@ -7952,7 +7962,7 @@
     "play4traffic.com": {
         "epoch": 1594166400.0,
         "expiration_date": "08-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "playhaven.com": {
         "epoch": 1606867200.0,
