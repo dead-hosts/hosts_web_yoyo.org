@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 03 Jul 2020 07:01:38 GMT
-# entries:        3480
+# last updated:   Wed, 08 Jul 2020 06:22:24 GMT
+# entries:        3482
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Tue, 11 Jul 2000 00:00:00
+# start date:    Thu, 13 Jul 2000 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -1881,6 +1881,7 @@
 0.0.0.0 h92zbpn4zcv1.com
 0.0.0.0 habitualhumor.com
 0.0.0.0 hadskiz.com
+0.0.0.0 haltingbadge.com
 0.0.0.0 hammerhearing.com
 0.0.0.0 handyfield.com
 0.0.0.0 hardtofindmilk.com
@@ -2104,6 +2105,7 @@
 0.0.0.0 ladsreds.com
 0.0.0.0 ladsup.com
 0.0.0.0 lakequincy.com
+0.0.0.0 lameletters.com
 0.0.0.0 lanistaads.com
 0.0.0.0 larati.net
 0.0.0.0 laughablecopper.com
