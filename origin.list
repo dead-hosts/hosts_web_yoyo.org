@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 08 Jul 2020 06:22:24 GMT
-# entries:        3482
+# last updated:   Thu, 09 Jul 2020 08:20:12 GMT
+# entries:        3484
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Thu, 13 Jul 2000 00:00:00
+# start date:    Fri, 14 Jul 2000 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -150,6 +150,7 @@
 0.0.0.0 ad.lupa.cz
 0.0.0.0 ad.media-servers.net
 0.0.0.0 ad.mediastorm.hu
+0.0.0.0 ad.mg
 0.0.0.0 ad.mgd.de
 0.0.0.0 ad.mobstazinc.cn
 0.0.0.0 ad.musicmatch.com
@@ -3201,6 +3202,7 @@
 0.0.0.0 tracking.1-a1502-bi.co.uk
 0.0.0.0 tracking.1-kv015-ap.co.uk
 0.0.0.0 tracking.21-a4652-bi.co.uk
+0.0.0.0 tracking.42-01pr5-osm-secure.co.uk
 0.0.0.0 tracking.5-47737-bi.co.uk
 0.0.0.0 tracking.crunchiemedia.com
 0.0.0.0 tracking.epicgames.com
