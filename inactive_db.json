@@ -38,15 +38,15 @@
         "banner.grandefm.com.br": {
             "included_at_epoch": 1592664233.592024,
             "included_at_iso": "2020-06-20T14:43:53.592024",
-            "last_retested_at_epoch": 1594207177.624612,
-            "last_retested_at_iso": "2020-07-08T11:19:37.624612",
+            "last_retested_at_epoch": 1594310840.086442,
+            "last_retested_at_iso": "2020-07-09T16:07:20.086442",
             "status": "INACTIVE"
         },
         "boersego-ads.de": {
             "included_at_epoch": 1593703517.781721,
             "included_at_iso": "2020-07-02T15:25:17.781721",
-            "last_retested_at_epoch": 1594207177.619594,
-            "last_retested_at_iso": "2020-07-08T11:19:37.619594",
+            "last_retested_at_epoch": 1594310840.099767,
+            "last_retested_at_iso": "2020-07-09T16:07:20.099767",
             "status": "INACTIVE"
         },
         "clickwith.bid": {
@@ -59,8 +59,8 @@
         "i.xx.openx.com": {
             "included_at_epoch": 1593010854.194682,
             "included_at_iso": "2020-06-24T15:00:54.194682",
-            "last_retested_at_epoch": 1594207177.637696,
-            "last_retested_at_iso": "2020-07-08T11:19:37.637696",
+            "last_retested_at_epoch": 1594310840.081859,
+            "last_retested_at_iso": "2020-07-09T16:07:20.081859",
             "status": "INACTIVE"
         },
         "measure.office.com": {
@@ -80,8 +80,8 @@
         "pagerank-ranking.de": {
             "included_at_epoch": 1592320446.266337,
             "included_at_iso": "2020-06-16T15:14:06.266337",
-            "last_retested_at_epoch": 1594207177.629059,
-            "last_retested_at_iso": "2020-07-08T11:19:37.629059",
+            "last_retested_at_epoch": 1594310840.090715,
+            "last_retested_at_iso": "2020-07-09T16:07:20.090715",
             "status": "INACTIVE"
         },
         "pgl.example0101": {
@@ -94,15 +94,15 @@
         "stat.xiaomi.com": {
             "included_at_epoch": 1593533831.898414,
             "included_at_iso": "2020-06-30T16:17:11.898414",
-            "last_retested_at_epoch": 1594207131.901558,
-            "last_retested_at_iso": "2020-07-08T11:18:51.901558",
+            "last_retested_at_epoch": 1594310811.34946,
+            "last_retested_at_iso": "2020-07-09T16:06:51.349460",
             "status": "INACTIVE"
         },
         "webmaster-partnerprogramme24.de": {
             "included_at_epoch": 1593011487.2123,
             "included_at_iso": "2020-06-24T15:11:27.212300",
-            "last_retested_at_epoch": 1594207177.633317,
-            "last_retested_at_iso": "2020-07-08T11:19:37.633317",
+            "last_retested_at_epoch": 1594310840.095301,
+            "last_retested_at_iso": "2020-07-09T16:07:20.095301",
             "status": "INACTIVE"
         }
     },
