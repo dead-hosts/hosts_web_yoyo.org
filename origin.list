@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 11 Jul 2020 14:25:34 GMT
-# entries:        3484
+# last updated:   Sun, 12 Jul 2020 06:34:57 GMT
+# entries:        3485
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sun, 16 Jul 2000 00:00:00
+# start date:    Mon, 17 Jul 2000 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -2063,6 +2063,7 @@
 0.0.0.0 j93557g.com
 0.0.0.0 jadeitite.com
 0.0.0.0 jaizouji.com
+0.0.0.0 jauchuwa.net
 0.0.0.0 jcount.com
 0.0.0.0 jdoqocy.com
 0.0.0.0 jinkads.de
