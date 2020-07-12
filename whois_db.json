@@ -2405,8 +2405,8 @@
         "state": "future"
     },
     "bitmedianetwork.com": {
-        "epoch": 1594512000.0,
-        "expiration_date": "12-jul-2020",
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
         "state": "future"
     },
     "bizible.com": {
@@ -2552,7 +2552,7 @@
     "boomads.com": {
         "epoch": 1594512000.0,
         "expiration_date": "12-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "boomtrain.com": {
         "epoch": 1647475200.0,
@@ -4350,8 +4350,8 @@
         "state": "future"
     },
     "eu-adcenter.net": {
-        "epoch": 1594512000.0,
-        "expiration_date": "12-jul-2020",
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
         "state": "future"
     },
     "eulerian.net": {
@@ -5400,9 +5400,9 @@
         "state": "future"
     },
     "hitfarm.com": {
-        "epoch": 1594425600.0,
-        "expiration_date": "11-jul-2020",
-        "state": "past"
+        "epoch": 1625961600.0,
+        "expiration_date": "11-jul-2021",
+        "state": "future"
     },
     "hitiz.com": {
         "epoch": 1620000000.0,
@@ -6042,6 +6042,11 @@
     "jaizouji.com": {
         "epoch": 1604016000.0,
         "expiration_date": "30-oct-2020",
+        "state": "future"
+    },
+    "jauchuwa.net": {
+        "epoch": 1622851200.0,
+        "expiration_date": "05-jun-2021",
         "state": "future"
     },
     "jcount.com": {

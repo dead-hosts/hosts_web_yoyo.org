@@ -63,6 +63,13 @@
             "last_retested_at_iso": "2020-07-11T15:27:40.997637",
             "status": "INACTIVE"
         },
+        "content.acc-hd.de": {
+            "included_at_epoch": 1594551923.184957,
+            "included_at_iso": "2020-07-12T11:05:23.184957",
+            "last_retested_at_epoch": 1594551923.184957,
+            "last_retested_at_iso": "2020-07-12T11:05:23.184957",
+            "status": "INACTIVE"
+        },
         "hud8mxdt.computerhelpmirror.top": {
             "included_at_epoch": 1594481269.662014,
             "included_at_iso": "2020-07-11T15:27:49.662014",
