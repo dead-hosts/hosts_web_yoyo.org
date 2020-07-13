@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 12 Jul 2020 06:34:57 GMT
-# entries:        3485
+# last updated:   Mon, 13 Jul 2020 13:54:37 GMT
+# entries:        3489
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Mon, 17 Jul 2000 00:00:00
+# start date:    Tue, 18 Jul 2000 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -1293,6 +1293,7 @@
 0.0.0.0 boudja.com
 0.0.0.0 bounceads.net
 0.0.0.0 bounceexchange.com
+0.0.0.0 bowie-cdn.fathomdns.com
 0.0.0.0 box.anchorfree.net
 0.0.0.0 bpath.com
 0.0.0.0 bpu.samsungelectronics.com
@@ -2573,6 +2574,7 @@
 0.0.0.0 pixel.watch
 0.0.0.0 pixel.yabidos.com
 0.0.0.0 placed.com
+0.0.0.0 plausible.io
 0.0.0.0 play4traffic.com
 0.0.0.0 playhaven.com
 0.0.0.0 playmobileads.com
@@ -3220,6 +3222,7 @@
 0.0.0.0 tracking42.com
 0.0.0.0 trackingfestival.com
 0.0.0.0 trackingsoft.com
+0.0.0.0 tracklink-tel.de
 0.0.0.0 trackmysales.com
 0.0.0.0 trackuhub.com
 0.0.0.0 tradeadexchange.com
@@ -3280,6 +3283,7 @@
 0.0.0.0 tyroo.com
 0.0.0.0 uarating.com
 0.0.0.0 ucfunnel.com
+0.0.0.0 udkcrj.com
 0.0.0.0 udncoeln.com
 0.0.0.0 uib.ff.avast.com
 0.0.0.0 ukbanners.com
