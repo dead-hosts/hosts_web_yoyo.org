@@ -2632,7 +2632,7 @@
     "brightcom.com": {
         "epoch": 1594684800.0,
         "expiration_date": "14-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "brightinfo.com": {
         "epoch": 1603670400.0,
@@ -4420,8 +4420,8 @@
         "state": "future"
     },
     "exchange-it.com": {
-        "epoch": 1594684800.0,
-        "expiration_date": "14-jul-2020",
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
         "state": "future"
     },
     "exchangead.com": {
