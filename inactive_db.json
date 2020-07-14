@@ -7,6 +7,13 @@
             "last_retested_at_iso": "2020-07-13T15:25:48.461189",
             "status": "INACTIVE"
         },
+        "ad.mediastorm.hu": {
+            "included_at_epoch": 1594722122.359113,
+            "included_at_iso": "2020-07-14T10:22:02.359113",
+            "last_retested_at_epoch": 1594722122.359113,
+            "last_retested_at_iso": "2020-07-14T10:22:02.359113",
+            "status": "INACTIVE"
+        },
         "ad.xiaomi.com": {
             "included_at_epoch": 1594653948.529134,
             "included_at_iso": "2020-07-13T15:25:48.529134",
@@ -26,6 +33,20 @@
             "included_at_iso": "2020-07-11T15:10:39.091757",
             "last_retested_at_epoch": 1594653951.420648,
             "last_retested_at_iso": "2020-07-13T15:25:51.420648",
+            "status": "INACTIVE"
+        },
+        "ads7.gamecity.net": {
+            "included_at_epoch": 1594722125.729411,
+            "included_at_iso": "2020-07-14T10:22:05.729411",
+            "last_retested_at_epoch": 1594722125.729411,
+            "last_retested_at_iso": "2020-07-14T10:22:05.729411",
+            "status": "INACTIVE"
+        },
+        "adserve.jbs.org": {
+            "included_at_epoch": 1594722125.955021,
+            "included_at_iso": "2020-07-14T10:22:05.955021",
+            "last_retested_at_epoch": 1594722125.955021,
+            "last_retested_at_iso": "2020-07-14T10:22:05.955021",
             "status": "INACTIVE"
         },
         "adsrv.eacdn.com": {

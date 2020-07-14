@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Mon, 13 Jul 2020 13:54:37 GMT
-# entries:        3489
+# entries:        3488
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Tue, 18 Jul 2000 00:00:00
+# start date:    Wed, 19 Jul 2000 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -2574,7 +2574,6 @@
 0.0.0.0 pixel.watch
 0.0.0.0 pixel.yabidos.com
 0.0.0.0 placed.com
-0.0.0.0 plausible.io
 0.0.0.0 play4traffic.com
 0.0.0.0 playhaven.com
 0.0.0.0 playmobileads.com
