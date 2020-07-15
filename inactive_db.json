@@ -38,8 +38,8 @@
         "banner.grandefm.com.br": {
             "included_at_epoch": 1592664233.592024,
             "included_at_iso": "2020-06-20T14:43:53.592024",
-            "last_retested_at_epoch": 1594657318.707142,
-            "last_retested_at_iso": "2020-07-13T16:21:58.707142",
+            "last_retested_at_epoch": 1594833883.257814,
+            "last_retested_at_iso": "2020-07-15T17:24:43.257814",
             "status": "INACTIVE"
         },
         "banner.orb.net": {
@@ -52,8 +52,8 @@
         "boersego-ads.de": {
             "included_at_epoch": 1593703517.781721,
             "included_at_iso": "2020-07-02T15:25:17.781721",
-            "last_retested_at_epoch": 1594657318.685767,
-            "last_retested_at_iso": "2020-07-13T16:21:58.685767",
+            "last_retested_at_epoch": 1594833883.263565,
+            "last_retested_at_iso": "2020-07-15T17:24:43.263565",
             "status": "INACTIVE"
         },
         "clickwith.bid": {
@@ -73,8 +73,8 @@
         "i.xx.openx.com": {
             "included_at_epoch": 1593010854.194682,
             "included_at_iso": "2020-06-24T15:00:54.194682",
-            "last_retested_at_epoch": 1594657318.701336,
-            "last_retested_at_iso": "2020-07-13T16:21:58.701336",
+            "last_retested_at_epoch": 1594833883.252238,
+            "last_retested_at_iso": "2020-07-15T17:24:43.252238",
             "status": "INACTIVE"
         },
         "measure.office.com": {
@@ -101,15 +101,15 @@
         "stat.xiaomi.com": {
             "included_at_epoch": 1593533831.898414,
             "included_at_iso": "2020-06-30T16:17:11.898414",
-            "last_retested_at_epoch": 1594657308.263002,
-            "last_retested_at_iso": "2020-07-13T16:21:48.263002",
+            "last_retested_at_epoch": 1594833854.921477,
+            "last_retested_at_iso": "2020-07-15T17:24:14.921477",
             "status": "INACTIVE"
         },
         "webmaster-partnerprogramme24.de": {
             "included_at_epoch": 1593011487.2123,
             "included_at_iso": "2020-06-24T15:11:27.212300",
-            "last_retested_at_epoch": 1594481892.073592,
-            "last_retested_at_iso": "2020-07-11T15:38:12.073592",
+            "last_retested_at_epoch": 1594833883.268891,
+            "last_retested_at_iso": "2020-07-15T17:24:43.268891",
             "status": "INACTIVE"
         }
     },
