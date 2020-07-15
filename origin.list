@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 13 Jul 2020 13:54:37 GMT
-# entries:        3488
+# last updated:   Wed, 15 Jul 2020 11:54:42 GMT
+# entries:        3490
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Wed, 19 Jul 2000 00:00:00
+# start date:    Thu, 20 Jul 2000 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -810,6 +810,7 @@
 0.0.0.0 adserver.diariodosertao.com.br
 0.0.0.0 adserver.digitoday.com
 0.0.0.0 adserver.echdk.pl
+0.0.0.0 adserver.ekokatu.com
 0.0.0.0 adserver.freecity.de
 0.0.0.0 adserver.friendfinder.com
 0.0.0.0 adserver.hardsextube.com
@@ -2789,6 +2790,7 @@
 0.0.0.0 rle.ru
 0.0.0.0 rmads.msn.com
 0.0.0.0 rmedia.boston.com
+0.0.0.0 rmgserving.com
 0.0.0.0 roar.com
 0.0.0.0 robotreplay.com
 0.0.0.0 rockabox.co
