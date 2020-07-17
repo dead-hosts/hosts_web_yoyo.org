@@ -3655,8 +3655,8 @@
         "state": "future"
     },
     "cyberbounty.com": {
-        "epoch": 1594944000.0,
-        "expiration_date": "17-jul-2020",
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
         "state": "future"
     },
     "d2cmedia.ca": {
@@ -5095,9 +5095,9 @@
         "state": "future"
     },
     "go2affise.com": {
-        "epoch": 1594771200.0,
-        "expiration_date": "15-jul-2020",
-        "state": "past"
+        "epoch": 1626307200.0,
+        "expiration_date": "15-jul-2021",
+        "state": "future"
     },
     "goingplatinum.com": {
         "epoch": 1614988800.0,
@@ -5524,6 +5524,11 @@
         "expiration_date": "29-mar-2024",
         "state": "future"
     },
+    "hubadnetwork.com": {
+        "epoch": 1607040000.0,
+        "expiration_date": "04-dec-2020",
+        "state": "future"
+    },
     "hueads.com": {
         "epoch": 1624233600.0,
         "expiration_date": "21-jun-2021",
@@ -5610,8 +5615,8 @@
         "state": "future"
     },
     "iconpeak2trk.com": {
-        "epoch": 1594944000.0,
-        "expiration_date": "17-jul-2020",
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
         "state": "future"
     },
     "icptrack.com": {
