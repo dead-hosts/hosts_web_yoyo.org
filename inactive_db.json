@@ -38,15 +38,15 @@
         "banner.grandefm.com.br": {
             "included_at_epoch": 1592664233.592024,
             "included_at_iso": "2020-06-20T14:43:53.592024",
-            "last_retested_at_epoch": 1594833883.257814,
-            "last_retested_at_iso": "2020-07-15T17:24:43.257814",
+            "last_retested_at_epoch": 1594984870.75976,
+            "last_retested_at_iso": "2020-07-17T11:21:10.759760",
             "status": "INACTIVE"
         },
         "boersego-ads.de": {
             "included_at_epoch": 1593703517.781721,
             "included_at_iso": "2020-07-02T15:25:17.781721",
-            "last_retested_at_epoch": 1594833883.263565,
-            "last_retested_at_iso": "2020-07-15T17:24:43.263565",
+            "last_retested_at_epoch": 1594984870.774017,
+            "last_retested_at_iso": "2020-07-17T11:21:10.774017",
             "status": "INACTIVE"
         },
         "clickwith.bid": {
@@ -66,8 +66,8 @@
         "i.xx.openx.com": {
             "included_at_epoch": 1593010854.194682,
             "included_at_iso": "2020-06-24T15:00:54.194682",
-            "last_retested_at_epoch": 1594833883.252238,
-            "last_retested_at_iso": "2020-07-15T17:24:43.252238",
+            "last_retested_at_epoch": 1594984870.76939,
+            "last_retested_at_iso": "2020-07-17T11:21:10.769390",
             "status": "INACTIVE"
         },
         "measure.office.com": {
@@ -94,15 +94,15 @@
         "stat.xiaomi.com": {
             "included_at_epoch": 1593533831.898414,
             "included_at_iso": "2020-06-30T16:17:11.898414",
-            "last_retested_at_epoch": 1594833854.921477,
-            "last_retested_at_iso": "2020-07-15T17:24:14.921477",
+            "last_retested_at_epoch": 1594984843.581327,
+            "last_retested_at_iso": "2020-07-17T11:20:43.581327",
             "status": "INACTIVE"
         },
         "webmaster-partnerprogramme24.de": {
             "included_at_epoch": 1593011487.2123,
             "included_at_iso": "2020-06-24T15:11:27.212300",
-            "last_retested_at_epoch": 1594833883.268891,
-            "last_retested_at_iso": "2020-07-15T17:24:43.268891",
+            "last_retested_at_epoch": 1594984870.764611,
+            "last_retested_at_iso": "2020-07-17T11:21:10.764611",
             "status": "INACTIVE"
         }
     },

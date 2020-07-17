@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 16 Jul 2020 16:59:28 GMT
-# entries:        3491
+# entries:        3492
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -674,7 +674,6 @@
 0.0.0.0 ads.supplyframe.com
 0.0.0.0 ads.syscdn.de
 0.0.0.0 ads.tahono.com
-0.0.0.0 ads.techtv.com
 0.0.0.0 ads.themovienation.com
 0.0.0.0 ads.thestar.com
 0.0.0.0 ads.thrillsaffiliates.com
@@ -1771,6 +1770,7 @@
 0.0.0.0 findcommerce.com
 0.0.0.0 findepended.com
 0.0.0.0 findyourcasino.com
+0.0.0.0 fingahvf.top
 0.0.0.0 first.nova.cz
 0.0.0.0 firstlightera.com
 0.0.0.0 fixel.ai
@@ -1950,7 +1950,6 @@
 0.0.0.0 htlbid.com
 0.0.0.0 httpool.com
 0.0.0.0 hubadnetwork.com
-0.0.0.0 hud8mxdt.computerhelpmirror.top
 0.0.0.0 hueads.com
 0.0.0.0 hueadsortb.com
 0.0.0.0 hueadsxml.com
@@ -2462,6 +2461,7 @@
 0.0.0.0 onclickads.net
 0.0.0.0 oneandonlynetwork.com
 0.0.0.0 onenetworkdirect.com
+0.0.0.0 onestat.com
 0.0.0.0 onestatfree.com
 0.0.0.0 online-metrix.net
 0.0.0.0 online.miarroba.com
@@ -2782,6 +2782,7 @@
 0.0.0.0 richmails.com
 0.0.0.0 richmedia.yimg.com
 0.0.0.0 richstring.com
+0.0.0.0 richwebmaster.com
 0.0.0.0 rightstats.com
 0.0.0.0 rinconpx.net
 0.0.0.0 ringsrecord.com
@@ -3095,6 +3096,7 @@
 0.0.0.0 targad.de
 0.0.0.0 targeting.nzme.arcpublishing.com
 0.0.0.0 targetingnow.com
+0.0.0.0 targetnet.com
 0.0.0.0 targetpoint.com
 0.0.0.0 tastefulsongs.com
 0.0.0.0 tatsumi-sys.jp
@@ -3481,7 +3483,6 @@
 0.0.0.0 z3dmbpl6309s.com
 0.0.0.0 z501lpfg9x8v.com
 0.0.0.0 z5x.net
-0.0.0.0 zangocash.com
 0.0.0.0 zanox-affiliate.de
 0.0.0.0 zanox.com
 0.0.0.0 zantracker.com
