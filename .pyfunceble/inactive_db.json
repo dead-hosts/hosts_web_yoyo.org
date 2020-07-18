@@ -3,22 +3,22 @@
         "ad.intl.xiaomi.com": {
             "included_at_epoch": 1594653948.461189,
             "included_at_iso": "2020-07-13T15:25:48.461189",
-            "last_retested_at_epoch": 1594982606.393542,
-            "last_retested_at_iso": "2020-07-17T10:43:26.393542",
+            "last_retested_at_epoch": 1595085032.611078,
+            "last_retested_at_iso": "2020-07-18T15:10:32.611078",
             "status": "INACTIVE"
         },
         "ad.xiaomi.com": {
             "included_at_epoch": 1594653948.529134,
             "included_at_iso": "2020-07-13T15:25:48.529134",
-            "last_retested_at_epoch": 1594982606.477877,
-            "last_retested_at_iso": "2020-07-17T10:43:26.477877",
+            "last_retested_at_epoch": 1595085032.688656,
+            "last_retested_at_iso": "2020-07-18T15:10:32.688656",
             "status": "INACTIVE"
         },
         "ads.canalblog.com": {
             "included_at_epoch": 1592837607.37751,
             "included_at_iso": "2020-06-22T14:53:27.377510",
-            "last_retested_at_epoch": 1594982609.462052,
-            "last_retested_at_iso": "2020-07-17T10:43:29.462052",
+            "last_retested_at_epoch": 1595085035.507289,
+            "last_retested_at_iso": "2020-07-18T15:10:35.507289",
             "status": "INACTIVE"
         },
         "ads.techtv.com": {
@@ -31,15 +31,8 @@
         "adsrv.eacdn.com": {
             "included_at_epoch": 1593529887.5962,
             "included_at_iso": "2020-06-30T15:11:27.596200",
-            "last_retested_at_epoch": 1594982611.057531,
-            "last_retested_at_iso": "2020-07-17T10:43:31.057531",
-            "status": "INACTIVE"
-        },
-        "banner.grandefm.com.br": {
-            "included_at_epoch": 1592664233.592024,
-            "included_at_iso": "2020-06-20T14:43:53.592024",
-            "last_retested_at_epoch": 1594984870.75976,
-            "last_retested_at_iso": "2020-07-17T11:21:10.759760",
+            "last_retested_at_epoch": 1595085036.955385,
+            "last_retested_at_iso": "2020-07-18T15:10:36.955385",
             "status": "INACTIVE"
         },
         "boersego-ads.de": {
