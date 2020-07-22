@@ -9567,7 +9567,7 @@
     "softclick.com.br": {
         "epoch": 1595289600.0,
         "expiration_date": "21-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "sombersea.com": {
         "epoch": 1602115200.0,
@@ -10965,8 +10965,8 @@
         "state": "future"
     },
     "validclick.com": {
-        "epoch": 1595289600.0,
-        "expiration_date": "21-jul-2020",
+        "epoch": 1626825600.0,
+        "expiration_date": "21-jul-2021",
         "state": "future"
     },
     "valuead.com": {
