@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 16 Jul 2020 16:59:28 GMT
-# entries:        3492
+# last updated:   Wed, 22 Jul 2020 07:47:41 GMT
+# entries:        3496
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Tue, 25 Jul 2000 00:00:00
+# start date:    Thu, 27 Jul 2000 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -964,6 +964,7 @@
 0.0.0.0 adworx.nl
 0.0.0.0 adx.allstar.cz
 0.0.0.0 adx.atnext.com
+0.0.0.0 adx.gayboy.at
 0.0.0.0 adx.relaksit.ru
 0.0.0.0 adxpansion.com
 0.0.0.0 adxpose.com
@@ -1790,6 +1791,7 @@
 0.0.0.0 fourarithmetic.com
 0.0.0.0 fpctraffic.com
 0.0.0.0 fpctraffic2.com
+0.0.0.0 fpjs.io
 0.0.0.0 fqtag.com
 0.0.0.0 frailoffer.com
 0.0.0.0 free-banners.com
@@ -2478,7 +2480,9 @@
 0.0.0.0 openads.org
 0.0.0.0 openadsnetwork.com
 0.0.0.0 opentag-stats.qubit.com
+0.0.0.0 openx.actvtech.com
 0.0.0.0 openx.angelsgroup.org.uk
+0.0.0.0 openx.cairo360.com
 0.0.0.0 openx.smcaen.fr
 0.0.0.0 operationkettle.com
 0.0.0.0 opienetwork.com
