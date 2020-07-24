@@ -3,22 +3,22 @@
         "ad.intl.xiaomi.com": {
             "included_at_epoch": 1594653948.461189,
             "included_at_iso": "2020-07-13T15:25:48.461189",
-            "last_retested_at_epoch": 1595430295.43585,
-            "last_retested_at_iso": "2020-07-22T15:04:55.435850",
+            "last_retested_at_epoch": 1595603022.979673,
+            "last_retested_at_iso": "2020-07-24T15:03:42.979673",
             "status": "INACTIVE"
         },
         "ad.xiaomi.com": {
             "included_at_epoch": 1594653948.529134,
             "included_at_iso": "2020-07-13T15:25:48.529134",
-            "last_retested_at_epoch": 1595430295.523019,
-            "last_retested_at_iso": "2020-07-22T15:04:55.523019",
+            "last_retested_at_epoch": 1595603023.055826,
+            "last_retested_at_iso": "2020-07-24T15:03:43.055826",
             "status": "INACTIVE"
         },
         "ads.canalblog.com": {
             "included_at_epoch": 1595258192.896917,
             "included_at_iso": "2020-07-20T15:16:32.896917",
-            "last_retested_at_epoch": 1595430298.375033,
-            "last_retested_at_iso": "2020-07-22T15:04:58.375033",
+            "last_retested_at_epoch": 1595603025.830622,
+            "last_retested_at_iso": "2020-07-24T15:03:45.830622",
             "status": "INACTIVE"
         },
         "ads.motormedia.nl": {
@@ -35,6 +35,13 @@
             "last_retested_at_iso": "2020-07-22T15:33:23.760281",
             "status": "INACTIVE"
         },
+        "ads.yourfreedvds.com": {
+            "included_at_epoch": 1595603026.248993,
+            "included_at_iso": "2020-07-24T15:03:46.248993",
+            "last_retested_at_epoch": 1595603026.248993,
+            "last_retested_at_iso": "2020-07-24T15:03:46.248993",
+            "status": "INACTIVE"
+        },
         "adserver.thema.cc": {
             "included_at_epoch": 1595258193.857106,
             "included_at_iso": "2020-07-20T15:16:33.857106",
@@ -45,8 +52,8 @@
         "adsrv.eacdn.com": {
             "included_at_epoch": 1593529887.5962,
             "included_at_iso": "2020-06-30T15:11:27.596200",
-            "last_retested_at_epoch": 1595430299.864637,
-            "last_retested_at_iso": "2020-07-22T15:04:59.864637",
+            "last_retested_at_epoch": 1595603027.25039,
+            "last_retested_at_iso": "2020-07-24T15:03:47.250390",
             "status": "INACTIVE"
         },
         "boersego-ads.de": {
