@@ -24,15 +24,15 @@
         "ads.motormedia.nl": {
             "included_at_epoch": 1595430298.60745,
             "included_at_iso": "2020-07-22T15:04:58.607450",
-            "last_retested_at_epoch": 1595430298.60745,
-            "last_retested_at_iso": "2020-07-22T15:04:58.607450",
+            "last_retested_at_epoch": 1595604643.300507,
+            "last_retested_at_iso": "2020-07-24T15:30:43.300507",
             "status": "INACTIVE"
         },
         "ads.techtv.com": {
             "included_at_epoch": 1594826758.3517,
             "included_at_iso": "2020-07-15T15:25:58.351700",
-            "last_retested_at_epoch": 1595432003.760281,
-            "last_retested_at_iso": "2020-07-22T15:33:23.760281",
+            "last_retested_at_epoch": 1595604643.29023,
+            "last_retested_at_iso": "2020-07-24T15:30:43.290230",
             "status": "INACTIVE"
         },
         "ads.yourfreedvds.com": {
@@ -45,8 +45,8 @@
         "adserver.thema.cc": {
             "included_at_epoch": 1595258193.857106,
             "included_at_iso": "2020-07-20T15:16:33.857106",
-            "last_retested_at_epoch": 1595430299.358884,
-            "last_retested_at_iso": "2020-07-22T15:04:59.358884",
+            "last_retested_at_epoch": 1595604643.309716,
+            "last_retested_at_iso": "2020-07-24T15:30:43.309716",
             "status": "INACTIVE"
         },
         "adsrv.eacdn.com": {
@@ -59,8 +59,8 @@
         "boersego-ads.de": {
             "included_at_epoch": 1593703517.781721,
             "included_at_iso": "2020-07-02T15:25:17.781721",
-            "last_retested_at_epoch": 1595432003.766004,
-            "last_retested_at_iso": "2020-07-22T15:33:23.766004",
+            "last_retested_at_epoch": 1595604643.305122,
+            "last_retested_at_iso": "2020-07-24T15:30:43.305122",
             "status": "INACTIVE"
         },
         "clickwith.bid": {
@@ -73,15 +73,15 @@
         "cooster.ru": {
             "included_at_epoch": 1595431408.14763,
             "included_at_iso": "2020-07-22T15:23:28.147630",
-            "last_retested_at_epoch": 1595431408.14763,
-            "last_retested_at_iso": "2020-07-22T15:23:28.147630",
+            "last_retested_at_epoch": 1595604643.295535,
+            "last_retested_at_iso": "2020-07-24T15:30:43.295535",
             "status": "INACTIVE"
         },
         "hud8mxdt.computerhelpmirror.top": {
             "included_at_epoch": 1594481269.662014,
             "included_at_iso": "2020-07-11T15:27:49.662014",
-            "last_retested_at_epoch": 1595086592.86289,
-            "last_retested_at_iso": "2020-07-18T15:36:32.862890",
+            "last_retested_at_epoch": 1595604643.314281,
+            "last_retested_at_iso": "2020-07-24T15:30:43.314281",
             "status": "INACTIVE"
         },
         "measure.office.com": {
@@ -108,8 +108,8 @@
         "stat.xiaomi.com": {
             "included_at_epoch": 1593533831.898414,
             "included_at_iso": "2020-06-30T16:17:11.898414",
-            "last_retested_at_epoch": 1595431994.768222,
-            "last_retested_at_iso": "2020-07-22T15:33:14.768222",
+            "last_retested_at_epoch": 1595604628.43,
+            "last_retested_at_iso": "2020-07-24T15:30:28.430000",
             "status": "INACTIVE"
         }
     },
