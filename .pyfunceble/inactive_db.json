@@ -59,8 +59,8 @@
         "clickwith.bid": {
             "included_at_epoch": 1593532354.229316,
             "included_at_iso": "2020-06-30T15:52:34.229316",
-            "last_retested_at_epoch": 1595604058.949334,
-            "last_retested_at_iso": "2020-07-24T15:20:58.949334",
+            "last_retested_at_epoch": 1595776976.68332,
+            "last_retested_at_iso": "2020-07-26T15:22:56.683320",
             "status": "INACTIVE"
         },
         "cooster.ru": {
@@ -80,22 +80,22 @@
         "measure.office.com": {
             "included_at_epoch": 1593532367.945732,
             "included_at_iso": "2020-06-30T15:52:47.945732",
-            "last_retested_at_epoch": 1595604073.52536,
-            "last_retested_at_iso": "2020-07-24T15:21:13.525360",
+            "last_retested_at_epoch": 1595776990.603386,
+            "last_retested_at_iso": "2020-07-26T15:23:10.603386",
             "status": "INACTIVE"
         },
         "mtrcs.samba.tv": {
             "included_at_epoch": 1593532369.650865,
             "included_at_iso": "2020-06-30T15:52:49.650865",
-            "last_retested_at_epoch": 1595604075.250334,
-            "last_retested_at_iso": "2020-07-24T15:21:15.250334",
+            "last_retested_at_epoch": 1595776992.348299,
+            "last_retested_at_iso": "2020-07-26T15:23:12.348299",
             "status": "INACTIVE"
         },
         "pgl.example0101": {
             "included_at_epoch": 1593532373.131394,
             "included_at_iso": "2020-06-30T15:52:53.131394",
-            "last_retested_at_epoch": 1595604078.857985,
-            "last_retested_at_iso": "2020-07-24T15:21:18.857985",
+            "last_retested_at_epoch": 1595776995.786028,
+            "last_retested_at_iso": "2020-07-26T15:23:15.786028",
             "status": "INVALID"
         },
         "stat.xiaomi.com": {
