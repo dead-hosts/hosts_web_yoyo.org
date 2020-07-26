@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 24 Jul 2020 12:07:02 GMT
-# entries:        3501
+# last updated:   Sat, 25 Jul 2020 08:56:31 GMT
+# entries:        3504
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sat, 29 Jul 2000 00:00:00
+# start date:    Mon, 31 Jul 2000 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -416,6 +416,7 @@
 0.0.0.0 ads.bigfoot.com
 0.0.0.0 ads.bing.com
 0.0.0.0 ads.bittorrent.com
+0.0.0.0 ads.biz.tr
 0.0.0.0 ads.blog.com
 0.0.0.0 ads.bloomberg.com
 0.0.0.0 ads.bluemountain.com
@@ -2781,6 +2782,7 @@
 0.0.0.0 revenuedirect.com
 0.0.0.0 revenuehits.com
 0.0.0.0 revive.docmatic.org
+0.0.0.0 revive.dubcnm.com
 0.0.0.0 revive.netriota.hu
 0.0.0.0 revive.plays.bg
 0.0.0.0 revlift.io
@@ -2932,6 +2934,7 @@
 0.0.0.0 slipperysack.com
 0.0.0.0 slopeaota.com
 0.0.0.0 smaato.com
+0.0.0.0 smallbeginner.com
 0.0.0.0 smart-traffik.com
 0.0.0.0 smart-traffik.io
 0.0.0.0 smart4ads.com
