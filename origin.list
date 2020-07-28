@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 25 Jul 2020 08:56:31 GMT
-# entries:        3504
+# last updated:   Tue, 28 Jul 2020 14:06:57 GMT
+# entries:        3522
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Mon, 31 Jul 2000 00:00:00
+# start date:    Wed, 02 Aug 2000 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -60,6 +60,7 @@
 0.0.0.0 a135.wftv.com
 0.0.0.0 a5.overclockers.ua
 0.0.0.0 aa-metrics.beauty.hotpepper.jp
+0.0.0.0 aa-metrics.recruit-card.jp
 0.0.0.0 aa-metrics.trip-ai.jp
 0.0.0.0 aaddzz.com
 0.0.0.0 aax-eu-dub.amazon.com
@@ -264,6 +265,7 @@
 0.0.0.0 adform.net
 0.0.0.0 adformdsp.net
 0.0.0.0 adfries.info
+0.0.0.0 adfs.senacrs.com.br
 0.0.0.0 adgardener.com
 0.0.0.0 adgoto.com
 0.0.0.0 adhaven.com
@@ -383,8 +385,11 @@
 0.0.0.0 ads-twitter.com
 0.0.0.0 ads.4tube.com
 0.0.0.0 ads.5ci.lt
+0.0.0.0 ads.73dpi.com
+0.0.0.0 ads.aavv.com
 0.0.0.0 ads.abovetopsecret.com
 0.0.0.0 ads.aceweb.net
+0.0.0.0 ads.acpc.cat
 0.0.0.0 ads.acrosspf.com
 0.0.0.0 ads.activestate.com
 0.0.0.0 ads.ad-center.com
@@ -541,6 +546,7 @@
 0.0.0.0 ads.imgur.com
 0.0.0.0 ads.independent.com.mt
 0.0.0.0 ads.infi.net
+0.0.0.0 ads.internet24.se
 0.0.0.0 ads.internic.co.il
 0.0.0.0 ads.ipowerweb.com
 0.0.0.0 ads.isoftmarketing.com
@@ -700,6 +706,7 @@
 0.0.0.0 ads.ultimate-guitar.com
 0.0.0.0 ads.uncrate.com
 0.0.0.0 ads.undertone.com
+0.0.0.0 ads.unison.bg
 0.0.0.0 ads.usatoday.com
 0.0.0.0 ads.uxs.at
 0.0.0.0 ads.v-lazer.com
@@ -818,6 +825,7 @@
 0.0.0.0 adserver.html.it
 0.0.0.0 adserver.hwupgrade.it
 0.0.0.0 adserver.ilango.de
+0.0.0.0 adserver.info7.mx
 0.0.0.0 adserver.irishwebmasterforum.com
 0.0.0.0 adserver.janes.com
 0.0.0.0 adserver.lecool.com
@@ -1355,6 +1363,7 @@
 0.0.0.0 cdn.bannerflow.com
 0.0.0.0 cdn.branch.io
 0.0.0.0 cdn.freefarcy.com
+0.0.0.0 cdn.freshmarketer.com
 0.0.0.0 cdn.heapanalytics.com
 0.0.0.0 cdn.keywee.co
 0.0.0.0 cdn.onesignal.com
@@ -1697,6 +1706,7 @@
 0.0.0.0 entrecard.s3.amazonaws.com
 0.0.0.0 enviousthread.com
 0.0.0.0 epom.com
+0.0.0.0 epp.bih.net.ba
 0.0.0.0 eqads.com
 0.0.0.0 erne.co
 0.0.0.0 ero-advertising.com
@@ -1706,6 +1716,7 @@
 0.0.0.0 et.nytimes.com
 0.0.0.0 etahub.com
 0.0.0.0 etargetnet.com
+0.0.0.0 etracker.com
 0.0.0.0 etracker.de
 0.0.0.0 eu-adcenter.net
 0.0.0.0 eu1.madsone.com
@@ -1811,7 +1822,6 @@
 0.0.0.0 freewebcounter.com
 0.0.0.0 freewheel.com
 0.0.0.0 freewheel.tv
-0.0.0.0 freshmarketer.com
 0.0.0.0 frightenedpotato.com
 0.0.0.0 frtyj.com
 0.0.0.0 frtyk.com
@@ -2094,6 +2104,7 @@
 0.0.0.0 kindads.com
 0.0.0.0 kissmetrics.com
 0.0.0.0 klclick.com
+0.0.0.0 klclick1.com
 0.0.0.0 kliks.nl
 0.0.0.0 klsdee.com
 0.0.0.0 kmpiframe.keepmeposted.com.mt
@@ -2512,6 +2523,7 @@
 0.0.0.0 oxcash.com
 0.0.0.0 oxen.hillcountrytexas.com
 0.0.0.0 p-n.io
+0.0.0.0 p.nag.ru
 0.0.0.0 p2r14.com
 0.0.0.0 padsbrown.com
 0.0.0.0 padssup.com
@@ -2644,6 +2656,7 @@
 0.0.0.0 propellerclick.com
 0.0.0.0 proper.io
 0.0.0.0 props.id
+0.0.0.0 prosper.on-line-casino.ca
 0.0.0.0 proton-tm.com
 0.0.0.0 protraffic.com
 0.0.0.0 provexia.com
@@ -2704,6 +2717,7 @@
 0.0.0.0 radar.cedexis.com
 0.0.0.0 radarurl.com
 0.0.0.0 radiate.com
+0.0.0.0 rads.alfamedia.pl
 0.0.0.0 rads.realadmin.pl
 0.0.0.0 railwayrainstorm.com
 0.0.0.0 railwayreason.com
@@ -2783,6 +2797,7 @@
 0.0.0.0 revenuehits.com
 0.0.0.0 revive.docmatic.org
 0.0.0.0 revive.dubcnm.com
+0.0.0.0 revive.haskovo.net
 0.0.0.0 revive.netriota.hu
 0.0.0.0 revive.plays.bg
 0.0.0.0 revlift.io
@@ -3205,6 +3220,7 @@
 0.0.0.0 track.hexcan.com
 0.0.0.0 track.mailerlite.com
 0.0.0.0 track.nuxues.com
+0.0.0.0 track.tkbo.com
 0.0.0.0 track.ultravpn.com
 0.0.0.0 track.undressingpics.work
 0.0.0.0 track.viewdeos.com
@@ -3222,6 +3238,7 @@
 0.0.0.0 tracking.1-a1502-bi.co.uk
 0.0.0.0 tracking.1-kv015-ap.co.uk
 0.0.0.0 tracking.21-a4652-bi.co.uk
+0.0.0.0 tracking.39-bb4a9-osm.co.uk
 0.0.0.0 tracking.42-01pr5-osm-secure.co.uk
 0.0.0.0 tracking.5-47737-bi.co.uk
 0.0.0.0 tracking.crunchiemedia.com
@@ -3328,6 +3345,7 @@
 0.0.0.0 uu.domainforlite.com
 0.0.0.0 uzk4umokyri3.com
 0.0.0.0 v1.cnzz.com
+0.0.0.0 v1adserver.com
 0.0.0.0 v1hcmqbaqw.ru
 0.0.0.0 validclick.com
 0.0.0.0 valuead.com

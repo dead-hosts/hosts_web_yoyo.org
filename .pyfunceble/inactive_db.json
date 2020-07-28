@@ -1,24 +1,38 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/domains.list": {
+        "ad.doctissimo.fr": {
+            "included_at_epoch": 1595948817.112843,
+            "included_at_iso": "2020-07-28T15:06:57.112843",
+            "last_retested_at_epoch": 1595948817.112843,
+            "last_retested_at_iso": "2020-07-28T15:06:57.112843",
+            "status": "INACTIVE"
+        },
         "ad.intl.xiaomi.com": {
             "included_at_epoch": 1594653948.461189,
             "included_at_iso": "2020-07-13T15:25:48.461189",
-            "last_retested_at_epoch": 1595775942.997359,
-            "last_retested_at_iso": "2020-07-26T15:05:42.997359",
+            "last_retested_at_epoch": 1595948817.131218,
+            "last_retested_at_iso": "2020-07-28T15:06:57.131218",
             "status": "INACTIVE"
         },
         "ad.xiaomi.com": {
             "included_at_epoch": 1594653948.529134,
             "included_at_iso": "2020-07-13T15:25:48.529134",
-            "last_retested_at_epoch": 1595775943.075487,
-            "last_retested_at_iso": "2020-07-26T15:05:43.075487",
+            "last_retested_at_epoch": 1595948817.198438,
+            "last_retested_at_iso": "2020-07-28T15:06:57.198438",
+            "status": "INACTIVE"
+        },
+        "ads.adshareware.net": {
+            "included_at_epoch": 1595948819.841617,
+            "included_at_iso": "2020-07-28T15:06:59.841617",
+            "last_retested_at_epoch": 1595948819.841617,
+            "last_retested_at_iso": "2020-07-28T15:06:59.841617",
             "status": "INACTIVE"
         },
         "ads.canalblog.com": {
             "included_at_epoch": 1595258192.896917,
             "included_at_iso": "2020-07-20T15:16:32.896917",
-            "last_retested_at_epoch": 1595775945.925852,
-            "last_retested_at_iso": "2020-07-26T15:05:45.925852",
+            "last_retested_at_epoch": 1595948819.902367,
+            "last_retested_at_iso": "2020-07-28T15:06:59.902367",
             "status": "INACTIVE"
         },
         "ads.motormedia.nl": {
@@ -45,8 +59,8 @@
         "adsrv.eacdn.com": {
             "included_at_epoch": 1593529887.5962,
             "included_at_iso": "2020-06-30T15:11:27.596200",
-            "last_retested_at_epoch": 1595775947.449837,
-            "last_retested_at_iso": "2020-07-26T15:05:47.449837",
+            "last_retested_at_epoch": 1595948821.330867,
+            "last_retested_at_iso": "2020-07-28T15:07:01.330867",
             "status": "INACTIVE"
         },
         "boersego-ads.de": {
