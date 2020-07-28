@@ -9750,8 +9750,8 @@
         "state": "future"
     },
     "spywords.com": {
-        "epoch": 1595721600.0,
-        "expiration_date": "26-jul-2020",
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
         "state": "future"
     },
     "squeamishscarecrow.com": {
@@ -10979,6 +10979,11 @@
         "expiration_date": "05-mar-2021",
         "state": "future"
     },
+    "v1adserver.com": {
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
+        "state": "future"
+    },
     "v1hcmqbaqw.ru": {
         "epoch": 1613606400.0,
         "expiration_date": "18-feb-2021",
@@ -11740,8 +11745,8 @@
         "state": "future"
     },
     "zmedia.com": {
-        "epoch": 1595808000.0,
-        "expiration_date": "27-jul-2020",
+        "epoch": 1627344000.0,
+        "expiration_date": "27-jul-2021",
         "state": "future"
     },
     "zqtk.net": {
