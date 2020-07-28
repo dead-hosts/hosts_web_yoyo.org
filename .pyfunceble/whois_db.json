@@ -2670,8 +2670,8 @@
         "state": "future"
     },
     "btez8.xyz": {
-        "epoch": 1595808000.0,
-        "expiration_date": "27-jul-2020",
+        "epoch": 1627344000.0,
+        "expiration_date": "27-jul-2021",
         "state": "future"
     },
     "btrll.com": {
@@ -3605,8 +3605,8 @@
         "state": "future"
     },
     "crsspxl.com": {
-        "epoch": 1595808000.0,
-        "expiration_date": "27-jul-2020",
+        "epoch": 1658880000.0,
+        "expiration_date": "27-jul-2022",
         "state": "future"
     },
     "crwdcntrl.net": {
@@ -4354,6 +4354,11 @@
         "expiration_date": "14-jan-2021",
         "state": "future"
     },
+    "etracker.com": {
+        "epoch": 1606003200.0,
+        "expiration_date": "22-nov-2020",
+        "state": "future"
+    },
     "eu-adcenter.net": {
         "epoch": 1626048000.0,
         "expiration_date": "12-jul-2021",
@@ -4365,8 +4370,8 @@
         "state": "future"
     },
     "eurekster.com": {
-        "epoch": 1595894400.0,
-        "expiration_date": "28-jul-2020",
+        "epoch": 1879891200.0,
+        "expiration_date": "28-jul-2029",
         "state": "future"
     },
     "euroclick.com": {
@@ -6174,6 +6179,11 @@
         "expiration_date": "24-oct-2026",
         "state": "future"
     },
+    "klclick1.com": {
+        "epoch": 1597622400.0,
+        "expiration_date": "17-aug-2020",
+        "state": "future"
+    },
     "klsdee.com": {
         "epoch": 1599868800.0,
         "expiration_date": "12-sep-2020",
@@ -6725,8 +6735,8 @@
         "state": "future"
     },
     "mediasmart.io": {
-        "epoch": 1595808000.0,
-        "expiration_date": "27-jul-2020",
+        "epoch": 1627344000.0,
+        "expiration_date": "27-jul-2021",
         "state": "future"
     },
     "mediatext.com": {
