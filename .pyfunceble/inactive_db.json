@@ -73,8 +73,8 @@
         "clickwith.bid": {
             "included_at_epoch": 1596122861.225865,
             "included_at_iso": "2020-07-30T15:27:41.225865",
-            "last_retested_at_epoch": 1596122861.225865,
-            "last_retested_at_iso": "2020-07-30T15:27:41.225865",
+            "last_retested_at_epoch": 1596295627.166059,
+            "last_retested_at_iso": "2020-08-01T15:27:07.166059",
             "status": "INACTIVE"
         },
         "cooster.ru": {
@@ -82,13 +82,6 @@
             "included_at_iso": "2020-07-22T15:23:28.147630",
             "last_retested_at_epoch": 1596123515.851005,
             "last_retested_at_iso": "2020-07-30T15:38:35.851005",
-            "status": "INACTIVE"
-        },
-        "count.west263.com": {
-            "included_at_epoch": 1596122862.484989,
-            "included_at_iso": "2020-07-30T15:27:42.484989",
-            "last_retested_at_epoch": 1596122862.484989,
-            "last_retested_at_iso": "2020-07-30T15:27:42.484989",
             "status": "INACTIVE"
         },
         "hud8mxdt.computerhelpmirror.top": {
@@ -108,22 +101,22 @@
         "measure.office.com": {
             "included_at_epoch": 1596122875.8335,
             "included_at_iso": "2020-07-30T15:27:55.833500",
-            "last_retested_at_epoch": 1596122875.8335,
-            "last_retested_at_iso": "2020-07-30T15:27:55.833500",
+            "last_retested_at_epoch": 1596295641.059169,
+            "last_retested_at_iso": "2020-08-01T15:27:21.059169",
             "status": "INACTIVE"
         },
         "mtrcs.samba.tv": {
             "included_at_epoch": 1596122877.603537,
             "included_at_iso": "2020-07-30T15:27:57.603537",
-            "last_retested_at_epoch": 1596122877.603537,
-            "last_retested_at_iso": "2020-07-30T15:27:57.603537",
+            "last_retested_at_epoch": 1596295642.741861,
+            "last_retested_at_iso": "2020-08-01T15:27:22.741861",
             "status": "INACTIVE"
         },
         "pgl.example0101": {
             "included_at_epoch": 1596122881.317023,
             "included_at_iso": "2020-07-30T15:28:01.317023",
-            "last_retested_at_epoch": 1596122881.317023,
-            "last_retested_at_iso": "2020-07-30T15:28:01.317023",
+            "last_retested_at_epoch": 1596295646.171498,
+            "last_retested_at_iso": "2020-08-01T15:27:26.171498",
             "status": "INVALID"
         },
         "stat.xiaomi.com": {
