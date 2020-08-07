@@ -2142,7 +2142,7 @@
     "bannerconnect.com": {
         "epoch": 1596758400.0,
         "expiration_date": "07-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "bannerconnect.net": {
         "epoch": 1615507200.0,
@@ -2815,8 +2815,8 @@
         "state": "future"
     },
     "cash4members.com": {
-        "epoch": 1596672000.0,
-        "expiration_date": "06-aug-2020",
+        "epoch": 1628208000.0,
+        "expiration_date": "06-aug-2021",
         "state": "future"
     },
     "cashcrate.com": {
@@ -4117,7 +4117,7 @@
     "ecircle-ag.com": {
         "epoch": 1596758400.0,
         "expiration_date": "07-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "ecleneue.com": {
         "epoch": 1612137600.0,
@@ -4155,8 +4155,8 @@
         "state": "future"
     },
     "effectivemeasure.net": {
-        "epoch": 1596758400.0,
-        "expiration_date": "07-aug-2020",
+        "epoch": 1691366400.0,
+        "expiration_date": "07-aug-2023",
         "state": "future"
     },
     "efficaciouscactus.com": {
@@ -4625,8 +4625,8 @@
         "state": "future"
     },
     "fastclick.com": {
-        "epoch": 1596758400.0,
-        "expiration_date": "07-aug-2020",
+        "epoch": 1628294400.0,
+        "expiration_date": "07-aug-2021",
         "state": "future"
     },
     "fastclick.net": {
@@ -8517,7 +8517,7 @@
     "radiate.com": {
         "epoch": 1596758400.0,
         "expiration_date": "07-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "railwayrainstorm.com": {
         "epoch": 1601856000.0,
