@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Sun, 02 Aug 2020 15:06:41 GMT
-# entries:        3527
+# entries:        3523
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Thu, 10 Aug 2000 00:00:00
+# start date:    Sat, 12 Aug 2000 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -1714,7 +1714,6 @@
 0.0.0.0 eqads.com
 0.0.0.0 erne.co
 0.0.0.0 ero-advertising.com
-0.0.0.0 errortablet.com
 0.0.0.0 espn.com.ssl.sc.omtrdc.net
 0.0.0.0 estat.com
 0.0.0.0 et.nytimes.com
@@ -1880,7 +1879,6 @@
 0.0.0.0 googlesyndication.com
 0.0.0.0 googletagservices.com
 0.0.0.0 gorgeousground.com
-0.0.0.0 gossipmiser.com
 0.0.0.0 gostats.com
 0.0.0.0 gothamads.com
 0.0.0.0 gotraffic.net
@@ -2112,7 +2110,6 @@
 0.0.0.0 kliks.nl
 0.0.0.0 klsdee.com
 0.0.0.0 kmpiframe.keepmeposted.com.mt
-0.0.0.0 knifeoctopus.com
 0.0.0.0 knorex.com
 0.0.0.0 komoona.com
 0.0.0.0 kompasads.com
@@ -3467,7 +3464,6 @@
 0.0.0.0 worldwide-cash.net
 0.0.0.0 worldwidedigitalads.com
 0.0.0.0 worriednumber.com
-0.0.0.0 worrybutter.com
 0.0.0.0 wpnrtnmrewunrtok.xyz
 0.0.0.0 wryfinger.com
 0.0.0.0 wt-eu02.net

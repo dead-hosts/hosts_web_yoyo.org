@@ -150,8 +150,8 @@
         "state": "future"
     },
     "7bpeople.com": {
-        "epoch": 1596758400.0,
-        "expiration_date": "07-aug-2020",
+        "epoch": 1659830400.0,
+        "expiration_date": "07-aug-2022",
         "state": "future"
     },
     "7f1au20glg.com": {
@@ -527,7 +527,7 @@
     "adcolony.com": {
         "epoch": 1596758400.0,
         "expiration_date": "07-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "adcomplete.com": {
         "epoch": 1608249600.0,
@@ -877,7 +877,7 @@
     "admotion.com.ar": {
         "epoch": 1596758400.0,
         "expiration_date": "07-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "adnet-media.net": {
         "epoch": "1568592000",
@@ -1392,7 +1392,7 @@
     "adtilt.com": {
         "epoch": 1596758400.0,
         "expiration_date": "07-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "adtng.com": {
         "epoch": 1626739200.0,
