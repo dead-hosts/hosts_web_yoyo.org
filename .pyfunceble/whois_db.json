@@ -2140,9 +2140,9 @@
         "state": "future"
     },
     "bannerconnect.com": {
-        "epoch": 1596758400.0,
-        "expiration_date": "07-aug-2020",
-        "state": "past"
+        "epoch": 1628294400.0,
+        "expiration_date": "07-aug-2021",
+        "state": "future"
     },
     "bannerconnect.net": {
         "epoch": 1615507200.0,
@@ -4115,9 +4115,9 @@
         "state": "future"
     },
     "ecircle-ag.com": {
-        "epoch": 1596758400.0,
-        "expiration_date": "07-aug-2020",
-        "state": "past"
+        "epoch": 1628294400.0,
+        "expiration_date": "07-aug-2021",
+        "state": "future"
     },
     "ecleneue.com": {
         "epoch": 1612137600.0,
@@ -5895,8 +5895,8 @@
         "state": "future"
     },
     "inspectorclick.com": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
         "state": "future"
     },
     "instantmadness.com": {
@@ -6425,8 +6425,8 @@
         "state": "future"
     },
     "linkshighway.com": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
         "state": "future"
     },
     "linkstorms.com": {
@@ -6657,7 +6657,7 @@
     "mautic.com": {
         "epoch": 1596931200.0,
         "expiration_date": "09-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "maximiser.net": {
         "epoch": 1622678400.0,

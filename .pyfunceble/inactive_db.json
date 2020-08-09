@@ -66,8 +66,15 @@
         "clickwith.bid": {
             "included_at_epoch": 1596122861.225865,
             "included_at_iso": "2020-07-30T15:27:41.225865",
-            "last_retested_at_epoch": 1596815030.902396,
-            "last_retested_at_iso": "2020-08-07T15:43:50.902396",
+            "last_retested_at_epoch": 1596987695.146728,
+            "last_retested_at_iso": "2020-08-09T15:41:35.146728",
+            "status": "INACTIVE"
+        },
+        "content.acc-hd.de": {
+            "included_at_epoch": 1596987695.971237,
+            "included_at_iso": "2020-08-09T15:41:35.971237",
+            "last_retested_at_epoch": 1596987695.971237,
+            "last_retested_at_iso": "2020-08-09T15:41:35.971237",
             "status": "INACTIVE"
         },
         "cooster.ru": {
@@ -87,29 +94,29 @@
         "measure.office.com": {
             "included_at_epoch": 1596122875.8335,
             "included_at_iso": "2020-07-30T15:27:55.833500",
-            "last_retested_at_epoch": 1596815046.451652,
-            "last_retested_at_iso": "2020-08-07T15:44:06.451652",
+            "last_retested_at_epoch": 1596987708.953653,
+            "last_retested_at_iso": "2020-08-09T15:41:48.953653",
             "status": "INACTIVE"
         },
         "metrics.windowsitpro.com": {
             "included_at_epoch": 1596815047.185575,
             "included_at_iso": "2020-08-07T15:44:07.185575",
-            "last_retested_at_epoch": 1596815047.185575,
-            "last_retested_at_iso": "2020-08-07T15:44:07.185575",
+            "last_retested_at_epoch": 1596987709.63423,
+            "last_retested_at_iso": "2020-08-09T15:41:49.634230",
             "status": "INACTIVE"
         },
         "mtrcs.samba.tv": {
             "included_at_epoch": 1596122877.603537,
             "included_at_iso": "2020-07-30T15:27:57.603537",
-            "last_retested_at_epoch": 1596815048.320815,
-            "last_retested_at_iso": "2020-08-07T15:44:08.320815",
+            "last_retested_at_epoch": 1596987710.693076,
+            "last_retested_at_iso": "2020-08-09T15:41:50.693076",
             "status": "INACTIVE"
         },
         "pgl.example0101": {
             "included_at_epoch": 1596122881.317023,
             "included_at_iso": "2020-07-30T15:28:01.317023",
-            "last_retested_at_epoch": 1596815052.213071,
-            "last_retested_at_iso": "2020-08-07T15:44:12.213071",
+            "last_retested_at_epoch": 1596987714.166117,
+            "last_retested_at_iso": "2020-08-09T15:41:54.166117",
             "status": "INVALID"
         },
         "stat.xiaomi.com": {
