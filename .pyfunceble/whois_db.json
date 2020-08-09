@@ -8515,9 +8515,9 @@
         "state": "future"
     },
     "radiate.com": {
-        "epoch": 1596758400.0,
-        "expiration_date": "07-aug-2020",
-        "state": "past"
+        "epoch": 1628294400.0,
+        "expiration_date": "07-aug-2021",
+        "state": "future"
     },
     "railwayrainstorm.com": {
         "epoch": 1601856000.0,
@@ -8892,7 +8892,7 @@
     "rockabox.co": {
         "epoch": 1596931200.0,
         "expiration_date": "09-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "roia.biz": {
         "epoch": 1606780800.0,
@@ -9590,9 +9590,9 @@
         "state": "future"
     },
     "softclick.com.br": {
-        "epoch": 1595289600.0,
-        "expiration_date": "21-jul-2020",
-        "state": "past"
+        "epoch": 1626825600.0,
+        "expiration_date": "21-jul-2021",
+        "state": "future"
     },
     "sombersea.com": {
         "epoch": 1602115200.0,
@@ -9700,8 +9700,8 @@
         "state": "future"
     },
     "spotscenered.info": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
         "state": "future"
     },
     "spottysense.com": {
@@ -11635,8 +11635,8 @@
         "state": "future"
     },
     "yieldmanager.com": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
         "state": "future"
     },
     "yieldmanager.net": {
