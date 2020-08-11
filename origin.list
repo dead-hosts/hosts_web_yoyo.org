@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 08 Aug 2020 14:12:14 GMT
-# entries:        3524
+# last updated:   Tue, 11 Aug 2020 12:01:12 GMT
+# entries:        3526
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Mon, 14 Aug 2000 00:00:00
+# start date:    Wed, 16 Aug 2000 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -1788,6 +1788,7 @@
 0.0.0.0 findcommerce.com
 0.0.0.0 findepended.com
 0.0.0.0 findyourcasino.com
+0.0.0.0 fineoffer.net
 0.0.0.0 fingahvf.top
 0.0.0.0 first.nova.cz
 0.0.0.0 firstlightera.com
@@ -2448,6 +2449,7 @@
 0.0.0.0 nuttyorganization.com
 0.0.0.0 nzaza.com
 0.0.0.0 o0bc.com
+0.0.0.0 oafishobservation.com
 0.0.0.0 oas.benchmark.fr
 0.0.0.0 oas.repubblica.it
 0.0.0.0 oas.roanoke.com
