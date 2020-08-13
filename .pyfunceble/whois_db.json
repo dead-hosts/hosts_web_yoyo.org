@@ -3810,8 +3810,8 @@
         "state": "future"
     },
     "demdex.net": {
-        "epoch": 1597190400.0,
-        "expiration_date": "12-aug-2020",
+        "epoch": 1628726400.0,
+        "expiration_date": "12-aug-2021",
         "state": "future"
     },
     "deployads.com": {
@@ -4777,6 +4777,11 @@
     "flurry.com": {
         "epoch": 1620000000.0,
         "expiration_date": "03-may-2021",
+        "state": "future"
+    },
+    "fly-analytics.com": {
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
         "state": "future"
     },
     "foamybox.com": {
@@ -6352,6 +6357,11 @@
     "lettucelimit.com": {
         "epoch": 1614297600.0,
         "expiration_date": "26-feb-2021",
+        "state": "future"
+    },
+    "lfeeder.com": {
+        "epoch": 1661731200.0,
+        "expiration_date": "29-aug-2022",
         "state": "future"
     },
     "lfstmedia.com": {
