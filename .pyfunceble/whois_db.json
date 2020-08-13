@@ -1332,7 +1332,7 @@
     "adsupply.com": {
         "epoch": 1597276800.0,
         "expiration_date": "13-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "adswizz.com": {
         "epoch": 1826582400.0,
