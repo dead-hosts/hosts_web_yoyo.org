@@ -10,15 +10,15 @@
         "ad.intl.xiaomi.com": {
             "included_at_epoch": 1597158979.967193,
             "included_at_iso": "2020-08-11T15:16:19.967193",
-            "last_retested_at_epoch": 1597332619.49548,
-            "last_retested_at_iso": "2020-08-13T15:30:19.495480",
+            "last_retested_at_epoch": 1597505576.893176,
+            "last_retested_at_iso": "2020-08-15T15:32:56.893176",
             "status": "INACTIVE"
         },
         "ad.xiaomi.com": {
             "included_at_epoch": 1597158980.088347,
             "included_at_iso": "2020-08-11T15:16:20.088347",
-            "last_retested_at_epoch": 1597332619.577111,
-            "last_retested_at_iso": "2020-08-13T15:30:19.577111",
+            "last_retested_at_epoch": 1597505576.986378,
+            "last_retested_at_iso": "2020-08-15T15:32:56.986378",
             "status": "INACTIVE"
         },
         "ads.adshareware.net": {
@@ -31,8 +31,15 @@
         "ads.canalblog.com": {
             "included_at_epoch": 1595258192.896917,
             "included_at_iso": "2020-07-20T15:16:32.896917",
-            "last_retested_at_epoch": 1597332622.527804,
-            "last_retested_at_iso": "2020-08-13T15:30:22.527804",
+            "last_retested_at_epoch": 1597505580.029025,
+            "last_retested_at_iso": "2020-08-15T15:33:00.029025",
+            "status": "INACTIVE"
+        },
+        "ads.edbindex.dk": {
+            "included_at_epoch": 1597505580.128179,
+            "included_at_iso": "2020-08-15T15:33:00.128179",
+            "last_retested_at_epoch": 1597505580.128179,
+            "last_retested_at_iso": "2020-08-15T15:33:00.128179",
             "status": "INACTIVE"
         },
         "ads.motormedia.nl": {
@@ -52,8 +59,8 @@
         "adsrv.eacdn.com": {
             "included_at_epoch": 1596121696.561613,
             "included_at_iso": "2020-07-30T15:08:16.561613",
-            "last_retested_at_epoch": 1597332624.049942,
-            "last_retested_at_iso": "2020-08-13T15:30:24.049942",
+            "last_retested_at_epoch": 1597505581.68577,
+            "last_retested_at_iso": "2020-08-15T15:33:01.685770",
             "status": "INACTIVE"
         },
         "clickwith.bid": {
