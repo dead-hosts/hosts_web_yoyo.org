@@ -215,8 +215,8 @@
         "state": "future"
     },
     "abandonedaction.com": {
-        "epoch": 1597622400.0,
-        "expiration_date": "17-aug-2020",
+        "epoch": 1629158400.0,
+        "expiration_date": "17-aug-2021",
         "state": "future"
     },
     "abandonedclover.com": {
@@ -227,7 +227,7 @@
     "abashedangle.com": {
         "epoch": 1597622400.0,
         "expiration_date": "17-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "abc-ads.com": {
         "epoch": 1607990400.0,

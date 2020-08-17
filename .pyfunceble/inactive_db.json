@@ -10,15 +10,15 @@
         "ad.intl.xiaomi.com": {
             "included_at_epoch": 1597158979.967193,
             "included_at_iso": "2020-08-11T15:16:19.967193",
-            "last_retested_at_epoch": 1597505576.893176,
-            "last_retested_at_iso": "2020-08-15T15:32:56.893176",
+            "last_retested_at_epoch": 1597678917.444775,
+            "last_retested_at_iso": "2020-08-17T15:41:57.444775",
             "status": "INACTIVE"
         },
         "ad.xiaomi.com": {
             "included_at_epoch": 1597158980.088347,
             "included_at_iso": "2020-08-11T15:16:20.088347",
-            "last_retested_at_epoch": 1597505576.986378,
-            "last_retested_at_iso": "2020-08-15T15:32:56.986378",
+            "last_retested_at_epoch": 1597678917.51634,
+            "last_retested_at_iso": "2020-08-17T15:41:57.516340",
             "status": "INACTIVE"
         },
         "ads.adshareware.net": {
@@ -29,17 +29,17 @@
             "status": "INACTIVE"
         },
         "ads.canalblog.com": {
-            "included_at_epoch": 1595258192.896917,
-            "included_at_iso": "2020-07-20T15:16:32.896917",
-            "last_retested_at_epoch": 1597505580.029025,
-            "last_retested_at_iso": "2020-08-15T15:33:00.029025",
+            "included_at_epoch": 1597678920.391688,
+            "included_at_iso": "2020-08-17T15:42:00.391688",
+            "last_retested_at_epoch": 1597678920.391688,
+            "last_retested_at_iso": "2020-08-17T15:42:00.391688",
             "status": "INACTIVE"
         },
-        "ads.edbindex.dk": {
-            "included_at_epoch": 1597505580.128179,
-            "included_at_iso": "2020-08-15T15:33:00.128179",
-            "last_retested_at_epoch": 1597505580.128179,
-            "last_retested_at_iso": "2020-08-15T15:33:00.128179",
+        "ads.datingyes.com": {
+            "included_at_epoch": 1597678920.450825,
+            "included_at_iso": "2020-08-17T15:42:00.450825",
+            "last_retested_at_epoch": 1597678920.450825,
+            "last_retested_at_iso": "2020-08-17T15:42:00.450825",
             "status": "INACTIVE"
         },
         "ads.motormedia.nl": {
@@ -49,18 +49,18 @@
             "last_retested_at_iso": "2020-08-15T16:12:15.018645",
             "status": "INACTIVE"
         },
-        "adserver.thema.cc": {
-            "included_at_epoch": 1595258193.857106,
-            "included_at_iso": "2020-07-20T15:16:33.857106",
-            "last_retested_at_epoch": 1597507935.033828,
-            "last_retested_at_iso": "2020-08-15T16:12:15.033828",
-            "status": "INACTIVE"
-        },
         "adsrv.eacdn.com": {
             "included_at_epoch": 1596121696.561613,
             "included_at_iso": "2020-07-30T15:08:16.561613",
-            "last_retested_at_epoch": 1597505581.68577,
-            "last_retested_at_iso": "2020-08-15T15:33:01.685770",
+            "last_retested_at_epoch": 1597678921.886027,
+            "last_retested_at_iso": "2020-08-17T15:42:01.886027",
+            "status": "INACTIVE"
+        },
+        "analytics.jabong.com": {
+            "included_at_epoch": 1597678924.189193,
+            "included_at_iso": "2020-08-17T15:42:04.189193",
+            "last_retested_at_epoch": 1597678924.189193,
+            "last_retested_at_iso": "2020-08-17T15:42:04.189193",
             "status": "INACTIVE"
         },
         "clickwith.bid": {
