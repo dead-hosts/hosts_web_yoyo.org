@@ -2017,7 +2017,7 @@
     "auctionads.net": {
         "epoch": 1597795200.0,
         "expiration_date": "19-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "audience.media": {
         "epoch": 1600905600.0,
@@ -2112,7 +2112,7 @@
     "backbeatmedia.com": {
         "epoch": 1597795200.0,
         "expiration_date": "19-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "balancebreath.com": {
         "epoch": 1582675200.0,
@@ -5489,6 +5489,11 @@
         "expiration_date": "05-oct-2020",
         "state": "future"
     },
+    "hollps.win": {
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
+        "state": "future"
+    },
     "honeygoldfish.com": {
         "epoch": 1601856000.0,
         "expiration_date": "05-oct-2020",
@@ -6200,9 +6205,9 @@
         "state": "future"
     },
     "klclick1.com": {
-        "epoch": 1597622400.0,
-        "expiration_date": "17-aug-2020",
-        "state": "past"
+        "epoch": 1629158400.0,
+        "expiration_date": "17-aug-2021",
+        "state": "future"
     },
     "klsdee.com": {
         "epoch": 1599868800.0,
@@ -7605,8 +7610,8 @@
         "state": "future"
     },
     "onestatfree.com": {
-        "epoch": 1597708800.0,
-        "expiration_date": "18-aug-2020",
+        "epoch": 1629244800.0,
+        "expiration_date": "18-aug-2021",
         "state": "future"
     },
     "online-metrix.net": {
@@ -7890,9 +7895,9 @@
         "state": "future"
     },
     "peer39.com": {
-        "epoch": 1597622400.0,
-        "expiration_date": "17-aug-2020",
-        "state": "past"
+        "epoch": 1629158400.0,
+        "expiration_date": "17-aug-2021",
+        "state": "future"
     },
     "pennyweb.com": {
         "epoch": 1614902400.0,
@@ -8004,6 +8009,11 @@
         "expiration_date": "16-oct-2019",
         "state": "future"
     },
+    "pilotaffiliate.com": {
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
+        "state": "future"
+    },
     "pimproll.com": {
         "epoch": 1649203200.0,
         "expiration_date": "06-apr-2022",
@@ -8095,9 +8105,9 @@
         "state": "future"
     },
     "popflawlessads.com": {
-        "epoch": 1597622400.0,
-        "expiration_date": "17-aug-2020",
-        "state": "past"
+        "epoch": 1629158400.0,
+        "expiration_date": "17-aug-2021",
+        "state": "future"
     },
     "popmyads.com": {
         "epoch": 1613088000.0,
@@ -8150,8 +8160,8 @@
         "state": "future"
     },
     "postrelease.com": {
-        "epoch": 1597708800.0,
-        "expiration_date": "18-aug-2020",
+        "epoch": 1629244800.0,
+        "expiration_date": "18-aug-2021",
         "state": "future"
     },
     "posumeads.com": {
