@@ -472,7 +472,7 @@
     "adbrn.com": {
         "epoch": 1597968000.0,
         "expiration_date": "21-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "adbunker.com": {
         "epoch": 1614988800.0,
@@ -550,8 +550,8 @@
         "state": "future"
     },
     "addfreestats.com": {
-        "epoch": 1597968000.0,
-        "expiration_date": "21-aug-2020",
+        "epoch": 1629504000.0,
+        "expiration_date": "21-aug-2021",
         "state": "future"
     },
     "addme.com": {
@@ -582,6 +582,11 @@
     "adetracking.com": {
         "epoch": 1611705600.0,
         "expiration_date": "27-jan-2021",
+        "state": "future"
+    },
+    "adexc.net": {
+        "epoch": 1628294400.0,
+        "expiration_date": "07-aug-2021",
         "state": "future"
     },
     "adexchangegate.com": {
@@ -1205,8 +1210,8 @@
         "state": "future"
     },
     "adsfac.us": {
-        "epoch": 1597968000.0,
-        "expiration_date": "21-aug-2020",
+        "epoch": 1629504000.0,
+        "expiration_date": "21-aug-2021",
         "state": "future"
     },
     "adside.com": {
@@ -1695,8 +1700,8 @@
         "state": "future"
     },
     "affiliation-france.com": {
-        "epoch": 1597881600.0,
-        "expiration_date": "20-aug-2020",
+        "epoch": 1629417600.0,
+        "expiration_date": "20-aug-2021",
         "state": "future"
     },
     "affrh2014.com": {
@@ -2015,9 +2020,9 @@
         "state": "future"
     },
     "auctionads.net": {
-        "epoch": 1597795200.0,
-        "expiration_date": "19-aug-2020",
-        "state": "past"
+        "epoch": 1629331200.0,
+        "expiration_date": "19-aug-2021",
+        "state": "future"
     },
     "audience.media": {
         "epoch": 1600905600.0,
@@ -2110,9 +2115,9 @@
         "state": "future"
     },
     "backbeatmedia.com": {
-        "epoch": 1597795200.0,
-        "expiration_date": "19-aug-2020",
-        "state": "past"
+        "epoch": 1629331200.0,
+        "expiration_date": "19-aug-2021",
+        "state": "future"
     },
     "balancebreath.com": {
         "epoch": 1582675200.0,
