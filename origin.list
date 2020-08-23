@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 21 Aug 2020 13:26:25 GMT
-# entries:        3529
+# last updated:   Sat, 22 Aug 2020 06:21:20 GMT
+# entries:        3531
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sat, 26 Aug 2000 00:00:00
+# start date:    Mon, 28 Aug 2000 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -40,6 +40,7 @@
 0.0.0.0 51yes.com
 0.0.0.0 5mcwl.pw
 0.0.0.0 6ldu6qa.com
+0.0.0.0 6sc.co
 0.0.0.0 777partner.com
 0.0.0.0 77tracking.com
 0.0.0.0 7bpeople.com
@@ -1362,6 +1363,7 @@
 0.0.0.0 casinopays.com
 0.0.0.0 casinorewards.com
 0.0.0.0 casinotraffic.com
+0.0.0.0 causecherry.com
 0.0.0.0 cbanners.virtuagirlhd.com
 0.0.0.0 cdn.bannerflow.com
 0.0.0.0 cdn.branch.io
