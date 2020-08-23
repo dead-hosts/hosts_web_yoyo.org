@@ -2879,6 +2879,11 @@
         "expiration_date": "27-mar-2021",
         "state": "future"
     },
+    "causecherry.com": {
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
+        "state": "future"
+    },
     "cbsi.com": {
         "epoch": 1626652800.0,
         "expiration_date": "19-jul-2021",
@@ -3525,8 +3530,8 @@
         "state": "future"
     },
     "cpmstar.com": {
-        "epoch": 1598054400.0,
-        "expiration_date": "22-aug-2020",
+        "epoch": 1629590400.0,
+        "expiration_date": "22-aug-2021",
         "state": "future"
     },
     "cpxinteractive.com": {
@@ -3970,9 +3975,9 @@
         "state": "future"
     },
     "domaining.in": {
-        "epoch": 1594166400.0,
-        "expiration_date": "08-jul-2020",
-        "state": "past"
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
+        "state": "future"
     },
     "domainsponsor.com": {
         "epoch": 1627689600.0,
@@ -5465,8 +5470,8 @@
         "state": "future"
     },
     "hits4me.com": {
-        "epoch": 1598140800.0,
-        "expiration_date": "23-aug-2020",
+        "epoch": 1661212800.0,
+        "expiration_date": "23-aug-2022",
         "state": "future"
     },
     "hits4pay.com": {
