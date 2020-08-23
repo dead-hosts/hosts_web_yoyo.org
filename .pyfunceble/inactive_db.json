@@ -3,8 +3,8 @@
         "ad.doctissimo.fr": {
             "included_at_epoch": 1595948817.112843,
             "included_at_iso": "2020-07-28T15:06:57.112843",
-            "last_retested_at_epoch": 1598026107.141384,
-            "last_retested_at_iso": "2020-08-21T16:08:27.141384",
+            "last_retested_at_epoch": 1598199782.440218,
+            "last_retested_at_iso": "2020-08-23T16:23:02.440218",
             "status": "INACTIVE"
         },
         "ad.intl.xiaomi.com": {
@@ -24,8 +24,8 @@
         "ads.adshareware.net": {
             "included_at_epoch": 1595948819.841617,
             "included_at_iso": "2020-07-28T15:06:59.841617",
-            "last_retested_at_epoch": 1598026107.136987,
-            "last_retested_at_iso": "2020-08-21T16:08:27.136987",
+            "last_retested_at_epoch": 1598199782.420833,
+            "last_retested_at_iso": "2020-08-23T16:23:02.420833",
             "status": "INACTIVE"
         },
         "ads.canalblog.com": {
@@ -45,8 +45,8 @@
         "analytics.jabong.com": {
             "included_at_epoch": 1597678924.189193,
             "included_at_iso": "2020-08-17T15:42:04.189193",
-            "last_retested_at_epoch": 1598026107.132513,
-            "last_retested_at_iso": "2020-08-21T16:08:27.132513",
+            "last_retested_at_epoch": 1598199782.425989,
+            "last_retested_at_iso": "2020-08-23T16:23:02.425989",
             "status": "INACTIVE"
         },
         "clickwith.bid": {
@@ -59,15 +59,15 @@
         "hidden.gogoceleb.com": {
             "included_at_epoch": 1597852285.406683,
             "included_at_iso": "2020-08-19T15:51:25.406683",
-            "last_retested_at_epoch": 1598026107.122829,
-            "last_retested_at_iso": "2020-08-21T16:08:27.122829",
+            "last_retested_at_epoch": 1598199782.430727,
+            "last_retested_at_iso": "2020-08-23T16:23:02.430727",
             "status": "INACTIVE"
         },
         "mbuyu.nl": {
             "included_at_epoch": 1595949878.605112,
             "included_at_iso": "2020-07-28T15:24:38.605112",
-            "last_retested_at_epoch": 1598026107.146108,
-            "last_retested_at_iso": "2020-08-21T16:08:27.146108",
+            "last_retested_at_epoch": 1598199782.445101,
+            "last_retested_at_iso": "2020-08-23T16:23:02.445101",
             "status": "INACTIVE"
         },
         "measure.office.com": {
@@ -80,8 +80,8 @@
         "metrics.windowsitpro.com": {
             "included_at_epoch": 1596815047.185575,
             "included_at_iso": "2020-08-07T15:44:07.185575",
-            "last_retested_at_epoch": 1598026107.127951,
-            "last_retested_at_iso": "2020-08-21T16:08:27.127951",
+            "last_retested_at_epoch": 1598199782.435498,
+            "last_retested_at_iso": "2020-08-23T16:23:02.435498",
             "status": "INACTIVE"
         },
         "mtrcs.samba.tv": {
@@ -108,8 +108,8 @@
         "stat.xiaomi.com": {
             "included_at_epoch": 1596123500.515115,
             "included_at_iso": "2020-07-30T15:38:20.515115",
-            "last_retested_at_epoch": 1598026094.854086,
-            "last_retested_at_iso": "2020-08-21T16:08:14.854086",
+            "last_retested_at_epoch": 1598199770.047851,
+            "last_retested_at_iso": "2020-08-23T16:22:50.047851",
             "status": "INACTIVE"
         }
     },
