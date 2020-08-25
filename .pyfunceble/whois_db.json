@@ -2405,8 +2405,8 @@
         "state": "future"
     },
     "bigreal.org": {
-        "epoch": 1598227200.0,
-        "expiration_date": "24-aug-2020",
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
         "state": "future"
     },
     "billboard.cz": {
@@ -2750,8 +2750,8 @@
         "state": "future"
     },
     "calculatingtoothbrush.com": {
-        "epoch": 1598227200.0,
-        "expiration_date": "24-aug-2020",
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
         "state": "future"
     },
     "calculatorcamera.com": {
@@ -3285,8 +3285,8 @@
         "state": "future"
     },
     "coin-hive.com": {
-        "epoch": 1598227200.0,
-        "expiration_date": "24-aug-2020",
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
         "state": "future"
     },
     "coinhive.com": {
@@ -4565,8 +4565,8 @@
         "state": "future"
     },
     "eyeviewads.com": {
-        "epoch": 1598227200.0,
-        "expiration_date": "24-aug-2020",
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
         "state": "future"
     },
     "eyewonder.com": {
@@ -7419,6 +7419,11 @@
         "expiration_date": "01-aug-2021",
         "state": "future"
     },
+    "newsletter-link.com": {
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
+        "state": "future"
+    },
     "newstarads.com": {
         "epoch": 1607731200.0,
         "expiration_date": "12-dec-2020",
@@ -8585,8 +8590,8 @@
         "state": "future"
     },
     "rank-master.com": {
-        "epoch": 1598227200.0,
-        "expiration_date": "24-aug-2020",
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
         "state": "future"
     },
     "rankingscout.com": {
@@ -8627,7 +8632,7 @@
     "re-directme.com": {
         "epoch": 1598313600.0,
         "expiration_date": "25-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "reachjunction.com": {
         "epoch": 1623456000.0,
@@ -8800,8 +8805,8 @@
         "state": "future"
     },
     "resonantbrush.com": {
-        "epoch": 1598227200.0,
-        "expiration_date": "24-aug-2020",
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
         "state": "future"
     },
     "resonate.com": {
@@ -8855,8 +8860,8 @@
         "state": "future"
     },
     "revstats.com": {
-        "epoch": 1598313600.0,
-        "expiration_date": "25-aug-2020",
+        "epoch": 1629849600.0,
+        "expiration_date": "25-aug-2021",
         "state": "future"
     },
     "reyden-x.com": {
