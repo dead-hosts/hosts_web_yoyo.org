@@ -1,45 +1,31 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/domains.list": {
-        "ad.doctissimo.fr": {
-            "included_at_epoch": 1595948817.112843,
-            "included_at_iso": "2020-07-28T15:06:57.112843",
-            "last_retested_at_epoch": 1598199782.440218,
-            "last_retested_at_iso": "2020-08-23T16:23:02.440218",
-            "status": "INACTIVE"
-        },
         "ad.intl.xiaomi.com": {
             "included_at_epoch": 1597158979.967193,
             "included_at_iso": "2020-08-11T15:16:19.967193",
-            "last_retested_at_epoch": 1598197431.308992,
-            "last_retested_at_iso": "2020-08-23T15:43:51.308992",
+            "last_retested_at_epoch": 1598370408.662126,
+            "last_retested_at_iso": "2020-08-25T15:46:48.662126",
             "status": "INACTIVE"
         },
         "ad.xiaomi.com": {
             "included_at_epoch": 1597158980.088347,
             "included_at_iso": "2020-08-11T15:16:20.088347",
-            "last_retested_at_epoch": 1598197431.37691,
-            "last_retested_at_iso": "2020-08-23T15:43:51.376910",
-            "status": "INACTIVE"
-        },
-        "ads.adshareware.net": {
-            "included_at_epoch": 1595948819.841617,
-            "included_at_iso": "2020-07-28T15:06:59.841617",
-            "last_retested_at_epoch": 1598199782.420833,
-            "last_retested_at_iso": "2020-08-23T16:23:02.420833",
+            "last_retested_at_epoch": 1598370408.732769,
+            "last_retested_at_iso": "2020-08-25T15:46:48.732769",
             "status": "INACTIVE"
         },
         "ads.canalblog.com": {
             "included_at_epoch": 1597678920.391688,
             "included_at_iso": "2020-08-17T15:42:00.391688",
-            "last_retested_at_epoch": 1598197434.189076,
-            "last_retested_at_iso": "2020-08-23T15:43:54.189076",
+            "last_retested_at_epoch": 1598370411.587568,
+            "last_retested_at_iso": "2020-08-25T15:46:51.587568",
             "status": "INACTIVE"
         },
         "adsrv.eacdn.com": {
             "included_at_epoch": 1596121696.561613,
             "included_at_iso": "2020-07-30T15:08:16.561613",
-            "last_retested_at_epoch": 1598197435.671475,
-            "last_retested_at_iso": "2020-08-23T15:43:55.671475",
+            "last_retested_at_epoch": 1598370413.057991,
+            "last_retested_at_iso": "2020-08-25T15:46:53.057991",
             "status": "INACTIVE"
         },
         "analytics.jabong.com": {
@@ -61,13 +47,6 @@
             "included_at_iso": "2020-08-19T15:51:25.406683",
             "last_retested_at_epoch": 1598199782.430727,
             "last_retested_at_iso": "2020-08-23T16:23:02.430727",
-            "status": "INACTIVE"
-        },
-        "mbuyu.nl": {
-            "included_at_epoch": 1595949878.605112,
-            "included_at_iso": "2020-07-28T15:24:38.605112",
-            "last_retested_at_epoch": 1598199782.445101,
-            "last_retested_at_iso": "2020-08-23T16:23:02.445101",
             "status": "INACTIVE"
         },
         "measure.office.com": {
