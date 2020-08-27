@@ -38,8 +38,8 @@
         "analytics.jabong.com": {
             "included_at_epoch": 1597678924.189193,
             "included_at_iso": "2020-08-17T15:42:04.189193",
-            "last_retested_at_epoch": 1598199782.425989,
-            "last_retested_at_iso": "2020-08-23T16:23:02.425989",
+            "last_retested_at_epoch": 1598545340.576533,
+            "last_retested_at_iso": "2020-08-27T16:22:20.576533",
             "status": "INACTIVE"
         },
         "clickwith.bid": {
@@ -52,8 +52,8 @@
         "hidden.gogoceleb.com": {
             "included_at_epoch": 1597852285.406683,
             "included_at_iso": "2020-08-19T15:51:25.406683",
-            "last_retested_at_epoch": 1598373017.689648,
-            "last_retested_at_iso": "2020-08-25T16:30:17.689648",
+            "last_retested_at_epoch": 1598545340.570528,
+            "last_retested_at_iso": "2020-08-27T16:22:20.570528",
             "status": "INACTIVE"
         },
         "measure.office.com": {
@@ -90,6 +90,13 @@
             "last_retested_at_epoch": 1598544463.983904,
             "last_retested_at_iso": "2020-08-27T16:07:43.983904",
             "status": "INVALID"
+        },
+        "stat.xiaomi.com": {
+            "included_at_epoch": 1598545331.488984,
+            "included_at_iso": "2020-08-27T16:22:11.488984",
+            "last_retested_at_epoch": 1598545331.488984,
+            "last_retested_at_iso": "2020-08-27T16:22:11.488984",
+            "status": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
