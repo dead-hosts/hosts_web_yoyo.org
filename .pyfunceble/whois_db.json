@@ -379,6 +379,11 @@
         "expiration_date": "07-oct-2020",
         "state": "future"
     },
+    "ad.style": {
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
+        "state": "future"
+    },
     "ad2flash.com": {
         "epoch": 1576886400.0,
         "expiration_date": "21-dec-2019",
@@ -1525,8 +1530,8 @@
         "state": "future"
     },
     "advertmarket.com": {
-        "epoch": 1598400000.0,
-        "expiration_date": "26-aug-2020",
+        "epoch": 1629936000.0,
+        "expiration_date": "26-aug-2021",
         "state": "future"
     },
     "advertserve.com": {

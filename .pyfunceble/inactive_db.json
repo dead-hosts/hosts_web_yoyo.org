@@ -3,29 +3,36 @@
         "ad.intl.xiaomi.com": {
             "included_at_epoch": 1597158979.967193,
             "included_at_iso": "2020-08-11T15:16:19.967193",
-            "last_retested_at_epoch": 1598370408.662126,
-            "last_retested_at_iso": "2020-08-25T15:46:48.662126",
+            "last_retested_at_epoch": 1598542917.603187,
+            "last_retested_at_iso": "2020-08-27T15:41:57.603187",
             "status": "INACTIVE"
         },
         "ad.xiaomi.com": {
             "included_at_epoch": 1597158980.088347,
             "included_at_iso": "2020-08-11T15:16:20.088347",
-            "last_retested_at_epoch": 1598370408.732769,
-            "last_retested_at_iso": "2020-08-25T15:46:48.732769",
+            "last_retested_at_epoch": 1598542917.687735,
+            "last_retested_at_iso": "2020-08-27T15:41:57.687735",
             "status": "INACTIVE"
         },
         "ads.canalblog.com": {
             "included_at_epoch": 1597678920.391688,
             "included_at_iso": "2020-08-17T15:42:00.391688",
-            "last_retested_at_epoch": 1598370411.587568,
-            "last_retested_at_iso": "2020-08-25T15:46:51.587568",
+            "last_retested_at_epoch": 1598542920.547107,
+            "last_retested_at_iso": "2020-08-27T15:42:00.547107",
+            "status": "INACTIVE"
+        },
+        "ads.internet24.se": {
+            "included_at_epoch": 1598542920.729386,
+            "included_at_iso": "2020-08-27T15:42:00.729386",
+            "last_retested_at_epoch": 1598542920.729386,
+            "last_retested_at_iso": "2020-08-27T15:42:00.729386",
             "status": "INACTIVE"
         },
         "adsrv.eacdn.com": {
-            "included_at_epoch": 1596121696.561613,
-            "included_at_iso": "2020-07-30T15:08:16.561613",
-            "last_retested_at_epoch": 1598370413.057991,
-            "last_retested_at_iso": "2020-08-25T15:46:53.057991",
+            "included_at_epoch": 1598542922.041486,
+            "included_at_iso": "2020-08-27T15:42:02.041486",
+            "last_retested_at_epoch": 1598542922.041486,
+            "last_retested_at_iso": "2020-08-27T15:42:02.041486",
             "status": "INACTIVE"
         },
         "analytics.jabong.com": {

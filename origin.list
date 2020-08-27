@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 25 Aug 2020 13:15:04 GMT
-# entries:        3532
+# last updated:   Thu, 27 Aug 2020 15:24:26 GMT
+# entries:        3540
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Wed, 30 Aug 2000 00:00:00
+# start date:    Fri, 01 Sep 2000 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -177,6 +177,7 @@
 0.0.0.0 ad.simflight.com
 0.0.0.0 ad.simgames.net
 0.0.0.0 ad.smartclip.net
+0.0.0.0 ad.style
 0.0.0.0 ad.tapthislink.com
 0.0.0.0 ad.tbn.ru
 0.0.0.0 ad.technoratimedia.com
@@ -390,6 +391,7 @@
 0.0.0.0 ads.365.mk
 0.0.0.0 ads.4tube.com
 0.0.0.0 ads.5ci.lt
+0.0.0.0 ads.5min.at
 0.0.0.0 ads.73dpi.com
 0.0.0.0 ads.aavv.com
 0.0.0.0 ads.abovetopsecret.com
@@ -406,6 +408,7 @@
 0.0.0.0 ads.advance.net
 0.0.0.0 ads.adverline.com
 0.0.0.0 ads.affiliates.match.com
+0.0.0.0 ads.alive.com
 0.0.0.0 ads.alt.com
 0.0.0.0 ads.amdmb.com
 0.0.0.0 ads.amigos.com
@@ -747,6 +750,7 @@
 0.0.0.0 ads.yourfreedvds.com
 0.0.0.0 ads.youtube.com
 0.0.0.0 ads.zdnet.com
+0.0.0.0 ads.zmarsa.com
 0.0.0.0 ads.ztod.com
 0.0.0.0 ads1-adnow.com
 0.0.0.0 ads1.canoe.ca
@@ -873,6 +877,7 @@
 0.0.0.0 adsfac.eu
 0.0.0.0 adsfac.net
 0.0.0.0 adsfac.us
+0.0.0.0 adsfeed.brabys.com
 0.0.0.0 adside.com
 0.0.0.0 adsiduous.com
 0.0.0.0 adskeeper.co.uk
@@ -1137,6 +1142,7 @@
 0.0.0.0 avenuea.com
 0.0.0.0 avocet.io
 0.0.0.0 avpa.javalobby.org
+0.0.0.0 awakebird.com
 0.0.0.0 awempire.com
 0.0.0.0 awin1.com
 0.0.0.0 awzbijw.com
@@ -1896,6 +1902,7 @@
 0.0.0.0 guardedschool.com
 0.0.0.0 gunggo.com
 0.0.0.0 h-bid.com
+0.0.0.0 h0.t.hubspotemail.net
 0.0.0.0 h3btqpy2abc3.com
 0.0.0.0 h78xb.pw
 0.0.0.0 h92zbpn4zcv1.com
@@ -3068,6 +3075,7 @@
 0.0.0.0 steadfastsystem.com
 0.0.0.0 steelhouse.com
 0.0.0.0 steelhousemedia.com
+0.0.0.0 stepplane.com
 0.0.0.0 stickssheep.com
 0.0.0.0 stickyadstv.com
 0.0.0.0 storesurprise.com
