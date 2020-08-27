@@ -43,10 +43,10 @@
             "status": "INACTIVE"
         },
         "clickwith.bid": {
-            "included_at_epoch": 1596122861.225865,
-            "included_at_iso": "2020-07-30T15:27:41.225865",
-            "last_retested_at_epoch": 1598372178.131013,
-            "last_retested_at_iso": "2020-08-25T16:16:18.131013",
+            "included_at_epoch": 1598544444.257233,
+            "included_at_iso": "2020-08-27T16:07:24.257233",
+            "last_retested_at_epoch": 1598544444.257233,
+            "last_retested_at_iso": "2020-08-27T16:07:24.257233",
             "status": "INACTIVE"
         },
         "hidden.gogoceleb.com": {
@@ -57,10 +57,10 @@
             "status": "INACTIVE"
         },
         "measure.office.com": {
-            "included_at_epoch": 1596122875.8335,
-            "included_at_iso": "2020-07-30T15:27:55.833500",
-            "last_retested_at_epoch": 1598372191.830905,
-            "last_retested_at_iso": "2020-08-25T16:16:31.830905",
+            "included_at_epoch": 1598544458.645172,
+            "included_at_iso": "2020-08-27T16:07:38.645172",
+            "last_retested_at_epoch": 1598544458.645172,
+            "last_retested_at_iso": "2020-08-27T16:07:38.645172",
             "status": "INACTIVE"
         },
         "metrics.windowsitpro.com": {
@@ -71,32 +71,25 @@
             "status": "INACTIVE"
         },
         "mtrcs.samba.tv": {
-            "included_at_epoch": 1596122877.603537,
-            "included_at_iso": "2020-07-30T15:27:57.603537",
-            "last_retested_at_epoch": 1598372193.508792,
-            "last_retested_at_iso": "2020-08-25T16:16:33.508792",
+            "included_at_epoch": 1598544460.375644,
+            "included_at_iso": "2020-08-27T16:07:40.375644",
+            "last_retested_at_epoch": 1598544460.375644,
+            "last_retested_at_iso": "2020-08-27T16:07:40.375644",
             "status": "INACTIVE"
         },
         "pgl.example.com": {
             "included_at_epoch": 1597680239.527514,
             "included_at_iso": "2020-08-17T16:03:59.527514",
-            "last_retested_at_epoch": 1598372196.97066,
-            "last_retested_at_iso": "2020-08-25T16:16:36.970660",
+            "last_retested_at_epoch": 1598544463.979224,
+            "last_retested_at_iso": "2020-08-27T16:07:43.979224",
             "status": "INACTIVE"
         },
         "pgl.example0101": {
-            "included_at_epoch": 1596122881.317023,
-            "included_at_iso": "2020-07-30T15:28:01.317023",
-            "last_retested_at_epoch": 1598372196.974589,
-            "last_retested_at_iso": "2020-08-25T16:16:36.974589",
+            "included_at_epoch": 1598544463.983904,
+            "included_at_iso": "2020-08-27T16:07:43.983904",
+            "last_retested_at_epoch": 1598544463.983904,
+            "last_retested_at_iso": "2020-08-27T16:07:43.983904",
             "status": "INVALID"
-        },
-        "stat.xiaomi.com": {
-            "included_at_epoch": 1596123500.515115,
-            "included_at_iso": "2020-07-30T15:38:20.515115",
-            "last_retested_at_epoch": 1598373006.868302,
-            "last_retested_at_iso": "2020-08-25T16:30:06.868302",
-            "status": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
