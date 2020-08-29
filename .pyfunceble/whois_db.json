@@ -3656,8 +3656,9 @@
         "state": "future"
     },
     "cubics.com": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "culturedcrayon.com": {
@@ -5773,7 +5774,8 @@
     "imprese.cz": {
         "epoch": 1598572800.0,
         "expiration_date": "28-aug-2020",
-        "state": "future"
+        "server": "whois.nic.cz",
+        "state": "past"
     },
     "impressionmedia.cz": {
         "epoch": 1690070400.0,
@@ -7373,7 +7375,8 @@
     "net-filter.com": {
         "epoch": 1598659200.0,
         "expiration_date": "29-aug-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "netaffiliation.com": {
         "epoch": 1622246400.0,
@@ -8116,8 +8119,9 @@
         "state": "future"
     },
     "pokkt.com": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "pop-under.ru": {
@@ -8976,8 +8980,9 @@
         "state": "future"
     },
     "roxr.net": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "rs6.net": {
