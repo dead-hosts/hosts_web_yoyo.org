@@ -10181,8 +10181,9 @@
         "state": "future"
     },
     "tailsweep.se": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.iis.se",
         "state": "future"
     },
     "takethatad.com": {
@@ -10636,8 +10637,9 @@
         "state": "future"
     },
     "tracking42.com": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "trackingfestival.com": {
@@ -11558,7 +11560,8 @@
     "worldwidedigitalads.com": {
         "epoch": 1598659200.0,
         "expiration_date": "29-aug-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "worriednumber.com": {
         "epoch": 1629158400.0,
