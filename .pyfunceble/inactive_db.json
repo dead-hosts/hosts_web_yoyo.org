@@ -105,6 +105,13 @@
             "last_retested_at_iso": "2020-08-27T16:07:43.983904",
             "status": "INVALID"
         },
+        "sidebar.angelfire.com": {
+            "included_at_epoch": 1598889226.169235,
+            "included_at_iso": "2020-08-31T15:53:46.169235",
+            "last_retested_at_epoch": 1598889226.169235,
+            "last_retested_at_iso": "2020-08-31T15:53:46.169235",
+            "status": "INACTIVE"
+        },
         "stat.xiaomi.com": {
             "included_at_epoch": 1598545331.488984,
             "included_at_iso": "2020-08-27T16:22:11.488984",
