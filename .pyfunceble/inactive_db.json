@@ -28,6 +28,13 @@
             "last_retested_at_iso": "2020-08-27T15:42:00.729386",
             "status": "INACTIVE"
         },
+        "adserver.thema.cc": {
+            "included_at_epoch": 1598887786.023694,
+            "included_at_iso": "2020-08-31T15:29:46.023694",
+            "last_retested_at_epoch": 1598887786.023694,
+            "last_retested_at_iso": "2020-08-31T15:29:46.023694",
+            "status": "INACTIVE"
+        },
         "adsrv.eacdn.com": {
             "included_at_epoch": 1598542922.041486,
             "included_at_iso": "2020-08-27T15:42:02.041486",
@@ -40,6 +47,13 @@
             "included_at_iso": "2020-08-17T15:42:04.189193",
             "last_retested_at_epoch": 1598545340.576533,
             "last_retested_at_iso": "2020-08-27T16:22:20.576533",
+            "status": "INACTIVE"
+        },
+        "banner.webmersion.com": {
+            "included_at_epoch": 1598887786.625864,
+            "included_at_iso": "2020-08-31T15:29:46.625864",
+            "last_retested_at_epoch": 1598887786.625864,
+            "last_retested_at_iso": "2020-08-31T15:29:46.625864",
             "status": "INACTIVE"
         },
         "clickwith.bid": {
