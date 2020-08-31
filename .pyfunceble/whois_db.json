@@ -10731,8 +10731,9 @@
         "state": "future"
     },
     "trafficspaces.net": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "trafficstrategies.com": {
@@ -10853,7 +10854,8 @@
     "trk42.net": {
         "epoch": 1598832000.0,
         "expiration_date": "31-aug-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "trkn.us": {
         "epoch": 1601424000.0,
@@ -11561,10 +11563,10 @@
         "state": "future"
     },
     "worldwidedigitalads.com": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "worriednumber.com": {
         "epoch": 1629158400.0,
@@ -11632,8 +11634,9 @@
         "state": "future"
     },
     "xfreeservice.com": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "xg4ken.com": {
