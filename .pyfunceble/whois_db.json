@@ -6621,8 +6621,9 @@
         "state": "future"
     },
     "m2.ai": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1661990400.0,
+        "expiration_date": "01-sep-2022",
+        "server": "whois.nic.ai",
         "state": "future"
     },
     "m32.media": {
@@ -8544,8 +8545,9 @@
         "state": "future"
     },
     "quantummetric.com": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1661990400.0,
+        "expiration_date": "01-sep-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "quarterbean.com": {
