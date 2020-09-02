@@ -10855,10 +10855,10 @@
         "state": "future"
     },
     "trk42.net": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "trkn.us": {
         "epoch": 1601424000.0,
