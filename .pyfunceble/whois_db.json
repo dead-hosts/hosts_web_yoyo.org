@@ -4470,8 +4470,9 @@
         "state": "future"
     },
     "exchangead.com": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "exchangeclicksonline.com": {
@@ -4610,8 +4611,9 @@
         "state": "future"
     },
     "fadedsnow.com": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "familiarfloor.com": {
@@ -5410,8 +5412,9 @@
         "state": "future"
     },
     "hgads.com": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
+        "epoch": 1630627200.0,
+        "expiration_date": "03-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "highfalutinroom.com": {
@@ -5927,8 +5930,9 @@
         "state": "future"
     },
     "insightexpress.com": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
+        "epoch": 1662163200.0,
+        "expiration_date": "03-sep-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "insightexpressai.com": {
@@ -6988,8 +6992,9 @@
         "state": "future"
     },
     "mmtro.com": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "moartraffic.com": {
@@ -7110,7 +7115,8 @@
     "mousestats.com": {
         "epoch": 1599177600.0,
         "expiration_date": "04-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "movad.net": {
         "epoch": 1607212800.0,
@@ -8107,6 +8113,12 @@
     "plista.com": {
         "epoch": 1601164800.0,
         "expiration_date": "27-sep-2020",
+        "state": "future"
+    },
+    "plotrabbit.com": {
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "plugrush.com": {
