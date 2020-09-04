@@ -84,13 +84,6 @@
             "last_retested_at_iso": "2020-08-27T16:07:38.645172",
             "status": "INACTIVE"
         },
-        "metrics.windowsitpro.com": {
-            "included_at_epoch": 1596815047.185575,
-            "included_at_iso": "2020-08-07T15:44:07.185575",
-            "last_retested_at_epoch": 1598373017.697538,
-            "last_retested_at_iso": "2020-08-25T16:30:17.697538",
-            "status": "INACTIVE"
-        },
         "mtrcs.samba.tv": {
             "included_at_epoch": 1598544460.375644,
             "included_at_iso": "2020-08-27T16:07:40.375644",
