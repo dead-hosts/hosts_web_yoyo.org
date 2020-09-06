@@ -2194,8 +2194,9 @@
         "state": "future"
     },
     "bannermall.com": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bannerpower.com": {
@@ -4918,8 +4919,9 @@
         "state": "future"
     },
     "freestats.com": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "freestats.tv": {
@@ -5881,8 +5883,9 @@
         "state": "future"
     },
     "infinityads.com": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "infolinks.com": {
@@ -6372,8 +6375,9 @@
         "state": "future"
     },
     "leadplace.fr": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.nic.fr",
         "state": "future"
     },
     "leady.com": {
@@ -7114,10 +7118,10 @@
         "state": "future"
     },
     "mousestats.com": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "movad.net": {
         "epoch": 1607212800.0,
@@ -7712,8 +7716,9 @@
         "state": "future"
     },
     "opienetwork.com": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "opmnstr.com": {
@@ -8660,8 +8665,9 @@
         "state": "future"
     },
     "rayjump.com": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1757116800.0,
+        "expiration_date": "06-sep-2025",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "re-directme.com": {
