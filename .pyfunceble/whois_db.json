@@ -1808,8 +1808,9 @@
         "state": "future"
     },
     "alipromo.com": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1662336000.0,
+        "expiration_date": "05-sep-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "all4spy.com": {
