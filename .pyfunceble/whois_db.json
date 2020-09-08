@@ -3627,8 +3627,9 @@
         "state": "future"
     },
     "croissed.info": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "crowdgravity.com": {
@@ -6607,8 +6608,9 @@
         "state": "future"
     },
     "lucklayed.info": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "lumpyleaf.com": {
@@ -6878,8 +6880,9 @@
         "state": "future"
     },
     "metadsp.co.uk": {
-        "epoch": 1599436800.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
+        "server": "whois.nic.uk",
         "state": "future"
     },
     "metaffiliation.com": {
@@ -7019,8 +7022,9 @@
         "state": "future"
     },
     "moatpixel.com": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mobclix.com": {
@@ -8445,8 +8449,9 @@
         "state": "future"
     },
     "pubmatic.com": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1757289600.0,
+        "expiration_date": "08-sep-2025",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "pubmine.com": {
