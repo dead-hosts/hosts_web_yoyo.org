@@ -1,17 +1,17 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/domains.list": {
         "ad.intl.xiaomi.com": {
-            "included_at_epoch": 1597158979.967193,
-            "included_at_iso": "2020-08-11T15:16:19.967193",
-            "last_retested_at_epoch": 1598542917.603187,
-            "last_retested_at_iso": "2020-08-27T15:41:57.603187",
+            "included_at_epoch": 1599579191.598089,
+            "included_at_iso": "2020-09-08T15:33:11.598089",
+            "last_retested_at_epoch": 1599579191.598089,
+            "last_retested_at_iso": "2020-09-08T15:33:11.598089",
             "status": "INACTIVE"
         },
         "ad.xiaomi.com": {
-            "included_at_epoch": 1597158980.088347,
-            "included_at_iso": "2020-08-11T15:16:20.088347",
-            "last_retested_at_epoch": 1598542917.687735,
-            "last_retested_at_iso": "2020-08-27T15:41:57.687735",
+            "included_at_epoch": 1599579191.648417,
+            "included_at_iso": "2020-09-08T15:33:11.648417",
+            "last_retested_at_epoch": 1599579191.648417,
+            "last_retested_at_iso": "2020-09-08T15:33:11.648417",
             "status": "INACTIVE"
         },
         "ads.ask.com": {
