@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 03 Sep 2020 19:23:53 GMT
-# entries:        3541
+# last updated:   Thu, 10 Sep 2020 08:08:53 GMT
+# entries:        3545
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Wed, 13 Sep 2000 00:00:00
+# start date:    Fri, 15 Sep 2000 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -1708,6 +1708,7 @@
 0.0.0.0 engagebdr.com
 0.0.0.0 engine.espace.netavenir.com
 0.0.0.0 enginenetwork.com
+0.0.0.0 enormousearth.com
 0.0.0.0 enquisite.com
 0.0.0.0 ensighten.com
 0.0.0.0 entercasino.com
@@ -2206,7 +2207,10 @@
 0.0.0.0 log.logrocket.io
 0.0.0.0 log.pinterest.com
 0.0.0.0 logger.snackly.co
+0.0.0.0 logs.datadoghq.com
+0.0.0.0 logs.datadoghq.eu
 0.0.0.0 logs.roku.com
+0.0.0.0 logs.spilgames.com
 0.0.0.0 logsss.com
 0.0.0.0 logua.com
 0.0.0.0 longinglettuce.com

@@ -690,8 +690,9 @@
         "state": "future"
     },
     "adinjector.net": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adinterax.com": {
@@ -885,8 +886,9 @@
         "state": "future"
     },
     "admonitor.com": {
-        "epoch": 1599609600.0,
-        "expiration_date": "09-sep-2020",
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "admotion.com.ar": {
@@ -1398,8 +1400,9 @@
         "state": "future"
     },
     "adthis.com": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adthrive.com": {
@@ -1563,8 +1566,9 @@
         "state": "future"
     },
     "adview.com": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1694304000.0,
+        "expiration_date": "10-sep-2023",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "advisormedia.cz": {
