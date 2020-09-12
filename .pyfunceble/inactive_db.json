@@ -77,6 +77,13 @@
             "last_retested_at_iso": "2020-08-27T16:22:20.570528",
             "status": "INACTIVE"
         },
+        "logs.datadoghq.eu": {
+            "included_at_epoch": 1599924907.261778,
+            "included_at_iso": "2020-09-12T15:35:07.261778",
+            "last_retested_at_epoch": 1599924907.261778,
+            "last_retested_at_iso": "2020-09-12T15:35:07.261778",
+            "status": "INACTIVE"
+        },
         "measure.office.com": {
             "included_at_epoch": 1598544458.645172,
             "included_at_iso": "2020-08-27T16:07:38.645172",
