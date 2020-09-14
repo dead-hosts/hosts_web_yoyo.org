@@ -575,8 +575,9 @@
         "state": "future"
     },
     "adeimptrck.com": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ademails.com": {
@@ -1235,8 +1236,9 @@
         "state": "future"
     },
     "adsiduous.com": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adsk2.co": {
@@ -1290,8 +1292,9 @@
         "state": "future"
     },
     "adsolut.in": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
+        "server": "whois.registry.in",
         "state": "future"
     },
     "adspeed.net": {
