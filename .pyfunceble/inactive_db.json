@@ -21,13 +21,6 @@
             "last_retested_at_iso": "2020-09-02T15:28:37.468798",
             "status": "INACTIVE"
         },
-        "ads.canalblog.com": {
-            "included_at_epoch": 1597678920.391688,
-            "included_at_iso": "2020-08-17T15:42:00.391688",
-            "last_retested_at_epoch": 1598542920.547107,
-            "last_retested_at_iso": "2020-08-27T15:42:00.547107",
-            "status": "INACTIVE"
-        },
         "ads.internet24.se": {
             "included_at_epoch": 1598542920.729386,
             "included_at_iso": "2020-08-27T15:42:00.729386",
@@ -47,13 +40,6 @@
             "included_at_iso": "2020-08-27T15:42:02.041486",
             "last_retested_at_epoch": 1598542922.041486,
             "last_retested_at_iso": "2020-08-27T15:42:02.041486",
-            "status": "INACTIVE"
-        },
-        "analytics.jabong.com": {
-            "included_at_epoch": 1597678924.189193,
-            "included_at_iso": "2020-08-17T15:42:04.189193",
-            "last_retested_at_epoch": 1598545340.576533,
-            "last_retested_at_iso": "2020-08-27T16:22:20.576533",
             "status": "INACTIVE"
         },
         "banner.webmersion.com": {
