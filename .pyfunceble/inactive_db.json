@@ -70,13 +70,6 @@
             "last_retested_at_iso": "2020-08-27T16:07:24.257233",
             "status": "INACTIVE"
         },
-        "hidden.gogoceleb.com": {
-            "included_at_epoch": 1597852285.406683,
-            "included_at_iso": "2020-08-19T15:51:25.406683",
-            "last_retested_at_epoch": 1598545340.570528,
-            "last_retested_at_iso": "2020-08-27T16:22:20.570528",
-            "status": "INACTIVE"
-        },
         "logs.datadoghq.eu": {
             "included_at_epoch": 1599924907.261778,
             "included_at_iso": "2020-09-12T15:35:07.261778",
