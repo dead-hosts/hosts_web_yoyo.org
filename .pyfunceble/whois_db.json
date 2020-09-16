@@ -3749,8 +3749,9 @@
         "state": "future"
     },
     "dashbida.com": {
-        "epoch": 1600214400.0,
-        "expiration_date": "16-sep-2020",
+        "epoch": 1631750400.0,
+        "expiration_date": "16-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "dashingdirt.com": {
@@ -5021,8 +5022,9 @@
         "state": "future"
     },
     "fusionads.net": {
-        "epoch": 1600214400.0,
-        "expiration_date": "16-sep-2020",
+        "epoch": 1631750400.0,
+        "expiration_date": "16-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "fusionquest.com": {
@@ -5141,8 +5143,9 @@
         "state": "future"
     },
     "globalismedia.com": {
-        "epoch": 1600128000.0,
-        "expiration_date": "15-sep-2020",
+        "epoch": 1631664000.0,
+        "expiration_date": "15-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "globaltakeoff.net": {
