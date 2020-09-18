@@ -118,6 +118,13 @@
             "last_retested_at_epoch": 1598545331.488984,
             "last_retested_at_iso": "2020-08-27T16:22:11.488984",
             "status": "INACTIVE"
+        },
+        "truehits2.gits.net.th": {
+            "included_at_epoch": 1600444995.822807,
+            "included_at_iso": "2020-09-18T16:03:15.822807",
+            "last_retested_at_epoch": 1600444995.822807,
+            "last_retested_at_iso": "2020-09-18T16:03:15.822807",
+            "status": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/hosts.list": {
