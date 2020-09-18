@@ -5601,8 +5601,9 @@
         "state": "future"
     },
     "hs-analytics.net": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1663459200.0,
+        "expiration_date": "18-sep-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hs-banner.com": {
@@ -5867,8 +5868,9 @@
         "state": "future"
     },
     "incognitosearches.com": {
-        "epoch": 1600300800.0,
-        "expiration_date": "17-sep-2020",
+        "epoch": 1631836800.0,
+        "expiration_date": "17-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "incrediblesugar.com": {
@@ -7602,6 +7604,12 @@
         "expiration_date": "10-aug-2021",
         "state": "future"
     },
+    "o333o.com": {
+        "epoch": 1613433600.0,
+        "expiration_date": "16-feb-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "oafishobservation.com": {
         "epoch": 1622160000.0,
         "expiration_date": "28-may-2021",
@@ -8122,8 +8130,9 @@
         "state": "future"
     },
     "pixel.watch": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.nic.watch",
         "state": "future"
     },
     "placed.com": {
@@ -8833,8 +8842,9 @@
         "state": "future"
     },
     "reforge.in": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.registry.in",
         "state": "future"
     },
     "regnow.com": {
