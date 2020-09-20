@@ -9325,10 +9325,10 @@
         "state": "future"
     },
     "sedoparking.com": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "sedotracker.com": {
         "epoch": 1629417600.0,
@@ -9809,10 +9809,10 @@
         "state": "future"
     },
     "specially4u.net": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "specificmedia.co.uk": {
         "epoch": 1621036800.0,
@@ -9830,8 +9830,9 @@
         "state": "future"
     },
     "speedomizer.com": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "speedshiftmedia.com": {
@@ -10035,8 +10036,9 @@
         "state": "future"
     },
     "statsie.com": {
-        "epoch": 1600560000.0,
-        "expiration_date": "20-sep-2020",
+        "epoch": 1632096000.0,
+        "expiration_date": "20-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "statxpress.com": {
@@ -10655,8 +10657,9 @@
         "state": "future"
     },
     "toplistcity.com": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "topping.com.ua": {
