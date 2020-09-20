@@ -2244,8 +2244,9 @@
         "state": "future"
     },
     "bannertrack.net": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bannery.cz": {
@@ -6793,8 +6794,9 @@
         "state": "future"
     },
     "media-servers.net": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "media.net": {
@@ -7841,8 +7843,9 @@
         "state": "future"
     },
     "owebmoney.ru": {
-        "epoch": 1600560000.0,
-        "expiration_date": "20-sep-2020",
+        "epoch": 1632096000.0,
+        "expiration_date": "20-sep-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "owlsr.us": {
