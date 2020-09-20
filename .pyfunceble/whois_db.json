@@ -966,8 +966,9 @@
         "state": "future"
     },
     "adorigin.com": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adotmob.com": {
@@ -1258,8 +1259,9 @@
         "state": "future"
     },
     "adsmarket.com": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1663545600.0,
+        "expiration_date": "19-sep-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adsmart.com": {
