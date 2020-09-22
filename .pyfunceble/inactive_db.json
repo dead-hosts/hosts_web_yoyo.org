@@ -28,11 +28,25 @@
             "last_retested_at_iso": "2020-09-16T15:35:42.627311",
             "status": "INACTIVE"
         },
+        "ads.edbindex.dk": {
+            "included_at_epoch": 1600789132.260614,
+            "included_at_iso": "2020-09-22T15:38:52.260614",
+            "last_retested_at_epoch": 1600789132.260614,
+            "last_retested_at_iso": "2020-09-22T15:38:52.260614",
+            "status": "INACTIVE"
+        },
         "ads.internet24.se": {
             "included_at_epoch": 1598542920.729386,
             "included_at_iso": "2020-08-27T15:42:00.729386",
             "last_retested_at_epoch": 1598542920.729386,
             "last_retested_at_iso": "2020-08-27T15:42:00.729386",
+            "status": "INACTIVE"
+        },
+        "adserver.aidameter.com": {
+            "included_at_epoch": 1600789132.926364,
+            "included_at_iso": "2020-09-22T15:38:52.926364",
+            "last_retested_at_epoch": 1600789132.926364,
+            "last_retested_at_iso": "2020-09-22T15:38:52.926364",
             "status": "INACTIVE"
         },
         "adserver.thema.cc": {
