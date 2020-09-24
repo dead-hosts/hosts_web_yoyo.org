@@ -496,8 +496,9 @@
         "state": "future"
     },
     "adbuyer.com": {
-        "epoch": 1600905600.0,
-        "expiration_date": "24-sep-2020",
+        "epoch": 1632441600.0,
+        "expiration_date": "24-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adcampo.com": {
@@ -2057,7 +2058,8 @@
     "audience.media": {
         "epoch": 1600905600.0,
         "expiration_date": "24-sep-2020",
-        "state": "future"
+        "server": "whois.nic.media",
+        "state": "past"
     },
     "audience2media.com": {
         "epoch": 1709683200.0,

@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 21 Sep 2020 08:40:30 GMT
-# entries:        3545
+# last updated:   Thu, 24 Sep 2020 13:26:06 GMT
+# entries:        3547
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Wed, 27 Sep 2000 00:00:00
+# start date:    Fri, 29 Sep 2000 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -1843,6 +1843,7 @@
 0.0.0.0 fusionquest.com
 0.0.0.0 futuristicapparatus.com
 0.0.0.0 futuristicfairies.com
+0.0.0.0 fuzzybasketball.com
 0.0.0.0 fuzzyflavor.com
 0.0.0.0 fuzzyweather.com
 0.0.0.0 fxstyle.net
@@ -2347,6 +2348,7 @@
 0.0.0.0 moatpixel.com
 0.0.0.0 mobclix.com
 0.0.0.0 mobfox.com
+0.0.0.0 mobileanalytics.us-east-1.amazonaws.com
 0.0.0.0 mobilefuse.com
 0.0.0.0 mobileiconnect.com
 0.0.0.0 mobperads.net
