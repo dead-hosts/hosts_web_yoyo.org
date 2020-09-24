@@ -2511,8 +2511,9 @@
         "state": "future"
     },
     "blockthrough.com": {
-        "epoch": 1600819200.0,
-        "expiration_date": "23-sep-2020",
+        "epoch": 1632355200.0,
+        "expiration_date": "23-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "blogads.com": {
@@ -5061,6 +5062,12 @@
     "futuristicfairies.com": {
         "epoch": 1617408000.0,
         "expiration_date": "03-apr-2021",
+        "state": "future"
+    },
+    "fuzzybasketball.com": {
+        "epoch": 1612656000.0,
+        "expiration_date": "07-feb-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "fuzzyflavor.com": {

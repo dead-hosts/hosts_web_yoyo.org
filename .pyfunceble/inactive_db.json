@@ -35,13 +35,6 @@
             "last_retested_at_iso": "2020-09-22T15:38:52.260614",
             "status": "INACTIVE"
         },
-        "ads.internet24.se": {
-            "included_at_epoch": 1598542920.729386,
-            "included_at_iso": "2020-08-27T15:42:00.729386",
-            "last_retested_at_epoch": 1598542920.729386,
-            "last_retested_at_iso": "2020-08-27T15:42:00.729386",
-            "status": "INACTIVE"
-        },
         "adserver.aidameter.com": {
             "included_at_epoch": 1600789132.926364,
             "included_at_iso": "2020-09-22T15:38:52.926364",
@@ -54,13 +47,6 @@
             "included_at_iso": "2020-08-31T15:29:46.023694",
             "last_retested_at_epoch": 1598887786.023694,
             "last_retested_at_iso": "2020-08-31T15:29:46.023694",
-            "status": "INACTIVE"
-        },
-        "adsrv.eacdn.com": {
-            "included_at_epoch": 1598542922.041486,
-            "included_at_iso": "2020-08-27T15:42:02.041486",
-            "last_retested_at_epoch": 1598542922.041486,
-            "last_retested_at_iso": "2020-08-27T15:42:02.041486",
             "status": "INACTIVE"
         },
         "banner.webmersion.com": {
