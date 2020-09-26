@@ -2057,10 +2057,10 @@
         "state": "future"
     },
     "audience.media": {
-        "epoch": 1600905600.0,
-        "expiration_date": "24-sep-2020",
+        "epoch": 1632441600.0,
+        "expiration_date": "24-sep-2021",
         "server": "whois.nic.media",
-        "state": "past"
+        "state": "future"
     },
     "audience2media.com": {
         "epoch": 1709683200.0,
@@ -2996,8 +2996,9 @@
         "state": "future"
     },
     "chartbeat.net": {
-        "epoch": 1601078400.0,
-        "expiration_date": "26-sep-2020",
+        "epoch": 1632614400.0,
+        "expiration_date": "26-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "chartboost.com": {
@@ -4074,8 +4075,9 @@
         "state": "future"
     },
     "downloadr.xyz": {
-        "epoch": 1601078400.0,
-        "expiration_date": "26-sep-2020",
+        "epoch": 1632614400.0,
+        "expiration_date": "26-sep-2021",
+        "server": "whois.nic.xyz",
         "state": "future"
     },
     "dpbolvw.net": {
@@ -4512,8 +4514,9 @@
         "state": "future"
     },
     "ewebcounter.com": {
-        "epoch": 1600992000.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1632528000.0,
+        "expiration_date": "25-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "exchange-it.com": {
@@ -4570,7 +4573,8 @@
     "exogripper.com": {
         "epoch": 1601078400.0,
         "expiration_date": "26-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "exosrv.com": {
         "epoch": 1603756800.0,
@@ -4954,8 +4958,9 @@
         "state": "future"
     },
     "freeonlineusers.com": {
-        "epoch": 1600992000.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1632528000.0,
+        "expiration_date": "25-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "freepay.com": {
@@ -5142,8 +5147,9 @@
         "state": "future"
     },
     "geovisite.com": {
-        "epoch": 1601078400.0,
-        "expiration_date": "26-sep-2020",
+        "epoch": 1632614400.0,
+        "expiration_date": "26-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "getclicky.com": {
@@ -6331,8 +6337,9 @@
         "state": "future"
     },
     "komoona.com": {
-        "epoch": 1601078400.0,
-        "expiration_date": "26-sep-2020",
+        "epoch": 1632614400.0,
+        "expiration_date": "26-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "kompasads.com": {
