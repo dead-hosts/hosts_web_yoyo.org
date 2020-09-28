@@ -185,8 +185,9 @@
         "state": "past"
     },
     "a-ads.com": {
-        "epoch": 1594080000,
-        "expiration_date": "07-jul-2020",
+        "epoch": 1625616000.0,
+        "expiration_date": "07-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "a-counter.kiev.ua": {

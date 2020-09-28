@@ -238,6 +238,13 @@
             "last_retested_at_iso": "2020-09-26T15:41:49.475319",
             "status": "ACTIVE"
         },
+        "a-ads.com": {
+            "included_at_epoch": 1601307917.109846,
+            "included_at_iso": "2020-09-28T15:45:17.109846",
+            "last_retested_at_epoch": 1601307917.109846,
+            "last_retested_at_iso": "2020-09-28T15:45:17.109846",
+            "status": "ACTIVE"
+        },
         "a.aproductmsg.com": {
             "included_at_epoch": 1601134909.478154,
             "included_at_iso": "2020-09-26T15:41:49.478154",
@@ -5901,13 +5908,6 @@
             "last_retested_at_iso": "2020-09-26T15:41:56.493512",
             "status": "ACTIVE"
         },
-        "adserver.thema.cc": {
-            "included_at_epoch": 1598887786.023694,
-            "included_at_iso": "2020-08-31T15:29:46.023694",
-            "last_retested_at_epoch": 1598887786.023694,
-            "last_retested_at_iso": "2020-08-31T15:29:46.023694",
-            "status": "INACTIVE"
-        },
         "adserver.theonering.net": {
             "included_at_epoch": 1601134916.508583,
             "included_at_iso": "2020-09-26T15:41:56.508583",
@@ -6515,6 +6515,13 @@
             "included_at_iso": "2020-09-26T15:41:57.822038",
             "last_retested_at_epoch": 1601134917.822038,
             "last_retested_at_iso": "2020-09-26T15:41:57.822038",
+            "status": "ACTIVE"
+        },
+        "adv.mezon.ru": {
+            "included_at_epoch": 1601307917.22108,
+            "included_at_iso": "2020-09-28T15:45:17.221080",
+            "last_retested_at_epoch": 1601307917.22108,
+            "last_retested_at_iso": "2020-09-28T15:45:17.221080",
             "status": "ACTIVE"
         },
         "adv.nexthardware.com": {
@@ -8212,11 +8219,11 @@
             "status": "ACTIVE"
         },
         "banner.webmersion.com": {
-            "included_at_epoch": 1598887786.625864,
-            "included_at_iso": "2020-08-31T15:29:46.625864",
-            "last_retested_at_epoch": 1598887786.625864,
-            "last_retested_at_iso": "2020-08-31T15:29:46.625864",
-            "status": "INACTIVE"
+            "included_at_epoch": 1601307917.271375,
+            "included_at_iso": "2020-09-28T15:45:17.271375",
+            "last_retested_at_epoch": 1601307917.271375,
+            "last_retested_at_iso": "2020-09-28T15:45:17.271375",
+            "status": "ACTIVE"
         },
         "banner10.zetasystem.dk": {
             "included_at_epoch": 1601135945.981362,
