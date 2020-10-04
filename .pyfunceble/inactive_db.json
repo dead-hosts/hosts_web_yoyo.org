@@ -9814,6 +9814,13 @@
             "last_retested_at_iso": "2020-09-26T15:59:10.506891",
             "status": "ACTIVE"
         },
+        "click.email.sonos.com": {
+            "included_at_epoch": 1601825626.022137,
+            "included_at_iso": "2020-10-04T15:33:46.022137",
+            "last_retested_at_epoch": 1601825626.022137,
+            "last_retested_at_iso": "2020-10-04T15:33:46.022137",
+            "status": "ACTIVE"
+        },
         "click.fool.com": {
             "included_at_epoch": 1601135950.484798,
             "included_at_iso": "2020-09-26T15:59:10.484798",
