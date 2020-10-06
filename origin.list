@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 03 Oct 2020 11:33:39 GMT
-# entries:        3547
+# last updated:   Mon, 05 Oct 2020 15:12:50 GMT
+# entries:        3548
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Mon, 09 Oct 2000 00:00:00
+# start date:    Wed, 11 Oct 2000 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -747,6 +747,7 @@
 0.0.0.0 ads.yldmgrimg.net
 0.0.0.0 ads.yourfreedvds.com
 0.0.0.0 ads.youtube.com
+0.0.0.0 ads.yumenetworks.com
 0.0.0.0 ads.zdnet.com
 0.0.0.0 ads.zmarsa.com
 0.0.0.0 ads.ztod.com

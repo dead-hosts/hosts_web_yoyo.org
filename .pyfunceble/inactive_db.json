@@ -932,10 +932,10 @@
             "status": "ACTIVE"
         },
         "ad.intl.xiaomi.com": {
-            "included_at_epoch": 1599579191.598089,
-            "included_at_iso": "2020-09-08T15:33:11.598089",
-            "last_retested_at_epoch": 1599579191.598089,
-            "last_retested_at_iso": "2020-09-08T15:33:11.598089",
+            "included_at_epoch": 1602000306.478575,
+            "included_at_iso": "2020-10-06T16:05:06.478575",
+            "last_retested_at_epoch": 1602000306.478575,
+            "last_retested_at_iso": "2020-10-06T16:05:06.478575",
             "status": "INACTIVE"
         },
         "ad.jacotei.com.br": {
@@ -1261,10 +1261,10 @@
             "status": "ACTIVE"
         },
         "ad.xiaomi.com": {
-            "included_at_epoch": 1599579191.648417,
-            "included_at_iso": "2020-09-08T15:33:11.648417",
-            "last_retested_at_epoch": 1599579191.648417,
-            "last_retested_at_iso": "2020-09-08T15:33:11.648417",
+            "included_at_epoch": 1602000306.578315,
+            "included_at_iso": "2020-10-06T16:05:06.578315",
+            "last_retested_at_epoch": 1602000306.578315,
+            "last_retested_at_iso": "2020-10-06T16:05:06.578315",
             "status": "INACTIVE"
         },
         "ad.xmovies8.si": {
@@ -5157,6 +5157,13 @@
             "included_at_iso": "2020-09-26T15:41:55.025973",
             "last_retested_at_epoch": 1601134915.025973,
             "last_retested_at_iso": "2020-09-26T15:41:55.025973",
+            "status": "ACTIVE"
+        },
+        "ads.yumenetworks.com": {
+            "included_at_epoch": 1602000306.655943,
+            "included_at_iso": "2020-10-06T16:05:06.655943",
+            "last_retested_at_epoch": 1602000306.655943,
+            "last_retested_at_iso": "2020-10-06T16:05:06.655943",
             "status": "ACTIVE"
         },
         "ads.zdnet.com": {
