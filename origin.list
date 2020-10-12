@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 05 Oct 2020 15:12:50 GMT
-# entries:        3541
+# last updated:   Mon, 12 Oct 2020 13:04:44 GMT
+# entries:        3544
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sun, 15 Oct 2000 00:00:00
+# start date:    Tue, 17 Oct 2000 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -1680,6 +1680,7 @@
 0.0.0.0 edgeio.com
 0.0.0.0 effectivemeasure.com
 0.0.0.0 effectivemeasure.net
+0.0.0.0 effectstorestream8.live
 0.0.0.0 efficaciouscactus.com
 0.0.0.0 eiv.baidu.com
 0.0.0.0 ejyymghi.com
@@ -1892,6 +1893,7 @@
 0.0.0.0 gotraffic.net
 0.0.0.0 gp.dejanews.com
 0.0.0.0 gracefulsock.com
+0.0.0.0 graizoah.com
 0.0.0.0 grandioseguide.com
 0.0.0.0 grapeshot.co.uk
 0.0.0.0 greetzebra.com
@@ -2896,6 +2898,7 @@
 0.0.0.0 sdcswingers.online
 0.0.0.0 sdkfjxjertertry.com
 0.0.0.0 seadform.net
+0.0.0.0 searching-place.com
 0.0.0.0 searchmarketing.com
 0.0.0.0 searchramp.com
 0.0.0.0 secretivecub.com

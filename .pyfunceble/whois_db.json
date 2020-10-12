@@ -4252,6 +4252,12 @@
         "expiration_date": "07-aug-2023",
         "state": "future"
     },
+    "effectstorestream8.live": {
+        "epoch": 1633910400.0,
+        "expiration_date": "11-oct-2021",
+        "server": "whois.nic.live",
+        "state": "future"
+    },
     "efficaciouscactus.com": {
         "epoch": 1614384000.0,
         "expiration_date": "27-feb-2021",
@@ -5316,6 +5322,12 @@
     "gracefulsock.com": {
         "epoch": 1601856000.0,
         "expiration_date": "05-oct-2020",
+        "state": "future"
+    },
+    "graizoah.com": {
+        "epoch": 1621555200.0,
+        "expiration_date": "21-may-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "grandioseguide.com": {
@@ -9354,6 +9366,12 @@
     "seadform.net": {
         "epoch": 1618358400.0,
         "expiration_date": "14-apr-2021",
+        "state": "future"
+    },
+    "searching-place.com": {
+        "epoch": 1604793600.0,
+        "expiration_date": "08-nov-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "searchmarketing.com": {
