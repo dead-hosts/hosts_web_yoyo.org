@@ -2990,10 +2990,10 @@
             "status": "ACTIVE"
         },
         "ads.canalblog.com": {
-            "included_at_epoch": 1600270542.627311,
-            "included_at_iso": "2020-09-16T15:35:42.627311",
-            "last_retested_at_epoch": 1602173487.297091,
-            "last_retested_at_iso": "2020-10-08T16:11:27.297091",
+            "included_at_epoch": 1602691373.415677,
+            "included_at_iso": "2020-10-14T16:02:53.415677",
+            "last_retested_at_epoch": 1602691373.415677,
+            "last_retested_at_iso": "2020-10-14T16:02:53.415677",
             "status": "INACTIVE"
         },
         "ads.canoe.ca": {
@@ -9017,11 +9017,11 @@
             "status": "ACTIVE"
         },
         "bn.bfast.com": {
-            "included_at_epoch": 1600271580.387838,
-            "included_at_iso": "2020-09-16T15:53:00.387838",
-            "last_retested_at_epoch": 1600271580.387838,
-            "last_retested_at_iso": "2020-09-16T15:53:00.387838",
-            "status": "INACTIVE"
+            "included_at_epoch": 1602691373.470201,
+            "included_at_iso": "2020-10-14T16:02:53.470201",
+            "last_retested_at_epoch": 1602691373.470201,
+            "last_retested_at_iso": "2020-10-14T16:02:53.470201",
+            "status": "ACTIVE"
         },
         "bnnrrv.qontentum.de": {
             "included_at_epoch": 1601135948.126025,
@@ -17577,6 +17577,13 @@
             "last_retested_at_iso": "2020-09-26T15:59:43.004551",
             "status": "ACTIVE"
         },
+        "openx.net": {
+            "included_at_epoch": 1602691373.521332,
+            "included_at_iso": "2020-10-14T16:02:53.521332",
+            "last_retested_at_epoch": 1602691373.521332,
+            "last_retested_at_iso": "2020-10-14T16:02:53.521332",
+            "status": "ACTIVE"
+        },
         "openx.skinet.cz": {
             "included_at_epoch": 1601135983.0414,
             "included_at_iso": "2020-09-26T15:59:43.041400",
@@ -18089,10 +18096,10 @@
             "status": "ACTIVE"
         },
         "pgl.example.com": {
-            "included_at_epoch": 1600271583.421378,
-            "included_at_iso": "2020-09-16T15:53:03.421378",
-            "last_retested_at_epoch": 1600271583.421378,
-            "last_retested_at_iso": "2020-09-16T15:53:03.421378",
+            "included_at_epoch": 1602691373.593271,
+            "included_at_iso": "2020-10-14T16:02:53.593271",
+            "last_retested_at_epoch": 1602691373.593271,
+            "last_retested_at_iso": "2020-10-14T16:02:53.593271",
             "status": "INACTIVE"
         },
         "pgl.example0101": {
@@ -23441,6 +23448,13 @@
             "included_at_iso": "2020-09-26T16:08:33.823417",
             "last_retested_at_epoch": 1601136513.823417,
             "last_retested_at_iso": "2020-09-26T16:08:33.823417",
+            "status": "ACTIVE"
+        },
+        "universcine.com": {
+            "included_at_epoch": 1602691373.643835,
+            "included_at_iso": "2020-10-14T16:02:53.643835",
+            "last_retested_at_epoch": 1602691373.643835,
+            "last_retested_at_iso": "2020-10-14T16:02:53.643835",
             "status": "ACTIVE"
         },
         "unknowntray.com": {

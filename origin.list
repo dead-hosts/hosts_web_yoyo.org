@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 12 Oct 2020 13:04:44 GMT
-# entries:        3544
+# last updated:   Tue, 13 Oct 2020 10:56:58 GMT
+# entries:        3545
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Tue, 17 Oct 2000 00:00:00
+# start date:    Thu, 19 Oct 2000 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -2517,6 +2517,7 @@
 0.0.0.0 openx.aosis.co.za
 0.0.0.0 openx.cairo360.com
 0.0.0.0 openx.kgmedia.eu
+0.0.0.0 openx.net
 0.0.0.0 openx.skinet.cz
 0.0.0.0 openx.smcaen.fr
 0.0.0.0 openx2.kytary.cz
@@ -2852,7 +2853,6 @@
 0.0.0.0 rs6.net
 0.0.0.0 rta.dailymail.co.uk
 0.0.0.0 rtb.gumgum.com
-0.0.0.0 rtb.openx.net
 0.0.0.0 rtbadzesto.com
 0.0.0.0 rtbflairads.com
 0.0.0.0 rtbidhost.com
@@ -3351,6 +3351,7 @@
 0.0.0.0 ultraoranges.com
 0.0.0.0 unarmedindustry.com
 0.0.0.0 undertone.com
+0.0.0.0 universcine.com
 0.0.0.0 unknowntray.com
 0.0.0.0 unrulymedia.com
 0.0.0.0 untd.com
