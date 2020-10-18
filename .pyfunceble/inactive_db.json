@@ -23297,11 +23297,11 @@
             "status": "ACTIVE"
         },
         "truehits2.gits.net.th": {
-            "included_at_epoch": 1600444995.822807,
-            "included_at_iso": "2020-09-18T16:03:15.822807",
-            "last_retested_at_epoch": 1600444995.822807,
-            "last_retested_at_iso": "2020-09-18T16:03:15.822807",
-            "status": "INACTIVE"
+            "included_at_epoch": 1603035652.02094,
+            "included_at_iso": "2020-10-18T15:40:52.020940",
+            "last_retested_at_epoch": 1603035652.02094,
+            "last_retested_at_iso": "2020-10-18T15:40:52.020940",
+            "status": "ACTIVE"
         },
         "trustx.org": {
             "included_at_epoch": 1601136512.803786,
