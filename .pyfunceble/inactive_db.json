@@ -3298,10 +3298,10 @@
             "status": "ACTIVE"
         },
         "ads.edbindex.dk": {
-            "included_at_epoch": 1600789132.260614,
-            "included_at_iso": "2020-09-22T15:38:52.260614",
-            "last_retested_at_epoch": 1602173489.618099,
-            "last_retested_at_iso": "2020-10-08T16:11:29.618099",
+            "included_at_epoch": 1603209665.774917,
+            "included_at_iso": "2020-10-20T16:01:05.774917",
+            "last_retested_at_epoch": 1603209665.774917,
+            "last_retested_at_iso": "2020-10-20T16:01:05.774917",
             "status": "ACTIVE"
         },
         "ads.egrana.com.br": {
@@ -5606,13 +5606,6 @@
             "last_retested_at_epoch": 1602173506.577377,
             "last_retested_at_iso": "2020-10-08T16:11:46.577377",
             "status": "ACTIVE"
-        },
-        "adserver.aidameter.com": {
-            "included_at_epoch": 1600789132.926364,
-            "included_at_iso": "2020-09-22T15:38:52.926364",
-            "last_retested_at_epoch": 1600789132.926364,
-            "last_retested_at_iso": "2020-09-22T15:38:52.926364",
-            "status": "INACTIVE"
         },
         "adserver.anawe.cz": {
             "included_at_epoch": 1601134915.90661,
