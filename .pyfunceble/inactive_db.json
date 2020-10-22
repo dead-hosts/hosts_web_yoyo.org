@@ -1428,6 +1428,13 @@
             "last_retested_at_iso": "2020-10-08T16:11:15.695260",
             "status": "ACTIVE"
         },
+        "adabra.com": {
+            "included_at_epoch": 1603388093.737281,
+            "included_at_iso": "2020-10-22T17:34:53.737281",
+            "last_retested_at_epoch": 1603388093.737281,
+            "last_retested_at_iso": "2020-10-22T17:34:53.737281",
+            "status": "ACTIVE"
+        },
         "adaction.de": {
             "included_at_epoch": 1601134910.179539,
             "included_at_iso": "2020-09-26T15:41:50.179539",
@@ -9177,6 +9184,13 @@
             "last_retested_at_iso": "2020-09-26T15:59:08.493824",
             "status": "ACTIVE"
         },
+        "breaktime.com.tw": {
+            "included_at_epoch": 1603388093.814493,
+            "included_at_iso": "2020-10-22T17:34:53.814493",
+            "last_retested_at_epoch": 1603388093.814493,
+            "last_retested_at_iso": "2020-10-22T17:34:53.814493",
+            "status": "ACTIVE"
+        },
         "brealtime.com": {
             "included_at_epoch": 1601135948.51539,
             "included_at_iso": "2020-09-26T15:59:08.515390",
@@ -10071,6 +10085,13 @@
             "included_at_iso": "2020-09-26T15:59:11.224891",
             "last_retested_at_epoch": 1601135951.224891,
             "last_retested_at_iso": "2020-09-26T15:59:11.224891",
+            "status": "ACTIVE"
+        },
+        "clickyab.com": {
+            "included_at_epoch": 1603388093.882813,
+            "included_at_iso": "2020-10-22T17:34:53.882813",
+            "last_retested_at_epoch": 1603388093.882813,
+            "last_retested_at_iso": "2020-10-22T17:34:53.882813",
             "status": "ACTIVE"
         },
         "clickz.com": {
@@ -11450,6 +11471,13 @@
             "included_at_iso": "2020-09-26T15:59:15.910998",
             "last_retested_at_epoch": 1601135955.910998,
             "last_retested_at_iso": "2020-09-26T15:59:15.910998",
+            "status": "ACTIVE"
+        },
+        "doubleverify.com": {
+            "included_at_epoch": 1603388093.950944,
+            "included_at_iso": "2020-10-22T17:34:53.950944",
+            "last_retested_at_epoch": 1603388093.950944,
+            "last_retested_at_iso": "2020-10-22T17:34:53.950944",
             "status": "ACTIVE"
         },
         "doubtfulrainstorm.com": {
@@ -13158,6 +13186,13 @@
             "included_at_iso": "2020-09-26T15:59:22.437565",
             "last_retested_at_epoch": 1601135962.437565,
             "last_retested_at_iso": "2020-09-26T15:59:22.437565",
+            "status": "ACTIVE"
+        },
+        "googletagmanager.com": {
+            "included_at_epoch": 1603388094.020035,
+            "included_at_iso": "2020-10-22T17:34:54.020035",
+            "last_retested_at_epoch": 1603388094.020035,
+            "last_retested_at_iso": "2020-10-22T17:34:54.020035",
             "status": "ACTIVE"
         },
         "googletagservices.com": {
@@ -21337,10 +21372,10 @@
             "status": "ACTIVE"
         },
         "stat.xiaomi.com": {
-            "included_at_epoch": 1600965036.014897,
-            "included_at_iso": "2020-09-24T16:30:36.014897",
-            "last_retested_at_epoch": 1600965036.014897,
-            "last_retested_at_iso": "2020-09-24T16:30:36.014897",
+            "included_at_epoch": 1603388094.06867,
+            "included_at_iso": "2020-10-22T17:34:54.068670",
+            "last_retested_at_epoch": 1603388094.06867,
+            "last_retested_at_iso": "2020-10-22T17:34:54.068670",
             "status": "INACTIVE"
         },
         "stat.zenon.net": {
@@ -24079,13 +24114,6 @@
             "last_retested_at_epoch": 1601136518.341695,
             "last_retested_at_iso": "2020-09-26T16:08:38.341695",
             "status": "ACTIVE"
-        },
-        "webmasterplan.de": {
-            "included_at_epoch": 1600965037.205278,
-            "included_at_iso": "2020-09-24T16:30:37.205278",
-            "last_retested_at_epoch": 1600965037.205278,
-            "last_retested_at_iso": "2020-09-24T16:30:37.205278",
-            "status": "INACTIVE"
         },
         "weborama.com": {
             "included_at_epoch": 1601136518.292296,
