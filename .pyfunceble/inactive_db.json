@@ -239,10 +239,10 @@
             "status": "ACTIVE"
         },
         "a-ads.com": {
-            "included_at_epoch": 1601307917.109846,
-            "included_at_iso": "2020-09-28T15:45:17.109846",
-            "last_retested_at_epoch": 1602173466.937734,
-            "last_retested_at_iso": "2020-10-08T16:11:06.937734",
+            "included_at_epoch": 1603736828.313861,
+            "included_at_iso": "2020-10-26T18:27:08.313861",
+            "last_retested_at_epoch": 1603736828.313861,
+            "last_retested_at_iso": "2020-10-26T18:27:08.313861",
             "status": "ACTIVE"
         },
         "a.aproductmsg.com": {
@@ -341,6 +341,13 @@
             "included_at_iso": "2020-10-24T16:28:29.301881",
             "last_retested_at_epoch": 1603556909.301881,
             "last_retested_at_iso": "2020-10-24T16:28:29.301881",
+            "status": "ACTIVE"
+        },
+        "a8a8altrk.com": {
+            "included_at_epoch": 1603736828.368967,
+            "included_at_iso": "2020-10-26T18:27:08.368967",
+            "last_retested_at_epoch": 1603736828.368967,
+            "last_retested_at_iso": "2020-10-26T18:27:08.368967",
             "status": "ACTIVE"
         },
         "aa-metrics.beauty.hotpepper.jp": {
@@ -6511,10 +6518,10 @@
             "status": "ACTIVE"
         },
         "adv.mezon.ru": {
-            "included_at_epoch": 1601307917.22108,
-            "included_at_iso": "2020-09-28T15:45:17.221080",
-            "last_retested_at_epoch": 1602173513.483002,
-            "last_retested_at_iso": "2020-10-08T16:11:53.483002",
+            "included_at_epoch": 1603736828.442706,
+            "included_at_iso": "2020-10-26T18:27:08.442706",
+            "last_retested_at_epoch": 1603736828.442706,
+            "last_retested_at_iso": "2020-10-26T18:27:08.442706",
             "status": "ACTIVE"
         },
         "adv.nexthardware.com": {
@@ -8219,10 +8226,10 @@
             "status": "ACTIVE"
         },
         "banner.webmersion.com": {
-            "included_at_epoch": 1601307917.271375,
-            "included_at_iso": "2020-09-28T15:45:17.271375",
-            "last_retested_at_epoch": 1601307917.271375,
-            "last_retested_at_iso": "2020-09-28T15:45:17.271375",
+            "included_at_epoch": 1603736828.49312,
+            "included_at_iso": "2020-10-26T18:27:08.493120",
+            "last_retested_at_epoch": 1603736828.49312,
+            "last_retested_at_iso": "2020-10-26T18:27:08.493120",
             "status": "ACTIVE"
         },
         "banner10.zetasystem.dk": {
@@ -11016,6 +11023,13 @@
             "included_at_iso": "2020-10-24T16:52:59.450356",
             "last_retested_at_epoch": 1603558379.450356,
             "last_retested_at_iso": "2020-10-24T16:52:59.450356",
+            "status": "ACTIVE"
+        },
+        "data8a8altrk.com": {
+            "included_at_epoch": 1603736828.544346,
+            "included_at_iso": "2020-10-26T18:27:08.544346",
+            "last_retested_at_epoch": 1603736828.544346,
+            "last_retested_at_iso": "2020-10-26T18:27:08.544346",
             "status": "ACTIVE"
         },
         "dbbsrv.com": {
@@ -22729,6 +22743,13 @@
             "last_retested_at_iso": "2020-10-24T17:11:09.265652",
             "status": "ACTIVE"
         },
+        "tracker.cdnbye.com": {
+            "included_at_epoch": 1603736828.616063,
+            "included_at_iso": "2020-10-26T18:27:08.616063",
+            "last_retested_at_epoch": 1603736828.616063,
+            "last_retested_at_iso": "2020-10-26T18:27:08.616063",
+            "status": "ACTIVE"
+        },
         "tracker.comunidadmarriott.com": {
             "included_at_epoch": 1603559469.312645,
             "included_at_iso": "2020-10-24T17:11:09.312645",
@@ -23182,6 +23203,13 @@
             "included_at_iso": "2020-10-24T17:11:12.466113",
             "last_retested_at_epoch": 1603559472.466113,
             "last_retested_at_iso": "2020-10-24T17:11:12.466113",
+            "status": "ACTIVE"
+        },
+        "trk.bee-data.com": {
+            "included_at_epoch": 1603736828.666361,
+            "included_at_iso": "2020-10-26T18:27:08.666361",
+            "last_retested_at_epoch": 1603736828.666361,
+            "last_retested_at_iso": "2020-10-26T18:27:08.666361",
             "status": "ACTIVE"
         },
         "trk.techtarget.com": {
@@ -23728,6 +23756,13 @@
             "included_at_iso": "2020-10-24T17:11:16.336144",
             "last_retested_at_epoch": 1603559476.336144,
             "last_retested_at_iso": "2020-10-24T17:11:16.336144",
+            "status": "ACTIVE"
+        },
+        "videostats.kakao.com": {
+            "included_at_epoch": 1603736828.71815,
+            "included_at_iso": "2020-10-26T18:27:08.718150",
+            "last_retested_at_epoch": 1603736828.71815,
+            "last_retested_at_iso": "2020-10-26T18:27:08.718150",
             "status": "ACTIVE"
         },
         "vidora.com": {
