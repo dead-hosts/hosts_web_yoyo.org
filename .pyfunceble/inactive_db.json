@@ -9836,10 +9836,10 @@
             "status": "ACTIVE"
         },
         "click.email.sonos.com": {
-            "included_at_epoch": 1601825626.022137,
-            "included_at_iso": "2020-10-04T15:33:46.022137",
-            "last_retested_at_epoch": 1601825626.022137,
-            "last_retested_at_iso": "2020-10-04T15:33:46.022137",
+            "included_at_epoch": 1604247127.646808,
+            "included_at_iso": "2020-11-01T16:12:07.646808",
+            "last_retested_at_epoch": 1604247127.646808,
+            "last_retested_at_iso": "2020-11-01T16:12:07.646808",
             "status": "ACTIVE"
         },
         "click.fool.com": {
