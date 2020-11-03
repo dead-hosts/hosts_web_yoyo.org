@@ -932,10 +932,10 @@
             "status": "ACTIVE"
         },
         "ad.intl.xiaomi.com": {
-            "included_at_epoch": 1602000306.478575,
-            "included_at_iso": "2020-10-06T16:05:06.478575",
-            "last_retested_at_epoch": 1602173472.098131,
-            "last_retested_at_iso": "2020-10-08T16:11:12.098131",
+            "included_at_epoch": 1604424985.072348,
+            "included_at_iso": "2020-11-03T17:36:25.072348",
+            "last_retested_at_epoch": 1604424985.072348,
+            "last_retested_at_iso": "2020-11-03T17:36:25.072348",
             "status": "INACTIVE"
         },
         "ad.jacotei.com.br": {
@@ -1261,10 +1261,10 @@
             "status": "ACTIVE"
         },
         "ad.xiaomi.com": {
-            "included_at_epoch": 1602000306.578315,
-            "included_at_iso": "2020-10-06T16:05:06.578315",
-            "last_retested_at_epoch": 1602173474.509979,
-            "last_retested_at_iso": "2020-10-08T16:11:14.509979",
+            "included_at_epoch": 1604424985.125475,
+            "included_at_iso": "2020-11-03T17:36:25.125475",
+            "last_retested_at_epoch": 1604424985.125475,
+            "last_retested_at_iso": "2020-11-03T17:36:25.125475",
             "status": "INACTIVE"
         },
         "ad.xmovies8.si": {
@@ -5167,10 +5167,10 @@
             "status": "ACTIVE"
         },
         "ads.yumenetworks.com": {
-            "included_at_epoch": 1602000306.655943,
-            "included_at_iso": "2020-10-06T16:05:06.655943",
-            "last_retested_at_epoch": 1602173503.375417,
-            "last_retested_at_iso": "2020-10-08T16:11:43.375417",
+            "included_at_epoch": 1604424985.178622,
+            "included_at_iso": "2020-11-03T17:36:25.178622",
+            "last_retested_at_epoch": 1604424985.178622,
+            "last_retested_at_iso": "2020-11-03T17:36:25.178622",
             "status": "ACTIVE"
         },
         "ads.zdnet.com": {
@@ -13713,6 +13713,13 @@
             "last_retested_at_iso": "2020-10-24T16:53:10.238308",
             "status": "ACTIVE"
         },
+        "honorablehall.com": {
+            "included_at_epoch": 1604424985.229927,
+            "included_at_iso": "2020-11-03T17:36:25.229927",
+            "last_retested_at_epoch": 1604424985.229927,
+            "last_retested_at_iso": "2020-11-03T17:36:25.229927",
+            "status": "ACTIVE"
+        },
         "honorableland.com": {
             "included_at_epoch": 1603558390.317678,
             "included_at_iso": "2020-10-24T16:53:10.317678",
@@ -14726,6 +14733,13 @@
             "included_at_iso": "2020-10-24T16:53:15.103740",
             "last_retested_at_epoch": 1603558395.10374,
             "last_retested_at_iso": "2020-10-24T16:53:15.103740",
+            "status": "ACTIVE"
+        },
+        "kameleoon.com": {
+            "included_at_epoch": 1604424985.302248,
+            "included_at_iso": "2020-11-03T17:36:25.302248",
+            "last_retested_at_epoch": 1604424985.302248,
+            "last_retested_at_iso": "2020-11-03T17:36:25.302248",
             "status": "ACTIVE"
         },
         "kanoodle.com": {
@@ -21980,6 +21994,13 @@
             "last_retested_at_iso": "2020-10-24T17:11:04.068184",
             "status": "ACTIVE"
         },
+        "targeting.api.drift.com": {
+            "included_at_epoch": 1604424985.371913,
+            "included_at_iso": "2020-11-03T17:36:25.371913",
+            "last_retested_at_epoch": 1604424985.371913,
+            "last_retested_at_iso": "2020-11-03T17:36:25.371913",
+            "status": "ACTIVE"
+        },
         "targeting.nzme.arcpublishing.com": {
             "included_at_epoch": 1603559464.114527,
             "included_at_iso": "2020-10-24T17:11:04.114527",
@@ -23450,6 +23471,13 @@
             "last_retested_at_iso": "2020-10-24T17:11:14.084714",
             "status": "ACTIVE"
         },
+        "unless.com": {
+            "included_at_epoch": 1604424985.422177,
+            "included_at_iso": "2020-11-03T17:36:25.422177",
+            "last_retested_at_epoch": 1604424985.422177,
+            "last_retested_at_iso": "2020-11-03T17:36:25.422177",
+            "status": "ACTIVE"
+        },
         "unrulymedia.com": {
             "included_at_epoch": 1603559474.133724,
             "included_at_iso": "2020-10-24T17:11:14.133724",
@@ -23637,6 +23665,13 @@
             "included_at_iso": "2020-10-24T17:11:15.449885",
             "last_retested_at_epoch": 1603559475.449885,
             "last_retested_at_iso": "2020-10-24T17:11:15.449885",
+            "status": "ACTIVE"
+        },
+        "vcommission.com": {
+            "included_at_epoch": 1604424985.492986,
+            "included_at_iso": "2020-11-03T17:36:25.492986",
+            "last_retested_at_epoch": 1604424985.492986,
+            "last_retested_at_iso": "2020-11-03T17:36:25.492986",
             "status": "ACTIVE"
         },
         "veille-referencement.com": {
@@ -23926,6 +23961,13 @@
             "last_retested_at_iso": "2020-10-24T17:11:17.434048",
             "status": "ACTIVE"
         },
+        "vwo.com": {
+            "included_at_epoch": 1604424985.562723,
+            "included_at_iso": "2020-11-03T17:36:25.562723",
+            "last_retested_at_epoch": 1604424985.562723,
+            "last_retested_at_iso": "2020-11-03T17:36:25.562723",
+            "status": "ACTIVE"
+        },
         "w55c.net": {
             "included_at_epoch": 1603559477.592061,
             "included_at_iso": "2020-10-24T17:11:17.592061",
@@ -23980,6 +24022,13 @@
             "included_at_iso": "2020-10-24T17:11:17.895472",
             "last_retested_at_epoch": 1603559477.895472,
             "last_retested_at_iso": "2020-10-24T17:11:17.895472",
+            "status": "ACTIVE"
+        },
+        "web-redirecting.com": {
+            "included_at_epoch": 1604424985.633594,
+            "included_at_iso": "2020-11-03T17:36:25.633594",
+            "last_retested_at_epoch": 1604424985.633594,
+            "last_retested_at_iso": "2020-11-03T17:36:25.633594",
             "status": "ACTIVE"
         },
         "web-stat.com": {

@@ -5729,6 +5729,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "honorablehall.com": {
+        "epoch": 1625097600.0,
+        "expiration_date": "01-jul-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "honorableland.com": {
         "epoch": 1616112000.0,
         "expiration_date": "19-mar-2021",
@@ -6421,6 +6427,12 @@
     "justuno.com": {
         "epoch": 1620691200.0,
         "expiration_date": "11-may-2021",
+        "state": "future"
+    },
+    "kameleoon.com": {
+        "epoch": 1667088000.0,
+        "expiration_date": "30-oct-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "kanoodle.com": {
@@ -11390,6 +11402,12 @@
         "expiration_date": "03-aug-2021",
         "state": "future"
     },
+    "unless.com": {
+        "epoch": 1631664000.0,
+        "expiration_date": "15-sep-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "unrulymedia.com": {
         "epoch": 1623628800.0,
         "expiration_date": "14-jun-2021",
@@ -11515,6 +11533,12 @@
     "variablefitness.com": {
         "epoch": 1621209600.0,
         "expiration_date": "17-may-2021",
+        "state": "future"
+    },
+    "vcommission.com": {
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "veille-referencement.com": {
@@ -11715,6 +11739,12 @@
         "expiration_date": "26-oct-2022",
         "state": "future"
     },
+    "vwo.com": {
+        "epoch": 1677715200.0,
+        "expiration_date": "02-mar-2023",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "w55c.net": {
         "epoch": 1778630400.0,
         "expiration_date": "13-may-2026",
@@ -11748,6 +11778,12 @@
     "wateryvan.com": {
         "epoch": 1617408000.0,
         "expiration_date": "03-apr-2021",
+        "state": "future"
+    },
+    "web-redirecting.com": {
+        "epoch": 1625356800.0,
+        "expiration_date": "04-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "web-stat.com": {
