@@ -8449,6 +8449,13 @@
             "last_retested_at_iso": "2020-10-24T16:52:50.819893",
             "status": "ACTIVE"
         },
+        "banners.payserve.com": {
+            "included_at_epoch": 1604596981.686424,
+            "included_at_iso": "2020-11-05T17:23:01.686424",
+            "last_retested_at_epoch": 1604596981.686424,
+            "last_retested_at_iso": "2020-11-05T17:23:01.686424",
+            "status": "ACTIVE"
+        },
         "banners.resultonline.com": {
             "included_at_epoch": 1603558370.877747,
             "included_at_iso": "2020-10-24T16:52:50.877747",
@@ -15405,6 +15412,13 @@
             "included_at_iso": "2020-10-24T16:53:18.374402",
             "last_retested_at_epoch": 1603558398.374402,
             "last_retested_at_iso": "2020-10-24T16:53:18.374402",
+            "status": "ACTIVE"
+        },
+        "locked4.com": {
+            "included_at_epoch": 1604596981.74928,
+            "included_at_iso": "2020-11-05T17:23:01.749280",
+            "last_retested_at_epoch": 1604596981.74928,
+            "last_retested_at_iso": "2020-11-05T17:23:01.749280",
             "status": "ACTIVE"
         },
         "lockerdome.com": {
