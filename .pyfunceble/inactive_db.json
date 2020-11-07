@@ -12404,6 +12404,13 @@
             "last_retested_at_iso": "2020-10-24T16:53:04.739783",
             "status": "ACTIVE"
         },
+        "fast-redirecting.com": {
+            "included_at_epoch": 1604765299.981293,
+            "included_at_iso": "2020-11-07T16:08:19.981293",
+            "last_retested_at_epoch": 1604765299.981293,
+            "last_retested_at_iso": "2020-11-07T16:08:19.981293",
+            "status": "ACTIVE"
+        },
         "fastclick.com": {
             "included_at_epoch": 1603558384.76647,
             "included_at_iso": "2020-10-24T16:53:04.766470",
@@ -15464,10 +15471,10 @@
             "status": "ACTIVE"
         },
         "logs.datadoghq.eu": {
-            "included_at_epoch": 1602344175.386893,
-            "included_at_iso": "2020-10-10T15:36:15.386893",
-            "last_retested_at_epoch": 1602344175.386893,
-            "last_retested_at_iso": "2020-10-10T15:36:15.386893",
+            "included_at_epoch": 1604765300.058346,
+            "included_at_iso": "2020-11-07T16:08:20.058346",
+            "last_retested_at_epoch": 1604765300.058346,
+            "last_retested_at_iso": "2020-11-07T16:08:20.058346",
             "status": "INACTIVE"
         },
         "logs.roku.com": {
@@ -17785,6 +17792,13 @@
             "included_at_iso": "2020-10-24T16:53:30.871424",
             "last_retested_at_epoch": 1603558410.871424,
             "last_retested_at_iso": "2020-10-24T16:53:30.871424",
+            "status": "ACTIVE"
+        },
+        "ox1.shopcool.com.tw": {
+            "included_at_epoch": 1604765300.107236,
+            "included_at_iso": "2020-11-07T16:08:20.107236",
+            "last_retested_at_epoch": 1604765300.107236,
+            "last_retested_at_iso": "2020-11-07T16:08:20.107236",
             "status": "ACTIVE"
         },
         "oxado.com": {
@@ -23021,6 +23035,13 @@
             "included_at_iso": "2020-10-24T17:11:10.840402",
             "last_retested_at_epoch": 1603559470.840402,
             "last_retested_at_iso": "2020-10-24T17:11:10.840402",
+            "status": "ACTIVE"
+        },
+        "traffic-redirecting.com": {
+            "included_at_epoch": 1604765300.158756,
+            "included_at_iso": "2020-11-07T16:08:20.158756",
+            "last_retested_at_epoch": 1604765300.158756,
+            "last_retested_at_iso": "2020-11-07T16:08:20.158756",
             "status": "ACTIVE"
         },
         "traffic.focuusing.com": {

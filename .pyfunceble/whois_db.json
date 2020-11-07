@@ -4826,6 +4826,12 @@
         "expiration_date": "21-feb-2019",
         "state": "future"
     },
+    "fast-redirecting.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "fastclick.com": {
         "epoch": 1628294400.0,
         "expiration_date": "07-aug-2021",
@@ -11074,6 +11080,12 @@
     "traffic-exchange.com": {
         "epoch": 1619654400.0,
         "expiration_date": "29-apr-2021",
+        "state": "future"
+    },
+    "traffic-redirecting.com": {
+        "epoch": 1625356800.0,
+        "expiration_date": "04-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "trafficadept.com": {

@@ -1,12 +1,12 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_yoyo.org/domains.list": {
         "base": {
-            "datetime_iso": "2020-11-05T17:22:02.416882",
-            "hash": "e902f722c121e07b154ec775e09d10616d590791f6af2f134d24e3eb"
+            "datetime_iso": "2020-11-07T16:07:21.889888",
+            "hash": "033346fc7b701bfb9951ae562a19bb06973566c8ff4e71e0ad400367"
         },
         "latest": {
-            "datetime_iso": "2020-11-05T17:22:02.416882",
-            "hash": "e902f722c121e07b154ec775e09d10616d590791f6af2f134d24e3eb"
+            "datetime_iso": "2020-11-07T16:07:21.889888",
+            "hash": "033346fc7b701bfb9951ae562a19bb06973566c8ff4e71e0ad400367"
         },
         "position": 0
     }
