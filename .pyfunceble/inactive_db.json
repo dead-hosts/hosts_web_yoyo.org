@@ -11725,13 +11725,6 @@
             "last_retested_at_iso": "2020-10-24T16:53:02.098752",
             "status": "ACTIVE"
         },
-        "effectstorestream8.live": {
-            "included_at_epoch": 1602517980.59961,
-            "included_at_iso": "2020-10-12T15:53:00.599610",
-            "last_retested_at_epoch": 1602517980.59961,
-            "last_retested_at_iso": "2020-10-12T15:53:00.599610",
-            "status": "ACTIVE"
-        },
         "efficaciouscactus.com": {
             "included_at_epoch": 1603558382.072815,
             "included_at_iso": "2020-10-24T16:53:02.072815",
@@ -13231,10 +13224,10 @@
             "status": "ACTIVE"
         },
         "graizoah.com": {
-            "included_at_epoch": 1602517980.689971,
-            "included_at_iso": "2020-10-12T15:53:00.689971",
-            "last_retested_at_epoch": 1602517980.689971,
-            "last_retested_at_iso": "2020-10-12T15:53:00.689971",
+            "included_at_epoch": 1604944081.046372,
+            "included_at_iso": "2020-11-09T17:48:01.046372",
+            "last_retested_at_epoch": 1604944081.046372,
+            "last_retested_at_iso": "2020-11-09T17:48:01.046372",
             "status": "ACTIVE"
         },
         "grandioseguide.com": {
@@ -20294,10 +20287,10 @@
             "status": "ACTIVE"
         },
         "searching-place.com": {
-            "included_at_epoch": 1602517980.764607,
-            "included_at_iso": "2020-10-12T15:53:00.764607",
-            "last_retested_at_epoch": 1602517980.764607,
-            "last_retested_at_iso": "2020-10-12T15:53:00.764607",
+            "included_at_epoch": 1604944081.107768,
+            "included_at_iso": "2020-11-09T17:48:01.107768",
+            "last_retested_at_epoch": 1604944081.107768,
+            "last_retested_at_iso": "2020-11-09T17:48:01.107768",
             "status": "ACTIVE"
         },
         "searchmarketing.com": {
