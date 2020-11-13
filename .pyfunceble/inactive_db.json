@@ -2325,10 +2325,10 @@
             "status": "ACTIVE"
         },
         "admotion.com.ar": {
-            "included_at_epoch": 1602863921.279631,
-            "included_at_iso": "2020-10-16T15:58:41.279631",
-            "last_retested_at_epoch": 1602863921.279631,
-            "last_retested_at_iso": "2020-10-16T15:58:41.279631",
+            "included_at_epoch": 1605289092.850867,
+            "included_at_iso": "2020-11-13T17:38:12.850867",
+            "last_retested_at_epoch": 1605289092.850867,
+            "last_retested_at_iso": "2020-11-13T17:38:12.850867",
             "status": "ACTIVE"
         },
         "adn.lrb.co.uk": {
@@ -8968,10 +8968,10 @@
             "status": "ACTIVE"
         },
         "blueadvertise.com": {
-            "included_at_epoch": 1602863921.387127,
-            "included_at_iso": "2020-10-16T15:58:41.387127",
-            "last_retested_at_epoch": 1602863921.387127,
-            "last_retested_at_iso": "2020-10-16T15:58:41.387127",
+            "included_at_epoch": 1605289092.908436,
+            "included_at_iso": "2020-11-13T17:38:12.908436",
+            "last_retested_at_epoch": 1605289092.908436,
+            "last_retested_at_iso": "2020-11-13T17:38:12.908436",
             "status": "ACTIVE"
         },
         "blueconic.com": {
@@ -19327,6 +19327,13 @@
             "last_retested_at_iso": "2020-10-24T17:10:46.841009",
             "status": "ACTIVE"
         },
+        "re-directme.com": {
+            "included_at_epoch": 1605289092.96517,
+            "included_at_iso": "2020-11-13T17:38:12.965170",
+            "last_retested_at_epoch": 1605289092.96517,
+            "last_retested_at_iso": "2020-11-13T17:38:12.965170",
+            "status": "ACTIVE"
+        },
         "reachjunction.com": {
             "included_at_epoch": 1603559446.799847,
             "included_at_iso": "2020-10-24T17:10:46.799847",
@@ -23875,6 +23882,13 @@
             "included_at_iso": "2020-10-24T17:11:16.637131",
             "last_retested_at_epoch": 1603559476.637131,
             "last_retested_at_iso": "2020-10-24T17:11:16.637131",
+            "status": "ACTIVE"
+        },
+        "visitpath.com": {
+            "included_at_epoch": 1605289093.019858,
+            "included_at_iso": "2020-11-13T17:38:13.019858",
+            "last_retested_at_epoch": 1605289093.019858,
+            "last_retested_at_iso": "2020-11-13T17:38:13.019858",
             "status": "ACTIVE"
         },
         "visual-pagerank.fr": {
