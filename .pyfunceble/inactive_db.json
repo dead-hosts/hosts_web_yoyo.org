@@ -23325,10 +23325,10 @@
             "status": "ACTIVE"
         },
         "truehits2.gits.net.th": {
-            "included_at_epoch": 1603035652.02094,
-            "included_at_iso": "2020-10-18T15:40:52.020940",
-            "last_retested_at_epoch": 1603035652.02094,
-            "last_retested_at_iso": "2020-10-18T15:40:52.020940",
+            "included_at_epoch": 1605457270.461317,
+            "included_at_iso": "2020-11-15T16:21:10.461317",
+            "last_retested_at_epoch": 1605457270.461317,
+            "last_retested_at_iso": "2020-11-15T16:21:10.461317",
             "status": "ACTIVE"
         },
         "trustx.org": {
