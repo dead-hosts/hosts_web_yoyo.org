@@ -182,6 +182,13 @@
             "last_retested_at_iso": "2020-10-24T16:28:29.224791",
             "status": "ACTIVE"
         },
+        "5ijo.01net.com": {
+            "included_at_epoch": 1605635933.810152,
+            "included_at_iso": "2020-11-17T17:58:53.810152",
+            "last_retested_at_epoch": 1605635933.810152,
+            "last_retested_at_iso": "2020-11-17T17:58:53.810152",
+            "status": "ACTIVE"
+        },
         "5mcwl.pw": {
             "included_at_epoch": 1603556909.231345,
             "included_at_iso": "2020-10-24T16:28:29.231345",
@@ -3305,10 +3312,10 @@
             "status": "ACTIVE"
         },
         "ads.edbindex.dk": {
-            "included_at_epoch": 1603209665.774917,
-            "included_at_iso": "2020-10-20T16:01:05.774917",
-            "last_retested_at_epoch": 1603209665.774917,
-            "last_retested_at_iso": "2020-10-20T16:01:05.774917",
+            "included_at_epoch": 1605635933.870871,
+            "included_at_iso": "2020-11-17T17:58:53.870871",
+            "last_retested_at_epoch": 1605635933.870871,
+            "last_retested_at_iso": "2020-11-17T17:58:53.870871",
             "status": "ACTIVE"
         },
         "ads.egrana.com.br": {
@@ -16352,6 +16359,13 @@
             "last_retested_at_iso": "2020-10-24T16:53:23.097943",
             "status": "ACTIVE"
         },
+        "mkto-ab410147.com": {
+            "included_at_epoch": 1605635933.922631,
+            "included_at_iso": "2020-11-17T17:58:53.922631",
+            "last_retested_at_epoch": 1605635933.922631,
+            "last_retested_at_iso": "2020-11-17T17:58:53.922631",
+            "status": "ACTIVE"
+        },
         "mktoresp.com": {
             "included_at_epoch": 1603558403.13221,
             "included_at_iso": "2020-10-24T16:53:23.132210",
@@ -18508,6 +18522,13 @@
             "last_retested_at_iso": "2020-10-24T17:10:41.905062",
             "status": "ACTIVE"
         },
+        "post.spmailtechno.com": {
+            "included_at_epoch": 1605635933.994465,
+            "included_at_iso": "2020-11-17T17:58:53.994465",
+            "last_retested_at_epoch": 1605635933.994465,
+            "last_retested_at_iso": "2020-11-17T17:58:53.994465",
+            "status": "ACTIVE"
+        },
         "postback.iqm.com": {
             "included_at_epoch": 1603559441.944847,
             "included_at_iso": "2020-10-24T17:10:41.944847",
@@ -18625,6 +18646,13 @@
             "included_at_iso": "2020-10-24T17:10:42.623669",
             "last_retested_at_epoch": 1603559442.623669,
             "last_retested_at_iso": "2020-10-24T17:10:42.623669",
+            "status": "ACTIVE"
+        },
+        "producecopy.com": {
+            "included_at_epoch": 1605635934.043259,
+            "included_at_iso": "2020-11-17T17:58:54.043259",
+            "last_retested_at_epoch": 1605635934.043259,
+            "last_retested_at_iso": "2020-11-17T17:58:54.043259",
             "status": "ACTIVE"
         },
         "producer.getwisdom.io": {
@@ -20858,6 +20886,13 @@
             "included_at_iso": "2020-10-24T17:10:56.329200",
             "last_retested_at_epoch": 1603559456.3292,
             "last_retested_at_iso": "2020-10-24T17:10:56.329200",
+            "status": "ACTIVE"
+        },
+        "smetrics.10daily.com.au": {
+            "included_at_epoch": 1605635934.113799,
+            "included_at_iso": "2020-11-17T17:58:54.113799",
+            "last_retested_at_epoch": 1605635934.113799,
+            "last_retested_at_iso": "2020-11-17T17:58:54.113799",
             "status": "ACTIVE"
         },
         "smetrics.bestbuy.com": {

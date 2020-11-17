@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 06 Nov 2020 13:22:37 GMT
-# entries:        3559
+# last updated:   Tue, 17 Nov 2020 14:26:41 GMT
+# entries:        3563
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Mon, 20 Nov 2000 00:00:00
+# start date:    Wed, 22 Nov 2000 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -38,6 +38,7 @@
 0.0.0.0 50websads.com
 0.0.0.0 518ad.com
 0.0.0.0 51yes.com
+0.0.0.0 5ijo.01net.com
 0.0.0.0 5mcwl.pw
 0.0.0.0 6ldu6qa.com
 0.0.0.0 6sc.co
@@ -290,7 +291,6 @@
 0.0.0.0 adimg.uimserv.net
 0.0.0.0 adimg1.chosun.com
 0.0.0.0 adimgs.sapo.pt
-0.0.0.0 adimpact.com
 0.0.0.0 adincube.com
 0.0.0.0 adinjector.net
 0.0.0.0 adinterax.com
@@ -2341,6 +2341,7 @@
 0.0.0.0 mixedreading.com
 0.0.0.0 mixpanel.com
 0.0.0.0 mjxads.internet.com
+0.0.0.0 mkto-ab410147.com
 0.0.0.0 mktoresp.com
 0.0.0.0 ml314.com
 0.0.0.0 mlm.de
@@ -2648,6 +2649,7 @@
 0.0.0.0 porntrack.com
 0.0.0.0 possessivebucket.com
 0.0.0.0 possibleboats.com
+0.0.0.0 post.spmailtechno.com
 0.0.0.0 postback.iqm.com
 0.0.0.0 postrelease.com
 0.0.0.0 posumeads.com
@@ -2665,6 +2667,7 @@
 0.0.0.0 prmtracking.com
 0.0.0.0 pro-advertising.com
 0.0.0.0 pro-market.net
+0.0.0.0 producecopy.com
 0.0.0.0 producer.getwisdom.io
 0.0.0.0 proext.com
 0.0.0.0 profero.com
@@ -2983,6 +2986,7 @@
 0.0.0.0 smartstream.tv
 0.0.0.0 smartyads.com
 0.0.0.0 smashsurprise.com
+0.0.0.0 smetrics.10daily.com.au
 0.0.0.0 smetrics.bestbuy.com
 0.0.0.0 smetrics.ctv.ca
 0.0.0.0 smetrics.foxnews.com
