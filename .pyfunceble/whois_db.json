@@ -3591,6 +3591,12 @@
         "expiration_date": "21-jul-2020",
         "state": "future"
     },
+    "cootlogix.com": {
+        "epoch": 1629504000.0,
+        "expiration_date": "21-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "copperchickens.com": {
         "epoch": 1616284800.0,
         "expiration_date": "21-mar-2021",
@@ -5390,8 +5396,9 @@
         "state": "future"
     },
     "googletagmanager.com": {
-        "epoch": 1605052800.0,
-        "expiration_date": "11-nov-2020",
+        "epoch": 1636588800.0,
+        "expiration_date": "11-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "googletagservices.com": {
@@ -9656,6 +9663,12 @@
     "serv0.com": {
         "epoch": 1615161600.0,
         "expiration_date": "08-mar-2021",
+        "state": "future"
+    },
+    "servads.net": {
+        "epoch": 1612915200.0,
+        "expiration_date": "10-feb-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "servadsdisrupt.com": {

@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 17 Nov 2020 14:26:41 GMT
-# entries:        3563
+# last updated:   Thu, 19 Nov 2020 11:24:03 GMT
+# entries:        3566
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Wed, 22 Nov 2000 00:00:00
+# start date:    Fri, 24 Nov 2000 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -1469,6 +1469,7 @@
 0.0.0.0 cnomy.com
 0.0.0.0 cnt.spbland.ru
 0.0.0.0 cnt1.pocitadlo.cz
+0.0.0.0 cny.yoyo.org
 0.0.0.0 code-server.biz
 0.0.0.0 codeadnetwork.com
 0.0.0.0 cognitiv.ai
@@ -1507,6 +1508,7 @@
 0.0.0.0 convrse.media
 0.0.0.0 cookies.cmpnet.com
 0.0.0.0 coordinatedcub.com
+0.0.0.0 cootlogix.com
 0.0.0.0 copperchickens.com
 0.0.0.0 copycarpenter.com
 0.0.0.0 copyrightaccesscontrols.com
@@ -2922,6 +2924,7 @@
 0.0.0.0 sensismediasmart.com.au
 0.0.0.0 separatesilver.com
 0.0.0.0 serv0.com
+0.0.0.0 servads.net
 0.0.0.0 servadsdisrupt.com
 0.0.0.0 servedby-buysellads.com
 0.0.0.0 servedbyadbutler.com
