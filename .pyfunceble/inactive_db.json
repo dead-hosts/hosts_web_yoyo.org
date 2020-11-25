@@ -8037,10 +8037,10 @@
             "status": "ACTIVE"
         },
         "banner.finzoom.ro": {
-            "included_at_epoch": 1603912224.69196,
-            "included_at_iso": "2020-10-28T19:10:24.691960",
-            "last_retested_at_epoch": 1603912224.69196,
-            "last_retested_at_iso": "2020-10-28T19:10:24.691960",
+            "included_at_epoch": 1606332236.720997,
+            "included_at_iso": "2020-11-25T19:23:56.720997",
+            "last_retested_at_epoch": 1606332236.720997,
+            "last_retested_at_iso": "2020-11-25T19:23:56.720997",
             "status": "ACTIVE"
         },
         "banner.goldenpalace.com": {
@@ -8254,10 +8254,10 @@
             "status": "ACTIVE"
         },
         "bannermanager.bnr.bg": {
-            "included_at_epoch": 1603912224.752196,
-            "included_at_iso": "2020-10-28T19:10:24.752196",
-            "last_retested_at_epoch": 1603912224.752196,
-            "last_retested_at_iso": "2020-10-28T19:10:24.752196",
+            "included_at_epoch": 1606332236.778776,
+            "included_at_iso": "2020-11-25T19:23:56.778776",
+            "last_retested_at_epoch": 1606332236.778776,
+            "last_retested_at_iso": "2020-11-25T19:23:56.778776",
             "status": "ACTIVE"
         },
         "bannermarkt.nl": {
@@ -8996,10 +8996,10 @@
             "status": "ACTIVE"
         },
         "bnrs.ilm.ee": {
-            "included_at_epoch": 1603912224.805756,
-            "included_at_iso": "2020-10-28T19:10:24.805756",
-            "last_retested_at_epoch": 1603912224.805756,
-            "last_retested_at_iso": "2020-10-28T19:10:24.805756",
+            "included_at_epoch": 1606332236.837925,
+            "included_at_iso": "2020-11-25T19:23:56.837925",
+            "last_retested_at_epoch": 1606332236.837925,
+            "last_retested_at_iso": "2020-11-25T19:23:56.837925",
             "status": "ACTIVE"
         },
         "boffoadsapi.com": {
@@ -17277,10 +17277,10 @@
             "status": "ACTIVE"
         },
         "odbierz-bony.ovp.pl": {
-            "included_at_epoch": 1603912224.859334,
-            "included_at_iso": "2020-10-28T19:10:24.859334",
-            "last_retested_at_epoch": 1603912224.859334,
-            "last_retested_at_iso": "2020-10-28T19:10:24.859334",
+            "included_at_epoch": 1606332236.886057,
+            "included_at_iso": "2020-11-25T19:23:56.886057",
+            "last_retested_at_epoch": 1606332236.886057,
+            "last_retested_at_iso": "2020-11-25T19:23:56.886057",
             "status": "ACTIVE"
         },
         "oewa.at": {
@@ -19488,6 +19488,13 @@
             "last_retested_at_iso": "2020-11-21T18:52:33.313809",
             "status": "ACTIVE"
         },
+        "regularplants.com": {
+            "included_at_epoch": 1606332236.942697,
+            "included_at_iso": "2020-11-25T19:23:56.942697",
+            "last_retested_at_epoch": 1606332236.942697,
+            "last_retested_at_iso": "2020-11-25T19:23:56.942697",
+            "status": "ACTIVE"
+        },
         "reklam.rfsl.se": {
             "included_at_epoch": 1605984753.396375,
             "included_at_iso": "2020-11-21T18:52:33.396375",
@@ -20553,10 +20560,10 @@
             "status": "ACTIVE"
         },
         "sidebar.angelfire.com": {
-            "included_at_epoch": 1603912224.91224,
-            "included_at_iso": "2020-10-28T19:10:24.912240",
-            "last_retested_at_epoch": 1603912224.91224,
-            "last_retested_at_iso": "2020-10-28T19:10:24.912240",
+            "included_at_epoch": 1606332237.018327,
+            "included_at_iso": "2020-11-25T19:23:57.018327",
+            "last_retested_at_epoch": 1606332237.018327,
+            "last_retested_at_iso": "2020-11-25T19:23:57.018327",
             "status": "ACTIVE"
         },
         "silkysquirrel.com": {
