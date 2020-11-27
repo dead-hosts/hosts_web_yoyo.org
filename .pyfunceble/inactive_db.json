@@ -6706,6 +6706,13 @@
             "last_retested_at_iso": "2020-11-21T17:16:20.121140",
             "status": "ACTIVE"
         },
+        "adwebone.com": {
+            "included_at_epoch": 1606500613.564763,
+            "included_at_iso": "2020-11-27T18:10:13.564763",
+            "last_retested_at_epoch": 1606500613.564763,
+            "last_retested_at_iso": "2020-11-27T18:10:13.564763",
+            "status": "ACTIVE"
+        },
         "adwhirl.com": {
             "included_at_epoch": 1605978980.091114,
             "included_at_iso": "2020-11-21T17:16:20.091114",
@@ -15601,6 +15608,13 @@
             "included_at_iso": "2020-11-21T18:22:30.855738",
             "last_retested_at_epoch": 1605982950.855738,
             "last_retested_at_iso": "2020-11-21T18:22:30.855738",
+            "status": "ACTIVE"
+        },
+        "madinad.com": {
+            "included_at_epoch": 1606500613.640505,
+            "included_at_iso": "2020-11-27T18:10:13.640505",
+            "last_retested_at_epoch": 1606500613.640505,
+            "last_retested_at_iso": "2020-11-27T18:10:13.640505",
             "status": "ACTIVE"
         },
         "madisonavenue.com": {

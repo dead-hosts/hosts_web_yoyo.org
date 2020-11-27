@@ -1656,6 +1656,12 @@
         "expiration_date": "15-nov-2019",
         "state": "future"
     },
+    "adwebone.com": {
+        "epoch": 1633219200.0,
+        "expiration_date": "03-oct-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "adwhirl.com": {
         "epoch": 1618790400.0,
         "expiration_date": "19-apr-2021",
@@ -6977,6 +6983,12 @@
     "madcpms.com": {
         "epoch": 1636329600.0,
         "expiration_date": "08-nov-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "madinad.com": {
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
