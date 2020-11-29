@@ -9801,10 +9801,10 @@
             "status": "ACTIVE"
         },
         "click.email.sonos.com": {
-            "included_at_epoch": 1604247127.646808,
-            "included_at_iso": "2020-11-01T16:12:07.646808",
-            "last_retested_at_epoch": 1604247127.646808,
-            "last_retested_at_iso": "2020-11-01T16:12:07.646808",
+            "included_at_epoch": 1606668270.908914,
+            "included_at_iso": "2020-11-29T16:44:30.908914",
+            "last_retested_at_epoch": 1606668270.908914,
+            "last_retested_at_iso": "2020-11-29T16:44:30.908914",
             "status": "ACTIVE"
         },
         "click.fool.com": {
@@ -14540,10 +14540,10 @@
             "status": "ACTIVE"
         },
         "iyfnzgb.com": {
-            "included_at_epoch": 1604083242.058537,
-            "included_at_iso": "2020-10-30T18:40:42.058537",
-            "last_retested_at_epoch": 1604083242.058537,
-            "last_retested_at_iso": "2020-10-30T18:40:42.058537",
+            "included_at_epoch": 1606668270.982672,
+            "included_at_iso": "2020-11-29T16:44:30.982672",
+            "last_retested_at_epoch": 1606668270.982672,
+            "last_retested_at_iso": "2020-11-29T16:44:30.982672",
             "status": "ACTIVE"
         },
         "j93557g.com": {
