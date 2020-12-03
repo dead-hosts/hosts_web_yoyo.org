@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 30 Nov 2020 13:16:38 GMT
-# entries:        3563
+# last updated:   Thu, 03 Dec 2020 13:12:44 GMT
+# entries:        3565
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Wed, 06 Dec 2000 00:00:00
+# start date:    Fri, 08 Dec 2000 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -1413,6 +1413,7 @@
 0.0.0.0 clearcomb.com
 0.0.0.0 clevernt.com
 0.0.0.0 click.a-ads.com
+0.0.0.0 click.cartsguru.io
 0.0.0.0 click.email.sonos.com
 0.0.0.0 click.fool.com
 0.0.0.0 click.kmindex.ru
@@ -3256,6 +3257,7 @@
 0.0.0.0 track.tkbo.com
 0.0.0.0 track.ultravpn.com
 0.0.0.0 track.undressingpics.work
+0.0.0.0 track.unear.net
 0.0.0.0 track.vcdc.com
 0.0.0.0 track.viewdeos.com
 0.0.0.0 track1.viewdeos.com

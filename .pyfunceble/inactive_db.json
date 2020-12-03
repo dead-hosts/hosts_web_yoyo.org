@@ -8422,10 +8422,10 @@
             "status": "ACTIVE"
         },
         "banners.payserve.com": {
-            "included_at_epoch": 1604596981.686424,
-            "included_at_iso": "2020-11-05T17:23:01.686424",
-            "last_retested_at_epoch": 1604596981.686424,
-            "last_retested_at_iso": "2020-11-05T17:23:01.686424",
+            "included_at_epoch": 1607024255.045021,
+            "included_at_iso": "2020-12-03T19:37:35.045021",
+            "last_retested_at_epoch": 1607024255.045021,
+            "last_retested_at_iso": "2020-12-03T19:37:35.045021",
             "status": "ACTIVE"
         },
         "banners.resultonline.com": {
@@ -9812,6 +9812,13 @@
             "included_at_iso": "2020-11-21T18:22:05.992131",
             "last_retested_at_epoch": 1605982925.992131,
             "last_retested_at_iso": "2020-11-21T18:22:05.992131",
+            "status": "ACTIVE"
+        },
+        "click.cartsguru.io": {
+            "included_at_epoch": 1607024255.097652,
+            "included_at_iso": "2020-12-03T19:37:35.097652",
+            "last_retested_at_epoch": 1607024255.097652,
+            "last_retested_at_iso": "2020-12-03T19:37:35.097652",
             "status": "ACTIVE"
         },
         "click.email.sonos.com": {
@@ -15380,10 +15387,10 @@
             "status": "ACTIVE"
         },
         "locked4.com": {
-            "included_at_epoch": 1604596981.74928,
-            "included_at_iso": "2020-11-05T17:23:01.749280",
-            "last_retested_at_epoch": 1604596981.74928,
-            "last_retested_at_iso": "2020-11-05T17:23:01.749280",
+            "included_at_epoch": 1607024255.149225,
+            "included_at_iso": "2020-12-03T19:37:35.149225",
+            "last_retested_at_epoch": 1607024255.149225,
+            "last_retested_at_iso": "2020-12-03T19:37:35.149225",
             "status": "ACTIVE"
         },
         "lockerdome.com": {
@@ -22734,6 +22741,13 @@
             "included_at_iso": "2020-11-21T18:52:54.360052",
             "last_retested_at_epoch": 1605984774.360052,
             "last_retested_at_iso": "2020-11-21T18:52:54.360052",
+            "status": "ACTIVE"
+        },
+        "track.unear.net": {
+            "included_at_epoch": 1607024255.200261,
+            "included_at_iso": "2020-12-03T19:37:35.200261",
+            "last_retested_at_epoch": 1607024255.200261,
+            "last_retested_at_iso": "2020-12-03T19:37:35.200261",
             "status": "ACTIVE"
         },
         "track.vcdc.com": {
