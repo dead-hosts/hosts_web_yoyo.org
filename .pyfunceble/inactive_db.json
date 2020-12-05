@@ -1211,6 +1211,13 @@
             "last_retested_at_iso": "2020-11-21T17:16:00.371994",
             "status": "ACTIVE"
         },
+        "ad.universcine.com": {
+            "included_at_epoch": 1607187352.796721,
+            "included_at_iso": "2020-12-05T16:55:52.796721",
+            "last_retested_at_epoch": 1607187352.796721,
+            "last_retested_at_iso": "2020-12-05T16:55:52.796721",
+            "status": "ACTIVE"
+        },
         "ad.usatoday.com": {
             "included_at_epoch": 1605978960.391516,
             "included_at_iso": "2020-11-21T17:16:00.391516",
@@ -12384,10 +12391,10 @@
             "status": "ACTIVE"
         },
         "fast-redirecting.com": {
-            "included_at_epoch": 1604765299.981293,
-            "included_at_iso": "2020-11-07T16:08:19.981293",
-            "last_retested_at_epoch": 1604765299.981293,
-            "last_retested_at_iso": "2020-11-07T16:08:19.981293",
+            "included_at_epoch": 1607187352.850376,
+            "included_at_iso": "2020-12-05T16:55:52.850376",
+            "last_retested_at_epoch": 1607187352.850376,
+            "last_retested_at_iso": "2020-12-05T16:55:52.850376",
             "status": "ACTIVE"
         },
         "fastclick.com": {
@@ -15436,10 +15443,10 @@
             "status": "ACTIVE"
         },
         "logs.datadoghq.eu": {
-            "included_at_epoch": 1604765300.058346,
-            "included_at_iso": "2020-11-07T16:08:20.058346",
-            "last_retested_at_epoch": 1604765300.058346,
-            "last_retested_at_iso": "2020-11-07T16:08:20.058346",
+            "included_at_epoch": 1607187352.903812,
+            "included_at_iso": "2020-12-05T16:55:52.903812",
+            "last_retested_at_epoch": 1607187352.903812,
+            "last_retested_at_iso": "2020-12-05T16:55:52.903812",
             "status": "INACTIVE"
         },
         "logs.roku.com": {
@@ -17774,10 +17781,10 @@
             "status": "ACTIVE"
         },
         "ox1.shopcool.com.tw": {
-            "included_at_epoch": 1604765300.107236,
-            "included_at_iso": "2020-11-07T16:08:20.107236",
-            "last_retested_at_epoch": 1604765300.107236,
-            "last_retested_at_iso": "2020-11-07T16:08:20.107236",
+            "included_at_epoch": 1607187352.954298,
+            "included_at_iso": "2020-12-05T16:55:52.954298",
+            "last_retested_at_epoch": 1607187352.954298,
+            "last_retested_at_iso": "2020-12-05T16:55:52.954298",
             "status": "ACTIVE"
         },
         "oxado.com": {
@@ -23052,10 +23059,10 @@
             "status": "ACTIVE"
         },
         "traffic-redirecting.com": {
-            "included_at_epoch": 1604765300.158756,
-            "included_at_iso": "2020-11-07T16:08:20.158756",
-            "last_retested_at_epoch": 1604765300.158756,
-            "last_retested_at_iso": "2020-11-07T16:08:20.158756",
+            "included_at_epoch": 1607187353.003818,
+            "included_at_iso": "2020-12-05T16:55:53.003818",
+            "last_retested_at_epoch": 1607187353.003818,
+            "last_retested_at_iso": "2020-12-05T16:55:53.003818",
             "status": "ACTIVE"
         },
         "traffic.focuusing.com": {
