@@ -13217,10 +13217,10 @@
             "status": "ACTIVE"
         },
         "graizoah.com": {
-            "included_at_epoch": 1604944081.046372,
-            "included_at_iso": "2020-11-09T17:48:01.046372",
-            "last_retested_at_epoch": 1604944081.046372,
-            "last_retested_at_iso": "2020-11-09T17:48:01.046372",
+            "included_at_epoch": 1607365435.082598,
+            "included_at_iso": "2020-12-07T18:23:55.082598",
+            "last_retested_at_epoch": 1607365435.082598,
+            "last_retested_at_iso": "2020-12-07T18:23:55.082598",
             "status": "ACTIVE"
         },
         "grandioseguide.com": {
@@ -20294,10 +20294,10 @@
             "status": "ACTIVE"
         },
         "searching-place.com": {
-            "included_at_epoch": 1604944081.107768,
-            "included_at_iso": "2020-11-09T17:48:01.107768",
-            "last_retested_at_epoch": 1604944081.107768,
-            "last_retested_at_iso": "2020-11-09T17:48:01.107768",
+            "included_at_epoch": 1607365435.140979,
+            "included_at_iso": "2020-12-07T18:23:55.140979",
+            "last_retested_at_epoch": 1607365435.140979,
+            "last_retested_at_iso": "2020-12-07T18:23:55.140979",
             "status": "ACTIVE"
         },
         "searchmarketing.com": {
