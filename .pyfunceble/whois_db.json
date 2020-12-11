@@ -7066,6 +7066,12 @@
         "expiration_date": "06-jul-2022",
         "state": "future"
     },
+    "materialmoon.com": {
+        "epoch": 1616112000.0,
+        "expiration_date": "19-mar-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "matheranalytics.com": {
         "epoch": 1666483200.0,
         "expiration_date": "23-oct-2022",
@@ -8907,6 +8913,12 @@
         "expiration_date": "03-aug-2021",
         "state": "future"
     },
+    "puffypaste.com": {
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "puffypull.com": {
         "epoch": 1629158400.0,
         "expiration_date": "17-aug-2021",
@@ -10534,6 +10546,12 @@
     "stickyadstv.com": {
         "epoch": 1628899200.0,
         "expiration_date": "14-aug-2021",
+        "state": "future"
+    },
+    "stiffgame.com": {
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "storesurprise.com": {
