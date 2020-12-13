@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 10 Dec 2020 11:24:49 GMT
-# entries:        3555
+# last updated:   Sun, 13 Dec 2020 16:08:34 GMT
+# entries:        3556
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sat, 16 Dec 2000 00:00:00
+# start date:    Mon, 18 Dec 2000 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -1720,6 +1720,7 @@
 0.0.0.0 ero-advertising.com
 0.0.0.0 espn.com.ssl.sc.omtrdc.net
 0.0.0.0 estat.com
+0.0.0.0 esty.com
 0.0.0.0 et.nytimes.com
 0.0.0.0 etahub.com
 0.0.0.0 etargetnet.com

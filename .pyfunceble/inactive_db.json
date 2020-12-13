@@ -12019,6 +12019,13 @@
             "last_retested_at_iso": "2020-11-21T18:22:14.142900",
             "status": "ACTIVE"
         },
+        "esty.com": {
+            "included_at_epoch": 1607878318.306775,
+            "included_at_iso": "2020-12-13T16:51:58.306775",
+            "last_retested_at_epoch": 1607878318.306775,
+            "last_retested_at_iso": "2020-12-13T16:51:58.306775",
+            "status": "ACTIVE"
+        },
         "et.nytimes.com": {
             "included_at_epoch": 1605982934.170594,
             "included_at_iso": "2020-11-21T18:22:14.170594",
@@ -23374,10 +23381,10 @@
             "status": "ACTIVE"
         },
         "truehits2.gits.net.th": {
-            "included_at_epoch": 1605457270.461317,
-            "included_at_iso": "2020-11-15T16:21:10.461317",
-            "last_retested_at_epoch": 1605457270.461317,
-            "last_retested_at_iso": "2020-11-15T16:21:10.461317",
+            "included_at_epoch": 1607878318.383173,
+            "included_at_iso": "2020-12-13T16:51:58.383173",
+            "last_retested_at_epoch": 1607878318.383173,
+            "last_retested_at_iso": "2020-12-13T16:51:58.383173",
             "status": "ACTIVE"
         },
         "trust.titanhq.com": {
