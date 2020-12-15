@@ -6878,6 +6878,12 @@
         "expiration_date": "04-nov-2021",
         "state": "future"
     },
+    "lnks.gd": {
+        "epoch": 1623801600.0,
+        "expiration_date": "16-jun-2021",
+        "server": "whois.nic.gd",
+        "state": "future"
+    },
     "loading321.com": {
         "epoch": 1623542400.0,
         "expiration_date": "13-jun-2021",
@@ -8829,6 +8835,18 @@
         "expiration_date": "03-dec-2019",
         "state": "future"
     },
+    "protectcrev.com": {
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "protectsubrev.com": {
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "proton-tm.com": {
         "epoch": 1619395200.0,
         "expiration_date": "26-apr-2021",
@@ -9344,6 +9362,12 @@
         "expiration_date": "16-dec-2021",
         "state": "future"
     },
+    "revcatch.com": {
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "revcontent.com": {
         "epoch": 1619654400.0,
         "expiration_date": "29-apr-2021",
@@ -9373,6 +9397,12 @@
     "revlift.io": {
         "epoch": 1641859200.0,
         "expiration_date": "11-jan-2022",
+        "state": "future"
+    },
+    "revprotect.com": {
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "revsci.net": {
