@@ -6490,6 +6490,12 @@
         "expiration_date": "01-apr-2021",
         "state": "future"
     },
+    "juicyads.me": {
+        "epoch": 1672358400.0,
+        "expiration_date": "30-dec-2022",
+        "server": "whois.nic.me",
+        "state": "future"
+    },
     "jumptap.com": {
         "epoch": 1623801600.0,
         "expiration_date": "16-jun-2021",
@@ -11363,6 +11369,12 @@
     "trafficsecrets.com": {
         "epoch": 1649548800.0,
         "expiration_date": "10-apr-2022",
+        "state": "future"
+    },
+    "trafficshop.com": {
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "trafficspaces.net": {

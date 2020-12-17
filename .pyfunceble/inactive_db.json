@@ -14679,6 +14679,13 @@
             "last_retested_at_iso": "2020-11-21T18:22:26.004111",
             "status": "ACTIVE"
         },
+        "juicyads.me": {
+            "included_at_epoch": 1608227802.150983,
+            "included_at_iso": "2020-12-17T17:56:42.150983",
+            "last_retested_at_epoch": 1608227802.150983,
+            "last_retested_at_iso": "2020-12-17T17:56:42.150983",
+            "status": "ACTIVE"
+        },
         "jumptap.com": {
             "included_at_epoch": 1605982946.037294,
             "included_at_iso": "2020-11-21T18:22:26.037294",
@@ -23196,6 +23203,13 @@
             "included_at_iso": "2020-11-21T18:52:56.692536",
             "last_retested_at_epoch": 1605984776.692536,
             "last_retested_at_iso": "2020-11-21T18:52:56.692536",
+            "status": "ACTIVE"
+        },
+        "trafficshop.com": {
+            "included_at_epoch": 1608227802.227215,
+            "included_at_iso": "2020-12-17T17:56:42.227215",
+            "last_retested_at_epoch": 1608227802.227215,
+            "last_retested_at_iso": "2020-12-17T17:56:42.227215",
             "status": "ACTIVE"
         },
         "trafficspaces.net": {
