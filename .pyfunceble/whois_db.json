@@ -1632,8 +1632,9 @@
         "state": "future"
     },
     "advertstream.com": {
-        "epoch": 1606348800.0,
-        "expiration_date": "26-nov-2020",
+        "epoch": 1637884800.0,
+        "expiration_date": "26-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "advertwizard.com": {
@@ -1730,8 +1731,9 @@
         "state": "future"
     },
     "adyoulike.com": {
-        "epoch": 1607299200.0,
-        "expiration_date": "07-dec-2020",
+        "epoch": 1638835200.0,
+        "expiration_date": "07-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adz2you.com": {
@@ -1776,8 +1778,9 @@
         "state": "future"
     },
     "affec.tv": {
-        "epoch": 1606780800.0,
-        "expiration_date": "01-dec-2020",
+        "epoch": 1638316800.0,
+        "expiration_date": "01-dec-2021",
+        "server": "tvwhois.verisign-grs.com",
         "state": "future"
     },
     "affili.net": {
@@ -1842,8 +1845,9 @@
         "state": "future"
     },
     "agreeablestew.com": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "agreemand.com": {
@@ -1946,8 +1950,9 @@
         "state": "future"
     },
     "ambiguousquilt.com": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ambitiousagreement.com": {
@@ -2173,8 +2178,9 @@
         "state": "future"
     },
     "automaticflock.com": {
-        "epoch": 1607817600.0,
-        "expiration_date": "13-dec-2020",
+        "epoch": 1639353600.0,
+        "expiration_date": "13-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "avazutracking.net": {
@@ -2183,8 +2189,9 @@
         "state": "future"
     },
     "avenuea.com": {
-        "epoch": 1608163200.0,
-        "expiration_date": "17-dec-2020",
+        "epoch": 1639699200.0,
+        "expiration_date": "17-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "avocet.io": {
@@ -2203,8 +2210,9 @@
         "state": "future"
     },
     "awempire.com": {
-        "epoch": 1606780800.0,
-        "expiration_date": "01-dec-2020",
+        "epoch": 1638316800.0,
+        "expiration_date": "01-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "awin1.com": {
@@ -2316,8 +2324,9 @@
         "state": "future"
     },
     "bannerserver.com": {
-        "epoch": 1607472000.0,
-        "expiration_date": "09-dec-2020",
+        "epoch": 1639008000.0,
+        "expiration_date": "09-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bannersgomlm.com": {
@@ -2352,8 +2361,9 @@
         "state": "future"
     },
     "barbarousnerve.com": {
-        "epoch": 1607817600.0,
-        "expiration_date": "13-dec-2020",
+        "epoch": 1639353600.0,
+        "expiration_date": "13-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "basebanner.com": {
@@ -2378,8 +2388,9 @@
         "state": "future"
     },
     "baypops.com": {
-        "epoch": 1606348800.0,
-        "expiration_date": "26-nov-2020",
+        "epoch": 1637884800.0,
+        "expiration_date": "26-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bbelements.com": {
@@ -2414,8 +2425,9 @@
         "state": "future"
     },
     "beemray.com": {
-        "epoch": 1608076800.0,
-        "expiration_date": "16-dec-2020",
+        "epoch": 1639612800.0,
+        "expiration_date": "16-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "begun.ru": {
@@ -2725,8 +2737,9 @@
         "state": "future"
     },
     "boringcoat.com": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "boudja.com": {
@@ -2839,8 +2852,9 @@
         "state": "future"
     },
     "btrll.com": {
-        "epoch": 1608076800.0,
-        "expiration_date": "16-dec-2020",
+        "epoch": 1639612800.0,
+        "expiration_date": "16-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bttrack.com": {
@@ -2870,8 +2884,9 @@
         "state": "future"
     },
     "bustlinganimal.com": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "buyingadsmadeeasy.com": {
@@ -2936,8 +2951,9 @@
         "state": "future"
     },
     "caniamedia.com": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "capablecows.com": {
@@ -3029,8 +3045,9 @@
         "state": "future"
     },
     "casinotraffic.com": {
-        "epoch": 1607558400.0,
-        "expiration_date": "10-dec-2020",
+        "epoch": 1639094400.0,
+        "expiration_date": "10-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "casinotreasure.com": {
@@ -3128,8 +3145,9 @@
         "state": "future"
     },
     "cheerfulrange.com": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cherrythread.com": {
@@ -3392,18 +3410,21 @@
         "state": "future"
     },
     "clk1005.com": {
-        "epoch": 1607385600.0,
-        "expiration_date": "08-dec-2020",
+        "epoch": 1638921600.0,
+        "expiration_date": "08-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "clk1011.com": {
-        "epoch": 1607472000.0,
-        "expiration_date": "09-dec-2020",
+        "epoch": 1639008000.0,
+        "expiration_date": "09-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "clk1015.com": {
-        "epoch": 1607472000.0,
-        "expiration_date": "09-dec-2020",
+        "epoch": 1639008000.0,
+        "expiration_date": "09-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "clkrev.com": {
@@ -3418,8 +3439,9 @@
         "state": "future"
     },
     "cloisteredhydrant.com": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cloudcoins.biz": {
@@ -3475,8 +3497,9 @@
         "state": "future"
     },
     "coinhive.com": {
-        "epoch": 1606780800.0,
-        "expiration_date": "01-dec-2020",
+        "epoch": 1638316800.0,
+        "expiration_date": "01-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cointraffic.io": {
@@ -3521,8 +3544,9 @@
         "state": "future"
     },
     "commonswing.com": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "compactbanner.com": {
@@ -3549,8 +3573,9 @@
         "state": "future"
     },
     "concernedcondition.com": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "concernrain.com": {
@@ -3777,8 +3802,9 @@
         "state": "future"
     },
     "crazyegg.com": {
-        "epoch": 1608336000.0,
-        "expiration_date": "19-dec-2020",
+        "epoch": 1639872000.0,
+        "expiration_date": "19-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "crazypopups.com": {
@@ -3824,8 +3850,9 @@
         "state": "future"
     },
     "crowdgravity.com": {
-        "epoch": 1608076800.0,
-        "expiration_date": "16-dec-2020",
+        "epoch": 1639612800.0,
+        "expiration_date": "16-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "crownclam.com": {
@@ -3929,8 +3956,9 @@
         "state": "future"
     },
     "dapper.net": {
-        "epoch": 1606780800.0,
-        "expiration_date": "01-dec-2020",
+        "epoch": 1638316800.0,
+        "expiration_date": "01-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "dashbida.com": {
@@ -3946,8 +3974,9 @@
         "state": "future"
     },
     "dashingsweater.com": {
-        "epoch": 1607817600.0,
-        "expiration_date": "13-dec-2020",
+        "epoch": 1639353600.0,
+        "expiration_date": "13-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "data8a8altrk.com": {
@@ -3983,8 +4012,9 @@
         "state": "future"
     },
     "debonairway.com": {
-        "epoch": 1607817600.0,
-        "expiration_date": "13-dec-2020",
+        "epoch": 1639353600.0,
+        "expiration_date": "13-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "debtbusterloans.com": {
@@ -4067,8 +4097,9 @@
         "state": "future"
     },
     "desertedbreath.com": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "desertedrat.com": {
@@ -4082,8 +4113,9 @@
         "state": "future"
     },
     "detailedgovernment.com": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "detectdiscovery.com": {
@@ -4098,8 +4130,9 @@
         "state": "future"
     },
     "dianomi.com": {
-        "epoch": 1607558400.0,
-        "expiration_date": "10-dec-2020",
+        "epoch": 1639094400.0,
+        "expiration_date": "10-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "didtheyreadit.com": {
@@ -4118,8 +4151,9 @@
         "state": "future"
     },
     "direct-xxx-access.com": {
-        "epoch": 1608249600.0,
-        "expiration_date": "18-dec-2020",
+        "epoch": 1639785600.0,
+        "expiration_date": "18-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "directaclick.com": {
@@ -4133,8 +4167,9 @@
         "state": "future"
     },
     "directleads.com": {
-        "epoch": 1606867200.0,
-        "expiration_date": "02-dec-2020",
+        "epoch": 1638403200.0,
+        "expiration_date": "02-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "directorym.com": {
@@ -4159,8 +4194,9 @@
         "state": "future"
     },
     "dispensablestranger.com": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "displayadsmedia.com": {
@@ -4271,8 +4307,9 @@
         "state": "future"
     },
     "drabsize.com": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "dragzebra.com": {
@@ -4397,8 +4434,9 @@
         "state": "future"
     },
     "economicpizzas.com": {
-        "epoch": 1607817600.0,
-        "expiration_date": "13-dec-2020",
+        "epoch": 1639353600.0,
+        "expiration_date": "13-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ecoupons.com": {
@@ -4530,13 +4568,15 @@
         "state": "future"
     },
     "encouragingwilderness.com": {
-        "epoch": 1607817600.0,
-        "expiration_date": "13-dec-2020",
+        "epoch": 1639353600.0,
+        "expiration_date": "13-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "endurableshop.com": {
-        "epoch": 1607817600.0,
-        "expiration_date": "13-dec-2020",
+        "epoch": 1639353600.0,
+        "expiration_date": "13-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "energeticladybug.com": {
@@ -4587,13 +4627,15 @@
         "state": "future"
     },
     "enthusiasticdad.com": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "enviousthread.com": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "epom.com": {
@@ -4644,8 +4686,9 @@
         "state": "future"
     },
     "etracker.com": {
-        "epoch": 1606003200.0,
-        "expiration_date": "22-nov-2020",
+        "epoch": 1637539200.0,
+        "expiration_date": "22-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "eu-adcenter.net": {
@@ -4674,8 +4717,9 @@
         "state": "future"
     },
     "evadavdsp.pro": {
-        "epoch": 1607731200.0,
-        "expiration_date": "12-dec-2020",
+        "epoch": 1639267200.0,
+        "expiration_date": "12-dec-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "eventbeacon.ca": {
@@ -4684,8 +4728,9 @@
         "state": "future"
     },
     "everestads.net": {
-        "epoch": 1606089600.0,
-        "expiration_date": "23-nov-2020",
+        "epoch": 1637625600.0,
+        "expiration_date": "23-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "everesttech.net": {
@@ -4869,8 +4914,9 @@
         "state": "future"
     },
     "fadedprofit.com": {
-        "epoch": 1607817600.0,
-        "expiration_date": "13-dec-2020",
+        "epoch": 1639353600.0,
+        "expiration_date": "13-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "fadedsnow.com": {
@@ -4885,8 +4931,9 @@
         "state": "future"
     },
     "famousquarter.com": {
-        "epoch": 1607817600.0,
-        "expiration_date": "13-dec-2020",
+        "epoch": 1639353600.0,
+        "expiration_date": "13-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "fanaticalfly.com": {
@@ -4911,8 +4958,9 @@
         "state": "future"
     },
     "fascinatedfeather.com": {
-        "epoch": 1607817600.0,
-        "expiration_date": "13-dec-2020",
+        "epoch": 1639353600.0,
+        "expiration_date": "13-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "fast-adv.it": {
@@ -5066,8 +5114,9 @@
         "state": "future"
     },
     "flimsycircle.com": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "floodprincipal.com": {
@@ -5086,8 +5135,9 @@
         "state": "future"
     },
     "fly-analytics.com": {
-        "epoch": 1606867200.0,
-        "expiration_date": "02-dec-2020",
+        "epoch": 1638403200.0,
+        "expiration_date": "02-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "foamybox.com": {
@@ -5111,8 +5161,9 @@
         "state": "future"
     },
     "fourarithmetic.com": {
-        "epoch": 1607817600.0,
-        "expiration_date": "13-dec-2020",
+        "epoch": 1639353600.0,
+        "expiration_date": "13-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "fpctraffic.com": {
@@ -5166,8 +5217,9 @@
         "state": "future"
     },
     "freelogs.com": {
-        "epoch": 1608076800.0,
-        "expiration_date": "16-dec-2020",
+        "epoch": 1671148800.0,
+        "expiration_date": "16-dec-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "freemaineads.com": {
@@ -5204,8 +5256,9 @@
         "state": "future"
     },
     "freewebcounter.com": {
-        "epoch": 1607385600.0,
-        "expiration_date": "08-dec-2020",
+        "epoch": 1638921600.0,
+        "expiration_date": "08-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "freewheel.com": {
@@ -5225,8 +5278,9 @@
         "state": "future"
     },
     "frightenedpotato.com": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "frtyj.com": {
@@ -5255,8 +5309,9 @@
         "state": "future"
     },
     "functionalcrown.com": {
-        "epoch": 1607817600.0,
-        "expiration_date": "13-dec-2020",
+        "epoch": 1639353600.0,
+        "expiration_date": "13-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "funklicks.com": {
@@ -5377,8 +5432,9 @@
         "state": "future"
     },
     "getclicky.com": {
-        "epoch": 1606521600.0,
-        "expiration_date": "28-nov-2020",
+        "epoch": 1638057600.0,
+        "expiration_date": "28-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "getintent.com": {
@@ -5423,8 +5479,9 @@
         "state": "future"
     },
     "glossysense.com": {
-        "epoch": 1607817600.0,
-        "expiration_date": "13-dec-2020",
+        "epoch": 1639353600.0,
+        "expiration_date": "13-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "gloyah.net": {
@@ -5445,8 +5502,9 @@
         "state": "future"
     },
     "go-mpulse.net": {
-        "epoch": 1606867200.0,
-        "expiration_date": "02-dec-2020",
+        "epoch": 1669939200.0,
+        "expiration_date": "02-dec-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "go2affise.com": {
@@ -5496,8 +5554,9 @@
         "state": "future"
     },
     "googletagservices.com": {
-        "epoch": 1608163200.0,
-        "expiration_date": "17-dec-2020",
+        "epoch": 1639699200.0,
+        "expiration_date": "17-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "gorgeousground.com": {
@@ -5511,14 +5570,16 @@
         "state": "future"
     },
     "gostats.com": {
-        "epoch": 1606780800.0,
-        "expiration_date": "01-dec-2020",
+        "epoch": 1764547200.0,
+        "expiration_date": "01-dec-2025",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "gothamads.com": {
         "epoch": 1608508800.0,
         "expiration_date": "21-dec-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "gotraffic.net": {
         "epoch": 1615075200.0,
@@ -5600,8 +5661,9 @@
         "state": "future"
     },
     "h-bid.com": {
-        "epoch": 1608076800.0,
-        "expiration_date": "16-dec-2020",
+        "epoch": 1639612800.0,
+        "expiration_date": "16-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "h3btqpy2abc3.com": {
@@ -5655,8 +5717,9 @@
         "state": "future"
     },
     "harrenmedianetwork.com": {
-        "epoch": 1607644800.0,
-        "expiration_date": "11-dec-2020",
+        "epoch": 1639180800.0,
+        "expiration_date": "11-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "havamedia.net": {
@@ -5690,8 +5753,9 @@
         "state": "future"
     },
     "hentaicounter.com": {
-        "epoch": 1607472000.0,
-        "expiration_date": "09-dec-2020",
+        "epoch": 1639008000.0,
+        "expiration_date": "09-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "herbalaffiliateprogram.com": {
@@ -5721,13 +5785,15 @@
         "state": "future"
     },
     "highfalutinroom.com": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hightrafficads.com": {
-        "epoch": 1607990400.0,
-        "expiration_date": "15-dec-2020",
+        "epoch": 1639526400.0,
+        "expiration_date": "15-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hilariouszinc.com": {
@@ -5746,8 +5812,9 @@
         "state": "future"
     },
     "historicalrequest.com": {
-        "epoch": 1607817600.0,
-        "expiration_date": "13-dec-2020",
+        "epoch": 1639353600.0,
+        "expiration_date": "13-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hit-parade.com": {
@@ -5913,8 +5980,9 @@
         "state": "future"
     },
     "hubadnetwork.com": {
-        "epoch": 1607040000.0,
-        "expiration_date": "04-dec-2020",
+        "epoch": 1638576000.0,
+        "expiration_date": "04-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hueads.com": {
@@ -5938,8 +6006,9 @@
         "state": "future"
     },
     "hurtteeth.com": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hydramedia.com": {
@@ -6056,8 +6125,9 @@
         "state": "future"
     },
     "illfatedsnail.com": {
-        "epoch": 1607817600.0,
-        "expiration_date": "13-dec-2020",
+        "epoch": 1639353600.0,
+        "expiration_date": "13-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "illustriousoatmeal.com": {
@@ -6097,10 +6167,10 @@
         "state": "future"
     },
     "imprese.cz": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
         "server": "whois.nic.cz",
-        "state": "past"
+        "state": "future"
     },
     "impressionmedia.cz": {
         "epoch": 1690070400.0,
@@ -6393,8 +6463,9 @@
         "state": "future"
     },
     "ipstack.com": {
-        "epoch": 1606089600.0,
-        "expiration_date": "23-nov-2020",
+        "epoch": 1637625600.0,
+        "expiration_date": "23-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "iqm.com": {
@@ -6435,8 +6506,9 @@
         "state": "future"
     },
     "itsptp.com": {
-        "epoch": 1606348800.0,
-        "expiration_date": "26-nov-2020",
+        "epoch": 1637884800.0,
+        "expiration_date": "26-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ivykiosk.com": {
@@ -6562,8 +6634,9 @@
         "state": "future"
     },
     "kargo.com": {
-        "epoch": 1608163200.0,
-        "expiration_date": "17-dec-2020",
+        "epoch": 1639699200.0,
+        "expiration_date": "17-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "karisimbi.net": {
@@ -6699,8 +6772,9 @@
         "state": "future"
     },
     "laughablecopper.com": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "laughcloth.com": {
@@ -6763,8 +6837,9 @@
         "state": "future"
     },
     "lemmatechnologies.com": {
-        "epoch": 1608336000.0,
-        "expiration_date": "19-dec-2020",
+        "epoch": 1671408000.0,
+        "expiration_date": "19-dec-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "lettucelimit.com": {
@@ -6789,8 +6864,9 @@
         "state": "future"
     },
     "lifeimpressions.net": {
-        "epoch": 1607126400.0,
-        "expiration_date": "05-dec-2020",
+        "epoch": 1638662400.0,
+        "expiration_date": "05-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "liftdna.com": {
@@ -6845,8 +6921,9 @@
         "state": "future"
     },
     "linkrain.com": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "linkreferral.com": {
@@ -7075,8 +7152,9 @@
         "state": "future"
     },
     "markedpail.com": {
-        "epoch": 1607817600.0,
-        "expiration_date": "13-dec-2020",
+        "epoch": 1639353600.0,
+        "expiration_date": "13-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "market-buster.com": {
@@ -7118,8 +7196,9 @@
         "state": "future"
     },
     "mathtag.com": {
-        "epoch": 1607817600.0,
-        "expiration_date": "13-dec-2020",
+        "epoch": 1639353600.0,
+        "expiration_date": "13-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mautic.com": {
@@ -7295,8 +7374,9 @@
         "state": "future"
     },
     "metanetwork.com": {
-        "epoch": 1606953600.0,
-        "expiration_date": "03-dec-2020",
+        "epoch": 1638489600.0,
+        "expiration_date": "03-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "methodcash.com": {
@@ -7398,8 +7478,9 @@
         "state": "future"
     },
     "mltrk.io": {
-        "epoch": 1607990400.0,
-        "expiration_date": "15-dec-2020",
+        "epoch": 1639526400.0,
+        "expiration_date": "15-dec-2021",
+        "server": "whois.nic.io",
         "state": "future"
     },
     "mmismm.com": {
@@ -7547,8 +7628,9 @@
         "state": "future"
     },
     "movad.net": {
-        "epoch": 1607212800.0,
-        "expiration_date": "06-dec-2020",
+        "epoch": 1638748800.0,
+        "expiration_date": "06-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mowfruit.com": {
@@ -7562,8 +7644,9 @@
         "state": "future"
     },
     "mpstat.us": {
-        "epoch": 1606608000.0,
-        "expiration_date": "29-nov-2020",
+        "epoch": 1638144000.0,
+        "expiration_date": "29-nov-2021",
+        "server": "whois.nic.us",
         "state": "future"
     },
     "mrskincash.com": {
@@ -7755,8 +7838,9 @@
         "state": "future"
     },
     "navigator.io": {
-        "epoch": 1606608000.0,
-        "expiration_date": "29-nov-2020",
+        "epoch": 1638144000.0,
+        "expiration_date": "29-nov-2021",
+        "server": "whois.nic.io",
         "state": "future"
     },
     "navrcholu.cz": {
@@ -7766,8 +7850,9 @@
         "state": "future"
     },
     "nbjmp.com": {
-        "epoch": 1606780800.0,
-        "expiration_date": "01-dec-2020",
+        "epoch": 1638316800.0,
+        "expiration_date": "01-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ncaudienceexchange.com": {
@@ -7802,8 +7887,9 @@
         "state": "future"
     },
     "neighborlywatch.com": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "nend.net": {
@@ -7890,8 +7976,9 @@
         "state": "future"
     },
     "newstarads.com": {
-        "epoch": 1607731200.0,
-        "expiration_date": "12-dec-2020",
+        "epoch": 1639267200.0,
+        "expiration_date": "12-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "newtopsites.com": {
@@ -7937,8 +8024,9 @@
         "state": "future"
     },
     "nondescriptsmile.com": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "nondescriptstocking.com": {
@@ -7990,8 +8078,9 @@
         "state": "future"
     },
     "nuttyorganization.com": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "nzaza.com": {
@@ -8064,8 +8153,9 @@
         "state": "future"
     },
     "omniscientspark.com": {
-        "epoch": 1606262400.0,
-        "expiration_date": "25-nov-2020",
+        "epoch": 1637798400.0,
+        "expiration_date": "25-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "omniture.com": {
@@ -8127,8 +8217,9 @@
         "state": "future"
     },
     "onlinecashmethod.com": {
-        "epoch": 1607299200.0,
-        "expiration_date": "07-dec-2020",
+        "epoch": 1613779200.0,
+        "expiration_date": "20-feb-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "onlinerewardcenter.com": {
@@ -8185,8 +8276,9 @@
         "state": "future"
     },
     "optimallimit.com": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "optimizely.com": {
@@ -8195,8 +8287,9 @@
         "state": "future"
     },
     "optimost.com": {
-        "epoch": 1607817600.0,
-        "expiration_date": "13-dec-2020",
+        "epoch": 1639353600.0,
+        "expiration_date": "13-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "optmd.com": {
@@ -8215,8 +8308,9 @@
         "state": "future"
     },
     "optnmstr.com": {
-        "epoch": 1607731200.0,
-        "expiration_date": "12-dec-2020",
+        "epoch": 1670803200.0,
+        "expiration_date": "12-dec-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ordingly.com": {
@@ -8327,8 +8421,9 @@
         "state": "future"
     },
     "parchedangle.com": {
-        "epoch": 1607817600.0,
-        "expiration_date": "13-dec-2020",
+        "epoch": 1639353600.0,
+        "expiration_date": "13-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "parketsy.pro": {
@@ -8429,8 +8524,9 @@
         "state": "future"
     },
     "percentmobile.com": {
-        "epoch": 1607212800.0,
-        "expiration_date": "06-dec-2020",
+        "epoch": 1670284800.0,
+        "expiration_date": "06-dec-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "perfectaudience.com": {
@@ -8570,8 +8666,9 @@
         "state": "future"
     },
     "playhaven.com": {
-        "epoch": 1606867200.0,
-        "expiration_date": "02-dec-2020",
+        "epoch": 1638403200.0,
+        "expiration_date": "02-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "playmobileads.com": {
@@ -8665,8 +8762,9 @@
         "state": "future"
     },
     "popuptraffic.com": {
-        "epoch": 1607817600.0,
-        "expiration_date": "13-dec-2020",
+        "epoch": 1639353600.0,
+        "expiration_date": "13-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "porngraph.com": {
@@ -8680,8 +8778,9 @@
         "state": "future"
     },
     "possessivebucket.com": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "possibleboats.com": {
@@ -8769,8 +8868,9 @@
         "state": "future"
     },
     "prmtracking.com": {
-        "epoch": 1607212800.0,
-        "expiration_date": "06-dec-2020",
+        "epoch": 1638748800.0,
+        "expiration_date": "06-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "pro-advertising.com": {
