@@ -245,6 +245,13 @@
             "last_retested_at_iso": "2020-12-21T17:54:58.315499",
             "status": "ACTIVE"
         },
+        "a-ads.com": {
+            "included_at_epoch": 1608743760.113862,
+            "included_at_iso": "2020-12-23T17:16:00.113862",
+            "last_retested_at_epoch": 1608743760.113862,
+            "last_retested_at_iso": "2020-12-23T17:16:00.113862",
+            "status": "ACTIVE"
+        },
         "a.aproductmsg.com": {
             "included_at_epoch": 1608573298.319581,
             "included_at_iso": "2020-12-21T17:54:58.319581",
@@ -341,6 +348,13 @@
             "included_at_iso": "2020-12-21T17:54:58.375375",
             "last_retested_at_epoch": 1608573298.375375,
             "last_retested_at_iso": "2020-12-21T17:54:58.375375",
+            "status": "ACTIVE"
+        },
+        "a8a8altrk.com": {
+            "included_at_epoch": 1608743760.230869,
+            "included_at_iso": "2020-12-23T17:16:00.230869",
+            "last_retested_at_epoch": 1608743760.230869,
+            "last_retested_at_iso": "2020-12-23T17:16:00.230869",
             "status": "ACTIVE"
         },
         "aa-metrics.beauty.hotpepper.jp": {
