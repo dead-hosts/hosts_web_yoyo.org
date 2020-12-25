@@ -1498,6 +1498,13 @@
             "last_retested_at_iso": "2020-12-21T17:54:59.391228",
             "status": "ACTIVE"
         },
+        "adbooth.net": {
+            "included_at_epoch": 1608914458.708187,
+            "included_at_iso": "2020-12-25T16:40:58.708187",
+            "last_retested_at_epoch": 1608914458.708187,
+            "last_retested_at_iso": "2020-12-25T16:40:58.708187",
+            "status": "ACTIVE"
+        },
         "adbot.com": {
             "included_at_epoch": 1608573299.397568,
             "included_at_iso": "2020-12-21T17:54:59.397568",
@@ -7995,10 +8002,10 @@
             "status": "ACTIVE"
         },
         "banner.finzoom.ro": {
-            "included_at_epoch": 1606332236.720997,
-            "included_at_iso": "2020-11-25T19:23:56.720997",
-            "last_retested_at_epoch": 1606332236.720997,
-            "last_retested_at_iso": "2020-11-25T19:23:56.720997",
+            "included_at_epoch": 1608914458.761112,
+            "included_at_iso": "2020-12-25T16:40:58.761112",
+            "last_retested_at_epoch": 1608914458.761112,
+            "last_retested_at_iso": "2020-12-25T16:40:58.761112",
             "status": "ACTIVE"
         },
         "banner.goldenpalace.com": {
@@ -8212,10 +8219,10 @@
             "status": "ACTIVE"
         },
         "bannermanager.bnr.bg": {
-            "included_at_epoch": 1606332236.778776,
-            "included_at_iso": "2020-11-25T19:23:56.778776",
-            "last_retested_at_epoch": 1606332236.778776,
-            "last_retested_at_iso": "2020-11-25T19:23:56.778776",
+            "included_at_epoch": 1608914458.811942,
+            "included_at_iso": "2020-12-25T16:40:58.811942",
+            "last_retested_at_epoch": 1608914458.811942,
+            "last_retested_at_iso": "2020-12-25T16:40:58.811942",
             "status": "ACTIVE"
         },
         "bannermarkt.nl": {
@@ -8954,10 +8961,10 @@
             "status": "ACTIVE"
         },
         "bnrs.ilm.ee": {
-            "included_at_epoch": 1606332236.837925,
-            "included_at_iso": "2020-11-25T19:23:56.837925",
-            "last_retested_at_epoch": 1606332236.837925,
-            "last_retested_at_iso": "2020-11-25T19:23:56.837925",
+            "included_at_epoch": 1608914458.862431,
+            "included_at_iso": "2020-12-25T16:40:58.862431",
+            "last_retested_at_epoch": 1608914458.862431,
+            "last_retested_at_iso": "2020-12-25T16:40:58.862431",
             "status": "ACTIVE"
         },
         "boffoadsapi.com": {
@@ -17235,10 +17242,10 @@
             "status": "ACTIVE"
         },
         "odbierz-bony.ovp.pl": {
-            "included_at_epoch": 1606332236.886057,
-            "included_at_iso": "2020-11-25T19:23:56.886057",
-            "last_retested_at_epoch": 1606332236.886057,
-            "last_retested_at_iso": "2020-11-25T19:23:56.886057",
+            "included_at_epoch": 1608914458.912807,
+            "included_at_iso": "2020-12-25T16:40:58.912807",
+            "last_retested_at_epoch": 1608914458.912807,
+            "last_retested_at_iso": "2020-12-25T16:40:58.912807",
             "status": "ACTIVE"
         },
         "oewa.at": {
@@ -19468,10 +19475,10 @@
             "status": "ACTIVE"
         },
         "regularplants.com": {
-            "included_at_epoch": 1606332236.942697,
-            "included_at_iso": "2020-11-25T19:23:56.942697",
-            "last_retested_at_epoch": 1606332236.942697,
-            "last_retested_at_iso": "2020-11-25T19:23:56.942697",
+            "included_at_epoch": 1608914458.963697,
+            "included_at_iso": "2020-12-25T16:40:58.963697",
+            "last_retested_at_epoch": 1608914458.963697,
+            "last_retested_at_iso": "2020-12-25T16:40:58.963697",
             "status": "ACTIVE"
         },
         "reklam.rfsl.se": {
@@ -20546,10 +20553,10 @@
             "status": "ACTIVE"
         },
         "sidebar.angelfire.com": {
-            "included_at_epoch": 1606332237.018327,
-            "included_at_iso": "2020-11-25T19:23:57.018327",
-            "last_retested_at_epoch": 1606332237.018327,
-            "last_retested_at_iso": "2020-11-25T19:23:57.018327",
+            "included_at_epoch": 1608914459.016175,
+            "included_at_iso": "2020-12-25T16:40:59.016175",
+            "last_retested_at_epoch": 1608914459.016175,
+            "last_retested_at_iso": "2020-12-25T16:40:59.016175",
             "status": "ACTIVE"
         },
         "silkysquirrel.com": {
