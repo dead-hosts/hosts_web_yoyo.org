@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 17 Dec 2020 09:47:06 GMT
-# entries:        3563
+# last updated:   Wed, 13 Jan 2021 13:11:44 GMT
+# entries:        3562
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Mon, 01 Jan 2001 00:00:00
+# start date:    Thu, 18 Jan 2001 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -75,6 +75,7 @@
 0.0.0.0 abandonedaction.com
 0.0.0.0 abc-ads.com
 0.0.0.0 aboardlevel.com
+0.0.0.0 aboutads.gr
 0.0.0.0 abruptroad.com
 0.0.0.0 absentstream.com
 0.0.0.0 absoluteclickscom.com
@@ -150,7 +151,6 @@
 0.0.0.0 ad.jamster.co.uk
 0.0.0.0 ad.jetsoftware.com
 0.0.0.0 ad.keenspace.com
-0.0.0.0 ad.kissanime.nz
 0.0.0.0 ad.liveinternet.ru
 0.0.0.0 ad.lupa.cz
 0.0.0.0 ad.media-servers.net
@@ -170,13 +170,11 @@
 0.0.0.0 ad.preferances.com
 0.0.0.0 ad.profiwin.de
 0.0.0.0 ad.prv.pl
-0.0.0.0 ad.pttcn.net
 0.0.0.0 ad.reunion.com
 0.0.0.0 ad.sensismediasmart.com.au
 0.0.0.0 ad.seznam.cz
 0.0.0.0 ad.simflight.com
 0.0.0.0 ad.simgames.net
-0.0.0.0 ad.smartclip.net
 0.0.0.0 ad.style
 0.0.0.0 ad.tapthislink.com
 0.0.0.0 ad.tbn.ru
@@ -374,7 +372,6 @@
 0.0.0.0 adrecreate.com
 0.0.0.0 adremedy.com
 0.0.0.0 adreporting.com
-0.0.0.0 adres.internet.com
 0.0.0.0 adrevolver.com
 0.0.0.0 adriver.ru
 0.0.0.0 adrolays.de
@@ -551,7 +548,6 @@
 0.0.0.0 ads.imgur.com
 0.0.0.0 ads.independent.com.mt
 0.0.0.0 ads.infi.net
-0.0.0.0 ads.internet24.se
 0.0.0.0 ads.internic.co.il
 0.0.0.0 ads.ipowerweb.com
 0.0.0.0 ads.isoftmarketing.com
@@ -799,6 +795,7 @@
 0.0.0.0 adsend.de
 0.0.0.0 adsensecustomsearchads.com
 0.0.0.0 adserve.ams.rhythmxchange.com
+0.0.0.0 adserve.gkeurope.de
 0.0.0.0 adserve.io
 0.0.0.0 adserve.jbs.org
 0.0.0.0 adserver.71i.de
@@ -810,6 +807,7 @@
 0.0.0.0 adserver.bdoce.cl
 0.0.0.0 adserver.betandwin.de
 0.0.0.0 adserver.bing.com
+0.0.0.0 adserver.bizedge.com
 0.0.0.0 adserver.bizhat.com
 0.0.0.0 adserver.break-even.it
 0.0.0.0 adserver.cams.com
@@ -839,6 +837,7 @@
 0.0.0.0 adserver.o2.pl
 0.0.0.0 adserver.oddschecker.com
 0.0.0.0 adserver.omroepzeeland.nl
+0.0.0.0 adserver.otthonom.hu
 0.0.0.0 adserver.pampa.com.br
 0.0.0.0 adserver.pl
 0.0.0.0 adserver.portugalmail.net
@@ -848,6 +847,7 @@
 0.0.0.0 adserver.sharewareonline.com
 0.0.0.0 adserver.spankaway.com
 0.0.0.0 adserver.theonering.net
+0.0.0.0 adserver.trojaner-info.de
 0.0.0.0 adserver.twitpic.com
 0.0.0.0 adserver.virginmedia.com
 0.0.0.0 adserver.yahoo.com
@@ -1001,7 +1001,6 @@
 0.0.0.0 affiliate.rusvpn.com
 0.0.0.0 affiliate.travelnow.com
 0.0.0.0 affiliate.treated.com
-0.0.0.0 affiliate.viator.com
 0.0.0.0 affiliatefuture.com
 0.0.0.0 affiliates.allposters.com
 0.0.0.0 affiliates.babylon.com
@@ -1022,12 +1021,12 @@
 0.0.0.0 ah-ha.com
 0.0.0.0 ahalogy.com
 0.0.0.0 aheadday.com
-0.0.0.0 aidu-ads.de
 0.0.0.0 aim4media.com
 0.0.0.0 airpush.com
 0.0.0.0 aistat.net
 0.0.0.0 ak0gsh40.com
 0.0.0.0 aktrack.pubmatic.com
+0.0.0.0 alchemist.go2cloud.org
 0.0.0.0 alclick.com
 0.0.0.0 alenty.com
 0.0.0.0 alert.com.mt
@@ -1822,7 +1821,6 @@
 0.0.0.0 freebanner.com
 0.0.0.0 freecounterstat.com
 0.0.0.0 freelogs.com
-0.0.0.0 freemaineads.com
 0.0.0.0 freeonlineusers.com
 0.0.0.0 freepay.com
 0.0.0.0 freeskreen.com
@@ -1983,6 +1981,7 @@
 0.0.0.0 hyperbanner.net
 0.0.0.0 hypertracker.com
 0.0.0.0 hyprmx.com
+0.0.0.0 hyros.com
 0.0.0.0 hystericalhelp.com
 0.0.0.0 i-clicks.net
 0.0.0.0 i-i.lt
@@ -2264,6 +2263,7 @@
 0.0.0.0 matheranalytics.com
 0.0.0.0 mathtag.com
 0.0.0.0 matomo.activate.cz
+0.0.0.0 matomo.kmkb.ru
 0.0.0.0 mautic.com
 0.0.0.0 max.i12.de
 0.0.0.0 maximiser.net
@@ -2334,7 +2334,6 @@
 0.0.0.0 mintegral.com
 0.0.0.0 mixedreading.com
 0.0.0.0 mixpanel.com
-0.0.0.0 mjxads.internet.com
 0.0.0.0 mkto-ab410147.com
 0.0.0.0 mktoresp.com
 0.0.0.0 ml314.com
@@ -2899,7 +2898,6 @@
 0.0.0.0 screechingfurniture.com
 0.0.0.0 scripte-monster.de
 0.0.0.0 scrubswim.com
-0.0.0.0 sdcswingers.online
 0.0.0.0 sdkfjxjertertry.com
 0.0.0.0 seadform.net
 0.0.0.0 searching-place.com
@@ -2912,6 +2910,7 @@
 0.0.0.0 securemetrics.apple.com
 0.0.0.0 sedoparking.com
 0.0.0.0 sedotracker.com
+0.0.0.0 segmetrics.io
 0.0.0.0 selectivesummer.com
 0.0.0.0 semasio.net
 0.0.0.0 sendmepixel.com
@@ -3071,6 +3070,7 @@
 0.0.0.0 stats.mirrorfootball.co.uk
 0.0.0.0 stats.olark.com
 0.0.0.0 stats.pusher.com
+0.0.0.0 stats.rdphv.net
 0.0.0.0 stats.self.com
 0.0.0.0 stats.townnews.com
 0.0.0.0 stats.unwired-i.net
@@ -3190,6 +3190,7 @@
 0.0.0.0 thinkablerice.com
 0.0.0.0 thirdrespect.com
 0.0.0.0 thirstytwig.com
+0.0.0.0 thomastorch.com
 0.0.0.0 threechurch.com
 0.0.0.0 throattrees.com
 0.0.0.0 throtle.io
@@ -3236,7 +3237,6 @@
 0.0.0.0 touchclarity.com
 0.0.0.0 touchclarity.natwest.com
 0.0.0.0 tour.brazzers.com
-0.0.0.0 tpnads.com
 0.0.0.0 track.addevent.com
 0.0.0.0 track.adform.net
 0.0.0.0 track.anchorfree.com
@@ -3348,7 +3348,6 @@
 0.0.0.0 turboadv.com
 0.0.0.0 turn.com
 0.0.0.0 tvmtracker.com
-0.0.0.0 twittad.com
 0.0.0.0 twyn.com
 0.0.0.0 tynt.com
 0.0.0.0 typicalteeth.com
