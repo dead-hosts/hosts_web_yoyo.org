@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 13 Jan 2021 13:11:44 GMT
-# entries:        3562
+# last updated:   Thu, 14 Jan 2021 13:25:13 GMT
+# entries:        3563
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -2204,6 +2204,7 @@
 0.0.0.0 log.btopenworld.com
 0.0.0.0 log.logrocket.io
 0.0.0.0 log.pinterest.com
+0.0.0.0 log.videocampaign.co
 0.0.0.0 logger.snackly.co
 0.0.0.0 logs.datadoghq.com
 0.0.0.0 logs.datadoghq.eu
