@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 14 Jan 2021 13:25:13 GMT
-# entries:        3562
+# last updated:   Fri, 15 Jan 2021 13:11:10 GMT
+# entries:        3565
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -96,6 +96,7 @@
 0.0.0.0 acuityplatform.com
 0.0.0.0 ad-balancer.at
 0.0.0.0 ad-balancer.net
+0.0.0.0 ad-cupid.com
 0.0.0.0 ad-delivery.net
 0.0.0.0 ad-pay.de
 0.0.0.0 ad-rotator.com
@@ -865,6 +866,7 @@
 0.0.0.0 adsfac.eu
 0.0.0.0 adsfac.net
 0.0.0.0 adsfac.us
+0.0.0.0 adsfactor.net
 0.0.0.0 adsfeed.brabys.com
 0.0.0.0 adside.com
 0.0.0.0 adsiduous.com
@@ -3249,6 +3251,7 @@
 0.0.0.0 track.hexcan.com
 0.0.0.0 track.mailerlite.com
 0.0.0.0 track.nuxues.com
+0.0.0.0 track.themaccleanup.info
 0.0.0.0 track.tkbo.com
 0.0.0.0 track.ultravpn.com
 0.0.0.0 track.undressingpics.work
