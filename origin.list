@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 14 Jan 2021 13:25:13 GMT
-# entries:        3563
+# entries:        3562
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -136,7 +136,6 @@
 0.0.0.0 ad.flurry.com
 0.0.0.0 ad.foxnetworks.com
 0.0.0.0 ad.freecity.de
-0.0.0.0 ad.gate24.ch
 0.0.0.0 ad.grafika.cz
 0.0.0.0 ad.gt
 0.0.0.0 ad.hbv.de
@@ -845,7 +844,6 @@
 0.0.0.0 adserver.sanomawsoy.fi
 0.0.0.0 adserver.sciflicks.com
 0.0.0.0 adserver.sharewareonline.com
-0.0.0.0 adserver.spankaway.com
 0.0.0.0 adserver.theonering.net
 0.0.0.0 adserver.trojaner-info.de
 0.0.0.0 adserver.twitpic.com
@@ -1110,6 +1108,7 @@
 0.0.0.0 at-adserver.alltop.com
 0.0.0.0 atdmt.com
 0.0.0.0 athena-ads.wikia.com
+0.0.0.0 ato.mx
 0.0.0.0 attractiveafternoon.com
 0.0.0.0 attribution.report
 0.0.0.0 attributiontracker.com
@@ -1179,7 +1178,6 @@
 0.0.0.0 bannerads.de
 0.0.0.0 bannerboxes.com
 0.0.0.0 bannercommunity.de
-0.0.0.0 bannerconnect.com
 0.0.0.0 bannerconnect.net
 0.0.0.0 bannergrabber.internet.gr
 0.0.0.0 bannerimage.com
@@ -1191,7 +1189,6 @@
 0.0.0.0 banners.adultfriendfinder.com
 0.0.0.0 banners.amigos.com
 0.0.0.0 banners.asiafriendfinder.com
-0.0.0.0 banners.babylon-x.com
 0.0.0.0 banners.bol.com.br
 0.0.0.0 banners.cams.com
 0.0.0.0 banners.clubseventeen.com
@@ -2085,6 +2082,7 @@
 0.0.0.0 iyfnzgb.com
 0.0.0.0 j93557g.com
 0.0.0.0 jadeitite.com
+0.0.0.0 jaizouji.com
 0.0.0.0 jauchuwa.net
 0.0.0.0 jcount.com
 0.0.0.0 jdoqocy.com
@@ -3349,6 +3347,7 @@
 0.0.0.0 turboadv.com
 0.0.0.0 turn.com
 0.0.0.0 tvmtracker.com
+0.0.0.0 twittad.com
 0.0.0.0 twyn.com
 0.0.0.0 tynt.com
 0.0.0.0 typicalteeth.com
