@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 15 Jan 2021 13:11:10 GMT
-# entries:        3565
+# last updated:   Mon, 18 Jan 2021 00:52:09 GMT
+# entries:        3568
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -221,6 +221,7 @@
 0.0.0.0 adap.tv
 0.0.0.0 adapt.tv
 0.0.0.0 adaranth.com
+0.0.0.0 adbilty.me
 0.0.0.0 adblade.com
 0.0.0.0 adblade.org
 0.0.0.0 adblockanalytics.com
@@ -3424,6 +3425,7 @@
 0.0.0.0 visitpath.com
 0.0.0.0 visual-pagerank.fr
 0.0.0.0 visualrevenue.com
+0.0.0.0 vivads.net
 0.0.0.0 vivtracking.com
 0.0.0.0 vmmpxl.com
 0.0.0.0 voicefive.com
@@ -3522,6 +3524,7 @@
 0.0.0.0 xad.com
 0.0.0.0 xapads.com
 0.0.0.0 xchange.ro
+0.0.0.0 xcsypkknp.com
 0.0.0.0 xertive.com
 0.0.0.0 xfreeservice.com
 0.0.0.0 xg4ken.com
