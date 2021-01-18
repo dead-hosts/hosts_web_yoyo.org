@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 18 Jan 2021 00:52:09 GMT
-# entries:        3568
+# last updated:   Mon, 18 Jan 2021 15:38:29 GMT
+# entries:        3569
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -3070,6 +3070,7 @@
 0.0.0.0 stats.hyperinzerce.cz
 0.0.0.0 stats.merriam-webster.com
 0.0.0.0 stats.mirrorfootball.co.uk
+0.0.0.0 stats.nextgen-email.com
 0.0.0.0 stats.olark.com
 0.0.0.0 stats.pusher.com
 0.0.0.0 stats.rdphv.net
