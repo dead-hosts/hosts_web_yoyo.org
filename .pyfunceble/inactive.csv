@@ -2,3 +2,4 @@ idna_subject,checker_type,destination,source,tested_at
 ad.gate24.ch,AVAILABILITY,origin.list,/home/runner/work/hosts_web_yoyo.org/hosts_web_yoyo.org/origin.list,2021-01-13 20:34:30.092778
 ad.intl.xiaomi.com,AVAILABILITY,origin.list,/home/runner/work/hosts_web_yoyo.org/hosts_web_yoyo.org/origin.list,2021-01-13 20:35:25.433693
 ad.xiaomi.com,AVAILABILITY,origin.list,/home/runner/work/hosts_web_yoyo.org/hosts_web_yoyo.org/origin.list,2021-01-13 20:39:40.340636
+adsrv.eacdn.com,AVAILABILITY,origin.list,/home/runner/work/hosts_web_yoyo.org/hosts_web_yoyo.org/origin.list,2021-01-19 13:28:32.270151
