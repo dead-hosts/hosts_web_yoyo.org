@@ -465,7 +465,6 @@
         "wiki.bo"
     ],
     "br": [
-        "mil.br",
         "9guacu.br",
         "abc.br",
         "adm.br",
@@ -577,6 +576,7 @@
         "maringa.br",
         "mat.br",
         "med.br",
+        "mil.br",
         "morena.br",
         "mp.br",
         "mus.br",
@@ -1480,10 +1480,10 @@
         "in-butter.de",
         "in-dsl.de",
         "in-vpn.de",
+        "keymachine.de",
         "mein-iserv.de",
         "schulserver.de",
         "test-iserv.de",
-        "keymachine.de",
         "git-repos.de",
         "lcube-server.de",
         "svn-repos.de",
