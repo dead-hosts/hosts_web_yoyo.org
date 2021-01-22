@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 21 Jan 2021 13:53:20 GMT
-# entries:        3571
+# entries:        3567
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -1475,7 +1475,6 @@
 0.0.0.0 colonize.com
 0.0.0.0 comclick.com
 0.0.0.0 comfortablecheese.com
-0.0.0.0 commindo-media-ressourcen.de
 0.0.0.0 commissionmonster.com
 0.0.0.0 commonswing.com
 0.0.0.0 compactbanner.com
@@ -2511,7 +2510,6 @@
 0.0.0.0 openads.org
 0.0.0.0 openadsnetwork.com
 0.0.0.0 opentag-stats.qubit.com
-0.0.0.0 openx.actvtech.com
 0.0.0.0 openx.angelsgroup.org.uk
 0.0.0.0 openx.aosis.co.za
 0.0.0.0 openx.cairo360.com
@@ -2740,7 +2738,6 @@
 0.0.0.0 r.msn.com
 0.0.0.0 r.scoota.co
 0.0.0.0 radar.cedexis.com
-0.0.0.0 radarurl.com
 0.0.0.0 radiate.com
 0.0.0.0 rads.alfamedia.pl
 0.0.0.0 rads.realadmin.pl
@@ -3527,7 +3524,6 @@
 0.0.0.0 xad.com
 0.0.0.0 xapads.com
 0.0.0.0 xchange.ro
-0.0.0.0 xcsypkknp.com
 0.0.0.0 xertive.com
 0.0.0.0 xfreeservice.com
 0.0.0.0 xg4ken.com
