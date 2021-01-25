@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 21 Jan 2021 13:53:20 GMT
-# entries:        3567
+# last updated:   Mon, 25 Jan 2021 11:52:20 GMT
+# entries:        3568
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -3163,6 +3163,7 @@
 0.0.0.0 tcads.net
 0.0.0.0 teads.tv
 0.0.0.0 tealeaf.com
+0.0.0.0 tealium.cbsnews.com
 0.0.0.0 tealium.com
 0.0.0.0 tealiumiq.com
 0.0.0.0 techclicks.net
