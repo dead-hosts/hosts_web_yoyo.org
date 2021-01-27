@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 27 Jan 2021 10:22:34 GMT
-# entries:        3569
+# last updated:   Wed, 27 Jan 2021 12:39:59 GMT
+# entries:        3570
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -868,6 +868,7 @@
 0.0.0.0 adsfac.us
 0.0.0.0 adsfactor.net
 0.0.0.0 adsfeed.brabys.com
+0.0.0.0 adshrink.it
 0.0.0.0 adside.com
 0.0.0.0 adsiduous.com
 0.0.0.0 adskeeper.co.uk
