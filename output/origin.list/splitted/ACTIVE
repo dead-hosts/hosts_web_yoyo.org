@@ -589,7 +589,7 @@ ads.muslimehelfen.org                                                           
 ads.mvscoelho.com                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 ads.myadv.org                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 ads.nccwebs.com                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-ads.ncm.com                                                                                          ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+ads.ncm.com                                                                                          ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 ads.ndtv1.com                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 ads.networksolutions.com                                                                             ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 ads.newgrounds.com                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
@@ -800,3 +800,8 @@ adserver.bizhat.com                                                             
 adserver.break-even.it                                                                               ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 adserver.cams.com                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 adserver.cdnstream.com                                                                               ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+adserver.com                                                                                         ACTIVE      WHOIS      08-jan-2022       Unknown    AVAILABILITY 
+adserver.diariodosertao.com.br                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+adserver.digitoday.com                                                                               ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+adserver.echdk.pl                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+adserver.ekokatu.com                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
