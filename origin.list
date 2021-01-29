@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 27 Jan 2021 12:39:59 GMT
-# entries:        3570
+# entries:        3571
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -845,6 +845,7 @@
 0.0.0.0 adserver.sanomawsoy.fi
 0.0.0.0 adserver.sciflicks.com
 0.0.0.0 adserver.sharewareonline.com
+0.0.0.0 adserver.spankaway.com
 0.0.0.0 adserver.theonering.net
 0.0.0.0 adserver.trojaner-info.de
 0.0.0.0 adserver.twitpic.com
@@ -1193,6 +1194,7 @@
 0.0.0.0 banners.adultfriendfinder.com
 0.0.0.0 banners.amigos.com
 0.0.0.0 banners.asiafriendfinder.com
+0.0.0.0 banners.babylon-x.com
 0.0.0.0 banners.bol.com.br
 0.0.0.0 banners.cams.com
 0.0.0.0 banners.clubseventeen.com
@@ -1958,7 +1960,6 @@
 0.0.0.0 hlok.qertewrt.com
 0.0.0.0 hocgeese.com
 0.0.0.0 hollandbusinessadvertising.nl
-0.0.0.0 hollps.win
 0.0.0.0 homepageking.de
 0.0.0.0 honeygoldfish.com
 0.0.0.0 honorablehall.com
