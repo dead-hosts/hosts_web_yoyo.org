@@ -2,14 +2,14 @@
     "abs_source": "/home/runner/work/hosts_web_yoyo.org/hosts_web_yoyo.org/origin.list",
     "checker_type": "AVAILABILITY",
     "destination": "origin.list",
-    "hash": "7ab92183b2fadd18675b2f6474cfbf03f76f5cbf427be3766970d3ad",
+    "hash": "ad084bdf35c68d82eb0cb09c9a411b29964e2607d07425c73b49a689",
     "line_number": 3586,
     "output_dir": "/home/runner/work/hosts_web_yoyo.org/hosts_web_yoyo.org/output/origin.list",
-    "previous_hash": "7ab92183b2fadd18675b2f6474cfbf03f76f5cbf427be3766970d3ad",
+    "previous_hash": "ad084bdf35c68d82eb0cb09c9a411b29964e2607d07425c73b49a689",
     "rel_source": "origin.list",
     "session_id": "67a607e535b5f2609e06c684",
-    "source": "/home/runner/work/hosts_web_yoyo.org/hosts_web_yoyo.org/origin.list",
-    "subject": "/home/runner/work/hosts_web_yoyo.org/hosts_web_yoyo.org/origin.list",
+    "source": "origin.list",
+    "subject": "origin.list",
     "subject_type": "domain",
     "type": "file"
 }
