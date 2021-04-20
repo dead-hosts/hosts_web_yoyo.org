@@ -1,15 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ad.gate24.ch,AVAILABILITY,origin.list,2021-04-18 21:36:19.455500
-ad.seznam.cz,AVAILABILITY,origin.list,2021-04-18 21:36:27.905688
-ad.intl.xiaomi.com,AVAILABILITY,origin.list,2021-04-18 21:36:44.332348
-ad.xiaomi.com,AVAILABILITY,origin.list,2021-04-18 21:37:00.864715
-adsrv.eacdn.com,AVAILABILITY,origin.list,2021-04-18 21:37:07.174228
-clickwith.bid,AVAILABILITY,origin.list,2021-04-18 21:37:14.588419
-measure.office.com,AVAILABILITY,origin.list,2021-04-18 21:37:20.765091
-mtrcs.samba.tv,AVAILABILITY,origin.list,2021-04-18 21:37:27.036800
-pgl.example.com,AVAILABILITY,origin.list,2021-04-18 21:37:33.238944
-pgl.example0101,AVAILABILITY,origin.list,2021-04-18 21:37:37.110586
-stat.xiaomi.com,AVAILABILITY,origin.list,2021-04-18 21:37:53.393451
 track.nuxues.com,AVAILABILITY,origin.list,2021-04-19 21:12:55.237783
 click.kmindex.ru,AVAILABILITY,origin.list,2021-04-19 21:41:38.615566
 counting.kmindex.ru,AVAILABILITY,origin.list,2021-04-19 21:42:09.383316
@@ -27,3 +16,14 @@ openx.aosis.co.za,AVAILABILITY,origin.list,2021-04-19 21:43:27.665948
 rb1.design.ru,AVAILABILITY,origin.list,2021-04-19 21:43:35.145406
 remotead.cnet.com,AVAILABILITY,origin.list,2021-04-19 21:43:41.264690
 logs.datadoghq.eu,AVAILABILITY,origin.list,2021-04-19 21:43:47.470588
+ad.gate24.ch,AVAILABILITY,origin.list,2021-04-20 05:35:46.560852
+ad.seznam.cz,AVAILABILITY,origin.list,2021-04-20 05:35:54.161601
+ad.intl.xiaomi.com,AVAILABILITY,origin.list,2021-04-20 05:36:11.261512
+ad.xiaomi.com,AVAILABILITY,origin.list,2021-04-20 05:36:28.583194
+adsrv.eacdn.com,AVAILABILITY,origin.list,2021-04-20 05:36:35.445639
+clickwith.bid,AVAILABILITY,origin.list,2021-04-20 05:36:42.032537
+measure.office.com,AVAILABILITY,origin.list,2021-04-20 05:36:48.525443
+mtrcs.samba.tv,AVAILABILITY,origin.list,2021-04-20 05:36:54.761766
+pgl.example.com,AVAILABILITY,origin.list,2021-04-20 05:37:00.835948
+pgl.example0101,AVAILABILITY,origin.list,2021-04-20 05:37:04.685673
+stat.xiaomi.com,AVAILABILITY,origin.list,2021-04-20 05:37:21.638611
