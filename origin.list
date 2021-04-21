@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 21 Apr 2021 09:00:21 GMT
-# entries:        3583
+# last updated:   Wed, 21 Apr 2021 16:23:06 GMT
+# entries:        3584
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -2266,6 +2266,7 @@
 0.0.0.0 matomo.activate.cz
 0.0.0.0 matomo.hdweb.ru
 0.0.0.0 matomo.kmkb.ru
+0.0.0.0 matomo.oka-zakaz.ru
 0.0.0.0 mautic.com
 0.0.0.0 max.i12.de
 0.0.0.0 maximiser.net
