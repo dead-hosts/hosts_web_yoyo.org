@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 19 Apr 2021 18:02:46 GMT
-# entries:        3582
+# last updated:   Wed, 21 Apr 2021 09:00:21 GMT
+# entries:        3583
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -1634,6 +1634,7 @@
 0.0.0.0 dmtracking2.alibaba.com
 0.0.0.0 dnsdelegation.io
 0.0.0.0 do-global.com
+0.0.0.0 dockdigestion.com
 0.0.0.0 docksalmon.com
 0.0.0.0 dogcollarfavourbluff.com
 0.0.0.0 domaining.in
