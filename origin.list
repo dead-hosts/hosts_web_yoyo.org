@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 21 Apr 2021 16:23:06 GMT
-# entries:        3584
+# last updated:   Thu, 22 Apr 2021 09:09:14 GMT
+# entries:        3585
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -1069,6 +1069,7 @@
 0.0.0.0 analytics.xelondigital.com
 0.0.0.0 analytics.yahoo.com
 0.0.0.0 analyticsapi.happypancake.net
+0.0.0.0 analytik.xyz
 0.0.0.0 ancientact.com
 0.0.0.0 aniview.com
 0.0.0.0 annonser.dagbladet.no
