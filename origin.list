@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 22 Apr 2021 09:09:14 GMT
-# entries:        3585
+# last updated:   Thu, 22 Apr 2021 11:05:38 GMT
+# entries:        3586
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -2953,6 +2953,7 @@
 0.0.0.0 shoppingads.com
 0.0.0.0 sicksmash.com
 0.0.0.0 sidebar.angelfire.com
+0.0.0.0 signalayer.com
 0.0.0.0 silkysquirrel.com
 0.0.0.0 sillyscrew.com
 0.0.0.0 silvalliant.info
