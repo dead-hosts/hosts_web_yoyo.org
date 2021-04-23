@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 22 Apr 2021 11:05:38 GMT
-# entries:        3586
+# entries:        3583
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -423,7 +423,6 @@
 0.0.0.0 ads.bigfoot.com
 0.0.0.0 ads.bing.com
 0.0.0.0 ads.bittorrent.com
-0.0.0.0 ads.biz.tr
 0.0.0.0 ads.blog.com
 0.0.0.0 ads.bloomberg.com
 0.0.0.0 ads.bluemountain.com
@@ -1556,7 +1555,6 @@
 0.0.0.0 crwdcntrl.net
 0.0.0.0 crypto-loot.org
 0.0.0.0 ctnetwork.hu
-0.0.0.0 cubics.com
 0.0.0.0 culturedcrayon.com
 0.0.0.0 cumbersomecloud.com
 0.0.0.0 curtaincows.com
@@ -3402,7 +3400,6 @@
 0.0.0.0 utl-1.com
 0.0.0.0 uttermosthobbies.com
 0.0.0.0 uu.domainforlite.com
-0.0.0.0 uzk4umokyri3.com
 0.0.0.0 v1.cnzz.com
 0.0.0.0 v1adserver.com
 0.0.0.0 validclick.com
