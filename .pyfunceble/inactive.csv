@@ -1,16 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ads.yourfreedvds.com,AVAILABILITY,origin.list,2021-04-23 13:14:17.289981
-ad.gate24.ch,AVAILABILITY,origin.list,2021-04-23 16:37:11.879767
-ad.seznam.cz,AVAILABILITY,origin.list,2021-04-23 16:37:19.790731
-ad.intl.xiaomi.com,AVAILABILITY,origin.list,2021-04-23 16:37:36.065105
-ad.xiaomi.com,AVAILABILITY,origin.list,2021-04-23 16:37:53.357899
-adsrv.eacdn.com,AVAILABILITY,origin.list,2021-04-23 16:37:59.794541
-clickwith.bid,AVAILABILITY,origin.list,2021-04-23 16:38:06.340430
-measure.office.com,AVAILABILITY,origin.list,2021-04-23 16:38:12.432694
-mtrcs.samba.tv,AVAILABILITY,origin.list,2021-04-23 16:38:18.632105
-pgl.example.com,AVAILABILITY,origin.list,2021-04-23 16:38:24.720528
-pgl.example0101,AVAILABILITY,origin.list,2021-04-23 16:38:28.599242
-stat.xiaomi.com,AVAILABILITY,origin.list,2021-04-23 16:38:45.041064
 adserver.hardsextube.com,AVAILABILITY,origin.list,2021-04-24 09:32:13.473539
 adserver.hardwareanalysis.com,AVAILABILITY,origin.list,2021-04-24 09:32:24.410756
 api.jetlore.com,AVAILABILITY,origin.list,2021-04-24 09:32:30.740793
@@ -25,3 +13,14 @@ openx.aosis.co.za,AVAILABILITY,origin.list,2021-04-24 09:33:38.504065
 rb1.design.ru,AVAILABILITY,origin.list,2021-04-24 09:33:48.153358
 remotead.cnet.com,AVAILABILITY,origin.list,2021-04-24 09:33:54.471990
 logs.datadoghq.eu,AVAILABILITY,origin.list,2021-04-24 09:34:00.842601
+ad.gate24.ch,AVAILABILITY,origin.list,2021-04-24 17:36:38.246826
+ad.seznam.cz,AVAILABILITY,origin.list,2021-04-24 17:36:46.304276
+ad.intl.xiaomi.com,AVAILABILITY,origin.list,2021-04-24 17:37:02.730032
+ad.xiaomi.com,AVAILABILITY,origin.list,2021-04-24 17:37:18.853195
+adsrv.eacdn.com,AVAILABILITY,origin.list,2021-04-24 17:37:25.330090
+clickwith.bid,AVAILABILITY,origin.list,2021-04-24 17:37:31.892859
+measure.office.com,AVAILABILITY,origin.list,2021-04-24 17:37:37.906169
+mtrcs.samba.tv,AVAILABILITY,origin.list,2021-04-24 17:37:44.119080
+pgl.example.com,AVAILABILITY,origin.list,2021-04-24 17:37:50.262569
+pgl.example0101,AVAILABILITY,origin.list,2021-04-24 17:37:54.212361
+stat.xiaomi.com,AVAILABILITY,origin.list,2021-04-24 17:38:10.620954
