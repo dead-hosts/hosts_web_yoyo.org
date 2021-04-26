@@ -1,15 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ad.gate24.ch,AVAILABILITY,origin.list,2021-04-24 17:36:38.246826
-ad.seznam.cz,AVAILABILITY,origin.list,2021-04-24 17:36:46.304276
-ad.intl.xiaomi.com,AVAILABILITY,origin.list,2021-04-24 17:37:02.730032
-ad.xiaomi.com,AVAILABILITY,origin.list,2021-04-24 17:37:18.853195
-adsrv.eacdn.com,AVAILABILITY,origin.list,2021-04-24 17:37:25.330090
-clickwith.bid,AVAILABILITY,origin.list,2021-04-24 17:37:31.892859
-measure.office.com,AVAILABILITY,origin.list,2021-04-24 17:37:37.906169
-mtrcs.samba.tv,AVAILABILITY,origin.list,2021-04-24 17:37:44.119080
-pgl.example.com,AVAILABILITY,origin.list,2021-04-24 17:37:50.262569
-pgl.example0101,AVAILABILITY,origin.list,2021-04-24 17:37:54.212361
-stat.xiaomi.com,AVAILABILITY,origin.list,2021-04-24 17:38:10.620954
 adserver.hardsextube.com,AVAILABILITY,origin.list,2021-04-25 17:03:33.336827
 adserver.hardwareanalysis.com,AVAILABILITY,origin.list,2021-04-25 17:03:49.342077
 api.jetlore.com,AVAILABILITY,origin.list,2021-04-25 17:03:55.468652
@@ -24,3 +13,14 @@ openx.aosis.co.za,AVAILABILITY,origin.list,2021-04-25 17:05:04.155891
 rb1.design.ru,AVAILABILITY,origin.list,2021-04-25 17:05:14.086496
 remotead.cnet.com,AVAILABILITY,origin.list,2021-04-25 17:05:20.869371
 logs.datadoghq.eu,AVAILABILITY,origin.list,2021-04-25 17:05:27.733885
+ad.gate24.ch,AVAILABILITY,origin.list,2021-04-26 01:19:07.157171
+ad.seznam.cz,AVAILABILITY,origin.list,2021-04-26 01:19:15.799547
+ad.intl.xiaomi.com,AVAILABILITY,origin.list,2021-04-26 01:19:32.635645
+ad.xiaomi.com,AVAILABILITY,origin.list,2021-04-26 01:19:48.949452
+adsrv.eacdn.com,AVAILABILITY,origin.list,2021-04-26 01:19:55.226149
+clickwith.bid,AVAILABILITY,origin.list,2021-04-26 01:20:01.950096
+measure.office.com,AVAILABILITY,origin.list,2021-04-26 01:20:08.038491
+mtrcs.samba.tv,AVAILABILITY,origin.list,2021-04-26 01:20:14.195688
+pgl.example.com,AVAILABILITY,origin.list,2021-04-26 01:20:20.364876
+pgl.example0101,AVAILABILITY,origin.list,2021-04-26 01:20:24.295419
+stat.xiaomi.com,AVAILABILITY,origin.list,2021-04-26 01:20:40.563039
