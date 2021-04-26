@@ -1,18 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-adserver.hardsextube.com,AVAILABILITY,origin.list,2021-04-25 17:03:33.336827
-adserver.hardwareanalysis.com,AVAILABILITY,origin.list,2021-04-25 17:03:49.342077
-api.jetlore.com,AVAILABILITY,origin.list,2021-04-25 17:03:55.468652
-audit.quantcast.mgr.consensu.org,AVAILABILITY,origin.list,2021-04-25 17:04:01.703111
-bannercommunity.de,AVAILABILITY,origin.list,2021-04-25 17:04:11.526071
-counts.tucows.com,AVAILABILITY,origin.list,2021-04-25 17:04:18.410088
-hollandbusinessadvertising.nl,AVAILABILITY,origin.list,2021-04-25 17:04:32.643595
-mads.cnet.com,AVAILABILITY,origin.list,2021-04-25 17:04:39.636351
-media.ftv-publicite.fr,AVAILABILITY,origin.list,2021-04-25 17:04:46.896404
-numax.nu-1.com,AVAILABILITY,origin.list,2021-04-25 17:04:53.825837
-openx.aosis.co.za,AVAILABILITY,origin.list,2021-04-25 17:05:04.155891
-rb1.design.ru,AVAILABILITY,origin.list,2021-04-25 17:05:14.086496
-remotead.cnet.com,AVAILABILITY,origin.list,2021-04-25 17:05:20.869371
-logs.datadoghq.eu,AVAILABILITY,origin.list,2021-04-25 17:05:27.733885
 ad.gate24.ch,AVAILABILITY,origin.list,2021-04-26 01:19:07.157171
 ad.seznam.cz,AVAILABILITY,origin.list,2021-04-26 01:19:15.799547
 ad.intl.xiaomi.com,AVAILABILITY,origin.list,2021-04-26 01:19:32.635645
@@ -25,3 +11,17 @@ pgl.example.com,AVAILABILITY,origin.list,2021-04-26 01:20:20.364876
 pgl.example0101,AVAILABILITY,origin.list,2021-04-26 01:20:24.295419
 stat.xiaomi.com,AVAILABILITY,origin.list,2021-04-26 01:20:40.563039
 adv.mezon.ru,AVAILABILITY,origin.list,2021-04-26 13:42:26.543868
+adserver.hardsextube.com,AVAILABILITY,origin.list,2021-04-26 17:33:03.180623
+adserver.hardwareanalysis.com,AVAILABILITY,origin.list,2021-04-26 17:33:11.265611
+api.jetlore.com,AVAILABILITY,origin.list,2021-04-26 17:33:17.671112
+audit.quantcast.mgr.consensu.org,AVAILABILITY,origin.list,2021-04-26 17:33:23.716784
+bannercommunity.de,AVAILABILITY,origin.list,2021-04-26 17:33:32.419053
+counts.tucows.com,AVAILABILITY,origin.list,2021-04-26 17:33:38.698104
+hollandbusinessadvertising.nl,AVAILABILITY,origin.list,2021-04-26 17:33:49.683044
+mads.cnet.com,AVAILABILITY,origin.list,2021-04-26 17:33:55.868022
+media.ftv-publicite.fr,AVAILABILITY,origin.list,2021-04-26 17:34:02.415636
+numax.nu-1.com,AVAILABILITY,origin.list,2021-04-26 17:34:08.334244
+openx.aosis.co.za,AVAILABILITY,origin.list,2021-04-26 17:34:17.407755
+rb1.design.ru,AVAILABILITY,origin.list,2021-04-26 17:34:24.758091
+remotead.cnet.com,AVAILABILITY,origin.list,2021-04-26 17:34:31.198987
+logs.datadoghq.eu,AVAILABILITY,origin.list,2021-04-26 17:34:37.443994
