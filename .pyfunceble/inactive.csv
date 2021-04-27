@@ -1,15 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ad.gate24.ch,AVAILABILITY,origin.list,2021-04-26 01:19:07.157171
-ad.seznam.cz,AVAILABILITY,origin.list,2021-04-26 01:19:15.799547
-ad.intl.xiaomi.com,AVAILABILITY,origin.list,2021-04-26 01:19:32.635645
-ad.xiaomi.com,AVAILABILITY,origin.list,2021-04-26 01:19:48.949452
-adsrv.eacdn.com,AVAILABILITY,origin.list,2021-04-26 01:19:55.226149
-clickwith.bid,AVAILABILITY,origin.list,2021-04-26 01:20:01.950096
-measure.office.com,AVAILABILITY,origin.list,2021-04-26 01:20:08.038491
-mtrcs.samba.tv,AVAILABILITY,origin.list,2021-04-26 01:20:14.195688
-pgl.example.com,AVAILABILITY,origin.list,2021-04-26 01:20:20.364876
-pgl.example0101,AVAILABILITY,origin.list,2021-04-26 01:20:24.295419
-stat.xiaomi.com,AVAILABILITY,origin.list,2021-04-26 01:20:40.563039
 adv.mezon.ru,AVAILABILITY,origin.list,2021-04-26 13:42:26.543868
 adserver.hardsextube.com,AVAILABILITY,origin.list,2021-04-26 17:33:03.180623
 adserver.hardwareanalysis.com,AVAILABILITY,origin.list,2021-04-26 17:33:11.265611
@@ -25,3 +14,14 @@ openx.aosis.co.za,AVAILABILITY,origin.list,2021-04-26 17:34:17.407755
 rb1.design.ru,AVAILABILITY,origin.list,2021-04-26 17:34:24.758091
 remotead.cnet.com,AVAILABILITY,origin.list,2021-04-26 17:34:31.198987
 logs.datadoghq.eu,AVAILABILITY,origin.list,2021-04-26 17:34:37.443994
+ad.gate24.ch,AVAILABILITY,origin.list,2021-04-27 01:37:48.416270
+ad.seznam.cz,AVAILABILITY,origin.list,2021-04-27 01:37:56.153277
+ad.intl.xiaomi.com,AVAILABILITY,origin.list,2021-04-27 01:38:13.002516
+ad.xiaomi.com,AVAILABILITY,origin.list,2021-04-27 01:38:29.948906
+adsrv.eacdn.com,AVAILABILITY,origin.list,2021-04-27 01:38:36.802304
+clickwith.bid,AVAILABILITY,origin.list,2021-04-27 01:38:44.192431
+measure.office.com,AVAILABILITY,origin.list,2021-04-27 01:38:50.609377
+mtrcs.samba.tv,AVAILABILITY,origin.list,2021-04-27 01:38:57.004588
+pgl.example.com,AVAILABILITY,origin.list,2021-04-27 01:39:03.310169
+pgl.example0101,AVAILABILITY,origin.list,2021-04-27 01:39:07.395856
+stat.xiaomi.com,AVAILABILITY,origin.list,2021-04-27 01:39:24.654311
