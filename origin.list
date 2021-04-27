@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 25 Apr 2021 16:51:49 GMT
-# entries:        3586
+# last updated:   Tue, 27 Apr 2021 11:47:17 GMT
+# entries:        3595
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -783,6 +783,7 @@
 0.0.0.0 adsco.re
 0.0.0.0 adscpm.com
 0.0.0.0 adsdaq.com
+0.0.0.0 adsdk.yandex.ru
 0.0.0.0 adsend.de
 0.0.0.0 adsensecustomsearchads.com
 0.0.0.0 adserve.ams.rhythmxchange.com
@@ -849,6 +850,7 @@
 0.0.0.0 adserverpub.com
 0.0.0.0 adserversolutions.com
 0.0.0.0 adserverxxl.de
+0.0.0.0 adservetx.media.net
 0.0.0.0 adservice.google.com
 0.0.0.0 adservice.google.com.mt
 0.0.0.0 adserving.unibet.com
@@ -1055,11 +1057,14 @@
 0.0.0.0 analytics.justuno.com
 0.0.0.0 analytics.live.com
 0.0.0.0 analytics.mailmunch.co
+0.0.0.0 analytics.mobile.yandex.net
 0.0.0.0 analytics.myfinance.com
 0.0.0.0 analytics.mytvzion.pro
 0.0.0.0 analytics.ostr.io
 0.0.0.0 analytics.phando.com
 0.0.0.0 analytics.picsart.com
+0.0.0.0 analytics.pinterest.com
+0.0.0.0 analytics.pointdrive.linkedin.com
 0.0.0.0 analytics.poolshool.com
 0.0.0.0 analytics.posttv.com
 0.0.0.0 analytics.samdd.me
@@ -2325,6 +2330,8 @@
 0.0.0.0 metrics.getrockerbox.com
 0.0.0.0 metrics.gfycat.com
 0.0.0.0 metrics.govexec.com
+0.0.0.0 metrics.icloud.com
+0.0.0.0 metrics.mzstatic.com
 0.0.0.0 metrilo.com
 0.0.0.0 mfadsrvr.com
 0.0.0.0 mg2connext.com
@@ -3222,6 +3229,7 @@
 0.0.0.0 tkbo.com
 0.0.0.0 tls.telemetry.swe.quicinc.com
 0.0.0.0 tlvmedia.com
+0.0.0.0 tm.br.de
 0.0.0.0 tnkexchange.com
 0.0.0.0 tns-counter.ru
 0.0.0.0 tntclix.co.uk
@@ -3352,6 +3360,7 @@
 0.0.0.0 triptease.io
 0.0.0.0 trix.net
 0.0.0.0 trk.bee-data.com
+0.0.0.0 trk.pinterest.com
 0.0.0.0 trk.techtarget.com
 0.0.0.0 trk42.net
 0.0.0.0 trkn.us
