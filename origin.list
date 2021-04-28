@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 27 Apr 2021 11:47:17 GMT
-# entries:        3594
+# last updated:   Wed, 28 Apr 2021 12:43:46 GMT
+# entries:        3596
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -2270,6 +2270,7 @@
 0.0.0.0 matheranalytics.com
 0.0.0.0 mathtag.com
 0.0.0.0 matomo.activate.cz
+0.0.0.0 matomo.gals24.ru
 0.0.0.0 matomo.hdweb.ru
 0.0.0.0 matomo.kmkb.ru
 0.0.0.0 matomo.oka-zakaz.ru
@@ -3359,6 +3360,7 @@
 0.0.0.0 triptease.io
 0.0.0.0 trix.net
 0.0.0.0 trk.bee-data.com
+0.0.0.0 trk.enemy-adult-scared-there.xyz
 0.0.0.0 trk.pinterest.com
 0.0.0.0 trk.techtarget.com
 0.0.0.0 trk42.net
