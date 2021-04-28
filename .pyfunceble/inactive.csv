@@ -1,15 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ad.gate24.ch,AVAILABILITY,origin.list,2021-04-27 01:37:48.416270
-ad.seznam.cz,AVAILABILITY,origin.list,2021-04-27 01:37:56.153277
-ad.intl.xiaomi.com,AVAILABILITY,origin.list,2021-04-27 01:38:13.002516
-ad.xiaomi.com,AVAILABILITY,origin.list,2021-04-27 01:38:29.948906
-adsrv.eacdn.com,AVAILABILITY,origin.list,2021-04-27 01:38:36.802304
-clickwith.bid,AVAILABILITY,origin.list,2021-04-27 01:38:44.192431
-measure.office.com,AVAILABILITY,origin.list,2021-04-27 01:38:50.609377
-mtrcs.samba.tv,AVAILABILITY,origin.list,2021-04-27 01:38:57.004588
-pgl.example.com,AVAILABILITY,origin.list,2021-04-27 01:39:03.310169
-pgl.example0101,AVAILABILITY,origin.list,2021-04-27 01:39:07.395856
-stat.xiaomi.com,AVAILABILITY,origin.list,2021-04-27 01:39:24.654311
 clicktrack.ziyu.net,AVAILABILITY,origin.list,2021-04-27 14:14:05.765613
 adv.mezon.ru,AVAILABILITY,origin.list,2021-04-27 17:14:55.924461
 adserver.hardsextube.com,AVAILABILITY,origin.list,2021-04-28 01:36:48.177757
@@ -26,3 +15,14 @@ openx.aosis.co.za,AVAILABILITY,origin.list,2021-04-28 01:38:26.234958
 rb1.design.ru,AVAILABILITY,origin.list,2021-04-28 01:38:35.375223
 remotead.cnet.com,AVAILABILITY,origin.list,2021-04-28 01:38:42.106849
 logs.datadoghq.eu,AVAILABILITY,origin.list,2021-04-28 01:38:48.718241
+ad.gate24.ch,AVAILABILITY,origin.list,2021-04-28 09:33:54.532567
+ad.seznam.cz,AVAILABILITY,origin.list,2021-04-28 09:34:02.457459
+ad.intl.xiaomi.com,AVAILABILITY,origin.list,2021-04-28 09:34:19.229200
+ad.xiaomi.com,AVAILABILITY,origin.list,2021-04-28 09:34:36.243463
+adsrv.eacdn.com,AVAILABILITY,origin.list,2021-04-28 09:34:42.670086
+clickwith.bid,AVAILABILITY,origin.list,2021-04-28 09:34:49.893211
+measure.office.com,AVAILABILITY,origin.list,2021-04-28 09:34:56.051658
+mtrcs.samba.tv,AVAILABILITY,origin.list,2021-04-28 09:35:02.378442
+pgl.example.com,AVAILABILITY,origin.list,2021-04-28 09:35:08.446498
+pgl.example0101,AVAILABILITY,origin.list,2021-04-28 09:35:12.378187
+stat.xiaomi.com,AVAILABILITY,origin.list,2021-04-28 09:35:28.761280
