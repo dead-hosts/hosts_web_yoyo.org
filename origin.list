@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 28 Apr 2021 12:43:46 GMT
-# entries:        3596
+# last updated:   Wed, 28 Apr 2021 18:49:49 GMT
+# entries:        3597
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -3009,6 +3009,7 @@
 0.0.0.0 snoobi.com
 0.0.0.0 socialspark.com
 0.0.0.0 softclick.com.br
+0.0.0.0 soggysponge.com
 0.0.0.0 sombersea.com
 0.0.0.0 sombersquirrel.com
 0.0.0.0 sombersurprise.com
