@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 29 Apr 2021 11:41:19 GMT
-# entries:        3598
+# entries:        3597
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -2606,7 +2606,6 @@
 0.0.0.0 phoenix-adrunner.mycomputer.com
 0.0.0.0 photographpan.com
 0.0.0.0 phpadsnew.new.natuurpark.nl
-0.0.0.0 pi.pardot.com
 0.0.0.0 piano.io
 0.0.0.0 picadmedia.com
 0.0.0.0 piet2eix3l.com
