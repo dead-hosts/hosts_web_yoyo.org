@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-clicktrack.ziyu.net,AVAILABILITY,origin.list,2021-04-30 01:28:39.943264
-adv.mezon.ru,AVAILABILITY,origin.list,2021-04-30 01:28:47.879697
 adserver.hardsextube.com,AVAILABILITY,origin.list,2021-04-30 09:31:35.250670
 adserver.hardwareanalysis.com,AVAILABILITY,origin.list,2021-04-30 09:31:45.422365
 api.jetlore.com,AVAILABILITY,origin.list,2021-04-30 09:31:51.555146
@@ -25,3 +23,5 @@ mtrcs.samba.tv,AVAILABILITY,origin.list,2021-04-30 17:30:59.803264
 pgl.example.com,AVAILABILITY,origin.list,2021-04-30 17:31:05.831152
 pgl.example0101,AVAILABILITY,origin.list,2021-04-30 17:31:09.840820
 stat.xiaomi.com,AVAILABILITY,origin.list,2021-04-30 17:31:26.915637
+clicktrack.ziyu.net,AVAILABILITY,origin.list,2021-05-01 09:30:44.569474
+adv.mezon.ru,AVAILABILITY,origin.list,2021-05-01 09:30:54.460365
