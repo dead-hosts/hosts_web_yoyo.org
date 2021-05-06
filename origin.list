@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 06 May 2021 07:38:02 GMT
-# entries:        3599
+# last updated:   Thu, 06 May 2021 11:06:31 GMT
+# entries:        3600
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -3501,6 +3501,7 @@
 0.0.0.0 webstat.channel4.com
 0.0.0.0 webstat.com
 0.0.0.0 webstat.net
+0.0.0.0 webstats.one
 0.0.0.0 webstats4u.com
 0.0.0.0 webtracker.jp
 0.0.0.0 webtrackerplus.com
