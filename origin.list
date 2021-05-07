@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 06 May 2021 14:59:56 GMT
-# entries:        3601
+# last updated:   Fri, 07 May 2021 08:55:35 GMT
+# entries:        3602
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -1229,6 +1229,7 @@
 0.0.0.0 bannieres.wdmedia.net
 0.0.0.0 bans.bride.ru
 0.0.0.0 barbarousnerve.com
+0.0.0.0 baremetrics.com
 0.0.0.0 barnesandnoble.bfast.com
 0.0.0.0 basebanner.com
 0.0.0.0 baskettexture.com
@@ -1707,7 +1708,6 @@
 0.0.0.0 emodoinc.com
 0.0.0.0 emptyescort.com
 0.0.0.0 emxdigital.com
-0.0.0.0 en25.com
 0.0.0.0 encouragingwilderness.com
 0.0.0.0 endurableshop.com
 0.0.0.0 energeticladybug.com
@@ -3148,6 +3148,7 @@
 0.0.0.0 swordgoose.com
 0.0.0.0 t.bawafx.com
 0.0.0.0 t.eloqua.com
+0.0.0.0 t.en25.com
 0.0.0.0 t.firstpromoter.com
 0.0.0.0 t.insigit.com
 0.0.0.0 t.irtyd.com
