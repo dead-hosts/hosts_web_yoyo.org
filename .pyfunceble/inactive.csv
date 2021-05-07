@@ -1,13 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-adserver.hardsextube.com,AVAILABILITY,origin.list,2021-05-05 17:21:54.061206
-adserver.hardwareanalysis.com,AVAILABILITY,origin.list,2021-05-05 17:22:00.275627
-api.jetlore.com,AVAILABILITY,origin.list,2021-05-05 17:22:06.656234
-audit.quantcast.mgr.consensu.org,AVAILABILITY,origin.list,2021-05-05 17:22:12.823054
-counts.tucows.com,AVAILABILITY,origin.list,2021-05-05 17:22:19.091972
-hollandbusinessadvertising.nl,AVAILABILITY,origin.list,2021-05-05 17:22:30.400609
-mads.cnet.com,AVAILABILITY,origin.list,2021-05-05 17:22:36.692927
-media.ftv-publicite.fr,AVAILABILITY,origin.list,2021-05-05 17:22:43.257738
-numax.nu-1.com,AVAILABILITY,origin.list,2021-05-05 17:22:49.148566
 openx.aosis.co.za,AVAILABILITY,origin.list,2021-05-06 01:33:10.760876
 rb1.design.ru,AVAILABILITY,origin.list,2021-05-06 01:33:18.349326
 remotead.cnet.com,AVAILABILITY,origin.list,2021-05-06 01:33:24.404152
@@ -25,3 +16,12 @@ pgl.example0101,AVAILABILITY,origin.list,2021-05-06 01:34:53.563199
 stat.xiaomi.com,AVAILABILITY,origin.list,2021-05-06 01:35:10.991329
 clicktrack.ziyu.net,AVAILABILITY,origin.list,2021-05-06 09:24:44.707236
 adv.mezon.ru,AVAILABILITY,origin.list,2021-05-06 09:24:59.278608
+adserver.hardsextube.com,AVAILABILITY,origin.list,2021-05-07 01:33:57.157908
+adserver.hardwareanalysis.com,AVAILABILITY,origin.list,2021-05-07 01:34:11.797889
+api.jetlore.com,AVAILABILITY,origin.list,2021-05-07 01:34:17.895162
+audit.quantcast.mgr.consensu.org,AVAILABILITY,origin.list,2021-05-07 01:34:24.118754
+counts.tucows.com,AVAILABILITY,origin.list,2021-05-07 01:34:31.125537
+hollandbusinessadvertising.nl,AVAILABILITY,origin.list,2021-05-07 01:34:45.208244
+mads.cnet.com,AVAILABILITY,origin.list,2021-05-07 01:34:52.158963
+media.ftv-publicite.fr,AVAILABILITY,origin.list,2021-05-07 01:34:59.637713
+numax.nu-1.com,AVAILABILITY,origin.list,2021-05-07 01:35:06.739920
