@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 07 May 2021 08:55:35 GMT
-# entries:        3600
+# last updated:   Sat, 08 May 2021 00:33:33 GMT
+# entries:        3603
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -1546,6 +1546,8 @@
 0.0.0.0 crabbychin.com
 0.0.0.0 crakmedia.com
 0.0.0.0 craktraffic.com
+0.0.0.0 crashlytics.com
+0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 crawlability.com
 0.0.0.0 crawlclocks.com
 0.0.0.0 crazyegg.com
@@ -1775,6 +1777,7 @@
 0.0.0.0 eyewonder.com
 0.0.0.0 ezula.com
 0.0.0.0 f7ds.liberation.fr
+0.0.0.0 fabric.io
 0.0.0.0 facilitategrandfather.com
 0.0.0.0 fadedprofit.com
 0.0.0.0 fadedsnow.com
