@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 08 May 2021 22:18:49 GMT
-# entries:        3612
+# last updated:   Mon, 10 May 2021 13:39:46 GMT
+# entries:        3614
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -1991,6 +1991,7 @@
 0.0.0.0 hueads.com
 0.0.0.0 hueadsortb.com
 0.0.0.0 hueadsxml.com
+0.0.0.0 huezzcjskf.site
 0.0.0.0 hurricanedigitalmedia.com
 0.0.0.0 hurtteeth.com
 0.0.0.0 hydramedia.com
@@ -2281,6 +2282,7 @@
 0.0.0.0 matomo.hdweb.ru
 0.0.0.0 matomo.kmkb.ru
 0.0.0.0 matomo.oka-zakaz.ru
+0.0.0.0 matomo.zwetok.ru
 0.0.0.0 mautic.com
 0.0.0.0 max.i12.de
 0.0.0.0 maximiser.net
