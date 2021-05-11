@@ -1,11 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-mtrcs.samba.tv,AVAILABILITY,origin.list,2021-05-10 01:26:42.314514
-pgl.example.com,AVAILABILITY,origin.list,2021-05-10 01:26:48.390014
-pgl.example0101,AVAILABILITY,origin.list,2021-05-10 01:26:52.314717
-stat.xiaomi.com,AVAILABILITY,origin.list,2021-05-10 01:27:08.806742
-clicktrack.ziyu.net,AVAILABILITY,origin.list,2021-05-10 01:27:15.417425
-adv.mezon.ru,AVAILABILITY,origin.list,2021-05-10 01:27:25.618735
-ads.gsm-exchange.com,AVAILABILITY,origin.list,2021-05-10 04:58:04.822859
 adserver.hardsextube.com,AVAILABILITY,origin.list,2021-05-10 17:15:49.506609
 adserver.hardwareanalysis.com,AVAILABILITY,origin.list,2021-05-10 17:15:59.742239
 api.jetlore.com,AVAILABILITY,origin.list,2021-05-10 17:16:05.784357
@@ -26,3 +19,8 @@ ad.xiaomi.com,AVAILABILITY,origin.list,2021-05-11 01:35:16.426371
 adsrv.eacdn.com,AVAILABILITY,origin.list,2021-05-11 01:35:22.837263
 clickwith.bid,AVAILABILITY,origin.list,2021-05-11 01:35:29.173395
 measure.office.com,AVAILABILITY,origin.list,2021-05-11 01:35:35.341541
+mtrcs.samba.tv,AVAILABILITY,origin.list,2021-05-11 09:21:21.223650
+pgl.example.com,AVAILABILITY,origin.list,2021-05-11 09:21:27.265109
+pgl.example0101,AVAILABILITY,origin.list,2021-05-11 09:21:31.157115
+stat.xiaomi.com,AVAILABILITY,origin.list,2021-05-11 09:21:48.549160
+adv.mezon.ru,AVAILABILITY,origin.list,2021-05-11 09:22:06.674603
