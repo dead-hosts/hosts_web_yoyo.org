@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 11 May 2021 13:07:58 GMT
-# entries:        3615
+# last updated:   Tue, 11 May 2021 14:47:46 GMT
+# entries:        3616
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -2219,6 +2219,7 @@
 0.0.0.0 loading321.com
 0.0.0.0 locked4.com
 0.0.0.0 lockerdome.com
+0.0.0.0 locpub.com
 0.0.0.0 log.btopenworld.com
 0.0.0.0 log.logrocket.io
 0.0.0.0 log.pinterest.com
