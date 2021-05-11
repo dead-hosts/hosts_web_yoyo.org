@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 11 May 2021 14:47:46 GMT
-# entries:        3616
+# last updated:   Tue, 11 May 2021 15:06:13 GMT
+# entries:        3617
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -195,6 +195,7 @@
 0.0.0.0 ad.xrea.com
 0.0.0.0 ad.yadro.ru
 0.0.0.0 ad.zanox.com
+0.0.0.0 ad.ztylez.com
 0.0.0.0 ad0.bigmir.net
 0.0.0.0 ad01.mediacorpsingapore.com
 0.0.0.0 ad1.emule-project.org
