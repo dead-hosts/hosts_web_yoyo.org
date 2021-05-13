@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 11 May 2021 15:06:13 GMT
-# entries:        3617
+# last updated:   Thu, 13 May 2021 08:40:30 GMT
+# entries:        3618
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -3496,6 +3496,7 @@
 0.0.0.0 wateryvan.com
 0.0.0.0 wd-track.de
 0.0.0.0 wdads.sx.atl.publicus.com
+0.0.0.0 wdfl.co
 0.0.0.0 wearbasin.com
 0.0.0.0 web-redirecting.com
 0.0.0.0 web-stat.com
