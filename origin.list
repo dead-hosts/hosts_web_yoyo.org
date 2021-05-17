@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 16 May 2021 17:42:40 GMT
-# entries:        3622
+# last updated:   Mon, 17 May 2021 13:32:20 GMT
+# entries:        3623
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -2170,6 +2170,7 @@
 0.0.0.0 lemmatechnologies.com
 0.0.0.0 lettucelimit.com
 0.0.0.0 levelrate.de
+0.0.0.0 lever-analytics.com
 0.0.0.0 lfeeder.com
 0.0.0.0 lfstmedia.com
 0.0.0.0 li.alibris.com
