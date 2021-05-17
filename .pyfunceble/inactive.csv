@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ads.bonniercorp.com,AVAILABILITY,origin.list,2021-05-16 09:47:50.523469
 adserver.hardsextube.com,AVAILABILITY,origin.list,2021-05-16 20:40:59.730561
 adserver.hardwareanalysis.com,AVAILABILITY,origin.list,2021-05-16 20:41:14.912435
 api.jetlore.com,AVAILABILITY,origin.list,2021-05-16 20:41:21.035249
@@ -25,3 +24,4 @@ pgl.example.com,AVAILABILITY,origin.list,2021-05-16 20:44:04.636198
 pgl.example0101,AVAILABILITY,origin.list,2021-05-16 20:44:08.524769
 stat.xiaomi.com,AVAILABILITY,origin.list,2021-05-16 20:44:25.017075
 adv.mezon.ru,AVAILABILITY,origin.list,2021-05-16 20:44:35.808771
+ads.bonniercorp.com,AVAILABILITY,origin.list,2021-05-17 13:27:32.162762
