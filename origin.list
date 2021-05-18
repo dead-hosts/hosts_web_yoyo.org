@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 17 May 2021 13:32:20 GMT
-# entries:        3623
+# last updated:   Tue, 18 May 2021 15:32:36 GMT
+# entries:        3624
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -2077,6 +2077,7 @@
 0.0.0.0 intelliads.com
 0.0.0.0 intelligenceadx.com
 0.0.0.0 intellitxt.com
+0.0.0.0 intentsify.io
 0.0.0.0 interactive.forthnet.gr
 0.0.0.0 intergi.com
 0.0.0.0 internetfuel.com
