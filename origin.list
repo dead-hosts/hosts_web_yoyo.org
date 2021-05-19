@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 18 May 2021 15:32:36 GMT
-# entries:        3624
+# last updated:   Wed, 19 May 2021 08:37:43 GMT
+# entries:        3625
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -2833,6 +2833,7 @@
 0.0.0.0 remistrainew.club
 0.0.0.0 remox.com
 0.0.0.0 republika.onet.pl
+0.0.0.0 resalag.com
 0.0.0.0 research.de.com
 0.0.0.0 resolutekey.com
 0.0.0.0 resonantbrush.com
