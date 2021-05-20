@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 19 May 2021 08:37:43 GMT
-# entries:        3625
+# entries:        3624
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -2090,7 +2090,6 @@
 0.0.0.0 ip193.cn
 0.0.0.0 iperceptions.com
 0.0.0.0 ipredictive.com
-0.0.0.0 ipro.com
 0.0.0.0 ipstack.com
 0.0.0.0 irchan.com
 0.0.0.0 ireklama.cz
