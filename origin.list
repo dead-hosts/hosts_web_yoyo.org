@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 22 May 2021 07:45:36 GMT
-# entries:        3625
+# last updated:   Sat, 22 May 2021 21:22:48 GMT
+# entries:        3628
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -1026,6 +1026,7 @@
 0.0.0.0 alclick.com
 0.0.0.0 alenty.com
 0.0.0.0 alert.com.mt
+0.0.0.0 alertafterthought.com
 0.0.0.0 alexa-sitestats.s3.amazonaws.com
 0.0.0.0 alexametrics.com
 0.0.0.0 algorix.co
@@ -1976,6 +1977,7 @@
 0.0.0.0 hlok.qertewrt.com
 0.0.0.0 hocgeese.com
 0.0.0.0 hollps.win
+0.0.0.0 homelycrown.com
 0.0.0.0 homepageking.de
 0.0.0.0 honeygoldfish.com
 0.0.0.0 honorablehall.com
@@ -2401,6 +2403,7 @@
 0.0.0.0 mtrcs.samba.tv
 0.0.0.0 mtree.com
 0.0.0.0 munchkin.marketo.net
+0.0.0.0 mundanepollution.com
 0.0.0.0 musiccounter.ru
 0.0.0.0 muwmedia.com
 0.0.0.0 mxptint.net
