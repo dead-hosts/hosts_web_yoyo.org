@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 22 May 2021 21:22:48 GMT
-# entries:        3628
+# last updated:   Sun, 23 May 2021 11:28:53 GMT
+# entries:        3629
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -3443,6 +3443,7 @@
 0.0.0.0 uu.domainforlite.com
 0.0.0.0 v1.cnzz.com
 0.0.0.0 v1adserver.com
+0.0.0.0 valerie.forbes.com
 0.0.0.0 validclick.com
 0.0.0.0 valuead.com
 0.0.0.0 valueclick.com
