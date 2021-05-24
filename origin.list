@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 23 May 2021 11:28:53 GMT
-# entries:        3629
+# last updated:   Mon, 24 May 2021 08:18:25 GMT
+# entries:        3631
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -1852,6 +1852,7 @@
 0.0.0.0 freewebcounter.com
 0.0.0.0 freewheel.com
 0.0.0.0 freewheel.tv
+0.0.0.0 freshworks.com
 0.0.0.0 frightenedpotato.com
 0.0.0.0 frtyj.com
 0.0.0.0 frtyk.com
@@ -2247,6 +2248,7 @@
 0.0.0.0 lp3tdqle.com
 0.0.0.0 lucidmedia.com
 0.0.0.0 lucklayed.info
+0.0.0.0 luckyorange.com
 0.0.0.0 lytics.io
 0.0.0.0 lzjl.com
 0.0.0.0 m.trb.com
