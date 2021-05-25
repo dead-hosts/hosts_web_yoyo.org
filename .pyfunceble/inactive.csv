@@ -1,16 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ad.gate24.ch,AVAILABILITY,origin.list,2021-05-24 09:49:03.532152
-ad.seznam.cz,AVAILABILITY,origin.list,2021-05-24 09:49:11.164896
-ad.intl.xiaomi.com,AVAILABILITY,origin.list,2021-05-24 09:49:28.569901
-ad.xiaomi.com,AVAILABILITY,origin.list,2021-05-24 09:49:45.782833
-adsrv.eacdn.com,AVAILABILITY,origin.list,2021-05-24 09:49:52.881587
-clickwith.bid,AVAILABILITY,origin.list,2021-05-24 09:50:00.142073
-measure.office.com,AVAILABILITY,origin.list,2021-05-24 09:50:06.417493
-mtrcs.samba.tv,AVAILABILITY,origin.list,2021-05-24 09:50:12.893303
-pgl.example.com,AVAILABILITY,origin.list,2021-05-24 09:50:19.129785
-pgl.example0101,AVAILABILITY,origin.list,2021-05-24 09:50:23.101386
-stat.xiaomi.com,AVAILABILITY,origin.list,2021-05-24 09:50:40.286753
-adv.mezon.ru,AVAILABILITY,origin.list,2021-05-24 09:50:49.617520
 ads.bonniercorp.com,AVAILABILITY,origin.list,2021-05-25 01:33:58.118872
 line.jzs001.cn,AVAILABILITY,origin.list,2021-05-25 09:53:30.875587
 adserver.hardsextube.com,AVAILABILITY,origin.list,2021-05-25 09:53:37.129253
@@ -26,3 +14,15 @@ openx.aosis.co.za,AVAILABILITY,origin.list,2021-05-25 09:55:31.273538
 rb1.design.ru,AVAILABILITY,origin.list,2021-05-25 09:55:40.887065
 remotead.cnet.com,AVAILABILITY,origin.list,2021-05-25 09:55:47.678519
 logs.datadoghq.eu,AVAILABILITY,origin.list,2021-05-25 09:55:54.334391
+ad.gate24.ch,AVAILABILITY,origin.list,2021-05-25 17:30:11.229659
+ad.seznam.cz,AVAILABILITY,origin.list,2021-05-25 17:30:19.240244
+ad.intl.xiaomi.com,AVAILABILITY,origin.list,2021-05-25 17:30:35.500955
+ad.xiaomi.com,AVAILABILITY,origin.list,2021-05-25 17:30:51.686579
+adsrv.eacdn.com,AVAILABILITY,origin.list,2021-05-25 17:30:57.832514
+clickwith.bid,AVAILABILITY,origin.list,2021-05-25 17:31:04.887337
+measure.office.com,AVAILABILITY,origin.list,2021-05-25 17:31:11.015830
+mtrcs.samba.tv,AVAILABILITY,origin.list,2021-05-25 17:31:17.196852
+pgl.example.com,AVAILABILITY,origin.list,2021-05-25 17:31:23.233229
+pgl.example0101,AVAILABILITY,origin.list,2021-05-25 17:31:27.135485
+stat.xiaomi.com,AVAILABILITY,origin.list,2021-05-25 17:31:43.725441
+adv.mezon.ru,AVAILABILITY,origin.list,2021-05-25 17:31:53.398136
