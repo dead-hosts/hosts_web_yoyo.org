@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ad.gate24.ch,AVAILABILITY,origin.list,2021-05-25 17:30:11.229659
-ad.seznam.cz,AVAILABILITY,origin.list,2021-05-25 17:30:19.240244
 ad.intl.xiaomi.com,AVAILABILITY,origin.list,2021-05-25 17:30:35.500955
 ad.xiaomi.com,AVAILABILITY,origin.list,2021-05-25 17:30:51.686579
 adsrv.eacdn.com,AVAILABILITY,origin.list,2021-05-25 17:30:57.832514
@@ -26,3 +24,5 @@ openx.aosis.co.za,AVAILABILITY,origin.list,2021-05-26 10:11:51.859965
 rb1.design.ru,AVAILABILITY,origin.list,2021-05-26 10:11:59.379781
 remotead.cnet.com,AVAILABILITY,origin.list,2021-05-26 10:12:05.859394
 logs.datadoghq.eu,AVAILABILITY,origin.list,2021-05-26 10:12:11.885863
+ad.gate24.ch,AVAILABILITY,origin.list,2021-05-26 17:36:14.218246
+ad.seznam.cz,AVAILABILITY,origin.list,2021-05-26 17:36:21.642026
