@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 24 May 2021 08:18:25 GMT
-# entries:        3631
+# last updated:   Thu, 27 May 2021 13:08:11 GMT
+# entries:        3632
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -2813,6 +2813,7 @@
 0.0.0.0 receptiveink.com
 0.0.0.0 receptivereaction.com
 0.0.0.0 recoco.it
+0.0.0.0 reconditerake.com
 0.0.0.0 record.affiliates.karjalakasino.com
 0.0.0.0 record.bonniergaming.com
 0.0.0.0 record.mrwin.com
