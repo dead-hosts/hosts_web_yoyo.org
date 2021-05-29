@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 28 May 2021 12:47:40 GMT
-# entries:        3630
+# last updated:   Sat, 29 May 2021 17:47:25 GMT
+# entries:        3631
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -1488,6 +1488,7 @@
 0.0.0.0 commindo-media-ressourcen.de
 0.0.0.0 commissionmonster.com
 0.0.0.0 commonswing.com
+0.0.0.0 communications.melitaltd.com
 0.0.0.0 compactbanner.com
 0.0.0.0 completecabbage.com
 0.0.0.0 complextoad.com
