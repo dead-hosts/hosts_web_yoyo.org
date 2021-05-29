@@ -1,15 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ad.gate24.ch,AVAILABILITY,origin.list,2021-05-27 17:46:40.545180
-ad.seznam.cz,AVAILABILITY,origin.list,2021-05-27 17:46:48.996975
-adbuyer3.lycos.com,AVAILABILITY,origin.list,2021-05-27 20:55:31.689521
-ads.multimania.lycos.fr,AVAILABILITY,origin.list,2021-05-27 21:26:34.878340
-ads.programattik.com,AVAILABILITY,origin.list,2021-05-27 21:31:07.231549
-ads.tripod.com,AVAILABILITY,origin.list,2021-05-27 21:35:34.722257
-ads.tripod.lycos.co.uk,AVAILABILITY,origin.list,2021-05-27 21:36:18.743004
-ads.tripod.lycos.de,AVAILABILITY,origin.list,2021-05-27 21:36:52.399329
-ads.tripod.lycos.es,AVAILABILITY,origin.list,2021-05-27 21:37:35.784241
-ads.tripod.lycos.it,AVAILABILITY,origin.list,2021-05-27 21:38:46.795644
-ads.tripod.lycos.nl,AVAILABILITY,origin.list,2021-05-27 21:39:44.744254
 ad.intl.xiaomi.com,AVAILABILITY,origin.list,2021-05-28 10:46:33.667220
 ad.xiaomi.com,AVAILABILITY,origin.list,2021-05-28 10:46:51.247310
 adsrv.eacdn.com,AVAILABILITY,origin.list,2021-05-28 10:47:03.157939
@@ -36,3 +25,5 @@ rb1.design.ru,AVAILABILITY,origin.list,2021-05-28 10:52:40.209785
 remotead.cnet.com,AVAILABILITY,origin.list,2021-05-28 10:52:56.715135
 logs.datadoghq.eu,AVAILABILITY,origin.list,2021-05-28 10:53:07.393118
 adsrv.swidnica24.pl,AVAILABILITY,origin.list,2021-05-28 14:04:27.021597
+ad.gate24.ch,AVAILABILITY,origin.list,2021-05-29 01:57:13.261743
+ad.seznam.cz,AVAILABILITY,origin.list,2021-05-29 01:57:21.028053
