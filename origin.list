@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 01 Jun 2021 10:30:42 GMT
-# entries:        3632
+# last updated:   Tue, 01 Jun 2021 19:15:13 GMT
+# entries:        3633
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -2132,6 +2132,7 @@
 0.0.0.0 keymedia.hu
 0.0.0.0 kindads.com
 0.0.0.0 kissmetrics.com
+0.0.0.0 klaviyo.com
 0.0.0.0 klclick.com
 0.0.0.0 klclick1.com
 0.0.0.0 kliks.nl
