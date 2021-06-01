@@ -1,10 +1,10 @@
 {
     "checker_type": "AVAILABILITY",
     "destination": "origin.list",
-    "hash": "37d903931e73c684f7ed18f7564506528fcbee5152bf3d894323694e",
+    "hash": "08b40a72ab256154ffbbccbe7e333f5250e70fc8a29d8db0dad22f47",
     "line_number": 3648,
     "output_dir": "/home/runner/work/hosts_web_yoyo.org/hosts_web_yoyo.org/output/origin.list",
-    "previous_hash": "37d903931e73c684f7ed18f7564506528fcbee5152bf3d894323694e",
+    "previous_hash": "08b40a72ab256154ffbbccbe7e333f5250e70fc8a29d8db0dad22f47",
     "session_id": "015552dda8d603878b73dce4",
     "source": "origin.list",
     "subject": "origin.list",
