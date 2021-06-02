@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 01 Jun 2021 19:15:13 GMT
-# entries:        3633
+# last updated:   Wed, 02 Jun 2021 19:08:58 GMT
+# entries:        3634
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -1753,6 +1753,8 @@
 0.0.0.0 eusta.de
 0.0.0.0 evadav.com
 0.0.0.0 evadavdsp.pro
+0.0.0.0 events-eu.freshsuccess.com
+0.0.0.0 events-us.freshsuccess.com
 0.0.0.0 everestads.net
 0.0.0.0 everesttech.net
 0.0.0.0 evergage.com
@@ -1852,7 +1854,6 @@
 0.0.0.0 freewebcounter.com
 0.0.0.0 freewheel.com
 0.0.0.0 freewheel.tv
-0.0.0.0 freshworks.com
 0.0.0.0 frightenedpotato.com
 0.0.0.0 frtyj.com
 0.0.0.0 frtyk.com
