@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 02 Jun 2021 19:08:58 GMT
-# entries:        3634
+# last updated:   Thu, 03 Jun 2021 12:59:20 GMT
+# entries:        3635
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -1144,6 +1144,7 @@
 0.0.0.0 awzbijw.com
 0.0.0.0 axiomaticalley.com
 0.0.0.0 axonix.com
+0.0.0.0 ay.delivery
 0.0.0.0 aztracking.net
 0.0.0.0 ba.afl.rakuten.co.jp
 0.0.0.0 babs.tv2.dk
