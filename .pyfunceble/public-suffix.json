@@ -173,7 +173,6 @@
         "framer.app",
         "hasura.app",
         "loginline.app",
-        "multibaas.app",
         "netlify.app",
         "noop.app",
         "northflank.app",
@@ -1222,7 +1221,6 @@
         "meteorapp.com",
         "mex.com",
         "miniserver.com",
-        "multibaas.com",
         "myactivedirectory.com",
         "myasustor.com",
         "mydatto.com",
@@ -4931,6 +4929,7 @@
         "edu.ms",
         "gov.ms",
         "lab.ms",
+        "minisite.ms",
         "net.ms",
         "org.ms"
     ],
@@ -7634,8 +7633,7 @@
         "blogspot.si",
         "gitapp.si",
         "gitpage.si",
-        "nom.si",
-        "north-kazakhstan.su"
+        "nom.si"
     ],
     "site": [
         "barsy.site",
@@ -7756,6 +7754,7 @@
         "murmansk.su",
         "nalchik.su",
         "navoi.su",
+        "north-kazakhstan.su",
         "nov.su",
         "nym.su",
         "obninsk.su",
