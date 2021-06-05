@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 03 Jun 2021 12:59:20 GMT
-# entries:        3629
+# last updated:   Sat, 05 Jun 2021 10:25:02 GMT
+# entries:        3631
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -51,6 +51,7 @@
 0.0.0.0 a-ads.com
 0.0.0.0 a.aproductmsg.com
 0.0.0.0 a.consumer.net
+0.0.0.0 a.klaviyo.com
 0.0.0.0 a.mktw.net
 0.0.0.0 a.muloqot.uz
 0.0.0.0 a.pub.network
@@ -2133,7 +2134,6 @@
 0.0.0.0 keymedia.hu
 0.0.0.0 kindads.com
 0.0.0.0 kissmetrics.com
-0.0.0.0 klaviyo.com
 0.0.0.0 klclick.com
 0.0.0.0 klclick1.com
 0.0.0.0 kliks.nl
@@ -2757,6 +2757,7 @@
 0.0.0.0 quarterbean.com
 0.0.0.0 quarterserver.de
 0.0.0.0 questaffiliates.net
+0.0.0.0 quickkoala.io
 0.0.0.0 quicksandear.com
 0.0.0.0 quietknowledge.com
 0.0.0.0 quinst.com
@@ -3214,6 +3215,7 @@
 0.0.0.0 teenyvolcano.com
 0.0.0.0 teethfan.com
 0.0.0.0 telaria.com
+0.0.0.0 telemetrics.klaviyo.com
 0.0.0.0 telemetry.dropbox.com
 0.0.0.0 telemetry.v.dropbox.com
 0.0.0.0 temelio.com
