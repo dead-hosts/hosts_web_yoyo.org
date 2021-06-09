@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 05 Jun 2021 10:25:02 GMT
-# entries:        3631
+# last updated:   Wed, 09 Jun 2021 14:49:09 GMT
+# entries:        3632
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -1455,6 +1455,7 @@
 0.0.0.0 clickxchange.com
 0.0.0.0 clickyab.com
 0.0.0.0 clickz.com
+0.0.0.0 clientgear.com
 0.0.0.0 clientmetrics-pa.googleapis.com
 0.0.0.0 clikerz.net
 0.0.0.0 cliksolution.com
