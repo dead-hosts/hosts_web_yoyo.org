@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 10 Jun 2021 08:05:15 GMT
-# entries:        3633
+# entries:        3632
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -2018,7 +2018,6 @@
 0.0.0.0 iadnet.com
 0.0.0.0 iasds01.com
 0.0.0.0 ibillboard.com
-0.0.0.0 iconadserver.com
 0.0.0.0 iconpeak2trk.com
 0.0.0.0 icptrack.com
 0.0.0.0 id5-sync.com
@@ -2163,6 +2162,7 @@
 0.0.0.0 launchbit.com
 0.0.0.0 layer-ad.de
 0.0.0.0 layer-ads.de
+0.0.0.0 lbn.ru
 0.0.0.0 lead-analytics.nl
 0.0.0.0 leadboltads.net
 0.0.0.0 leadclick.com
@@ -2663,7 +2663,6 @@
 0.0.0.0 popup.msn.com
 0.0.0.0 popupmoney.com
 0.0.0.0 popupnation.com
-0.0.0.0 popups.infostart.com
 0.0.0.0 popuptraffic.com
 0.0.0.0 porngraph.com
 0.0.0.0 porntrack.com
