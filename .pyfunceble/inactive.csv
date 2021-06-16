@@ -1,10 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-logs.datadoghq.eu,AVAILABILITY,origin.list,2021-06-15 01:32:49.785771
-adsrv.swidnica24.pl,AVAILABILITY,origin.list,2021-06-15 01:32:56.329311
-odbierz-bony.ovp.pl,AVAILABILITY,origin.list,2021-06-15 01:33:03.012251
-ad.gate24.ch,AVAILABILITY,origin.list,2021-06-15 01:33:10.947123
-ad.seznam.cz,AVAILABILITY,origin.list,2021-06-15 01:33:18.778828
-adrolays.de,AVAILABILITY,origin.list,2021-06-15 01:33:26.029037
 reklama.reflektor.cz,AVAILABILITY,origin.list,2021-06-15 17:33:05.836982
 ad.intl.xiaomi.com,AVAILABILITY,origin.list,2021-06-15 17:33:22.553687
 ad.xiaomi.com,AVAILABILITY,origin.list,2021-06-15 17:33:38.990890
@@ -32,3 +26,9 @@ rb1.design.ru,AVAILABILITY,origin.list,2021-06-15 17:36:35.437494
 remotead.cnet.com,AVAILABILITY,origin.list,2021-06-15 17:36:42.163341
 popups.infostart.com,AVAILABILITY,origin.list,2021-06-15 17:37:47.645972
 ads.larryaffiliates.com,AVAILABILITY,origin.list,2021-06-16 05:19:48.395337
+logs.datadoghq.eu,AVAILABILITY,origin.list,2021-06-16 09:42:10.681891
+adsrv.swidnica24.pl,AVAILABILITY,origin.list,2021-06-16 09:42:17.079192
+odbierz-bony.ovp.pl,AVAILABILITY,origin.list,2021-06-16 09:42:23.365547
+ad.gate24.ch,AVAILABILITY,origin.list,2021-06-16 09:42:30.832718
+ad.seznam.cz,AVAILABILITY,origin.list,2021-06-16 09:42:38.390832
+adrolays.de,AVAILABILITY,origin.list,2021-06-16 09:42:45.060159
