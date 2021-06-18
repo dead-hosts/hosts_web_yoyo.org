@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 17 Jun 2021 13:49:46 GMT
-# entries:        3630
+# last updated:   Fri, 18 Jun 2021 15:05:19 GMT
+# entries:        3631
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -1724,6 +1724,7 @@
 0.0.0.0 endurableshop.com
 0.0.0.0 energeticladybug.com
 0.0.0.0 engage.dnsfilter.com
+0.0.0.0 engage.webshrinker.com
 0.0.0.0 engagebdr.com
 0.0.0.0 engine.espace.netavenir.com
 0.0.0.0 enginenetwork.com
