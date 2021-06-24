@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 18 Jun 2021 15:05:19 GMT
-# entries:        3631
+# last updated:   Tue, 22 Jun 2021 09:43:01 GMT
+# entries:        3634
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Mon, 25 Jun 2001 00:00:00
+# start date:    Fri, 29 Jun 2001 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -1415,6 +1415,7 @@
 0.0.0.0 claria.com
 0.0.0.0 clevernt.com
 0.0.0.0 click.a-ads.com
+0.0.0.0 click.airmalta-mail.com
 0.0.0.0 click.cartsguru.io
 0.0.0.0 click.email.bbc.com
 0.0.0.0 click.email.sonos.com
@@ -1580,6 +1581,7 @@
 0.0.0.0 custom.plausible.io
 0.0.0.0 customad.cnn.com
 0.0.0.0 customers.kameleoon.com
+0.0.0.0 cutechin.com
 0.0.0.0 cutecushion.com
 0.0.0.0 cuteturkey.com
 0.0.0.0 cxense.com
@@ -1880,6 +1882,7 @@
 0.0.0.0 gamesites100.net
 0.0.0.0 gamesites200.com
 0.0.0.0 gammamaximum.com
+0.0.0.0 gaug.es
 0.0.0.0 gearwom.de
 0.0.0.0 gekko.spiceworks.com
 0.0.0.0 geo.digitalpoint.com
