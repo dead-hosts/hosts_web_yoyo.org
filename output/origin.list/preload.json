@@ -1,13 +1,15 @@
-{
-    "checker_type": "AVAILABILITY",
-    "destination": "origin.list",
-    "hash": "4bee66f5697ff0d7a90558005577fdcadc0afb09ba6378d7d30a752e",
-    "line_number": 3643,
-    "output_dir": "/home/runner/work/hosts_web_yoyo.org/hosts_web_yoyo.org/output/origin.list",
-    "previous_hash": "4bee66f5697ff0d7a90558005577fdcadc0afb09ba6378d7d30a752e",
-    "session_id": "460258df4186f7f56b91f1e1",
-    "source": "origin.list",
-    "subject": "origin.list",
-    "subject_type": "domain",
-    "type": "file"
-}
+[
+    {
+        "checker_type": "AVAILABILITY",
+        "destination": "origin.list",
+        "hash": "eb588944e28bea20334585825a768098b8815e3a775893c434c2c211",
+        "line_number": 3646,
+        "output_dir": "/home/runner/work/hosts_web_yoyo.org/hosts_web_yoyo.org/output/origin.list",
+        "previous_hash": "eb588944e28bea20334585825a768098b8815e3a775893c434c2c211",
+        "session_id": "460258df4186f7f56b91f1e1",
+        "source": "origin.list",
+        "subject": "origin.list",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]
