@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 05 Jul 2021 15:58:38 GMT
-# entries:        3631
+# last updated:   Mon, 12 Jul 2021 08:09:30 GMT
+# entries:        3632
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Tue, 17 Jul 2001 00:00:00
+# start date:    Thu, 26 Jul 2001 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -1562,6 +1562,7 @@
 0.0.0.0 craktraffic.com
 0.0.0.0 crashlytics.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
+0.0.0.0 cratecamera.com
 0.0.0.0 crawlability.com
 0.0.0.0 crawlclocks.com
 0.0.0.0 crazyegg.com
@@ -1646,7 +1647,6 @@
 0.0.0.0 discountclick.com
 0.0.0.0 discreetfield.com
 0.0.0.0 dispensablestranger.com
-0.0.0.0 displayadsmedia.com
 0.0.0.0 disqusads.com
 0.0.0.0 dist.belnk.com
 0.0.0.0 distillery.wistia.com
@@ -3462,6 +3462,7 @@
 0.0.0.0 venetrigni.com
 0.0.0.0 ventivmedia.com
 0.0.0.0 venturead.com
+0.0.0.0 verblife-3.co
 0.0.0.0 verblife-4.co
 0.0.0.0 verblife-5.co
 0.0.0.0 vericlick.com
