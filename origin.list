@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 18 Aug 2021 12:58:52 GMT
-# entries:        3627
+# last updated:   Fri, 20 Aug 2021 07:05:48 GMT
+# entries:        3628
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -1253,6 +1253,7 @@
 0.0.0.0 behavioralengine.com
 0.0.0.0 belstat.com
 0.0.0.0 belstat.nl
+0.0.0.0 benfly.net
 0.0.0.0 berp.com
 0.0.0.0 bestboundary.com
 0.0.0.0 bestsearch.net
