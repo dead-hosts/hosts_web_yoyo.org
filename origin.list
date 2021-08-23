@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 22 Aug 2021 06:51:03 GMT
-# entries:        3623
+# last updated:   Mon, 23 Aug 2021 07:18:46 GMT
+# entries:        3626
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -1593,9 +1593,11 @@
 0.0.0.0 dacdn.visualwebsiteoptimizer.com
 0.0.0.0 dacdn.vwo.com
 0.0.0.0 dakic-ia-300.com
+0.0.0.0 damageddistance.com
 0.0.0.0 damdoor.com
 0.0.0.0 dancemistake.com
 0.0.0.0 dapper.net
+0.0.0.0 dapperfloor.com
 0.0.0.0 dashbida.com
 0.0.0.0 dashingdirt.com
 0.0.0.0 dashingsweater.com
@@ -3143,6 +3145,7 @@
 0.0.0.0 sugarcurtain.com
 0.0.0.0 sugoicounter.com
 0.0.0.0 sulkybutter.com
+0.0.0.0 sulkycook.com
 0.0.0.0 summerhamster.com
 0.0.0.0 summerobject.com
 0.0.0.0 sumo.com
