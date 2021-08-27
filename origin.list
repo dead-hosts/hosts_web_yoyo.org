@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Mon, 23 Aug 2021 07:18:46 GMT
-# entries:        3623
+# entries:        3622
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -2699,7 +2699,6 @@
 0.0.0.0 propellerads.com
 0.0.0.0 propellerclick.com
 0.0.0.0 proper.io
-0.0.0.0 props.id
 0.0.0.0 prosper.on-line-casino.ca
 0.0.0.0 protectcrev.com
 0.0.0.0 protectsubrev.com
@@ -2857,7 +2856,6 @@
 0.0.0.0 richmails.com
 0.0.0.0 richmedia.yimg.com
 0.0.0.0 richstring.com
-0.0.0.0 richwebmaster.com
 0.0.0.0 rightstats.com
 0.0.0.0 rinconpx.net
 0.0.0.0 ringsrecord.com
@@ -3634,4 +3632,5 @@
 0.0.0.0 zpu.samsungelectronics.com
 0.0.0.0 zqtk.net
 0.0.0.0 zukxd6fkxqn.com
+0.0.0.0 zy16eoat1w.com
 0.0.0.0 zzhc.vnet.cn
