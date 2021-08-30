@@ -1,0 +1,15 @@
+[
+    {
+        "checker_type": "AVAILABILITY",
+        "destination": "origin.list",
+        "hash": "1c7436f88d5520ed5786018c90a39de56b1ab87e0c7d2bd33a040584",
+        "line_number": 3637,
+        "output_dir": "/home/runner/work/hosts_web_yoyo.org/hosts_web_yoyo.org/output/origin.list",
+        "previous_hash": "1c7436f88d5520ed5786018c90a39de56b1ab87e0c7d2bd33a040584",
+        "session_id": "2250cce225a5c69142d1e11f",
+        "source": "origin.list",
+        "subject": "origin.list",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]
