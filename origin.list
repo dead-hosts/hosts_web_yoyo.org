@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 23 Aug 2021 07:18:46 GMT
-# entries:        3622
+# last updated:   Tue, 31 Aug 2021 12:27:50 GMT
+# entries:        3628
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -2472,6 +2472,7 @@
 0.0.0.0 nitroclicks.com
 0.0.0.0 noiselessplough.com
 0.0.0.0 nondescriptcrowd.com
+0.0.0.0 nondescriptnote.com
 0.0.0.0 nondescriptsmile.com
 0.0.0.0 nondescriptstocking.com
 0.0.0.0 novem.pl
@@ -2646,6 +2647,7 @@
 0.0.0.0 pleasantpump.com
 0.0.0.0 plista.com
 0.0.0.0 plotrabbit.com
+0.0.0.0 pluckypocket.com
 0.0.0.0 plugrush.com
 0.0.0.0 pocketmath.com
 0.0.0.0 pointroll.com
@@ -2921,6 +2923,7 @@
 0.0.0.0 scorecardresearch.com
 0.0.0.0 scratch2cash.com
 0.0.0.0 screechingfurniture.com
+0.0.0.0 screechingstove.com
 0.0.0.0 scripte-monster.de
 0.0.0.0 scrubswim.com
 0.0.0.0 sdkfjxjertertry.com
@@ -2971,6 +2974,7 @@
 0.0.0.0 shinystat.it
 0.0.0.0 shockinggrass.com
 0.0.0.0 shoppingads.com
+0.0.0.0 shrillspoon.com
 0.0.0.0 sicksmash.com
 0.0.0.0 sidebar.angelfire.com
 0.0.0.0 signalayer.com
@@ -3016,6 +3020,7 @@
 0.0.0.0 smetrics.walgreens.com
 0.0.0.0 smetrics.washingtonpost.com
 0.0.0.0 smilingwaves.com
+0.0.0.0 smoggysnakes.com
 0.0.0.0 smrtb.com
 0.0.0.0 snapads.com
 0.0.0.0 snoobi.com
@@ -3247,6 +3252,7 @@
 0.0.0.0 tidaltv.com
 0.0.0.0 tidint.pro
 0.0.0.0 tinybar.com
+0.0.0.0 tiresomethunder.com
 0.0.0.0 tkbo.com
 0.0.0.0 tls.telemetry.swe.quicinc.com
 0.0.0.0 tlvmedia.com
