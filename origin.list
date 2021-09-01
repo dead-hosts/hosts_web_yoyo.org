@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 31 Aug 2021 12:27:50 GMT
-# entries:        3628
+# last updated:   Wed, 01 Sep 2021 09:31:27 GMT
+# entries:        3629
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -2581,6 +2581,7 @@
 0.0.0.0 pageranktop.com
 0.0.0.0 paleleaf.com
 0.0.0.0 panickycurtain.com
+0.0.0.0 panickypancake.com
 0.0.0.0 paradoxfactor.com
 0.0.0.0 parchedangle.com
 0.0.0.0 parketsy.pro
