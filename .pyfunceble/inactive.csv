@@ -1,17 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ad.intl.xiaomi.com,AVAILABILITY,origin.list,2021-09-02 06:51:30.673828
-ad.xiaomi.com,AVAILABILITY,origin.list,2021-09-02 06:51:38.585518
-adsrv.eacdn.com,AVAILABILITY,origin.list,2021-09-02 06:51:45.203719
-clickwith.bid,AVAILABILITY,origin.list,2021-09-02 06:51:52.608649
-measure.office.com,AVAILABILITY,origin.list,2021-09-02 06:51:58.890895
-mtrcs.samba.tv,AVAILABILITY,origin.list,2021-09-02 06:52:05.225464
-pgl.example.com,AVAILABILITY,origin.list,2021-09-02 06:52:11.477312
-pgl.example0101,AVAILABILITY,origin.list,2021-09-02 06:52:15.837682
-stat.xiaomi.com,AVAILABILITY,origin.list,2021-09-02 06:52:23.470397
-adv.mezon.ru,AVAILABILITY,origin.list,2021-09-02 06:52:31.505982
-ads.bonniercorp.com,AVAILABILITY,origin.list,2021-09-02 06:52:37.832654
-line.jzs001.cn,AVAILABILITY,origin.list,2021-09-02 06:52:46.558832
-ad.ilove.ch,AVAILABILITY,origin.list,2021-09-02 06:52:54.859344
 ads.satyamonline.com,AVAILABILITY,origin.list,2021-09-03 17:33:12.648390
 ad.reunion.com,AVAILABILITY,origin.list,2021-09-03 17:33:19.477978
 adserver.hardsextube.com,AVAILABILITY,origin.list,2021-09-03 17:33:26.319952
@@ -43,3 +30,16 @@ ads.themovienation.com,AVAILABILITY,origin.list,2021-09-03 17:37:59.156082
 ads.canalblog.com,AVAILABILITY,origin.list,2021-09-03 17:38:04.522391
 track.nuxues.com,AVAILABILITY,origin.list,2021-09-03 17:38:11.461953
 reklama.reflektor.cz,AVAILABILITY,origin.list,2021-09-03 17:38:20.554029
+ad.intl.xiaomi.com,AVAILABILITY,origin.list,2021-09-03 17:41:21.460992
+ad.xiaomi.com,AVAILABILITY,origin.list,2021-09-03 17:41:28.784344
+adsrv.eacdn.com,AVAILABILITY,origin.list,2021-09-03 17:41:36.171476
+clickwith.bid,AVAILABILITY,origin.list,2021-09-03 17:41:43.338945
+measure.office.com,AVAILABILITY,origin.list,2021-09-03 17:41:49.998497
+mtrcs.samba.tv,AVAILABILITY,origin.list,2021-09-03 17:41:56.842188
+pgl.example.com,AVAILABILITY,origin.list,2021-09-03 17:42:03.418263
+pgl.example0101,AVAILABILITY,origin.list,2021-09-03 17:42:07.742665
+stat.xiaomi.com,AVAILABILITY,origin.list,2021-09-03 17:42:15.518894
+adv.mezon.ru,AVAILABILITY,origin.list,2021-09-03 17:42:25.463642
+ads.bonniercorp.com,AVAILABILITY,origin.list,2021-09-03 17:42:32.184692
+line.jzs001.cn,AVAILABILITY,origin.list,2021-09-03 17:42:39.789451
+ad.ilove.ch,AVAILABILITY,origin.list,2021-09-03 17:42:48.549942
