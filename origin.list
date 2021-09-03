@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 02 Sep 2021 10:16:39 GMT
-# entries:        3630
+# entries:        3629
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -12,7 +12,6 @@
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
 # start date:    Sat, 08 Sep 2001 00:00:00
-0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123freeavatars.com
