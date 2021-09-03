@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 02 Sep 2021 10:16:39 GMT
-# entries:        3629
+# entries:        3627
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -168,7 +168,6 @@
 0.0.0.0 ad.preferances.com
 0.0.0.0 ad.profiwin.de
 0.0.0.0 ad.prv.pl
-0.0.0.0 ad.reunion.com
 0.0.0.0 ad.sensismediasmart.com.au
 0.0.0.0 ad.simflight.com
 0.0.0.0 ad.simgames.net
@@ -1378,7 +1377,6 @@
 0.0.0.0 cdn.onesignal.com
 0.0.0.0 cdn.panelbear.com
 0.0.0.0 cdn.segment.com
-0.0.0.0 cecash.com
 0.0.0.0 cedato.com
 0.0.0.0 celtra.com
 0.0.0.0 centerpointmedia.com
@@ -1983,7 +1981,6 @@
 0.0.0.0 hittail.com
 0.0.0.0 hlok.qertewrt.com
 0.0.0.0 hocgeese.com
-0.0.0.0 hollps.win
 0.0.0.0 homelycrown.com
 0.0.0.0 homepageking.de
 0.0.0.0 honeygoldfish.com
@@ -2702,6 +2699,7 @@
 0.0.0.0 propellerads.com
 0.0.0.0 propellerclick.com
 0.0.0.0 proper.io
+0.0.0.0 props.id
 0.0.0.0 prosper.on-line-casino.ca
 0.0.0.0 protectcrev.com
 0.0.0.0 protectsubrev.com
