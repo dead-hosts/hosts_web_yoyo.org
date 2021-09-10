@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Tue, 07 Sep 2021 19:33:48 GMT
-# entries:        3635
+# entries:        3631
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -2558,7 +2558,6 @@
 0.0.0.0 optnmstr.com
 0.0.0.0 ota.cartrawler.com
 0.0.0.0 otto-images.developershed.com
-0.0.0.0 ouh3igaeb.com
 0.0.0.0 outbrain.com
 0.0.0.0 overconfidentfood.com
 0.0.0.0 overture.com
@@ -3340,7 +3339,6 @@
 0.0.0.0 tracking.internetstores.de
 0.0.0.0 tracking.intl.miui.com
 0.0.0.0 tracking.jiffyworld.com
-0.0.0.0 tracking.lenddom.com
 0.0.0.0 tracking.markethero.io
 0.0.0.0 tracking.miui.com
 0.0.0.0 tracking.olx-st.com
@@ -3440,8 +3438,6 @@
 0.0.0.0 urlcash.net
 0.0.0.0 urldata.net
 0.0.0.0 us.a1.yimg.com
-0.0.0.0 userreplay.com
-0.0.0.0 userreplay.net
 0.0.0.0 usherprayer.com
 0.0.0.0 usingirritatecordial.com
 0.0.0.0 utils.mediageneral.net
