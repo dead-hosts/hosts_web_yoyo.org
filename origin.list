@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 11 Sep 2021 21:39:09 GMT
-# entries:        3634
+# last updated:   Sun, 12 Sep 2021 14:01:58 GMT
+# entries:        3635
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -1670,6 +1670,7 @@
 0.0.0.0 doubtfulrainstorm.com
 0.0.0.0 downloadr.xyz
 0.0.0.0 dpbolvw.net
+0.0.0.0 dpgawov.com
 0.0.0.0 dpu.samsungelectronics.com
 0.0.0.0 dq95d35.com
 0.0.0.0 drabsize.com
