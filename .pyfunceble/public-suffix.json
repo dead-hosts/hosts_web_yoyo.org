@@ -5458,6 +5458,7 @@
         "time.museum",
         "timekeeping.museum",
         "topology.museum",
+        "torino.museum",
         "touch.museum",
         "town.museum",
         "transport.museum",
@@ -5835,7 +5836,6 @@
         "net.ni",
         "nom.ni",
         "org.ni",
-        "torino.museum",
         "web.ni"
     ],
     "nl": [
