@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 13 Sep 2021 18:53:15 GMT
-# entries:        3636
+# last updated:   Mon, 13 Sep 2021 18:54:34 GMT
+# entries:        3638
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -3425,6 +3425,7 @@
 0.0.0.0 udncoeln.com
 0.0.0.0 uib.ff.avast.com
 0.0.0.0 ukbanners.com
+0.0.0.0 ukoffzeh.com
 0.0.0.0 ultimateclixx.com
 0.0.0.0 ultramercial.com
 0.0.0.0 ultraoranges.com
@@ -3442,6 +3443,7 @@
 0.0.0.0 urlcash.net
 0.0.0.0 urldata.net
 0.0.0.0 us.a1.yimg.com
+0.0.0.0 user-shield-check.com
 0.0.0.0 usherprayer.com
 0.0.0.0 usingirritatecordial.com
 0.0.0.0 utils.mediageneral.net
