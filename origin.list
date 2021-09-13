@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 12 Sep 2021 14:01:58 GMT
-# entries:        3635
+# last updated:   Mon, 13 Sep 2021 18:53:15 GMT
+# entries:        3636
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -1713,6 +1713,7 @@
 0.0.0.0 elitetoplist.com
 0.0.0.0 elthamely.com
 0.0.0.0 em1.yoursantander.co.uk
+0.0.0.0 emanog.com
 0.0.0.0 emebo.com
 0.0.0.0 emebo.io
 0.0.0.0 emerse.com
