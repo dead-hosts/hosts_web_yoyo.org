@@ -3094,7 +3094,7 @@ stats.hyperinzerce.cz                                                           
 stats.merriam-webster.com                                                                            ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 stats.mirrorfootball.co.uk                                                                           ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 stats.nextgen-email.com                                                                              ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-stats.olark.com                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+stats.olark.com                                                                                      ACTIVE      DNSLOOKUP  Unknown           404        AVAILABILITY 
 stats.pusher.com                                                                                     ACTIVE      DNSLOOKUP  Unknown           200        AVAILABILITY 
 stats.rdphv.net                                                                                      ACTIVE      DNSLOOKUP  Unknown           200        AVAILABILITY 
 stats.self.com                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
@@ -3180,3 +3180,5 @@ tapad.com                                                                       
 tapfiliate.com                                                                                       ACTIVE      WHOIS      10-jan-2022       301        AVAILABILITY 
 tapinfluence.com                                                                                     ACTIVE      WHOIS      02-jan-2022       301        AVAILABILITY 
 tapjoy.com                                                                                           ACTIVE      WHOIS      02-jan-2023       301        AVAILABILITY 
+tappx.com                                                                                            ACTIVE      WHOIS      14-nov-2022       301        AVAILABILITY 
+targad.de                                                                                            ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
