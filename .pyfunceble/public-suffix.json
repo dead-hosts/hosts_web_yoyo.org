@@ -7517,7 +7517,8 @@
         "development.run",
         "hs.run",
         "ravendb.run",
-        "repl.run"
+        "repl.run",
+        "servers.run"
     ],
     "rw": [
         "ac.rw",
@@ -7740,7 +7741,6 @@
     ],
     "store": [
         "sellfy.store",
-        "servers.run",
         "shopware.store",
         "storebase.store"
     ],
