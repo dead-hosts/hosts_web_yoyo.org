@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 17 Sep 2021 21:33:27 GMT
-# entries:        3642
+# last updated:   Fri, 17 Sep 2021 22:11:16 GMT
+# entries:        3643
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -1139,6 +1139,7 @@
 0.0.0.0 axonix.com
 0.0.0.0 ay.delivery
 0.0.0.0 aztracking.net
+0.0.0.0 b-s.tercept.com
 0.0.0.0 ba.afl.rakuten.co.jp
 0.0.0.0 backbeatmedia.com
 0.0.0.0 balloontexture.com
@@ -2954,6 +2955,7 @@
 0.0.0.0 serv0.com
 0.0.0.0 servads.net
 0.0.0.0 servadsdisrupt.com
+0.0.0.0 serve.tercept.com
 0.0.0.0 servedby-buysellads.com
 0.0.0.0 servedbyadbutler.com
 0.0.0.0 servedbyopenx.com
@@ -3229,7 +3231,6 @@
 0.0.0.0 telemetry.v.dropbox.com
 0.0.0.0 temelio.com
 0.0.0.0 tendertest.com
-0.0.0.0 tercept.com
 0.0.0.0 terriblethumb.com
 0.0.0.0 text-link-ads.com
 0.0.0.0 textad.sexsearch.com
