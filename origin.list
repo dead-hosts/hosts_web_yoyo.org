@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 15 Sep 2021 18:29:41 GMT
-# entries:        3638
+# last updated:   Fri, 17 Sep 2021 12:44:47 GMT
+# entries:        3640
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -81,6 +81,7 @@
 0.0.0.0 absentstream.com
 0.0.0.0 absoluteclickscom.com
 0.0.0.0 absorbingband.com
+0.0.0.0 abstractedauthority.com
 0.0.0.0 absurdwater.com
 0.0.0.0 abtasty.com
 0.0.0.0 abz.com
@@ -2009,6 +2010,7 @@
 0.0.0.0 hyperbanner.net
 0.0.0.0 hypertracker.com
 0.0.0.0 hyprmx.com
+0.0.0.0 hystericalcloth.com
 0.0.0.0 hystericalhelp.com
 0.0.0.0 i-clicks.net
 0.0.0.0 i-i.lt
