@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 17 Sep 2021 17:06:39 GMT
-# entries:        3641
+# last updated:   Fri, 17 Sep 2021 21:33:27 GMT
+# entries:        3642
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -1765,6 +1765,7 @@
 0.0.0.0 evergage.com
 0.0.0.0 eversales.space
 0.0.0.0 evyy.net
+0.0.0.0 exanae.com
 0.0.0.0 exchange-it.com
 0.0.0.0 exchangead.com
 0.0.0.0 exchangeclicksonline.com
