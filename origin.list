@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 17 Sep 2021 12:44:47 GMT
-# entries:        3640
+# last updated:   Fri, 17 Sep 2021 17:06:39 GMT
+# entries:        3641
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -3439,6 +3439,7 @@
 0.0.0.0 unwieldyhealth.com
 0.0.0.0 unwrittenspot.com
 0.0.0.0 upu.samsungelectronics.com
+0.0.0.0 uramog.com
 0.0.0.0 urlcash.net
 0.0.0.0 urldata.net
 0.0.0.0 us.a1.yimg.com
