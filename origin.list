@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 15 Sep 2021 18:29:41 GMT
-# entries:        3639
+# entries:        3638
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -146,8 +146,6 @@
 0.0.0.0 ad.infoseek.com
 0.0.0.0 ad.intl.xiaomi.com
 0.0.0.0 ad.jacotei.com.br
-0.0.0.0 ad.jamba.net
-0.0.0.0 ad.jamster.co.uk
 0.0.0.0 ad.jetsoftware.com
 0.0.0.0 ad.keenspace.com
 0.0.0.0 ad.liveinternet.ru
@@ -702,7 +700,6 @@
 0.0.0.0 ads.verticalresponse.com
 0.0.0.0 ads.vgchartz.com
 0.0.0.0 ads.videosz.com
-0.0.0.0 ads.viksaffiliates.com
 0.0.0.0 ads.virtual-nights.com
 0.0.0.0 ads.virtuopolitan.com
 0.0.0.0 ads.vnumedia.com
@@ -814,7 +811,6 @@
 0.0.0.0 adserver.janes.com
 0.0.0.0 adserver.lecool.com
 0.0.0.0 adserver.libero.it
-0.0.0.0 adserver.madeby.ws
 0.0.0.0 adserver.mobi
 0.0.0.0 adserver.msmb.biz
 0.0.0.0 adserver.news.com.au
@@ -3445,6 +3441,8 @@
 0.0.0.0 urldata.net
 0.0.0.0 us.a1.yimg.com
 0.0.0.0 user-shield-check.com
+0.0.0.0 userreplay.com
+0.0.0.0 userreplay.net
 0.0.0.0 usherprayer.com
 0.0.0.0 usingirritatecordial.com
 0.0.0.0 utils.mediageneral.net
@@ -3494,6 +3492,7 @@
 0.0.0.0 visualrevenue.com
 0.0.0.0 vivads.net
 0.0.0.0 vivtracking.com
+0.0.0.0 vmmpxl.com
 0.0.0.0 voicefive.com
 0.0.0.0 voicevegetable.com
 0.0.0.0 voluum.com
