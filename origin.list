@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Fri, 17 Sep 2021 22:11:16 GMT
-# entries:        3643
+# entries:        3642
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -1430,7 +1430,6 @@
 0.0.0.0 clickedyclick.com
 0.0.0.0 clickfuse.com
 0.0.0.0 clickhereforcellphones.com
-0.0.0.0 clickhouse.com
 0.0.0.0 clickhype.com
 0.0.0.0 clicklink.jp
 0.0.0.0 clickmate.io
