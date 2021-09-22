@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 22 Sep 2021 08:28:49 GMT
-# entries:        3653
+# last updated:   Wed, 22 Sep 2021 16:22:12 GMT
+# entries:        3655
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -1748,6 +1748,7 @@
 0.0.0.0 et.nytimes.com
 0.0.0.0 etahub.com
 0.0.0.0 etargetnet.com
+0.0.0.0 etioh.com
 0.0.0.0 etracker.com
 0.0.0.0 etracker.de
 0.0.0.0 eu-adcenter.net
@@ -2137,6 +2138,7 @@
 0.0.0.0 kanoodle.com
 0.0.0.0 kargo.com
 0.0.0.0 karonty.com
+0.0.0.0 kesmatic.com
 0.0.0.0 keymedia.hu
 0.0.0.0 kindads.com
 0.0.0.0 kissmetrics.com
