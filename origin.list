@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 22 Sep 2021 00:58:44 GMT
-# entries:        3652
+# last updated:   Wed, 22 Sep 2021 08:28:49 GMT
+# entries:        3653
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -2515,6 +2515,7 @@
 0.0.0.0 offshoreanglehost.com
 0.0.0.0 oglasi.posjetnica.com
 0.0.0.0 ogury.com
+0.0.0.0 ojrq.net
 0.0.0.0 omnijay.com
 0.0.0.0 omniscientspark.com
 0.0.0.0 omniture.com
