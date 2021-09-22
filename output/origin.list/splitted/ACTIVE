@@ -3195,7 +3195,7 @@ target.microsoft.com                                                            
 targeting.api.drift.com                                                                              ACTIVE      DNSLOOKUP  Unknown           301        AVAILABILITY 
 targeting.nzme.arcpublishing.com                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 targeting.voxus.tv                                                                                   ACTIVE      DNSLOOKUP  Unknown           200        AVAILABILITY 
-targetingnow.com                                                                                     ACTIVE      WHOIS      03-may-2021       200        AVAILABILITY 
+targetingnow.com                                                                                     ACTIVE      WHOIS      03-may-2021       302        AVAILABILITY 
 targetnet.com                                                                                        ACTIVE      WHOIS      08-jul-2021       200        AVAILABILITY 
 targetpoint.com                                                                                      ACTIVE      WHOIS      07-nov-2021       Unknown    AVAILABILITY 
 tastefulsongs.com                                                                                    ACTIVE      WHOIS      13-dec-2021       308        AVAILABILITY 
@@ -3309,3 +3309,15 @@ track1.viewdeos.com                                                             
 trackalyzer.com                                                                                      ACTIVE      WHOIS      02-apr-2021       403        AVAILABILITY 
 trackedlink.net                                                                                      ACTIVE      WHOIS      08-mar-2021       301        AVAILABILITY 
 trackedweb.net                                                                                       ACTIVE      WHOIS      25-jun-2026       403        AVAILABILITY 
+tracker-pm2.spilleren.com                                                                            ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+tracker.bannerflow.com                                                                               ACTIVE      DNSLOOKUP  Unknown           301        AVAILABILITY 
+tracker.cdnbye.com                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+tracker.comunidadmarriott.com                                                                        ACTIVE      DNSLOOKUP  Unknown           302        AVAILABILITY 
+tracker.icerocket.com                                                                                ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+tracker.mmdlv.it                                                                                     ACTIVE      DNSLOOKUP  Unknown           302        AVAILABILITY 
+tracker.samplicio.us                                                                                 ACTIVE      DNSLOOKUP  Unknown           200        AVAILABILITY 
+tracker.vgame.us                                                                                     ACTIVE      DNSLOOKUP  Unknown           503        AVAILABILITY 
+tracking.1-a1502-bi.co.uk                                                                            ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+tracking.1-kv015-ap.co.uk                                                                            ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+tracking.21-a4652-bi.co.uk                                                                           ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+tracking.39-bb4a9-osm.co.uk                                                                          ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
