@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 23 Sep 2021 14:44:41 GMT
-# entries:        3657
+# last updated:   Thu, 23 Sep 2021 17:20:17 GMT
+# entries:        3661
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -1100,6 +1100,7 @@
 0.0.0.0 ard.xxxblackbook.com
 0.0.0.0 argyresthia.com
 0.0.0.0 aromamirror.com
+0.0.0.0 artisany.net
 0.0.0.0 as.webmd.com
 0.0.0.0 as2.adserverhd.com
 0.0.0.0 aserv.motorsgate.com
@@ -1378,6 +1379,7 @@
 0.0.0.0 cdn.onesignal.com
 0.0.0.0 cdn.panelbear.com
 0.0.0.0 cdn.segment.com
+0.0.0.0 cdnondemand.org
 0.0.0.0 cedato.com
 0.0.0.0 celtra.com
 0.0.0.0 centerpointmedia.com
@@ -2654,6 +2656,7 @@
 0.0.0.0 pixel.watch
 0.0.0.0 pixel.yabidos.com
 0.0.0.0 placed.com
+0.0.0.0 plardi.com
 0.0.0.0 plausibleio.workers.dev
 0.0.0.0 play4traffic.com
 0.0.0.0 playhaven.com
@@ -3421,6 +3424,7 @@
 0.0.0.0 truehits2.gits.net.th
 0.0.0.0 trust.titanhq.com
 0.0.0.0 trustx.org
+0.0.0.0 tsuam.com
 0.0.0.0 tsyndicate.com
 0.0.0.0 tsyndicate.net
 0.0.0.0 tubemogul.com
