@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 22 Sep 2021 16:22:12 GMT
-# entries:        3655
+# last updated:   Thu, 23 Sep 2021 14:44:41 GMT
+# entries:        3657
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -1134,6 +1134,7 @@
 0.0.0.0 awakebird.com
 0.0.0.0 awempire.com
 0.0.0.0 awin1.com
+0.0.0.0 awstrack.me
 0.0.0.0 awzbijw.com
 0.0.0.0 axiomaticalley.com
 0.0.0.0 axonix.com
@@ -1545,6 +1546,7 @@
 0.0.0.0 cpays.com
 0.0.0.0 cpmstar.com
 0.0.0.0 cpu.samsungelectronics.com
+0.0.0.0 cpx-traffic.com
 0.0.0.0 cpx.to
 0.0.0.0 cpxinteractive.com
 0.0.0.0 cqcounter.com
