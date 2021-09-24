@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 23 Sep 2021 22:51:32 GMT
-# entries:        3662
+# entries:        3661
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -670,6 +670,7 @@
 0.0.0.0 ads.supplyframe.com
 0.0.0.0 ads.syscdn.de
 0.0.0.0 ads.tahono.com
+0.0.0.0 ads.themovienation.com
 0.0.0.0 ads.thestar.com
 0.0.0.0 ads.thrillsaffiliates.com
 0.0.0.0 ads.tiktok.com
@@ -1389,7 +1390,6 @@
 0.0.0.0 chairscrack.com
 0.0.0.0 chameleon.ad
 0.0.0.0 channelintelligence.com
-0.0.0.0 chardwardse.club
 0.0.0.0 chart.dk
 0.0.0.0 chartbeat.com
 0.0.0.0 chartbeat.net
@@ -2848,7 +2848,6 @@
 0.0.0.0 reklamdsp.com
 0.0.0.0 relevanz10.de
 0.0.0.0 relmaxtop.com
-0.0.0.0 remistrainew.club
 0.0.0.0 remox.com
 0.0.0.0 republika.onet.pl
 0.0.0.0 resalag.com
