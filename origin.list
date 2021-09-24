@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 23 Sep 2021 22:51:32 GMT
-# entries:        3661
+# last updated:   Fri, 24 Sep 2021 13:39:14 GMT
+# entries:        3662
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -1587,6 +1587,7 @@
 0.0.0.0 cuteturkey.com
 0.0.0.0 cxense.com
 0.0.0.0 cyberbounty.com
+0.0.0.0 cyrasi.com
 0.0.0.0 d.adroll.com
 0.0.0.0 d2cmedia.ca
 0.0.0.0 dabiaozhi.com
