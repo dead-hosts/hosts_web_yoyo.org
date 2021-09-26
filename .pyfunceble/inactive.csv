@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-adserver.sharewareonline.com,AVAILABILITY,origin.list,2021-09-25 10:19:44.298154
 ad.jamba.net,AVAILABILITY,origin.list,2021-09-25 18:37:18.474288
 ad.jamster.co.uk,AVAILABILITY,origin.list,2021-09-25 18:37:23.567535
 tracking.lenddom.com,AVAILABILITY,origin.list,2021-09-25 18:37:27.185139
@@ -48,3 +47,4 @@ line.jzs001.cn,AVAILABILITY,origin.list,2021-09-25 18:41:53.294918
 ad.ilove.ch,AVAILABILITY,origin.list,2021-09-25 18:41:58.664688
 adserver.madeby.ws,AVAILABILITY,origin.list,2021-09-25 18:42:02.585786
 ads.viksaffiliates.com,AVAILABILITY,origin.list,2021-09-25 18:42:06.230705
+adserver.sharewareonline.com,AVAILABILITY,origin.list,2021-09-26 15:29:04.528180
