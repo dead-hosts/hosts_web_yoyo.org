@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 27 Sep 2021 08:31:30 GMT
-# entries:        3670
+# last updated:   Mon, 27 Sep 2021 12:39:27 GMT
+# entries:        3672
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -1411,6 +1411,7 @@
 0.0.0.0 cl0udh0st1ng.com
 0.0.0.0 claria.com
 0.0.0.0 clevernt.com
+0.0.0.0 cliand.com
 0.0.0.0 click.a-ads.com
 0.0.0.0 click.airmalta-mail.com
 0.0.0.0 click.bkdpt.com
@@ -2926,6 +2927,7 @@
 0.0.0.0 s1-adfly.com
 0.0.0.0 s20dh7e9dh.com
 0.0.0.0 s2d6.com
+0.0.0.0 s2strk.info
 0.0.0.0 sa.api.intl.miui.com
 0.0.0.0 sabio.us
 0.0.0.0 sageanalyst.net
