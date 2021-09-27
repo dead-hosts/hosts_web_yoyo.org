@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sun, 26 Sep 2021 16:28:18 GMT
-# entries:        3667
+# last updated:   Mon, 27 Sep 2021 08:31:30 GMT
+# entries:        3670
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -1135,6 +1135,7 @@
 0.0.0.0 avpa.javalobby.org
 0.0.0.0 awakebird.com
 0.0.0.0 awempire.com
+0.0.0.0 awesomeagreement.com
 0.0.0.0 awin1.com
 0.0.0.0 awstrack.me
 0.0.0.0 awzbijw.com
@@ -1495,6 +1496,7 @@
 0.0.0.0 complextoad.com
 0.0.0.0 comprabanner.it
 0.0.0.0 concernedcondition.com
+0.0.0.0 conditionchange.com
 0.0.0.0 conductrics.com
 0.0.0.0 connatix.com
 0.0.0.0 connectad.io
@@ -3583,6 +3585,7 @@
 0.0.0.0 whiskyqueue.com
 0.0.0.0 whispa.com
 0.0.0.0 whisperingcrib.com
+0.0.0.0 whisperingflesh.com
 0.0.0.0 whoisonline.net
 0.0.0.0 widespace.com
 0.0.0.0 widget.privy.com
