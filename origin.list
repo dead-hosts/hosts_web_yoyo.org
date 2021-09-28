@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 27 Sep 2021 12:39:27 GMT
-# entries:        3672
+# last updated:   Tue, 28 Sep 2021 07:58:57 GMT
+# entries:        3675
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -850,6 +850,8 @@
 0.0.0.0 adservice.google.com.mt
 0.0.0.0 adserving.unibet.com
 0.0.0.0 adservingfront.com
+0.0.0.0 adservrs.com
+0.0.0.0 adservrs.com.edgekey.net
 0.0.0.0 adsfac.eu
 0.0.0.0 adsfac.net
 0.0.0.0 adsfac.us
@@ -1692,6 +1694,7 @@
 0.0.0.0 e-m.fr
 0.0.0.0 e-planning.net
 0.0.0.0 e.kde.cz
+0.0.0.0 e37364.dscd.akamaiedge.net
 0.0.0.0 eadexchange.com
 0.0.0.0 earthquakescarf.com
 0.0.0.0 earthycopy.com
