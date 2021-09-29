@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 29 Sep 2021 07:52:27 GMT
-# entries:        3674
+# last updated:   Wed, 29 Sep 2021 17:06:14 GMT
+# entries:        3676
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -2672,6 +2672,7 @@
 0.0.0.0 pleasantpump.com
 0.0.0.0 plista.com
 0.0.0.0 plotrabbit.com
+0.0.0.0 ployea.com
 0.0.0.0 pluckypocket.com
 0.0.0.0 plugrush.com
 0.0.0.0 pocketmath.com
@@ -3078,6 +3079,7 @@
 0.0.0.0 specificpop.com
 0.0.0.0 speedomizer.com
 0.0.0.0 speedshiftmedia.com
+0.0.0.0 speop.com
 0.0.0.0 spezialreporte.de
 0.0.0.0 spidersboats.com
 0.0.0.0 spiffymachine.com
