@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 28 Sep 2021 07:58:57 GMT
-# entries:        3675
+# last updated:   Wed, 29 Sep 2021 07:52:27 GMT
+# entries:        3674
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -1035,7 +1035,6 @@
 0.0.0.0 americash.com
 0.0.0.0 amplitude.com
 0.0.0.0 amung.us
-0.0.0.0 analyticacdn.com
 0.0.0.0 analytics-production.hapyak.com
 0.0.0.0 analytics.adpost.org
 0.0.0.0 analytics.algoepico.net
@@ -2683,6 +2682,7 @@
 0.0.0.0 popmyads.com
 0.0.0.0 popub.com
 0.0.0.0 popunder.ru
+0.0.0.0 popunhot1.blogspot.com
 0.0.0.0 popup.msn.com
 0.0.0.0 popupmoney.com
 0.0.0.0 popupnation.com
@@ -3143,7 +3143,6 @@
 0.0.0.0 stats.pusher.com
 0.0.0.0 stats.rdphv.net
 0.0.0.0 stats.self.com
-0.0.0.0 stats.sharksice.timetoscore.com
 0.0.0.0 stats.stb-ottow.de
 0.0.0.0 stats.townnews.com
 0.0.0.0 stats.wordpress.com
