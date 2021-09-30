@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 29 Sep 2021 17:06:14 GMT
-# entries:        3676
+# last updated:   Thu, 30 Sep 2021 07:24:23 GMT
+# entries:        3677
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -1317,6 +1317,7 @@
 0.0.0.0 braincash.com
 0.0.0.0 brand-display.com
 0.0.0.0 brandreachsys.com
+0.0.0.0 breakableinsurance.com
 0.0.0.0 breaktime.com.tw
 0.0.0.0 brealtime.com
 0.0.0.0 bridgetrack.com
