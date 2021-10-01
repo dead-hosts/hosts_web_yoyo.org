@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 30 Sep 2021 16:36:22 GMT
-# entries:        3678
+# last updated:   Fri, 01 Oct 2021 07:02:28 GMT
+# entries:        3679
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -910,6 +910,7 @@
 0.0.0.0 adtology.com
 0.0.0.0 adtoma.com
 0.0.0.0 adtrace.org
+0.0.0.0 adtraction.com
 0.0.0.0 adtrade.net
 0.0.0.0 adtriplex.com
 0.0.0.0 adultadvertising.com
