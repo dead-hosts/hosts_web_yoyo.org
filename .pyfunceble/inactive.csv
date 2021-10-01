@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-adservrs.com.edgekey.net,AVAILABILITY,origin.list,2021-09-30 01:48:56.902299
-adserver.sharewareonline.com,AVAILABILITY,origin.list,2021-09-30 01:49:00.504049
 ads.geekswithblogs.net,AVAILABILITY,origin.list,2021-09-30 21:32:06.611963
 ad.jamba.net,AVAILABILITY,origin.list,2021-09-30 21:32:12.697053
 ad.jamster.co.uk,AVAILABILITY,origin.list,2021-09-30 21:32:18.881240
@@ -49,3 +47,5 @@ ad.ilove.ch,AVAILABILITY,origin.list,2021-09-30 21:37:37.739283
 adserver.madeby.ws,AVAILABILITY,origin.list,2021-09-30 21:37:42.367011
 ads.viksaffiliates.com,AVAILABILITY,origin.list,2021-09-30 21:37:46.647095
 ads.yourfreedvds.com,AVAILABILITY,origin.list,2021-10-01 02:21:54.660363
+adservrs.com.edgekey.net,AVAILABILITY,origin.list,2021-10-01 07:56:21.664818
+adserver.sharewareonline.com,AVAILABILITY,origin.list,2021-10-01 07:56:26.079296
