@@ -1,12 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ads.crakmedia.com,AVAILABILITY,origin.list,2021-10-03 12:00:32.604171
-ads.heias.com,AVAILABILITY,origin.list,2021-10-03 12:00:33.271754
-ads.motor-forum.nl,AVAILABILITY,origin.list,2021-10-03 12:00:33.873953
-ads.nola.com,AVAILABILITY,origin.list,2021-10-03 12:00:34.561275
-ads.saymedia.com,AVAILABILITY,origin.list,2021-10-03 12:00:35.235333
-ads.sift.co.uk,AVAILABILITY,origin.list,2021-10-03 12:00:35.889571
-ads.space.com,AVAILABILITY,origin.list,2021-10-03 12:00:36.549786
-arc1.msn.com,AVAILABILITY,origin.list,2021-10-03 12:00:37.188893
 ads.geekswithblogs.net,AVAILABILITY,origin.list,2021-10-04 12:03:19.422271
 ad.jamba.net,AVAILABILITY,origin.list,2021-10-04 12:03:20.469749
 ad.jamster.co.uk,AVAILABILITY,origin.list,2021-10-04 12:03:21.519579
@@ -56,3 +48,11 @@ adserver.madeby.ws,AVAILABILITY,origin.list,2021-10-04 12:04:20.327389
 ads.viksaffiliates.com,AVAILABILITY,origin.list,2021-10-04 12:04:21.065813
 adservrs.com.edgekey.net,AVAILABILITY,origin.list,2021-10-04 12:04:21.805466
 adserver.sharewareonline.com,AVAILABILITY,origin.list,2021-10-04 12:04:22.458678
+ads.crakmedia.com,AVAILABILITY,origin.list,2021-10-05 12:06:40.221062
+ads.heias.com,AVAILABILITY,origin.list,2021-10-05 12:06:41.167681
+ads.motor-forum.nl,AVAILABILITY,origin.list,2021-10-05 12:06:42.002429
+ads.nola.com,AVAILABILITY,origin.list,2021-10-05 12:06:43.017258
+ads.saymedia.com,AVAILABILITY,origin.list,2021-10-05 12:06:44.014254
+ads.sift.co.uk,AVAILABILITY,origin.list,2021-10-05 12:06:45.014221
+ads.space.com,AVAILABILITY,origin.list,2021-10-05 12:06:45.994093
+arc1.msn.com,AVAILABILITY,origin.list,2021-10-05 12:06:46.951198
