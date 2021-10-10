@@ -1,8 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ads.geekswithblogs.net,AVAILABILITY,origin.list,2021-10-08 12:13:01.252833
-ad.jamba.net,AVAILABILITY,origin.list,2021-10-08 12:13:02.419677
-ad.jamster.co.uk,AVAILABILITY,origin.list,2021-10-08 12:13:03.484434
-tracking.lenddom.com,AVAILABILITY,origin.list,2021-10-08 12:13:04.168539
 ads.satyamonline.com,AVAILABILITY,origin.list,2021-10-08 12:13:04.866926
 ad.reunion.com,AVAILABILITY,origin.list,2021-10-08 12:13:05.552194
 adserver.hardsextube.com,AVAILABILITY,origin.list,2021-10-08 12:13:06.222552
@@ -56,3 +52,7 @@ ads.saymedia.com,AVAILABILITY,origin.list,2021-10-08 12:14:09.025196
 ads.sift.co.uk,AVAILABILITY,origin.list,2021-10-08 12:14:09.680503
 ads.space.com,AVAILABILITY,origin.list,2021-10-08 12:14:10.345435
 arc1.msn.com,AVAILABILITY,origin.list,2021-10-08 12:14:10.995378
+ads.geekswithblogs.net,AVAILABILITY,origin.list,2021-10-10 12:15:13.257870
+ad.jamba.net,AVAILABILITY,origin.list,2021-10-10 12:15:14.697734
+ad.jamster.co.uk,AVAILABILITY,origin.list,2021-10-10 12:15:16.158004
+tracking.lenddom.com,AVAILABILITY,origin.list,2021-10-10 12:15:17.131715
