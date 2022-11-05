@@ -646,7 +646,6 @@
         "ro.gov.br",
         "ro.leg.br",
         "rr.gov.br",
-        "rr.leg.br",
         "rs.gov.br",
         "rs.leg.br",
         "salvador.br",
@@ -1288,7 +1287,6 @@
         "mydrobo.com",
         "myiphost.com",
         "myqnapcloud.com",
-        "myravendb.com",
         "mysecuritycamera.com",
         "myshopblocks.com",
         "myshopify.com",
@@ -6098,6 +6096,7 @@
         "hosting-cluster.nl",
         "khplay.nl",
         "myspreadshop.nl",
+        "rr.leg.br",
         "transurl.nl"
     ],
     "no": [
