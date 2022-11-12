@@ -6,8 +6,8 @@
     "finish_timestamp": 1667714675.52871,
     "last_download_datetime": "2020-12-27T16:47:51.627871",
     "last_download_timestamp": 1609087671.627871,
-    "latest_part_finish_datetime": "2022-11-06T06:04:35.528710",
-    "latest_part_finish_timestamp": 1667714675.52871,
+    "latest_part_finish_datetime": "2022-11-12T19:47:26.585694",
+    "latest_part_finish_timestamp": 1668282446.585694,
     "latest_part_start_datetime": "2020-12-27T16:47:51.639394",
     "latest_part_start_timestamp": 1609087671.639394,
     "live_update": true,
@@ -15,6 +15,7 @@
     "own_management": false,
     "ping": [],
     "raw_link": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0",
+    "repo": "hosts_web_yoyo.org/hosts_web_yoyo.org",
     "start_datetime": "2020-12-27T16:47:51.636820",
     "start_timestamp": 1609087671.63682
 }
