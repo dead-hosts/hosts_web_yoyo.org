@@ -2,13 +2,15 @@
     "counter": {
         "MarkMonitor Inc.": 1,
         "NameSilo, LLC": 1,
+        "Namecheap": 1,
         "OVH": 2,
-        "total": 4
+        "total": 5
     },
     "percentage": {
-        "MarkMonitor Inc.": 25.0,
-        "NameSilo, LLC": 25.0,
-        "OVH": 50.0,
+        "MarkMonitor Inc.": 20.0,
+        "NameSilo, LLC": 20.0,
+        "Namecheap": 20.0,
+        "OVH": 40.0,
         "total": 100.0
     }
 }
