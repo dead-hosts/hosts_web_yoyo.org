@@ -15,7 +15,7 @@
     "own_management": false,
     "ping": [],
     "raw_link": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0",
-    "repo": "hosts_web_yoyo.org/hosts_web_yoyo.org",
+    "repo": "dead-hosts/hosts_web_yoyo.org",
     "start_datetime": "2020-12-27T16:47:51.636820",
     "start_timestamp": 1609087671.63682
 }
