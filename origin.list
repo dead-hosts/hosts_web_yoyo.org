@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 06 Dec 2022 09:23:58 GMT
-# entries:        3677
+# last updated:   Fri, 09 Dec 2022 11:24:06 GMT
+# entries:        3678
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sat, 14 Dec 2002 00:00:00
+# start date:    Sun, 15 Dec 2002 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -909,7 +909,6 @@
 0.0.0.0 adx.gayboy.at
 0.0.0.0 adxpansion.com
 0.0.0.0 adxpose.com
-0.0.0.0 adxvalue.com
 0.0.0.0 adyea.com
 0.0.0.0 adyoulike.com
 0.0.0.0 adz.rashflash.com
@@ -1375,6 +1374,7 @@
 0.0.0.0 click.fool.com
 0.0.0.0 click.hookupinyourcity.com
 0.0.0.0 click.hooligapps.com
+0.0.0.0 click.i.southwesternrailway.com
 0.0.0.0 click.infoblox.com
 0.0.0.0 click.kmindex.ru
 0.0.0.0 click.news.vans.com
@@ -2158,6 +2158,7 @@
 0.0.0.0 lead-analytics.nl
 0.0.0.0 leadboltads.net
 0.0.0.0 leadclick.com
+0.0.0.0 leadingedgecash.com
 0.0.0.0 leadplace.fr
 0.0.0.0 leadspace.com
 0.0.0.0 leadzupc.com
