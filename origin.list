@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 14 Dec 2022 17:25:54 GMT
-# entries:        3679
+# entries:        3670
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sat, 21 Dec 2002 00:00:00
+# start date:    Sun, 22 Dec 2002 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -654,7 +654,6 @@
 0.0.0.0 ads.videosz.com
 0.0.0.0 ads.virtual-nights.com
 0.0.0.0 ads.virtuopolitan.com
-0.0.0.0 ads.vnumedia.com
 0.0.0.0 ads.walkiberia.com
 0.0.0.0 ads.wapx.cn
 0.0.0.0 ads.watson.ch
@@ -1121,7 +1120,6 @@
 0.0.0.0 banner.penguin.cz
 0.0.0.0 banner.rbc.ru
 0.0.0.0 banner.reinstil.de
-0.0.0.0 banner.relcom.ru
 0.0.0.0 banner.tanto.de
 0.0.0.0 banner.titan-dsl.de
 0.0.0.0 banner.vadian.net
@@ -1384,7 +1382,6 @@
 0.0.0.0 click.twcwigs.com
 0.0.0.0 click2freemoney.com
 0.0.0.0 click360v2-ingest.azurewebsites.net
-0.0.0.0 clickadz.com
 0.0.0.0 clickagents.com
 0.0.0.0 clickbank.com
 0.0.0.0 clickbooth.com
@@ -1499,7 +1496,6 @@
 0.0.0.0 counter.rambler.ru
 0.0.0.0 counter.search.bg
 0.0.0.0 counter.snackly.co
-0.0.0.0 counter.sparklit.com
 0.0.0.0 counting.kmindex.ru
 0.0.0.0 coupling-media.de
 0.0.0.0 coxmt.com
@@ -1831,7 +1827,6 @@
 0.0.0.0 freebanner.com
 0.0.0.0 freecounterstat.com
 0.0.0.0 freelogs.com
-0.0.0.0 freeonlineusers.com
 0.0.0.0 freepay.com
 0.0.0.0 freeskreen.com
 0.0.0.0 freestats.com
@@ -2069,7 +2064,6 @@
 0.0.0.0 inskinad.com
 0.0.0.0 inspectlet.com
 0.0.0.0 install.365-stream.com
-0.0.0.0 instantmadness.com
 0.0.0.0 insticator.com
 0.0.0.0 instinctiveads.com
 0.0.0.0 instrumentsponge.com
@@ -2789,7 +2783,6 @@
 0.0.0.0 raac33.net
 0.0.0.0 rabbitrifle.com
 0.0.0.0 radar.cedexis.com
-0.0.0.0 radarurl.com
 0.0.0.0 radiate.com
 0.0.0.0 rads.realadmin.pl
 0.0.0.0 railwayrainstorm.com
@@ -3284,7 +3277,6 @@
 0.0.0.0 throtle.io
 0.0.0.0 thruport.com
 0.0.0.0 thunderhead.com
-0.0.0.0 ti.domainforlite.com
 0.0.0.0 tia.timeinc.net
 0.0.0.0 ticketaunt.com
 0.0.0.0 ticklesign.com
@@ -3480,7 +3472,6 @@
 0.0.0.0 unusualtitle.com
 0.0.0.0 unwieldyhealth.com
 0.0.0.0 unwrittenspot.com
-0.0.0.0 uowbqce.surf
 0.0.0.0 upu.samsungelectronics.com
 0.0.0.0 urlcash.net
 0.0.0.0 urldata.net
