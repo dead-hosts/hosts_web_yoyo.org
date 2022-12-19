@@ -1,0 +1,12 @@
+{
+    "counter": {
+        "GoDaddy.com, LLC": 1,
+        "NameCheap, Inc.": 3,
+        "total": 4
+    },
+    "percentage": {
+        "GoDaddy.com, LLC": 25.0,
+        "NameCheap, Inc.": 75.0,
+        "total": 100.0
+    }
+}
