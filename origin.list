@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Tue, 27 Dec 2022 11:59:38 GMT
-# entries:        3673
+# entries:        3669
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sat, 04 Jan 2003 00:00:00
+# start date:    Sun, 05 Jan 2003 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -48,7 +48,6 @@
 0.0.0.0 7search.com
 0.0.0.0 82o9v830.com
 0.0.0.0 a-ads.com
-0.0.0.0 a.aproductmsg.com
 0.0.0.0 a.mktw.net
 0.0.0.0 a.muloqot.uz
 0.0.0.0 a.sakh.com
@@ -176,7 +175,6 @@
 0.0.0.0 ad0.bigmir.net
 0.0.0.0 ad01.mediacorpsingapore.com
 0.0.0.0 ad1.emule-project.org
-0.0.0.0 ad1.eventmanager.co.kr
 0.0.0.0 ad1.kde.cz
 0.0.0.0 ad2.iinfo.cz
 0.0.0.0 ad2.lupa.cz
@@ -216,7 +214,6 @@
 0.0.0.0 adcel.co
 0.0.0.0 adcell.de
 0.0.0.0 adcenter.net
-0.0.0.0 adcentriconline.com
 0.0.0.0 adclick.com
 0.0.0.0 adclient1.tucows.com
 0.0.0.0 adcolony.com
@@ -657,7 +654,6 @@
 0.0.0.0 ads.virtuopolitan.com
 0.0.0.0 ads.vnumedia.com
 0.0.0.0 ads.walkiberia.com
-0.0.0.0 ads.wapx.cn
 0.0.0.0 ads.watson.ch
 0.0.0.0 ads.weather.ca
 0.0.0.0 ads.web.de
@@ -1832,6 +1828,7 @@
 0.0.0.0 freebanner.com
 0.0.0.0 freecounterstat.com
 0.0.0.0 freelogs.com
+0.0.0.0 freeonlineusers.com
 0.0.0.0 freepay.com
 0.0.0.0 freeskreen.com
 0.0.0.0 freestats.com
@@ -2243,7 +2240,6 @@
 0.0.0.0 loudlunch.com
 0.0.0.0 lp3tdqle.com
 0.0.0.0 lucidmedia.com
-0.0.0.0 lucklayed.info
 0.0.0.0 luckyorange.com
 0.0.0.0 ludicrousarch.com
 0.0.0.0 lytics.io
@@ -2788,6 +2784,7 @@
 0.0.0.0 raac33.net
 0.0.0.0 rabbitrifle.com
 0.0.0.0 radar.cedexis.com
+0.0.0.0 radarurl.com
 0.0.0.0 radiate.com
 0.0.0.0 rads.realadmin.pl
 0.0.0.0 railwayrainstorm.com
@@ -3187,7 +3184,6 @@
 0.0.0.0 sw88.espn.com
 0.0.0.0 swan-swan-goose.com
 0.0.0.0 swimslope.com
-0.0.0.0 swordfishdc.com
 0.0.0.0 swordgoose.com
 0.0.0.0 t.appsflyer.com
 0.0.0.0 t.armchairbookie.com
