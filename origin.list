@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 02 Jan 2023 13:19:33 GMT
-# entries:        3668
+# last updated:   Thu, 12 Jan 2023 04:23:50 GMT
+# entries:        3669
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Thu, 16 Jan 2003 00:00:00
+# start date:    Fri, 17 Jan 2003 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -2204,6 +2204,7 @@
 0.0.0.0 linkrain.com
 0.0.0.0 linkreferral.com
 0.0.0.0 links-ranking.de
+0.0.0.0 links.zoopla.co.uk
 0.0.0.0 linkshighway.com
 0.0.0.0 linkstorms.com
 0.0.0.0 linkswaper.com
