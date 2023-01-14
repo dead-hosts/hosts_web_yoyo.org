@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 12 Jan 2023 04:23:50 GMT
-# entries:        3669
+# entries:        3666
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sat, 18 Jan 2003 00:00:00
+# start date:    Sun, 19 Jan 2003 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -920,7 +920,6 @@
 0.0.0.0 affec.tv
 0.0.0.0 affili.net
 0.0.0.0 affiliate.1800flowers.com
-0.0.0.0 affiliate.doubleyourdating.com
 0.0.0.0 affiliate.dtiserv.com
 0.0.0.0 affiliate.gamestop.com
 0.0.0.0 affiliate.mogs.com
@@ -2552,7 +2551,6 @@
 0.0.0.0 opmnstr.com
 0.0.0.0 oppuz.com
 0.0.0.0 optimallimit.com
-0.0.0.0 optimize-stats.voxmedia.com
 0.0.0.0 optimizely.com
 0.0.0.0 optimost.com
 0.0.0.0 optmd.com
@@ -2653,7 +2651,6 @@
 0.0.0.0 plotrabbit.com
 0.0.0.0 pltraffic8.com
 0.0.0.0 pluckypocket.com
-0.0.0.0 pluckytaste.com
 0.0.0.0 plugrush.com
 0.0.0.0 pointlesshour.com
 0.0.0.0 pointroll.com
