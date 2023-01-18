@@ -1,18 +1,20 @@
 {
     "counter": {
+        "CSC Corporate Domains, Inc.": 1,
         "EuroDNS S.A.": 1,
         "GoDaddy.com, LLC": 1,
         "IONOS SE": 1,
         "NameCheap, Inc.": 2,
         "NameSilo, LLC": 1,
-        "total": 6
+        "total": 7
     },
     "percentage": {
-        "EuroDNS S.A.": 16.666666666666668,
-        "GoDaddy.com, LLC": 16.666666666666668,
-        "IONOS SE": 16.666666666666668,
-        "NameCheap, Inc.": 33.333333333333336,
-        "NameSilo, LLC": 16.666666666666668,
+        "CSC Corporate Domains, Inc.": 14.285714285714286,
+        "EuroDNS S.A.": 14.285714285714286,
+        "GoDaddy.com, LLC": 14.285714285714286,
+        "IONOS SE": 14.285714285714286,
+        "NameCheap, Inc.": 28.571428571428573,
+        "NameSilo, LLC": 14.285714285714286,
         "total": 100.00000000000001
     }
 }
