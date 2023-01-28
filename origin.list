@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 18 Jan 2023 22:02:26 GMT
-# entries:        3667
+# entries:        3665
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sat, 01 Feb 2003 00:00:00
+# start date:    Sun, 02 Feb 2003 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -901,7 +901,6 @@
 0.0.0.0 adworldnetwork.com
 0.0.0.0 adworx.at
 0.0.0.0 adworx.nl
-0.0.0.0 adx.atnext.com
 0.0.0.0 adx.gayboy.at
 0.0.0.0 adxpansion.com
 0.0.0.0 adxpose.com
@@ -1049,7 +1048,6 @@
 0.0.0.0 as2.adserverhd.com
 0.0.0.0 aserv.motorsgate.com
 0.0.0.0 asewlfjqwlflkew.com
-0.0.0.0 asia999.website
 0.0.0.0 aso1.net
 0.0.0.0 assets1.exgfnetwork.com
 0.0.0.0 assoc-amazon.com
@@ -2636,7 +2634,6 @@
 0.0.0.0 pippio.com
 0.0.0.0 piquantpigs.com
 0.0.0.0 pix.spot.im
-0.0.0.0 pixel.app.returnpath.net
 0.0.0.0 pixel.condenastdigital.com
 0.0.0.0 pixel.digitru.st
 0.0.0.0 pixel.keywee.co
@@ -2653,6 +2650,7 @@
 0.0.0.0 plotrabbit.com
 0.0.0.0 pltraffic8.com
 0.0.0.0 pluckypocket.com
+0.0.0.0 pluckytaste.com
 0.0.0.0 plugrush.com
 0.0.0.0 pointlesshour.com
 0.0.0.0 pointroll.com
@@ -2938,11 +2936,11 @@
 0.0.0.0 scratch2cash.com
 0.0.0.0 screechingfurniture.com
 0.0.0.0 screechingstove.com
-0.0.0.0 scripte-monster.de
 0.0.0.0 scrubswim.com
 0.0.0.0 sdkfjxjertertry.com
 0.0.0.0 seadform.net
 0.0.0.0 searchmarketing.com
+0.0.0.0 searchramp.com
 0.0.0.0 secre.jp
 0.0.0.0 secretivecub.com
 0.0.0.0 secretspiders.com
