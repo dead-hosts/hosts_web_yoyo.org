@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 18 Jan 2023 22:02:26 GMT
-# entries:        3665
+# last updated:   Mon, 30 Jan 2023 17:56:25 GMT
+# entries:        3669
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Tue, 04 Feb 2003 00:00:00
+# start date:    Wed, 05 Feb 2003 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -1255,6 +1255,7 @@
 0.0.0.0 brandreachsys.com
 0.0.0.0 braze.eu
 0.0.0.0 breadbalance.com
+0.0.0.0 breahant.site
 0.0.0.0 breakableinsurance.com
 0.0.0.0 breaktime.com.tw
 0.0.0.0 brealtime.com
@@ -1636,6 +1637,7 @@
 0.0.0.0 dsp.colpirio.com
 0.0.0.0 dsp.io
 0.0.0.0 dstillery.com
+0.0.0.0 dustyhammer.com
 0.0.0.0 dustywave.com
 0.0.0.0 dyntrk.com
 0.0.0.0 e-m.fr
@@ -2294,6 +2296,7 @@
 0.0.0.0 mcdlks.com
 0.0.0.0 mcs-va.tiktok.com
 0.0.0.0 mcs-va.tiktokv.com
+0.0.0.0 measlymiddle.com
 0.0.0.0 measure.office.com
 0.0.0.0 measuremap.com
 0.0.0.0 meatydime.com
@@ -2409,6 +2412,7 @@
 0.0.0.0 mundanenail.com
 0.0.0.0 mundanepollution.com
 0.0.0.0 musiccounter.ru
+0.0.0.0 muteknife.com
 0.0.0.0 muwmedia.com
 0.0.0.0 mxptint.net
 0.0.0.0 myads.company
