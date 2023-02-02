@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Mon, 30 Jan 2023 17:56:25 GMT
-# entries:        3668
+# last updated:   Wed, 01 Feb 2023 20:19:58 GMT
+# entries:        3670
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Thu, 06 Feb 2003 00:00:00
+# start date:    Fri, 07 Feb 2003 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -83,6 +83,7 @@
 0.0.0.0 abtasty.com
 0.0.0.0 abz.com
 0.0.0.0 ac.rnm.ca
+0.0.0.0 acemlnb.com
 0.0.0.0 acid-adserver.click
 0.0.0.0 acridtwist.com
 0.0.0.0 actionsplash.com
@@ -991,6 +992,7 @@
 0.0.0.0 analytics.lucid.app
 0.0.0.0 analytics.mailmunch.co
 0.0.0.0 analytics.mobile.yandex.net
+0.0.0.0 analytics.momentum-institut.at
 0.0.0.0 analytics.myfinance.com
 0.0.0.0 analytics.ostr.io
 0.0.0.0 analytics.phando.com
