@@ -1,0 +1,12 @@
+{
+    "counter": {
+        "NameSilo, LLC": 1,
+        "OVH": 1,
+        "total": 2
+    },
+    "percentage": {
+        "NameSilo, LLC": 50.0,
+        "OVH": 50.0,
+        "total": 100.0
+    }
+}
