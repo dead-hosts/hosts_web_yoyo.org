@@ -1,12 +1,14 @@
 {
     "counter": {
+        "MarkMonitor Inc.": 1,
         "NameSilo, LLC": 1,
         "OVH": 1,
-        "total": 2
+        "total": 3
     },
     "percentage": {
-        "NameSilo, LLC": 50.0,
-        "OVH": 50.0,
+        "MarkMonitor Inc.": 33.333333333333336,
+        "NameSilo, LLC": 33.333333333333336,
+        "OVH": 33.333333333333336,
         "total": 100.0
     }
 }
