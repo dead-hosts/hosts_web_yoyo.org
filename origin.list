@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 02 Feb 2023 22:51:24 GMT
-# entries:        3671
+# last updated:   Fri, 03 Feb 2023 14:12:15 GMT
+# entries:        3667
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sat, 08 Feb 2003 00:00:00
+# start date:    Sun, 09 Feb 2003 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -286,7 +286,6 @@
 0.0.0.0 adlure.net
 0.0.0.0 adm.fwmrm.net
 0.0.0.0 admagnet.net
-0.0.0.0 admailtiser.com
 0.0.0.0 adman.gr
 0.0.0.0 adman.otenet.gr
 0.0.0.0 admanagement.ch
@@ -719,7 +718,6 @@
 0.0.0.0 adscpm.com
 0.0.0.0 adsdaq.com
 0.0.0.0 adsdk.yandex.ru
-0.0.0.0 adsend.de
 0.0.0.0 adsensecustomsearchads.com
 0.0.0.0 adserve.ams.rhythmxchange.com
 0.0.0.0 adserve.gkeurope.de
@@ -1169,7 +1167,6 @@
 0.0.0.0 barbarousnerve.com
 0.0.0.0 baremetrics.com
 0.0.0.0 barnesandnoble.bfast.com
-0.0.0.0 basebanner.com
 0.0.0.0 basketballbelieve.com
 0.0.0.0 baskettexture.com
 0.0.0.0 bat.bing.com
@@ -1596,7 +1593,6 @@
 0.0.0.0 direct-events-collector.spot.im
 0.0.0.0 direct-xxx-access.com
 0.0.0.0 directaclick.com
-0.0.0.0 directivepub.com
 0.0.0.0 directleads.com
 0.0.0.0 directorym.com
 0.0.0.0 directtrack.com
@@ -2692,7 +2688,6 @@
 0.0.0.0 primetime.net
 0.0.0.0 privatecash.com
 0.0.0.0 prmtracking.com
-0.0.0.0 pro-advertising.com
 0.0.0.0 pro-market.net
 0.0.0.0 producecopy.com
 0.0.0.0 proext.com
@@ -2960,6 +2955,7 @@
 0.0.0.0 semasio.net
 0.0.0.0 sendmepixel.com
 0.0.0.0 separatesilver.com
+0.0.0.0 serpentshampoo.com
 0.0.0.0 serv0.com
 0.0.0.0 servads.net
 0.0.0.0 serve.tercept.com
@@ -3187,6 +3183,7 @@
 0.0.0.0 sw88.espn.com
 0.0.0.0 swan-swan-goose.com
 0.0.0.0 swimslope.com
+0.0.0.0 swordfishdc.com
 0.0.0.0 swordgoose.com
 0.0.0.0 t.appsflyer.com
 0.0.0.0 t.armchairbookie.com
@@ -3376,7 +3373,6 @@
 0.0.0.0 tracking.olx-st.com
 0.0.0.0 tracking.orixa-media.com
 0.0.0.0 tracking.pastapplauddeterseminarproof.makeup
-0.0.0.0 tracking.theoceanac.online
 0.0.0.0 tracking.thinkabt.com
 0.0.0.0 tracking.wetter.at
 0.0.0.0 tracking01.walmart.com
