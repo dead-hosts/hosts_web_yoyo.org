@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 07 Feb 2023 02:06:07 GMT
-# entries:        3668
+# last updated:   Wed, 08 Feb 2023 23:27:19 GMT
+# entries:        3681
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Thu, 13 Feb 2003 00:00:00
+# start date:    Fri, 14 Feb 2003 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -349,6 +349,8 @@
 0.0.0.0 adrotate.de
 0.0.0.0 adrotic.girlonthenet.com
 0.0.0.0 adrta.com
+0.0.0.0 ads-backend.chaincliq.com
+0.0.0.0 ads-bilek.com
 0.0.0.0 ads-click.com
 0.0.0.0 ads-dev.pinterest.com
 0.0.0.0 ads-game-187f4.firebaseapp.com
@@ -370,6 +372,7 @@
 0.0.0.0 ads.adfox.ru
 0.0.0.0 ads.administrator.de
 0.0.0.0 ads.adred.de
+0.0.0.0 ads.adsbtc.fun
 0.0.0.0 ads.adstream.com.ro
 0.0.0.0 ads.adultfriendfinder.com
 0.0.0.0 ads.advance.net
@@ -807,6 +810,7 @@
 0.0.0.0 adskpak.com
 0.0.0.0 adsmart.com
 0.0.0.0 adsmart.net
+0.0.0.0 adsmartracker.com
 0.0.0.0 adsmetadata.startappservice.com
 0.0.0.0 adsmogo.com
 0.0.0.0 adsnative.com
@@ -816,6 +820,7 @@
 0.0.0.0 adspeed.net
 0.0.0.0 adspirit.de
 0.0.0.0 adsponse.de
+0.0.0.0 adspredictiv.com
 0.0.0.0 adspsp.com
 0.0.0.0 adsroller.com
 0.0.0.0 adsrv.deviantart.com
@@ -1715,6 +1720,7 @@
 0.0.0.0 et.nytimes.com
 0.0.0.0 etahub.com
 0.0.0.0 etargetnet.com
+0.0.0.0 ethereum-ads.com
 0.0.0.0 etracker.com
 0.0.0.0 etracker.de
 0.0.0.0 eu-adcenter.net
@@ -2361,6 +2367,7 @@
 0.0.0.0 minormeeting.com
 0.0.0.0 mintegral.com
 0.0.0.0 minuterhythm.com
+0.0.0.0 mix2ads.com
 0.0.0.0 mixedreading.com
 0.0.0.0 mixpanel.com
 0.0.0.0 mkto-ab410147.com
@@ -3006,6 +3013,7 @@
 0.0.0.0 sizesidewalk.com
 0.0.0.0 sizmek.com
 0.0.0.0 skimresources.com
+0.0.0.0 skisofa.com
 0.0.0.0 skroutza.skroutz.gr
 0.0.0.0 skylink.vn
 0.0.0.0 sleepcartoon.com
@@ -3354,10 +3362,12 @@
 0.0.0.0 tracking.1-a1502-bi.co.uk
 0.0.0.0 tracking.1-kv015-ap.co.uk
 0.0.0.0 tracking.21-a4652-bi.co.uk
+0.0.0.0 tracking.28-91473-wbm.co.uk
 0.0.0.0 tracking.39-bb4a9-osm.co.uk
 0.0.0.0 tracking.42-01pr5-osm-secure.co.uk
 0.0.0.0 tracking.5-47737-bi.co.uk
 0.0.0.0 tracking.baypacketaddressepisode.makeup
+0.0.0.0 tracking.concedehousingstrainnotice.hair
 0.0.0.0 tracking.emilyclarkconsulting.com
 0.0.0.0 tracking.epicgames.com
 0.0.0.0 tracking.exipure.com
@@ -3369,12 +3379,15 @@
 0.0.0.0 tracking.jiffyworld.com
 0.0.0.0 tracking.markethero.io
 0.0.0.0 tracking.miui.com
+0.0.0.0 tracking.namerealopendrawflesh.makeup
 0.0.0.0 tracking.netalerts.io
 0.0.0.0 tracking.olx-st.com
 0.0.0.0 tracking.orixa-media.com
 0.0.0.0 tracking.pastapplauddeterseminarproof.makeup
+0.0.0.0 tracking.playerobjectwordingbasinbank.makeup
 0.0.0.0 tracking.shopstyle.com
 0.0.0.0 tracking.thinkabt.com
+0.0.0.0 tracking.vagueunlikecowerscreamforbid.hair
 0.0.0.0 tracking.wetter.at
 0.0.0.0 tracking01.walmart.com
 0.0.0.0 tracking101.com
