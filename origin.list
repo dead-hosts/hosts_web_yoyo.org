@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Wed, 08 Feb 2023 23:27:19 GMT
-# entries:        3681
+# entries:        3676
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sat, 15 Feb 2003 00:00:00
+# start date:    Sun, 16 Feb 2003 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -2214,7 +2214,6 @@
 0.0.0.0 linkstorms.com
 0.0.0.0 linkswaper.com
 0.0.0.0 linktarget.com
-0.0.0.0 liquidad.narrowcastmedia.com
 0.0.0.0 litix.io
 0.0.0.0 liveadexchanger.com
 0.0.0.0 liveintent.com
@@ -2920,7 +2919,6 @@
 0.0.0.0 s20dh7e9dh.com
 0.0.0.0 s2d6.com
 0.0.0.0 sabio.us
-0.0.0.0 sageanalyst.net
 0.0.0.0 sail-horizon.com
 0.0.0.0 samsungacr.com
 0.0.0.0 samsungads.com
@@ -3394,7 +3392,6 @@
 0.0.0.0 tracking22.com
 0.0.0.0 trackingfestival.com
 0.0.0.0 trackingsoft.com
-0.0.0.0 tracklink-tel.de
 0.0.0.0 trackmysales.com
 0.0.0.0 trackuhub.com
 0.0.0.0 tradeadexchange.com
@@ -3416,7 +3413,6 @@
 0.0.0.0 trafficz.com
 0.0.0.0 traffiq.com
 0.0.0.0 trafic.ro
-0.0.0.0 traildelsfars.com
 0.0.0.0 traktrafficflow.com
 0.0.0.0 tranquilside.com
 0.0.0.0 travis.bosscasinos.com
@@ -3579,7 +3575,6 @@
 0.0.0.0 webstat.com
 0.0.0.0 webstat.net
 0.0.0.0 webstats.one
-0.0.0.0 webstats4u.com
 0.0.0.0 webtracker.jp
 0.0.0.0 webtrackerplus.com
 0.0.0.0 webtracky.com
