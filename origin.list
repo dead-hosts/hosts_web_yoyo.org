@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 08 Feb 2023 23:27:19 GMT
-# entries:        3676
+# last updated:   Mon, 13 Feb 2023 17:04:28 GMT
+# entries:        3680
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Tue, 18 Feb 2003 00:00:00
+# start date:    Wed, 19 Feb 2003 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -962,6 +962,7 @@
 0.0.0.0 alexa-sitestats.s3.amazonaws.com
 0.0.0.0 alexametrics.com
 0.0.0.0 algorix.co
+0.0.0.0 aliasanvil.com
 0.0.0.0 alipromo.com
 0.0.0.0 all4spy.com
 0.0.0.0 allosponsor.com
@@ -982,6 +983,7 @@
 0.0.0.0 analytics.bitrix.info
 0.0.0.0 analytics.cloudron.io
 0.0.0.0 analytics.cohesionapps.com
+0.0.0.0 analytics.dashboard.fingerprint.com
 0.0.0.0 analytics.dnsfilter.com
 0.0.0.0 analytics.emarketer.com
 0.0.0.0 analytics.ext.go-tellm.com
@@ -1189,6 +1191,7 @@
 0.0.0.0 behavioralengine.com
 0.0.0.0 belstat.com
 0.0.0.0 belstat.nl
+0.0.0.0 benefits.sovendus.com
 0.0.0.0 benfly.net
 0.0.0.0 berp.com
 0.0.0.0 bestboundary.com
@@ -2987,6 +2990,7 @@
 0.0.0.0 shermore.info
 0.0.0.0 shinystat.com
 0.0.0.0 shinystat.it
+0.0.0.0 shiveringspot.com
 0.0.0.0 shockinggrass.com
 0.0.0.0 shoppingads.com
 0.0.0.0 shrillspoon.com
