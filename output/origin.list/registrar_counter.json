@@ -1,12 +1,16 @@
 {
     "counter": {
-        "GoDaddy.com, LLC": 1,
-        "NameCheap, Inc.": 4,
-        "total": 5
+        "DomainSpot LLC": 1,
+        "GoDaddy.com, LLC": 3,
+        "NameCheap, Inc.": 19,
+        "Whois Corp.": 1,
+        "total": 24
     },
     "percentage": {
-        "GoDaddy.com, LLC": 20.0,
-        "NameCheap, Inc.": 80.0,
-        "total": 100.0
+        "DomainSpot LLC": 4.166666666666667,
+        "GoDaddy.com, LLC": 12.5,
+        "NameCheap, Inc.": 79.16666666666667,
+        "Whois Corp.": 4.166666666666667,
+        "total": 100.00000000000001
     }
 }
