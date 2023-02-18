@@ -1,14 +1,24 @@
 {
     "counter": {
         "CSC Corporate Domains, Inc.": 1,
-        "GoDaddy.com, LLC": 1,
-        "NameCheap, Inc.": 3,
-        "total": 5
+        "EuroDNS S.A.": 1,
+        "GoDaddy.com, LLC": 4,
+        "IONOS SE": 1,
+        "MarkMonitor Inc.": 1,
+        "NameCheap, Inc.": 25,
+        "NameSilo, LLC": 1,
+        "TLDS L.L.C. d/b/a SRSPlus": 1,
+        "total": 35
     },
     "percentage": {
-        "CSC Corporate Domains, Inc.": 20.0,
-        "GoDaddy.com, LLC": 20.0,
-        "NameCheap, Inc.": 60.0,
-        "total": 100.0
+        "CSC Corporate Domains, Inc.": 2.857142857142857,
+        "EuroDNS S.A.": 2.857142857142857,
+        "GoDaddy.com, LLC": 11.428571428571429,
+        "IONOS SE": 2.857142857142857,
+        "MarkMonitor Inc.": 2.857142857142857,
+        "NameCheap, Inc.": 71.42857142857143,
+        "NameSilo, LLC": 2.857142857142857,
+        "TLDS L.L.C. d/b/a SRSPlus": 2.857142857142857,
+        "total": 100.00000000000001
     }
 }
