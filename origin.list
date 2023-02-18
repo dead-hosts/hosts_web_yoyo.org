@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Mon, 13 Feb 2023 17:04:28 GMT
-# entries:        3680
+# entries:        3675
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,14 +11,13 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sat, 22 Feb 2003 00:00:00
+# start date:    Sun, 23 Feb 2003 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123freeavatars.com
 0.0.0.0 180hits.de
 0.0.0.0 180searchassistant.com
-0.0.0.0 1link2020.com
 0.0.0.0 1rx.io
 0.0.0.0 207.net
 0.0.0.0 247media.com
@@ -63,7 +62,6 @@
 0.0.0.0 aa-metrics.beauty.hotpepper.jp
 0.0.0.0 aa-metrics.recruit-card.jp
 0.0.0.0 aa-metrics.trip-ai.jp
-0.0.0.0 aaddzz.com
 0.0.0.0 aax-eu-dub.amazon.com
 0.0.0.0 aaxads.com
 0.0.0.0 aaxdetect.com
@@ -614,7 +612,6 @@
 0.0.0.0 ads.smartclick.com
 0.0.0.0 ads.socapro.com
 0.0.0.0 ads.socialtheater.com
-0.0.0.0 ads.soft32.com
 0.0.0.0 ads.soweb.gr
 0.0.0.0 ads.space.com
 0.0.0.0 ads.stackoverflow.com
@@ -721,6 +718,7 @@
 0.0.0.0 adscpm.com
 0.0.0.0 adsdaq.com
 0.0.0.0 adsdk.yandex.ru
+0.0.0.0 adsend.de
 0.0.0.0 adsensecustomsearchads.com
 0.0.0.0 adserve.ams.rhythmxchange.com
 0.0.0.0 adserve.gkeurope.de
@@ -1450,7 +1448,6 @@
 0.0.0.0 collector-dev.cdp-dev.cnn.com
 0.0.0.0 collector.cdp.cnn.com
 0.0.0.0 colonize.com
-0.0.0.0 comclick.com
 0.0.0.0 comfortablecheese.com
 0.0.0.0 commindo-media-ressourcen.de
 0.0.0.0 commissionmonster.com
@@ -1625,7 +1622,6 @@
 0.0.0.0 domaining.in
 0.0.0.0 domainsponsor.com
 0.0.0.0 domainsteam.de
-0.0.0.0 domdex.com
 0.0.0.0 dotmetrics.net
 0.0.0.0 doubleclick.com
 0.0.0.0 doubleclick.de
@@ -1805,7 +1801,6 @@
 0.0.0.0 fireworks-advertising.com
 0.0.0.0 first.nova.cz
 0.0.0.0 firstlightera.com
-0.0.0.0 fixel.ai
 0.0.0.0 flairadscpc.com
 0.0.0.0 flakyfeast.com
 0.0.0.0 flashtalking.com
@@ -2091,7 +2086,6 @@
 0.0.0.0 ioam.de
 0.0.0.0 ip.ro
 0.0.0.0 ip193.cn
-0.0.0.0 iperceptions.com
 0.0.0.0 ipredictive.com
 0.0.0.0 ipstack.com
 0.0.0.0 irchan.com
@@ -2217,6 +2211,7 @@
 0.0.0.0 linkstorms.com
 0.0.0.0 linkswaper.com
 0.0.0.0 linktarget.com
+0.0.0.0 liquidad.narrowcastmedia.com
 0.0.0.0 litix.io
 0.0.0.0 liveadexchanger.com
 0.0.0.0 liveintent.com
