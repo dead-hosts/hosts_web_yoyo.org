@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 21 Feb 2023 16:07:00 GMT
-# entries:        3739
+# last updated:   Fri, 24 Feb 2023 13:22:34 GMT
+# entries:        3749
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sat, 01 Mar 2003 00:00:00
+# start date:    Sun, 02 Mar 2003 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -62,6 +62,7 @@
 0.0.0.0 aa-metrics.beauty.hotpepper.jp
 0.0.0.0 aa-metrics.recruit-card.jp
 0.0.0.0 aa-metrics.trip-ai.jp
+0.0.0.0 aaddzz.com
 0.0.0.0 aax-eu-dub.amazon.com
 0.0.0.0 aaxads.com
 0.0.0.0 aaxdetect.com
@@ -288,6 +289,7 @@
 0.0.0.0 adlure.net
 0.0.0.0 adm.fwmrm.net
 0.0.0.0 admagnet.net
+0.0.0.0 admailtiser.com
 0.0.0.0 adman.gr
 0.0.0.0 adman.otenet.gr
 0.0.0.0 admanagement.ch
@@ -616,6 +618,7 @@
 0.0.0.0 ads.smartclick.com
 0.0.0.0 ads.socapro.com
 0.0.0.0 ads.socialtheater.com
+0.0.0.0 ads.soft32.com
 0.0.0.0 ads.soweb.gr
 0.0.0.0 ads.space.com
 0.0.0.0 ads.stackoverflow.com
@@ -1179,6 +1182,7 @@
 0.0.0.0 barbarousnerve.com
 0.0.0.0 baremetrics.com
 0.0.0.0 barnesandnoble.bfast.com
+0.0.0.0 basebanner.com
 0.0.0.0 basketballbelieve.com
 0.0.0.0 baskettexture.com
 0.0.0.0 bat.bing.com
@@ -1392,6 +1396,7 @@
 0.0.0.0 click.hooligapps.com
 0.0.0.0 click.i.southwesternrailway.com
 0.0.0.0 click.infoblox.com
+0.0.0.0 click.justwatch.com
 0.0.0.0 click.kmindex.ru
 0.0.0.0 click.mail.hotels.com
 0.0.0.0 click.mkt.grab.com
@@ -1646,6 +1651,7 @@
 0.0.0.0 domaining.in
 0.0.0.0 domainsponsor.com
 0.0.0.0 domainsteam.de
+0.0.0.0 domdex.com
 0.0.0.0 dotmetrics.net
 0.0.0.0 doubleclick.com
 0.0.0.0 doubleclick.de
@@ -2039,6 +2045,7 @@
 0.0.0.0 i-i.lt
 0.0.0.0 i1img.com
 0.0.0.0 i1media.no
+0.0.0.0 i305175.net
 0.0.0.0 ia.iinfo.cz
 0.0.0.0 iad.anm.co.uk
 0.0.0.0 iadnet.com
@@ -2118,6 +2125,7 @@
 0.0.0.0 ioam.de
 0.0.0.0 ip.ro
 0.0.0.0 ip193.cn
+0.0.0.0 iperceptions.com
 0.0.0.0 ipredictive.com
 0.0.0.0 ipstack.com
 0.0.0.0 irchan.com
@@ -2487,6 +2495,7 @@
 0.0.0.0 ncaudienceexchange.com
 0.0.0.0 ndparking.com
 0.0.0.0 nedstatbasic.net
+0.0.0.0 needlessnorth.com
 0.0.0.0 needyneedle.com
 0.0.0.0 neighborlywatch.com
 0.0.0.0 nend.net
@@ -2624,6 +2633,7 @@
 0.0.0.0 pagefair.com
 0.0.0.0 pagerank-ranking.de
 0.0.0.0 pageranktop.com
+0.0.0.0 painstakingpickle.com
 0.0.0.0 paleleaf.com
 0.0.0.0 panickycurtain.com
 0.0.0.0 panickypancake.com
@@ -2682,7 +2692,6 @@
 0.0.0.0 piquantpigs.com
 0.0.0.0 pix.spot.im
 0.0.0.0 pixel.condenastdigital.com
-0.0.0.0 pixel.digitru.st
 0.0.0.0 pixel.keywee.co
 0.0.0.0 pixel.sojern.com
 0.0.0.0 pixel.watch
@@ -3372,6 +3381,7 @@
 0.0.0.0 toplist.cz
 0.0.0.0 toplist.pornhost.com
 0.0.0.0 toplista.mw.hu
+0.0.0.0 toplistcity.com
 0.0.0.0 toprebates.com
 0.0.0.0 topsir.com
 0.0.0.0 topsite.lv
