@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 07 Mar 2023 22:56:55 GMT
-# entries:        3755
+# last updated:   Fri, 10 Mar 2023 20:49:49 GMT
+# entries:        3757
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sat, 15 Mar 2003 00:00:00
+# start date:    Sun, 16 Mar 2003 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -2709,7 +2709,6 @@
 0.0.0.0 plotrabbit.com
 0.0.0.0 pltraffic8.com
 0.0.0.0 pluckypocket.com
-0.0.0.0 pluckytaste.com
 0.0.0.0 plugrush.com
 0.0.0.0 pointlesshour.com
 0.0.0.0 pointlessprofit.com
@@ -2748,6 +2747,7 @@
 0.0.0.0 primetime.net
 0.0.0.0 privatecash.com
 0.0.0.0 prmtracking.com
+0.0.0.0 pro-advertising.com
 0.0.0.0 pro-market.net
 0.0.0.0 producecopy.com
 0.0.0.0 proext.com
@@ -3053,6 +3053,7 @@
 0.0.0.0 shinystat.com
 0.0.0.0 shinystat.it
 0.0.0.0 shiveringspot.com
+0.0.0.0 shiverscissors.com
 0.0.0.0 shockinggrass.com
 0.0.0.0 shoppingads.com
 0.0.0.0 shrillspoon.com
@@ -3457,6 +3458,7 @@
 0.0.0.0 tracking.pastapplauddeterseminarproof.makeup
 0.0.0.0 tracking.playerobjectwordingbasinbank.makeup
 0.0.0.0 tracking.shopstyle.com
+0.0.0.0 tracking.theoceanac.online
 0.0.0.0 tracking.thinkabt.com
 0.0.0.0 tracking.vagueunlikecowerscreamforbid.hair
 0.0.0.0 tracking.wetter.at
