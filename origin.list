@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Fri, 10 Mar 2023 20:49:49 GMT
-# entries:        3757
+# entries:        3755
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sat, 22 Mar 2003 00:00:00
+# start date:    Sun, 23 Mar 2003 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -145,7 +145,6 @@
 0.0.0.0 ad.lupa.cz
 0.0.0.0 ad.mediastorm.hu
 0.0.0.0 ad.mg
-0.0.0.0 ad.mobstazinc.cn
 0.0.0.0 ad.musicmatch.com
 0.0.0.0 ad.myapple.pl
 0.0.0.0 ad.mynetreklam.com.streamprovider.net
@@ -332,7 +331,6 @@
 0.0.0.0 adoric-om.com
 0.0.0.0 adorigin.com
 0.0.0.0 adotmob.com
-0.0.0.0 adpenguin.biz
 0.0.0.0 adpepper.dk
 0.0.0.0 adpepper.nl
 0.0.0.0 adperium.com
@@ -2011,7 +2009,6 @@
 0.0.0.0 hits4me.com
 0.0.0.0 hitslink.com
 0.0.0.0 hittail.com
-0.0.0.0 hlok.qertewrt.com
 0.0.0.0 hocgeese.com
 0.0.0.0 hollowafterthought.com
 0.0.0.0 homelycrown.com
@@ -3488,6 +3485,7 @@
 0.0.0.0 trafficz.com
 0.0.0.0 traffiq.com
 0.0.0.0 trafic.ro
+0.0.0.0 traildelsfars.com
 0.0.0.0 traktrafficflow.com
 0.0.0.0 tranquilside.com
 0.0.0.0 travis.bosscasinos.com
