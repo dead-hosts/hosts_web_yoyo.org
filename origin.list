@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Fri, 10 Mar 2023 20:49:49 GMT
-# entries:        3755
+# entries:        3752
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Wed, 26 Mar 2003 00:00:00
+# start date:    Thu, 27 Mar 2003 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -990,7 +990,6 @@
 0.0.0.0 analytics.cloudron.io
 0.0.0.0 analytics.cohesionapps.com
 0.0.0.0 analytics.dashboard.fingerprint.com
-0.0.0.0 analytics.dnsfilter.com
 0.0.0.0 analytics.emarketer.com
 0.0.0.0 analytics.ext.go-tellm.com
 0.0.0.0 analytics.google.com
@@ -1725,7 +1724,6 @@
 0.0.0.0 encouragingwilderness.com
 0.0.0.0 endurableshop.com
 0.0.0.0 energeticladybug.com
-0.0.0.0 engage.dnsfilter.com
 0.0.0.0 engage.webshrinker.com
 0.0.0.0 engage.windows.com
 0.0.0.0 engagebdr.com
@@ -1924,7 +1922,6 @@
 0.0.0.0 go-mpulse.net
 0.0.0.0 go-rank.de
 0.0.0.0 go.dhs.gov
-0.0.0.0 go.dnsfilter.com
 0.0.0.0 go.eu.sparkpostmail1.com
 0.0.0.0 go.icann.org
 0.0.0.0 go.scmagazine.com
