@@ -1,10 +1,12 @@
 {
     "counter": {
-        "NameCheap, Inc.": 2,
-        "total": 2
+        "NameCheap, Inc.": 19,
+        "OVH sas": 1,
+        "total": 20
     },
     "percentage": {
-        "NameCheap, Inc.": 100.0,
+        "NameCheap, Inc.": 95.0,
+        "OVH sas": 5.0,
         "total": 100.0
     }
 }
