@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 23 Mar 2023 22:00:53 GMT
-# entries:        3753
+# last updated:   Sat, 25 Mar 2023 00:46:37 GMT
+# entries:        3751
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sat, 29 Mar 2003 00:00:00
+# start date:    Sun, 30 Mar 2003 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -826,7 +826,6 @@
 0.0.0.0 adsponse.de
 0.0.0.0 adspredictiv.com
 0.0.0.0 adspsp.com
-0.0.0.0 adsroller.com
 0.0.0.0 adsrv.deviantart.com
 0.0.0.0 adsrv.eacdn.com
 0.0.0.0 adsrv.iol.co.za
@@ -1403,6 +1402,7 @@
 0.0.0.0 click.mkt.grab.com
 0.0.0.0 click.news.vans.com
 0.0.0.0 click.nl.npr.org
+0.0.0.0 click.nvgaming.nvidia.com
 0.0.0.0 click.redditmail.com
 0.0.0.0 click.twcwigs.com
 0.0.0.0 click2freemoney.com
@@ -2548,7 +2548,6 @@
 0.0.0.0 oas.roanoke.com
 0.0.0.0 oas.toronto.com
 0.0.0.0 oas.uniontrib.com
-0.0.0.0 oas.villagevoice.com
 0.0.0.0 oascentral.chicagobusiness.com
 0.0.0.0 oascentral.fortunecity.com
 0.0.0.0 oascentral.register.com
@@ -3400,7 +3399,6 @@
 0.0.0.0 track.flexlinkspro.com
 0.0.0.0 track.freemmo2017.com
 0.0.0.0 track.game18click.com
-0.0.0.0 track.homejobs.careers
 0.0.0.0 track.lettingaproperty.com
 0.0.0.0 track.mailalert.io
 0.0.0.0 track.mailerlite.com
