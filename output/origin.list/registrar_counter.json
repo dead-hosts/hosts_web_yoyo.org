@@ -1,0 +1,12 @@
+{
+    "counter": {
+        "CloudFlare, Inc.": 1,
+        "NameCheap, Inc.": 2,
+        "total": 3
+    },
+    "percentage": {
+        "CloudFlare, Inc.": 33.333333333333336,
+        "NameCheap, Inc.": 66.66666666666667,
+        "total": 100.0
+    }
+}
