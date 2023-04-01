@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 30 Mar 2023 21:35:25 GMT
-# entries:        3752
+# last updated:   Sat, 01 Apr 2023 01:06:32 GMT
+# entries:        3751
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sat, 05 Apr 2003 00:00:00
+# start date:    Sun, 06 Apr 2003 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -45,6 +45,7 @@
 0.0.0.0 777partner.com
 0.0.0.0 77tracking.com
 0.0.0.0 7bpeople.com
+0.0.0.0 7cnq.net
 0.0.0.0 7search.com
 0.0.0.0 82o9v830.com
 0.0.0.0 a-ads.com
@@ -520,7 +521,6 @@
 0.0.0.0 ads.kabooaffiliates.com
 0.0.0.0 ads.kaktuz.net
 0.0.0.0 ads.kelbymediagroup.com
-0.0.0.0 ads.kinobox.cz
 0.0.0.0 ads.kinxxx.com
 0.0.0.0 ads.kompass.com
 0.0.0.0 ads.krawall.de
@@ -826,6 +826,7 @@
 0.0.0.0 adsponse.de
 0.0.0.0 adspredictiv.com
 0.0.0.0 adspsp.com
+0.0.0.0 adsroller.com
 0.0.0.0 adsrv.deviantart.com
 0.0.0.0 adsrv.eacdn.com
 0.0.0.0 adsrv.iol.co.za
@@ -1907,7 +1908,6 @@
 0.0.0.0 getclicky.com
 0.0.0.0 getintent.com
 0.0.0.0 getmyads.com
-0.0.0.0 gfcim5.gq
 0.0.0.0 giddycoat.com
 0.0.0.0 glisteningsign.com
 0.0.0.0 globalismedia.com
@@ -2749,7 +2749,6 @@
 0.0.0.0 programattik.com
 0.0.0.0 projectwonderful.com
 0.0.0.0 promo.badoink.com
-0.0.0.0 promo.ulust.com
 0.0.0.0 promobenef.com
 0.0.0.0 promos.bwin.it
 0.0.0.0 promos.fling.com
