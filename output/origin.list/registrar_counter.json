@@ -1,14 +1,10 @@
 {
     "counter": {
-        "NameCheap, Inc.": 1,
-        "Namecheap": 1,
-        "OVH": 1,
-        "total": 3
+        "CloudFlare, Inc.": 1,
+        "total": 1
     },
     "percentage": {
-        "NameCheap, Inc.": 33.333333333333336,
-        "Namecheap": 33.333333333333336,
-        "OVH": 33.333333333333336,
+        "CloudFlare, Inc.": 100.0,
         "total": 100.0
     }
 }
