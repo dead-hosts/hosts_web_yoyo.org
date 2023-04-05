@@ -1,10 +1,14 @@
 {
     "counter": {
-        "CloudFlare, Inc.": 1,
-        "total": 1
+        "GoDaddy.com, LLC": 1,
+        "NameSilo, LLC": 1,
+        "OVH": 2,
+        "total": 4
     },
     "percentage": {
-        "CloudFlare, Inc.": 100.0,
+        "GoDaddy.com, LLC": 25.0,
+        "NameSilo, LLC": 25.0,
+        "OVH": 50.0,
         "total": 100.0
     }
 }
