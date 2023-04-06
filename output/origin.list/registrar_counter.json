@@ -2,27 +2,29 @@
     "counter": {
         "Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)": 1,
         "Amazon Registrar, Inc.": 4,
-        "CSC Corporate Domains, Inc.": 1,
+        "CSC Corporate Domains, Inc.": 2,
         "DYNADOT, LLC": 1,
         "EuroDNS": 1,
         "GoDaddy.com, LLC": 7,
+        "NAMECHEAP": 1,
         "NameCheap, Inc.": 5,
         "Network Solutions, LLC": 1,
         "OVH sas": 1,
         "RU-CENTER-RU": 1,
-        "total": 23
+        "total": 25
     },
     "percentage": {
-        "Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)": 4.3478260869565215,
-        "Amazon Registrar, Inc.": 17.391304347826086,
-        "CSC Corporate Domains, Inc.": 4.3478260869565215,
-        "DYNADOT, LLC": 4.3478260869565215,
-        "EuroDNS": 4.3478260869565215,
-        "GoDaddy.com, LLC": 30.434782608695652,
-        "NameCheap, Inc.": 21.73913043478261,
-        "Network Solutions, LLC": 4.3478260869565215,
-        "OVH sas": 4.3478260869565215,
-        "RU-CENTER-RU": 4.3478260869565215,
-        "total": 99.99999999999999
+        "Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)": 4.0,
+        "Amazon Registrar, Inc.": 16.0,
+        "CSC Corporate Domains, Inc.": 8.0,
+        "DYNADOT, LLC": 4.0,
+        "EuroDNS": 4.0,
+        "GoDaddy.com, LLC": 28.0,
+        "NAMECHEAP": 4.0,
+        "NameCheap, Inc.": 20.0,
+        "Network Solutions, LLC": 4.0,
+        "OVH sas": 4.0,
+        "RU-CENTER-RU": 4.0,
+        "total": 100.0
     }
 }
