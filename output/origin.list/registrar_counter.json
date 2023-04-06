@@ -1,22 +1,12 @@
 {
     "counter": {
-        "GoDaddy.com, LLC": 1,
-        "MarkMonitor Inc.": 1,
         "NameCheap, Inc.": 1,
-        "NameSilo, LLC": 1,
-        "Namecheap": 1,
-        "OVH": 2,
-        "OVH sas": 1,
-        "total": 8
+        "RU-CENTER-RU": 1,
+        "total": 2
     },
     "percentage": {
-        "GoDaddy.com, LLC": 12.5,
-        "MarkMonitor Inc.": 12.5,
-        "NameCheap, Inc.": 12.5,
-        "NameSilo, LLC": 12.5,
-        "Namecheap": 12.5,
-        "OVH": 25.0,
-        "OVH sas": 12.5,
+        "NameCheap, Inc.": 50.0,
+        "RU-CENTER-RU": 50.0,
         "total": 100.0
     }
 }
