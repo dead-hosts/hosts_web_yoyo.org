@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ads.canalblog.com,AVAILABILITY,origin.list,2023-04-13 06:14:46.520414
 ads.samsung.com,AVAILABILITY,origin.list,2023-04-15 06:09:11.223238
 ad.way.cz,AVAILABILITY,origin.list,2023-04-15 06:09:12.389593
 ad.seznam.cz,AVAILABILITY,origin.list,2023-04-15 06:09:12.389583
@@ -46,3 +45,4 @@ ad.jamba.net,AVAILABILITY,origin.list,2023-04-15 06:09:25.386027
 ad.100.tbn.ru,AVAILABILITY,origin.list,2023-04-15 06:09:25.683025
 adserver.hardwareanalysis.com,AVAILABILITY,origin.list,2023-04-15 06:09:27.290841
 ad.tbn.ru,AVAILABILITY,origin.list,2023-04-15 06:09:27.803929
+ads.canalblog.com,AVAILABILITY,origin.list,2023-04-15 06:13:32.868084
