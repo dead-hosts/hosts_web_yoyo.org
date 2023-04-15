@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 14 Apr 2023 00:40:51 GMT
-# entries:        3750
+# last updated:   Fri, 14 Apr 2023 09:39:05 GMT
+# entries:        3748
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sat, 19 Apr 2003 00:00:00
+# start date:    Sun, 20 Apr 2003 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -386,7 +386,6 @@
 0.0.0.0 ads.amdmb.com
 0.0.0.0 ads.amigos.com
 0.0.0.0 ads.annabac.com
-0.0.0.0 ads.aol.co.uk
 0.0.0.0 ads.apn.co.nz
 0.0.0.0 ads.appsgeyser.com
 0.0.0.0 ads.apteka254.ru
@@ -732,7 +731,6 @@
 0.0.0.0 adserver.adultfriendfinder.com
 0.0.0.0 adserver.adverty.com
 0.0.0.0 adserver.anawe.cz
-0.0.0.0 adserver.aol.fr
 0.0.0.0 adserver.ariase.org
 0.0.0.0 adserver.bdoce.cl
 0.0.0.0 adserver.betandwin.de
@@ -844,6 +842,7 @@
 0.0.0.0 adsynergy.com
 0.0.0.0 adsys.townnews.com
 0.0.0.0 adsystem.simplemachines.org
+0.0.0.0 adt598.com
 0.0.0.0 adtech-digital.ru
 0.0.0.0 adtech.com
 0.0.0.0 adtech.de
@@ -1828,7 +1827,6 @@
 0.0.0.0 fireworkadservices.com
 0.0.0.0 fireworkanalytics.com
 0.0.0.0 fireworks-advertising.com
-0.0.0.0 first.nova.cz
 0.0.0.0 firstlightera.com
 0.0.0.0 flairadscpc.com
 0.0.0.0 flakyfeast.com
