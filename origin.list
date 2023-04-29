@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Sun, 16 Apr 2023 00:45:33 GMT
-# entries:        3746
+# entries:        3741
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sat, 03 May 2003 00:00:00
+# start date:    Sun, 04 May 2003 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -356,7 +356,6 @@
 0.0.0.0 ads-click.com
 0.0.0.0 ads-dev.pinterest.com
 0.0.0.0 ads-game-187f4.firebaseapp.com
-0.0.0.0 ads-kesselhaus.com
 0.0.0.0 ads-trk.vidible.tv
 0.0.0.0 ads-twitter.com
 0.0.0.0 ads.365.mk
@@ -782,7 +781,6 @@
 0.0.0.0 adserver01.de
 0.0.0.0 adserver1.mindshare.de
 0.0.0.0 adserver2.mindshare.de
-0.0.0.0 adserver5b.xyz
 0.0.0.0 adserverplus.com
 0.0.0.0 adserverpub.com
 0.0.0.0 adserversolutions.com
@@ -1030,7 +1028,6 @@
 0.0.0.0 api.iterable.com
 0.0.0.0 api.kameleoon.com
 0.0.0.0 api.lab.amplitude.com
-0.0.0.0 api.rudderlabs.com
 0.0.0.0 api2.amplitude.com
 0.0.0.0 apolloprogram.io
 0.0.0.0 app-analytics-v2.snapchat.com
@@ -1217,7 +1214,6 @@
 0.0.0.0 billboard.cz
 0.0.0.0 biosda.com
 0.0.0.0 bitmedianetwork.com
-0.0.0.0 bizad.nikkeibp.co.jp
 0.0.0.0 bizarrebaseball.com
 0.0.0.0 bizible.com
 0.0.0.0 bizographics.com
@@ -1735,7 +1731,6 @@
 0.0.0.0 epp.bih.net.ba
 0.0.0.0 eqads.com
 0.0.0.0 eqy.link
-0.0.0.0 erne.co
 0.0.0.0 ero-advertising.com
 0.0.0.0 estat.com
 0.0.0.0 esty.com
