@@ -1,13 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-aso1.net,AVAILABILITY,origin.list,2023-05-10 06:12:05.581949
-numax.nu-1.com,AVAILABILITY,origin.list,2023-05-10 06:12:06.018007
-adserver.hardsextube.com,AVAILABILITY,origin.list,2023-05-10 06:12:06.487498
-media.ftv-publicite.fr,AVAILABILITY,origin.list,2023-05-10 06:12:06.928560
-content.ad,AVAILABILITY,origin.list,2023-05-10 06:12:07.694204
-ads4.clearchannel.com,AVAILABILITY,origin.list,2023-05-10 06:12:07.832199
-api.jetlore.com,AVAILABILITY,origin.list,2023-05-10 06:12:08.303678
-ad.seznam.cz,AVAILABILITY,origin.list,2023-05-10 06:12:08.537246
-ads.samsung.com,AVAILABILITY,origin.list,2023-05-10 06:12:09.209715
 ad.reunion.com,AVAILABILITY,origin.list,2023-05-11 06:15:48.282679
 tracking.lenddom.com,AVAILABILITY,origin.list,2023-05-11 06:15:48.859990
 pgl.example.com,AVAILABILITY,origin.list,2023-05-11 06:15:49.418402
@@ -50,3 +41,12 @@ ad.100.tbn.ru,AVAILABILITY,origin.list,2023-05-11 06:16:03.235760
 hollandbusinessadvertising.nl,AVAILABILITY,origin.list,2023-05-11 06:16:03.535787
 ad.tbn.ru,AVAILABILITY,origin.list,2023-05-11 06:16:03.787878
 ad.jamba.net,AVAILABILITY,origin.list,2023-05-11 06:16:07.160785
+aso1.net,AVAILABILITY,origin.list,2023-05-12 06:11:37.619887
+numax.nu-1.com,AVAILABILITY,origin.list,2023-05-12 06:11:37.890645
+adserver.hardsextube.com,AVAILABILITY,origin.list,2023-05-12 06:11:38.187061
+media.ftv-publicite.fr,AVAILABILITY,origin.list,2023-05-12 06:11:38.329277
+ads4.clearchannel.com,AVAILABILITY,origin.list,2023-05-12 06:11:38.835004
+api.jetlore.com,AVAILABILITY,origin.list,2023-05-12 06:11:38.903793
+content.ad,AVAILABILITY,origin.list,2023-05-12 06:11:38.930954
+ad.seznam.cz,AVAILABILITY,origin.list,2023-05-12 06:11:39.746143
+ads.samsung.com,AVAILABILITY,origin.list,2023-05-12 06:11:40.721654
