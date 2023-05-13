@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 04 May 2023 11:43:45 GMT
-# entries:        3742
+# entries:        3737
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sat, 17 May 2003 00:00:00
+# start date:    Sun, 18 May 2003 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -356,6 +356,7 @@
 0.0.0.0 ads-click.com
 0.0.0.0 ads-dev.pinterest.com
 0.0.0.0 ads-game-187f4.firebaseapp.com
+0.0.0.0 ads-kesselhaus.com
 0.0.0.0 ads-trk.vidible.tv
 0.0.0.0 ads-twitter.com
 0.0.0.0 ads.365.mk
@@ -426,7 +427,6 @@
 0.0.0.0 ads.cybersales.cz
 0.0.0.0 ads.dada.it
 0.0.0.0 ads.dailycamera.com
-0.0.0.0 ads.delfin.bg
 0.0.0.0 ads.deltha.hu
 0.0.0.0 ads.dennisnet.co.uk
 0.0.0.0 ads.desmoinesregister.com
@@ -508,7 +508,6 @@
 0.0.0.0 ads.infi.net
 0.0.0.0 ads.internic.co.il
 0.0.0.0 ads.ipowerweb.com
-0.0.0.0 ads.isoftmarketing.com
 0.0.0.0 ads.itv.com
 0.0.0.0 ads.iwon.com
 0.0.0.0 ads.jewishfriendfinder.com
@@ -1152,7 +1151,6 @@
 0.0.0.0 banners.friendfinder.com
 0.0.0.0 banners.getiton.com
 0.0.0.0 banners.iq.pl
-0.0.0.0 banners.isoftmarketing.com
 0.0.0.0 banners.passion.com
 0.0.0.0 banners.payserve.com
 0.0.0.0 banners.resultonline.com
@@ -1334,7 +1332,6 @@
 0.0.0.0 cdn.heapanalytics.com
 0.0.0.0 cdn.keywee.co
 0.0.0.0 cdn.onesignal.com
-0.0.0.0 cdn.panelbear.com
 0.0.0.0 cdn.segment.com
 0.0.0.0 cdnondemand.org
 0.0.0.0 cedato.com
@@ -1746,7 +1743,6 @@
 0.0.0.0 etracker.com
 0.0.0.0 etracker.de
 0.0.0.0 eu-adcenter.net
-0.0.0.0 eu1.madsone.com
 0.0.0.0 eule1.pmu.fr
 0.0.0.0 eulerian.net
 0.0.0.0 eurekster.com
@@ -2290,7 +2286,6 @@
 0.0.0.0 madinad.com
 0.0.0.0 madisonavenue.com
 0.0.0.0 madvertise.de
-0.0.0.0 magicadz.co
 0.0.0.0 magicaljoin.com
 0.0.0.0 magicalmonth.com
 0.0.0.0 magnificentmist.com
@@ -2668,7 +2663,6 @@
 0.0.0.0 pheedo.com
 0.0.0.0 phoenix-adrunner.mycomputer.com
 0.0.0.0 photographpan.com
-0.0.0.0 phpadsnew.new.natuurpark.nl
 0.0.0.0 physicalbikes.com
 0.0.0.0 piano.io
 0.0.0.0 picadmedia.com
@@ -3366,6 +3360,7 @@
 0.0.0.0 top100.mafia.ru
 0.0.0.0 top123.ro
 0.0.0.0 top20free.com
+0.0.0.0 topbucks.com
 0.0.0.0 topforall.com
 0.0.0.0 topgamesites.net
 0.0.0.0 toplist.cz
