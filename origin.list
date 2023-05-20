@@ -3,7 +3,7 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 04 May 2023 11:43:45 GMT
-# entries:        3737
+# entries:        3735
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sat, 24 May 2003 00:00:00
+# start date:    Sun, 25 May 2003 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -610,7 +610,6 @@
 0.0.0.0 ads.simplyhired.com
 0.0.0.0 ads.sjon.info
 0.0.0.0 ads.smartclick.com
-0.0.0.0 ads.socapro.com
 0.0.0.0 ads.socialtheater.com
 0.0.0.0 ads.soft32.com
 0.0.0.0 ads.soweb.gr
@@ -922,7 +921,6 @@
 0.0.0.0 affiliate.dtiserv.com
 0.0.0.0 affiliate.gamestop.com
 0.0.0.0 affiliate.mogs.com
-0.0.0.0 affiliate.offgamers.com
 0.0.0.0 affiliate.rusvpn.com
 0.0.0.0 affiliate.travelnow.com
 0.0.0.0 affiliate.treated.com
@@ -2286,6 +2284,7 @@
 0.0.0.0 madinad.com
 0.0.0.0 madisonavenue.com
 0.0.0.0 madvertise.de
+0.0.0.0 magicadz.co
 0.0.0.0 magicaljoin.com
 0.0.0.0 magicalmonth.com
 0.0.0.0 magnificentmist.com
@@ -2415,7 +2414,6 @@
 0.0.0.0 mobfox.com
 0.0.0.0 mobileanalytics.us-east-1.amazonaws.com
 0.0.0.0 mobilefuse.com
-0.0.0.0 mobperads.net
 0.0.0.0 modernpricing.com
 0.0.0.0 modifyeyes.com
 0.0.0.0 moldyicicle.com
