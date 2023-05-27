@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 26 May 2023 01:31:58 GMT
-# entries:        3736
+# last updated:   Fri, 26 May 2023 13:10:46 GMT
+# entries:        3724
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sat, 31 May 2003 00:00:00
+# start date:    Sun, 01 Jun 2003 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -485,7 +485,6 @@
 0.0.0.0 ads.gplusmedia.com
 0.0.0.0 ads.gradfinder.com
 0.0.0.0 ads.grindinggears.com
-0.0.0.0 ads.groupewin.fr
 0.0.0.0 ads.gsm-exchange.com
 0.0.0.0 ads.gsmexchange.com
 0.0.0.0 ads.guardian.co.uk
@@ -1083,7 +1082,6 @@
 0.0.0.0 awakebird.com
 0.0.0.0 awempire.com
 0.0.0.0 awesomeagreement.com
-0.0.0.0 awesomeattack.com
 0.0.0.0 awin1.com
 0.0.0.0 awstrack.me
 0.0.0.0 awzbijw.com
@@ -1211,7 +1209,6 @@
 0.0.0.0 billboard.cz
 0.0.0.0 biosda.com
 0.0.0.0 bitmedianetwork.com
-0.0.0.0 bizarrebaseball.com
 0.0.0.0 bizible.com
 0.0.0.0 bizographics.com
 0.0.0.0 bizrate.com
@@ -1421,7 +1418,6 @@
 0.0.0.0 clicktag.de
 0.0.0.0 clickthruserver.com
 0.0.0.0 clickthrutraffic.com
-0.0.0.0 clicktrace.info
 0.0.0.0 clicktrack.ziyu.net
 0.0.0.0 clicktracks.com
 0.0.0.0 clicktrade.com
@@ -1640,6 +1636,7 @@
 0.0.0.0 docksalmon.com
 0.0.0.0 dogcollarfavourbluff.com
 0.0.0.0 domaining.in
+0.0.0.0 domainsteam.de
 0.0.0.0 domdex.com
 0.0.0.0 dotmetrics.net
 0.0.0.0 doubleclick.com
@@ -1973,7 +1970,6 @@
 0.0.0.0 hgads.com
 0.0.0.0 highfalutinroom.com
 0.0.0.0 hightrafficads.com
-0.0.0.0 hilariouscap.com
 0.0.0.0 hilariouszinc.com
 0.0.0.0 histats.com
 0.0.0.0 historicalrequest.com
@@ -1998,7 +1994,6 @@
 0.0.0.0 hocgeese.com
 0.0.0.0 hollowafterthought.com
 0.0.0.0 homelycrown.com
-0.0.0.0 homelysleep.com
 0.0.0.0 homepageking.de
 0.0.0.0 honeygoldfish.com
 0.0.0.0 honorablehall.com
@@ -2223,6 +2218,7 @@
 0.0.0.0 lightstep.medium.systems
 0.0.0.0 lijit.com
 0.0.0.0 link-booster.de
+0.0.0.0 link.axios.com
 0.0.0.0 link.uk.expediamail.com
 0.0.0.0 link4ads.com
 0.0.0.0 linkadd.de
@@ -2286,7 +2282,6 @@
 0.0.0.0 madvertise.de
 0.0.0.0 magicadz.co
 0.0.0.0 magicaljoin.com
-0.0.0.0 magicalmonth.com
 0.0.0.0 magnificentmist.com
 0.0.0.0 mail-ads.google.com
 0.0.0.0 maltiverse.lt.acemlnc.com
@@ -2469,7 +2464,6 @@
 0.0.0.0 naj.sk
 0.0.0.0 naj22.proasdf.com
 0.0.0.0 nappyattack.com
-0.0.0.0 naradxb.com
 0.0.0.0 nastydollars.com
 0.0.0.0 nativeroll.tv
 0.0.0.0 navegg.com
@@ -2716,7 +2710,6 @@
 0.0.0.0 prebid.org
 0.0.0.0 predictad.com
 0.0.0.0 premium-offers.com
-0.0.0.0 presentbedroom.com
 0.0.0.0 presetrabbits.com
 0.0.0.0 previousplayground.com
 0.0.0.0 previouspotato.com
@@ -3087,7 +3080,6 @@
 0.0.0.0 smilingwaves.com
 0.0.0.0 smoggysnakes.com
 0.0.0.0 smrtb.com
-0.0.0.0 snailscart.com
 0.0.0.0 snapads.com
 0.0.0.0 snoobi.com
 0.0.0.0 socialspark.com
@@ -3123,7 +3115,6 @@
 0.0.0.0 spinbox.versiontracker.com
 0.0.0.0 spinnaker-js.com
 0.0.0.0 spirebaboon.com
-0.0.0.0 spitefulstop.com
 0.0.0.0 sponsorads.de
 0.0.0.0 sponsorpro.de
 0.0.0.0 sponsors.thoughtsmedia.com
@@ -3309,7 +3300,6 @@
 0.0.0.0 tend.io
 0.0.0.0 tendertest.com
 0.0.0.0 terriblethumb.com
-0.0.0.0 teststocking.com
 0.0.0.0 text-link-ads.com
 0.0.0.0 textad.sexsearch.com
 0.0.0.0 textads.biz
@@ -3522,7 +3512,6 @@
 0.0.0.0 ultramercial.com
 0.0.0.0 ultraoranges.com
 0.0.0.0 unarmedindustry.com
-0.0.0.0 unbecomingbikes.com
 0.0.0.0 unbecominglamp.com
 0.0.0.0 understoodocean.com
 0.0.0.0 undertone.com
@@ -3723,7 +3712,6 @@
 0.0.0.0 yoggrt.com
 0.0.0.0 youradexchange.com
 0.0.0.0 ypu.samsungelectronics.com
-0.0.0.0 z3dmbpl6309s.com
 0.0.0.0 zangocash.com
 0.0.0.0 zanox-affiliate.de
 0.0.0.0 zanox.com
