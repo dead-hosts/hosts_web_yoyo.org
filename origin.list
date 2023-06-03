@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 26 May 2023 13:10:46 GMT
-# entries:        3359
+# last updated:   Fri, 02 Jun 2023 12:23:49 GMT
+# entries:        3364
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sat, 07 Jun 2003 00:00:00
+# start date:    Sun, 08 Jun 2003 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 180hits.de
@@ -533,7 +533,6 @@
 0.0.0.0 ads.townhall.com
 0.0.0.0 ads.travelaudience.com
 0.0.0.0 ads.trinitymirror.co.uk
-0.0.0.0 ads.tripod.lycos.co.uk
 0.0.0.0 ads.tripod.lycos.de
 0.0.0.0 ads.tripod.lycos.es
 0.0.0.0 ads.tripod.lycos.it
@@ -940,6 +939,7 @@
 0.0.0.0 awakebird.com
 0.0.0.0 awempire.com
 0.0.0.0 awesomeagreement.com
+0.0.0.0 awesomeattack.com
 0.0.0.0 awin1.com
 0.0.0.0 awstrack.me
 0.0.0.0 awzbijw.com
@@ -962,7 +962,6 @@
 0.0.0.0 banner.goldenpalace.com
 0.0.0.0 banner.inyourpocket.com
 0.0.0.0 banner.linux.se
-0.0.0.0 banner.mindshare.de
 0.0.0.0 banner.noblepoker.com
 0.0.0.0 banner.rbc.ru
 0.0.0.0 banner.reinstil.de
@@ -1036,6 +1035,7 @@
 0.0.0.0 bigreal.org
 0.0.0.0 biosda.com
 0.0.0.0 bitmedianetwork.com
+0.0.0.0 bizarrebaseball.com
 0.0.0.0 bizible.com
 0.0.0.0 bizographics.com
 0.0.0.0 bizrate.com
@@ -1270,7 +1270,6 @@
 0.0.0.0 complextoad.com
 0.0.0.0 comprabanner.it
 0.0.0.0 concernedcondition.com
-0.0.0.0 concerneddrink.com
 0.0.0.0 conditionchange.com
 0.0.0.0 conductrics.com
 0.0.0.0 connatix.com
@@ -1292,7 +1291,6 @@
 0.0.0.0 conversionruler.com
 0.0.0.0 convertingtraffic.com
 0.0.0.0 convrse.media
-0.0.0.0 cookchalk.com
 0.0.0.0 coordinatedcub.com
 0.0.0.0 cootlogix.com
 0.0.0.0 copperchickens.com
@@ -1354,7 +1352,9 @@
 0.0.0.0 cuteturkey.com
 0.0.0.0 cxense.com
 0.0.0.0 d.adroll.com
+0.0.0.0 d1f0tbk1v3e25u.cloudfront.net
 0.0.0.0 d2cmedia.ca
+0.0.0.0 d81mfvml8p5ml.cloudfront.net
 0.0.0.0 dabiaozhi.com
 0.0.0.0 dacdn.visualwebsiteoptimizer.com
 0.0.0.0 dacdn.vwo.com
@@ -1483,7 +1483,6 @@
 0.0.0.0 email-open.adtidy.net
 0.0.0.0 email-open.adtidy.org
 0.0.0.0 email-opn.adguard.com
-0.0.0.0 email.m1.bktrksmail.com
 0.0.0.0 emaillinks.soundiiz.com
 0.0.0.0 emebo.io
 0.0.0.0 emerse.com
@@ -1736,6 +1735,7 @@
 0.0.0.0 hfc195b.com
 0.0.0.0 hgads.com
 0.0.0.0 highfalutinroom.com
+0.0.0.0 hilariouscap.com
 0.0.0.0 hilariouszinc.com
 0.0.0.0 histats.com
 0.0.0.0 historicalrequest.com
@@ -1754,6 +1754,7 @@
 0.0.0.0 hocgeese.com
 0.0.0.0 hollowafterthought.com
 0.0.0.0 homelycrown.com
+0.0.0.0 homelysleep.com
 0.0.0.0 homepageking.de
 0.0.0.0 honeygoldfish.com
 0.0.0.0 honorablehall.com
@@ -1982,7 +1983,6 @@
 0.0.0.0 locked4.com
 0.0.0.0 lockerdome.com
 0.0.0.0 locpub.com
-0.0.0.0 log.btopenworld.com
 0.0.0.0 log.logrocket.io
 0.0.0.0 log.pinterest.com
 0.0.0.0 log.videocampaign.co
@@ -2017,6 +2017,7 @@
 0.0.0.0 madvertise.de
 0.0.0.0 magicadz.co
 0.0.0.0 magicaljoin.com
+0.0.0.0 magicalmonth.com
 0.0.0.0 magnificentmist.com
 0.0.0.0 mail-ads.google.com
 0.0.0.0 maltiverse.lt.acemlnc.com
@@ -2415,6 +2416,7 @@
 0.0.0.0 prchecker.info
 0.0.0.0 prebid.org
 0.0.0.0 predictad.com
+0.0.0.0 presentbedroom.com
 0.0.0.0 presetrabbits.com
 0.0.0.0 previousplayground.com
 0.0.0.0 previouspotato.com
@@ -2539,7 +2541,6 @@
 0.0.0.0 reactx.com
 0.0.0.0 readgoldfish.com
 0.0.0.0 readingguilt.com
-0.0.0.0 readingopera.com
 0.0.0.0 readserver.net
 0.0.0.0 readymoon.com
 0.0.0.0 realcastmedia.com
@@ -2764,6 +2765,7 @@
 0.0.0.0 smilingwaves.com
 0.0.0.0 smoggysnakes.com
 0.0.0.0 smrtb.com
+0.0.0.0 snailscart.com
 0.0.0.0 snapads.com
 0.0.0.0 snoobi.com
 0.0.0.0 socialspark.com
@@ -2791,10 +2793,10 @@
 0.0.0.0 speedshiftmedia.com
 0.0.0.0 spidersboats.com
 0.0.0.0 spiffymachine.com
-0.0.0.0 spikyslave.com
 0.0.0.0 spinbox.versiontracker.com
 0.0.0.0 spinnaker-js.com
 0.0.0.0 spirebaboon.com
+0.0.0.0 spitefulstop.com
 0.0.0.0 sponsorads.de
 0.0.0.0 sponsorpro.de
 0.0.0.0 sponsors.thoughtsmedia.com
@@ -2923,7 +2925,9 @@
 0.0.0.0 t.visit.disneydestinations.com
 0.0.0.0 t.visitorqueue.com
 0.0.0.0 taboola.com
+0.0.0.0 tag-demo.mention-me.com
 0.0.0.0 tag.links-analytics.com
+0.0.0.0 tag.mention-me.com
 0.0.0.0 tagcommander.com
 0.0.0.0 tagger.opecloud.com
 0.0.0.0 tags.tiqcdn.com
@@ -2971,6 +2975,7 @@
 0.0.0.0 tend.io
 0.0.0.0 tendertest.com
 0.0.0.0 terriblethumb.com
+0.0.0.0 teststocking.com
 0.0.0.0 text-link-ads.com
 0.0.0.0 textad.sexsearch.com
 0.0.0.0 textads.biz
@@ -3171,6 +3176,7 @@
 0.0.0.0 ultramercial.com
 0.0.0.0 ultraoranges.com
 0.0.0.0 unarmedindustry.com
+0.0.0.0 unbecomingbikes.com
 0.0.0.0 unbecominglamp.com
 0.0.0.0 understoodocean.com
 0.0.0.0 undertone.com
@@ -3321,7 +3327,6 @@
 0.0.0.0 xertive.com
 0.0.0.0 xfreeservice.com
 0.0.0.0 xg4ken.com
-0.0.0.0 xiti.com
 0.0.0.0 xovq5nemr.com
 0.0.0.0 xplusone.com
 0.0.0.0 xponsor.com
