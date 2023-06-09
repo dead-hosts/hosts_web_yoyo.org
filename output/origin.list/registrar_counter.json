@@ -1,0 +1,32 @@
+{
+    "counter": {
+        "123-Reg Limited": 2,
+        "Amazon Registrar, Inc.": 4,
+        "GoDaddy.com, LLC": 8,
+        "Google LLC": 2,
+        "Ledl.net GmbH": 2,
+        "MarkMonitor Inc.": 2,
+        "NameCheap, Inc.": 60,
+        "Namecheap": 2,
+        "OVH": 6,
+        "OVH sas": 2,
+        "Porkbun LLC": 2,
+        "URL Solutions, Inc.": 2,
+        "total": 94
+    },
+    "percentage": {
+        "123-Reg Limited": 2.127659574468085,
+        "Amazon Registrar, Inc.": 4.25531914893617,
+        "GoDaddy.com, LLC": 8.51063829787234,
+        "Google LLC": 2.127659574468085,
+        "Ledl.net GmbH": 2.127659574468085,
+        "MarkMonitor Inc.": 2.127659574468085,
+        "NameCheap, Inc.": 63.829787234042556,
+        "Namecheap": 2.127659574468085,
+        "OVH": 6.382978723404255,
+        "OVH sas": 2.127659574468085,
+        "Porkbun LLC": 2.127659574468085,
+        "URL Solutions, Inc.": 2.127659574468085,
+        "total": 99.99999999999999
+    }
+}
