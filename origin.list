@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 07 Jun 2023 21:28:48 GMT
-# entries:        3735
+# last updated:   Sat, 10 Jun 2023 02:09:43 GMT
+# entries:        3734
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Mon, 28 Jul 1823 00:00:00
+# start date:    Tue, 29 Jul 1823 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -3025,7 +3025,6 @@
 0.0.0.0 sharethrough.com
 0.0.0.0 sharppatch.com
 0.0.0.0 sher.index.hu
-0.0.0.0 shermore.info
 0.0.0.0 shesubscriptions.com
 0.0.0.0 shinystat.com
 0.0.0.0 shinystat.it
@@ -3617,6 +3616,7 @@
 0.0.0.0 web2.deja.com
 0.0.0.0 webads.co.nz
 0.0.0.0 webads.nl
+0.0.0.0 webanalytics.zohodcm.com
 0.0.0.0 webcash.nl
 0.0.0.0 webcontentassessor.com
 0.0.0.0 webcounter.cz
@@ -3713,7 +3713,6 @@
 0.0.0.0 yesadvertising.com
 0.0.0.0 yieldads.com
 0.0.0.0 yieldlab.net
-0.0.0.0 yieldmanager.com
 0.0.0.0 yieldmanager.net
 0.0.0.0 yieldmo.com
 0.0.0.0 yieldoptimizer.com
