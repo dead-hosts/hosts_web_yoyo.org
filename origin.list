@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 13 Jun 2023 11:59:22 GMT
-# entries:        3735
+# last updated:   Thu, 15 Jun 2023 15:15:38 GMT
+# entries:        3738
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sun, 03 Aug 1823 00:00:00
+# start date:    Mon, 04 Aug 1823 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -1328,6 +1328,7 @@
 0.0.0.0 cdn.freshmarketer.com
 0.0.0.0 cdn.heapanalytics.com
 0.0.0.0 cdn.keywee.co
+0.0.0.0 cdn.mouseflow.com
 0.0.0.0 cdn.onesignal.com
 0.0.0.0 cdn.segment.com
 0.0.0.0 cdnondemand.org
@@ -2428,7 +2429,6 @@
 0.0.0.0 mookie1.com
 0.0.0.0 mopub.com
 0.0.0.0 motionspots.com
-0.0.0.0 mouseflow.com
 0.0.0.0 mousestats.com
 0.0.0.0 movad.net
 0.0.0.0 movemeal.com
@@ -2466,6 +2466,7 @@
 0.0.0.0 mysteriousmonth.com
 0.0.0.0 mytop-in.net
 0.0.0.0 myvisualiq.net
+0.0.0.0 n2.mouseflow.com
 0.0.0.0 n69.com
 0.0.0.0 naj.sk
 0.0.0.0 naj22.proasdf.com
@@ -2527,6 +2528,7 @@
 0.0.0.0 nuseek.com
 0.0.0.0 nuttyorganization.com
 0.0.0.0 nzaza.com
+0.0.0.0 o2.mouseflow.com
 0.0.0.0 o333o.com
 0.0.0.0 oafishobservation.com
 0.0.0.0 oas.benchmark.fr
@@ -2958,6 +2960,7 @@
 0.0.0.0 sail-horizon.com
 0.0.0.0 samsungacr.com
 0.0.0.0 samsungads.com
+0.0.0.0 sanalytics.disneyplus.com
 0.0.0.0 sanity-dataplane.rudderstack.com
 0.0.0.0 savoryorange.com
 0.0.0.0 saysidewalk.com
