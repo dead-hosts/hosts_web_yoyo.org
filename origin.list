@@ -2,7 +2,7 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 20 Jun 2023 21:55:21 GMT
+# last updated:   Fri, 23 Jun 2023 12:23:53 GMT
 # entries:        3737
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Mon, 11 Aug 1823 00:00:00
+# start date:    Tue, 12 Aug 1823 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -851,6 +851,7 @@
 0.0.0.0 adtology.com
 0.0.0.0 adtoma.com
 0.0.0.0 adtrace.org
+0.0.0.0 adtrack.voicestar.com
 0.0.0.0 adtraction.com
 0.0.0.0 adtrade.net
 0.0.0.0 adtriplex.com
@@ -1006,7 +1007,6 @@
 0.0.0.0 analytics.xelondigital.com
 0.0.0.0 analytics.yahoo.com
 0.0.0.0 analyticsapi.happypancake.net
-0.0.0.0 analytik.xyz
 0.0.0.0 ancientact.com
 0.0.0.0 aniview.com
 0.0.0.0 annonser.dagbladet.no
@@ -1438,7 +1438,6 @@
 0.0.0.0 clk1015.com
 0.0.0.0 clkrev.com
 0.0.0.0 clksite.com
-0.0.0.0 cloisteredcord.com
 0.0.0.0 cloisteredhydrant.com
 0.0.0.0 closedcows.com
 0.0.0.0 cloudcoins.biz
@@ -2846,6 +2845,7 @@
 0.0.0.0 reactx.com
 0.0.0.0 readgoldfish.com
 0.0.0.0 readingguilt.com
+0.0.0.0 readingopera.com
 0.0.0.0 readserver.net
 0.0.0.0 readymoon.com
 0.0.0.0 realcastmedia.com
