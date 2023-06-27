@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 23 Jun 2023 12:23:53 GMT
-# entries:        3737
+# last updated:   Mon, 26 Jun 2023 17:38:22 GMT
+# entries:        3738
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Thu, 14 Aug 1823 00:00:00
+# start date:    Fri, 15 Aug 1823 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -83,7 +83,6 @@
 0.0.0.0 abstractedauthority.com
 0.0.0.0 absurdwater.com
 0.0.0.0 abtasty.com
-0.0.0.0 abz.com
 0.0.0.0 ac.rnm.ca
 0.0.0.0 acemlnb.com
 0.0.0.0 acid-adserver.click
@@ -2231,6 +2230,7 @@
 0.0.0.0 linkrain.com
 0.0.0.0 linkreferral.com
 0.0.0.0 links-ranking.de
+0.0.0.0 links.email.crunchbase.com
 0.0.0.0 links.zoopla.co.uk
 0.0.0.0 linkshighway.com
 0.0.0.0 linkstorms.com
@@ -3522,6 +3522,7 @@
 0.0.0.0 ultimateclixx.com
 0.0.0.0 ultramercial.com
 0.0.0.0 ultraoranges.com
+0.0.0.0 unaccountablepie.com
 0.0.0.0 unarmedindustry.com
 0.0.0.0 unbecomingbikes.com
 0.0.0.0 unbecominglamp.com
